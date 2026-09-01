@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://luxedupartners.lu/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://luxedupartners.lu/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://luxedupartners.lu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://luxedupartners.lu/"/>
+  </url>
+  <url>
+    <loc>https://luxedupartners.lu/fr/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://luxedupartners.lu/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://luxedupartners.lu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://luxedupartners.lu/"/>
+  </url>
+  <url>
+    <loc>https://luxedupartners.lu/insights/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://luxedupartners.lu/insights/boarding-schools-luxembourg</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://luxedupartners.lu/insights/boarding-schools-luxembourg"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://luxedupartners.lu/fr/insights/internats-au-luxembourg"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://luxedupartners.lu/insights/boarding-schools-luxembourg"/>
+  </url>
+  <url>
+    <loc>https://luxedupartners.lu/fr/insights/internats-au-luxembourg</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://luxedupartners.lu/insights/boarding-schools-luxembourg"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://luxedupartners.lu/fr/insights/internats-au-luxembourg"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://luxedupartners.lu/insights/boarding-schools-luxembourg"/>
+  </url>
+</urlset>
