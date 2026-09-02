@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{%- assign lang = page.lang -%}
+{%- assign t = site.data.ui[lang] -%}
+
+<div class="wrap narrow">
+  <header class="page-head">
+    <h1>{{ page.heading | default: page.title }}</h1>
+    {%- if page.standfirst %}<p class="lede">{{ page.standfirst }}</p>{% endif %}
+  </header>
+
+  <div class="prose">
+    {{ content }}
+  </div>
+
+  {%- if page.show_recent -%}
+  {%- assign notes = site.posts | where: "lang", lang -%}
+  {%- if notes.size > 0 %}
+  <section class="cluster">
+    <h2>{{ t.nav_insights }}</h2>
+    <ul class="nodes">
+      {%- for p in notes limit: 6 %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.answer %}<p>{{ p.answer }}</p>{% endif %}</li>
+      {%- endfor %}
+    </ul>
+    <p><a class="more" href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }} →</a></p>
+  </section>
+  {%- endif -%}
+  {%- endif %}
+</div>

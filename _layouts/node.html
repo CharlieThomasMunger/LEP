@@ -1,0 +1,100 @@
+---
+layout: default
+---
+{%- assign lang = page.lang -%}
+{%- assign t = site.data.ui[lang] -%}
+{%- assign cl = site.clusters[page.cluster] -%}
+
+<article class="node">
+  <div class="wrap narrow">
+
+    <p class="crumb">
+      <a href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }}</a>
+      {%- if cl %} · {{ cl[lang] }}{% endif -%}
+    </p>
+
+    <h1>{{ page.title }}</h1>
+
+    {%- if page.answer %}
+    <div class="answer">
+      <span class="lab">{{ t.answer_label }}</span>
+      <p>{{ page.answer }}</p>
+      {%- if page.evidence %}
+      <p class="evidence">{{ t["evidence_" | append: page.evidence] }}</p>
+      {%- endif %}
+    </div>
+    {%- endif %}
+
+    {{ content }}
+
+    {%- if page.variables %}
+    <h2>{{ t.variables_label }}</h2>
+    <ul class="vars">
+      {%- for v in page.variables %}
+      <li><b>{{ v.name }}</b><span>{{ v.note }}</span></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+
+    {%- if page.judgment %}
+    <div class="judgment">
+      <span class="lab">{{ t.judgment_label }}</span>
+      <p>{{ page.judgment }}</p>
+    </div>
+    {%- endif %}
+
+    {%- if page.not_for %}
+    <h2>{{ t.not_for_label }}</h2>
+    <ul class="plain">{% for n in page.not_for %}<li>{{ n }}</li>{% endfor %}</ul>
+    {%- endif %}
+
+    {%- if page.assessment %}
+    <h2>{{ t.assessment_label }}</h2>
+    <ul class="plain">{% for a in page.assessment %}<li>{{ a }}</li>{% endfor %}</ul>
+    {%- endif %}
+
+    {%- if page.faq %}
+    <h2>{{ t.faq_label }}</h2>
+    <dl class="faq">
+      {%- for f in page.faq %}
+      <dt>{{ f.q }}</dt><dd>{{ f.a }}</dd>
+      {%- endfor %}
+    </dl>
+    {%- endif %}
+
+    {%- if page.sources %}
+    <h2>{{ t.sources_label }}</h2>
+    <ul class="sources">
+      {%- for s in page.sources %}
+      <li><a href="{{ s.url }}" rel="nofollow noopener" target="_blank">{{ s.name }}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+
+    <p class="cta">{{ t.cta }} <a href="{{ '/' | append: lang | append: '/families/' | relative_url }}">{{ t.nav_families }} →</a></p>
+
+    <p class="meta">
+      {{ t.written_by }} <a href="{{ site.author.url | relative_url }}">{{ site.author.name }}</a>
+      · {{ t.reviewed_label }} {{ page.reviewed | default: page.date | date: t.date_format }}
+      {%- if page.translated and t.translation_note != "" %}<br><span class="tnote">{{ t.translation_note }}</span>{% endif %}
+    </p>
+
+    {%- comment -%} 同 cluster 自动互链 {%- endcomment -%}
+    {%- assign sames = site.posts | where: "lang", lang | where: "cluster", page.cluster -%}
+    {%- assign n = 0 -%}
+    {%- if sames.size > 1 %}
+    <div class="related">
+      <h2>{{ t.cluster_more }}</h2>
+      <ul>
+      {%- for p in sames -%}
+        {%- if p.ref != page.ref and n < 5 %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.answer %}<span>{{ p.answer | truncate: 90 }}</span>{% endif %}</li>
+        {%- assign n = n | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor %}
+      </ul>
+    </div>
+    {%- endif %}
+
+  </div>
+</article>

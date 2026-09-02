@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{%- assign lang = page.lang -%}
+{%- assign t = site.data.ui[lang] -%}
+
+<div class="wrap narrow">
+  <header class="page-head">
+    <h1>{{ page.heading }}</h1>
+    <p class="lede">{{ page.standfirst }}</p>
+  </header>
+
+  <div class="prose">{{ content }}</div>
+
+  {%- for group in site.data.fieldwork -%}
+    {%- assign gkey = group[0] -%}
+    {%- assign g = group[1] -%}
+  <section class="cluster">
+    <h2>{{ g.title[lang] }}</h2>
+    {%- if g.intro[lang] %}<p class="lede" style="margin-bottom:1.4rem">{{ g.intro[lang] }}</p>{% endif %}
+    <div class="gallery">
+      {%- for item in g.items %}
+      <figure>
+        <img src="{{ item.image | relative_url }}" alt="{{ item.alt[lang] | default: item.name }}" loading="lazy">
+        <figcaption>
+          <b>{{ item.name }}</b>
+          {%- if item.kind %}<span>{{ item.kind[lang] }}</span>{% endif %}
+          {%- if item.note %}<p>{{ item.note[lang] }}</p>{% endif %}
+        </figcaption>
+      </figure>
+      {%- endfor %}
+    </div>
+    <p class="photo-note">{{ t.photo_note }}</p>
+  </section>
+  {%- endfor %}
+</div>
