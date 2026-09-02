@@ -1,0 +1,143 @@
+# ─────────────────────────────────────────────────────────────
+# 实地调研图库 · 加一张照片 = 在这里加一段，图片放 assets/fieldwork/
+# 规则：只写"我去过、我们谈过什么"，不写"该校认可我们"。
+# 合作状态照实写：签了写"已签署"，在谈写"合作洽谈"。
+# ─────────────────────────────────────────────────────────────
+
+luxembourg:
+  title:
+    zh: 卢森堡 · 学校实地走访
+    en: Luxembourg — school visits
+    fr: Luxembourg — visites d'écoles
+  intro:
+    zh: 2025–2026 年间持续走访卢森堡各类学校，覆盖公立国际学校、私立国际学校与双语学校。以下为代表性记录，并非全部。
+    en: Ongoing school visits across Luxembourg during 2025–2026, covering public international, private international and bilingual schools. A representative selection, not a full list.
+    fr: Visites d'écoles menées au Luxembourg entre 2025 et 2026, couvrant les établissements internationaux publics, privés et bilingues. Sélection représentative.
+  items:
+    - name: École internationale Gaston Thorn
+      image: /assets/fieldwork/gaston-thorn.jpg
+      kind: {zh: 公立国际学校, en: Public international school, fr: École internationale publique}
+      note:
+        zh: 走访课程设置与校园环境。
+        en: On-site visit; international pathways and school environment.
+        fr: Visite sur site ; parcours internationaux et environnement scolaire.
+      alt: {zh: 走访卢森堡 Gaston Thorn 国际学校, en: Visit to École internationale Gaston Thorn}
+
+    - name: École Internationale Differdange & Esch
+      image: /assets/fieldwork/differdange-esch.jpg
+      kind: {zh: 公立国际学校, en: Public international school, fr: École internationale publique}
+      note:
+        zh: 走访课程、校园与录取路径。
+        en: On-site visit; curriculum, campus and admissions routes.
+        fr: Visite sur site ; cursus, établissement et voies d'admission.
+      alt: {zh: 走访 Differdange & Esch 国际学校, en: Visit to EIDE}
+
+    - name: Lënster Lycée International School
+      image: /assets/fieldwork/lenster.jpg
+      kind: {zh: 公立国际学校, en: Public international school, fr: École internationale publique}
+      note:
+        zh: 持续了解卢森堡的国际课程供给。
+        en: Continuing research into international provision in Luxembourg.
+        fr: Recherche continue sur l'offre internationale au Luxembourg.
+      alt: {zh: 走访 Lënster Lycée 国际学校, en: Visit to Lënster Lycée International School}
+
+    - name: International School of Luxembourg
+      image: /assets/fieldwork/isl.jpg
+      kind: {zh: 私立国际学校, en: Private international school, fr: École internationale privée}
+      note:
+        zh: 实地走访，了解课程与校园。
+        en: On-site visit; curriculum and campus.
+        fr: Visite sur site ; cursus et établissement.
+      alt: {zh: 走访卢森堡国际学校 ISL, en: Visit to the International School of Luxembourg}
+
+    - name: OTR International School
+      image: /assets/fieldwork/otr.jpg
+      kind: {zh: 私立国际学校, en: Private international school, fr: École internationale privée}
+      note:
+        zh: 多次走访，持续了解国际家庭的选校需求。
+        en: Repeat visits; ongoing discussion of what international families need.
+        fr: Visites répétées ; besoins des familles internationales.
+      alt: {zh: 走访 OTR 国际学校, en: Visit to OTR International School}
+
+    - name: St George's International School
+      image: /assets/fieldwork/st-georges.jpg
+      kind: {zh: 私立国际学校, en: Private international school, fr: École internationale privée}
+      note:
+        zh: 2025 年起持续交流，议题涵盖国际学生、寄宿家庭、儿童保护与融入。
+        en: Continuing exchanges since 2025 on international students, host families, safeguarding and integration.
+        fr: Échanges continus depuis 2025 sur les élèves internationaux, les familles d'accueil, le safeguarding et l'intégration.
+      alt: {zh: 与圣乔治国际学校交流, en: At St George's International School Luxembourg}
+
+    - name: UBI Business School
+      image: /assets/fieldwork/ubi.jpg
+      kind: {zh: 私立商学院, en: Private business school, fr: École de commerce privée}
+      note:
+        zh: 走访卢森堡校区，就课程路径与合作可能进行交流。
+        en: On-site visit; programme pathways and possible cooperation.
+        fr: Visite sur site ; cursus et possibilités de coopération.
+      alt: {zh: 走访 UBI 商学院, en: Visit to UBI Business School Luxembourg}
+
+
+switzerland:
+  title:
+    zh: 瑞士 · 学校走访与合作
+    en: Switzerland — visits and cooperation
+    fr: Suisse — visites et coopération
+  intro:
+    zh: 以卢森堡为基地，2026 年起走访瑞士寄宿学校与酒店管理院校。其中与 IMI 已签署正式合作协议。
+    en: From the Luxembourg base, visits to Swiss boarding schools and hotel management institutes from 2026. A formal cooperation agreement is in place with IMI.
+    fr: Depuis la base luxembourgeoise, visites d'internats et d'écoles hôtelières suisses à partir de 2026. Un accord de coopération formel a été signé avec IMI.
+  items:
+    - name: Chantemerle International School
+      image: /assets/fieldwork/chantemerle.jpg
+      kind: {zh: 实地走访 · 2026 年 4 月, en: On-site visit — April 2026, fr: Visite sur site — avril 2026}
+      note:
+        zh: 走访校园并与校方交流。
+        en: Campus visit and discussion with the school.
+        fr: Visite du campus et échanges avec l'établissement.
+      alt: {zh: 走访 Chantemerle 国际学校, en: Visit to Chantemerle International School}
+
+    - name: ISA International School Altdorf
+      image: /assets/fieldwork/isa-altdorf.jpg
+      kind: {zh: 实地走访 · 2026 年 4 月, en: On-site visit — April 2026, fr: Visite sur site — avril 2026}
+      note:
+        zh: 与校方管理层会面。
+        en: Meeting with the school's leadership.
+        fr: Rencontre avec la direction.
+      alt: {zh: 走访 ISA Altdorf 国际学校, en: Visit to ISA International School Altdorf}
+
+    - name: St. Charles
+      image: /assets/fieldwork/st-charles.jpg
+      kind: {zh: 实地走访 · 2026 年 4 月, en: On-site visit — April 2026, fr: Visite sur site — avril 2026}
+      note:
+        zh: 与校长会面并参观校园。
+        en: Meeting with the Principal and a campus tour.
+        fr: Rencontre avec le Principal et visite du campus.
+      alt: {zh: 走访 St. Charles 学校, en: Visit to St. Charles}
+
+    - name: IMI International Management Institute
+      image: /assets/fieldwork/imi.jpg
+      kind: {zh: 已签署合作协议 · 2026 年 6 月, en: Cooperation agreement signed — June 2026, fr: Accord de coopération signé — juin 2026}
+      note:
+        zh: 双方已签署正式合作协议。
+        en: A formal cooperation agreement has been signed.
+        fr: Un accord de coopération formel a été signé.
+      alt: {zh: 与 IMI 签署合作, en: Cooperation with IMI International Management Institute}
+
+    - name: TASIS
+      image: /assets/fieldwork/tasis.jpg
+      kind: {zh: 实地走访 · 2026 年 6 月, en: On-site visit — June 2026, fr: Visite sur site — juin 2026}
+      note:
+        zh: 走访校园并与校方交流。
+        en: Campus visit and discussion with the school.
+        fr: Visite du campus et échanges avec l'établissement.
+      alt: {zh: 走访 TASIS, en: Visit to TASIS}
+
+    - name: Swiss Hotel Management School (SEG)
+      image: /assets/fieldwork/shms.jpg
+      kind: {zh: 合作洽谈 · 2026 年 6 月, en: Cooperation discussions — June 2026, fr: Échanges de coopération — juin 2026}
+      note:
+        zh: 走访 SHMS，与 Swiss Education Group 就合作事宜当面沟通。
+        en: On-site visit to SHMS and in-person cooperation discussions with Swiss Education Group.
+        fr: Visite sur site de SHMS ; échanges directs avec Swiss Education Group sur la coopération.
+      alt: {zh: 走访 SHMS 瑞士酒店管理学院, en: At Swiss Hotel Management School}
