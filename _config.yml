@@ -1,0 +1,67 @@
+title: Lux Education Partners
+description: Luxembourg-based placement support for international families — school admissions, host family and guardianship coordination, and honest local guidance.
+url: https://luxedupartners.lu
+email: contact@luxedupartners.lu
+
+markdown: kramdown
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - WRITING.md
+  - Gemfile
+  - Gemfile.lock
+
+# ---- 语言 ----
+languages:
+  - code: zh
+    label: 中文
+    name: 中文
+    locale: zh_CN
+  - code: en
+    label: EN
+    name: English
+    locale: en_GB
+  - code: fr
+    label: FR
+    name: Français
+    locale: fr_LU
+
+default_lang: en
+
+# ---- 主题分组 ----
+clusters:
+  luxembourg-school:
+    zh: 卢森堡中小学
+    en: Schools in Luxembourg
+    fr: Écoles au Luxembourg
+  luxembourg-university:
+    zh: 卢森堡高等教育
+    en: Higher education in Luxembourg
+    fr: Enseignement supérieur au Luxembourg
+  switzerland-boarding:
+    zh: 瑞士寄宿学校
+    en: Swiss boarding schools
+    fr: Internats suisses
+  switzerland-hotel:
+    zh: 瑞士酒店管理
+    en: Swiss hotel management
+    fr: Hôtellerie suisse
+
+# ---- 机构信息（Schema 用，改一次全站生效）----
+org:
+  legal_name: Silver Bay Mountain Group S.à r.l.
+  brand: Lux Education Partners
+  rcs: B293621
+  country: LU
+  locality: Luxembourg
+
+author:
+  name: James Liu
+  alt_name: 刘一卜
+  url: /authors/james-liu/
+  job_title: Founder

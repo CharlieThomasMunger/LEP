@@ -1,0 +1,20 @@
+# 旧结构 → 新结构（Netlify 自动处理，无需维护）
+# 301 = 永久跳转，搜索引擎会把旧地址的权重转移到新地址
+
+# ---- 英文 ----
+/insights                                   /en/insights/                          301
+/insights/                                  /en/insights/                          301
+/insights/boarding-schools-luxembourg       /en/insights/boarding-schools/         301
+/insights/boarding-schools-luxembourg.html  /en/insights/boarding-schools/         301
+
+# ---- 法语 ----
+/fr                                         /fr/                                   301
+/fr/insights                                /fr/insights/                          301
+/fr/insights/                               /fr/insights/                          301
+/fr/insights/internats-au-luxembourg        /fr/insights/internats/                301
+/fr/insights/internats-au-luxembourg.html   /fr/insights/internats/                301
+/fr/merci                                   /fr/                                   301
+/fr/merci.html                              /fr/                                   301
+
+# ---- 首页 ----
+/index.html                                 /en/                                   301
