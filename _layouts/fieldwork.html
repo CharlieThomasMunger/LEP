@@ -10,7 +10,7 @@ layout: default
     <p class="lede">{{ page.standfirst }}</p>
   </header>
 
-  <div class="prose">{{ content }}</div>
+  <div class="prose">{{ content | markdownify }}</div>
 
   {%- for group in site.data.fieldwork -%}
     {%- assign gkey = group[0] -%}

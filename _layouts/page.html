@@ -11,7 +11,7 @@ layout: default
   </header>
 
   <div class="prose">
-    {{ content }}
+    {{ content | markdownify }}
   </div>
 
   {%- if page.show_recent -%}
