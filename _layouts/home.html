@@ -1,0 +1,118 @@
+---
+layout: default
+---
+{%- assign lang = page.lang -%}
+{%- assign t = site.data.ui[lang] -%}
+{%- assign notes = site.posts | where: "lang", lang -%}
+
+<!-- ===== Hero ===== -->
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-text">
+      <p class="kicker">{{ page.kicker }}</p>
+      <h1>{{ page.heading }}</h1>
+      <p class="lede">{{ page.standfirst }}</p>
+      <div class="hero-actions">
+        <a class="btn" href="{{ '/' | append: lang | append: '/families/' | relative_url }}">{{ page.cta_families }}</a>
+        <a class="btn ghost" href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ page.cta_schools }}</a>
+      </div>
+    </div>
+    <figure class="hero-img">
+      <img src="{{ '/assets/hero-school-luxembourg.jpg' | relative_url }}" alt="{{ page.hero_alt }}">
+    </figure>
+  </div>
+</section>
+
+<!-- ===== Services ===== -->
+<section class="band">
+  <div class="wrap">
+    <h2 class="sec-title">{{ page.services_title }}</h2>
+    <div class="cards">
+      {%- for s in page.services %}
+      <article class="card">
+        <h3>{{ s.title }}</h3>
+        <p>{{ s.text }}</p>
+      </article>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ===== Photo strip ===== -->
+<section class="strip">
+  <div class="wrap strip-grid">
+    <figure><img src="{{ '/assets/ib-classroom.jpg' | relative_url }}" alt="{{ page.photo1_cap }}" loading="lazy"><figcaption>{{ page.photo1_cap }}</figcaption></figure>
+    <figure><img src="{{ '/assets/walk-to-school.jpg' | relative_url }}" alt="{{ page.photo2_cap }}" loading="lazy"><figcaption>{{ page.photo2_cap }}</figcaption></figure>
+    <figure><img src="{{ '/assets/luxembourg-grund.jpg' | relative_url }}" alt="{{ page.photo3_cap }}" loading="lazy"><figcaption>{{ page.photo3_cap }}</figcaption></figure>
+  </div>
+</section>
+
+<!-- ===== Why us ===== -->
+<section class="band alt">
+  <div class="wrap why-grid">
+    <figure class="why-img">
+      <img src="{{ '/assets/advisory-work.jpg' | relative_url }}" alt="{{ page.why_img_alt }}" loading="lazy">
+    </figure>
+    <div>
+      <h2 class="sec-title">{{ page.why_title }}</h2>
+      <ul class="why">
+        {%- for w in page.why %}
+        <li><b>{{ w.title }}</b><span>{{ w.text }}</span></li>
+        {%- endfor %}
+      </ul>
+      <p class="honest">{{ page.honest }}</p>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Guides ===== -->
+{%- if notes.size > 0 %}
+<section class="band">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2 class="sec-title">{{ t.nav_insights }}</h2>
+      <a class="more" href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ page.all_guides }} →</a>
+    </div>
+    <ul class="nodes home">
+      {%- for p in notes limit: 4 %}
+      <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.answer %}<p>{{ p.answer }}</p>{% endif %}</li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+{%- endif %}
+
+<!-- ===== Fieldwork preview ===== -->
+<section class="band alt">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2 class="sec-title">{{ page.field_title }}</h2>
+      <a class="more" href="{{ '/' | append: lang | append: '/fieldwork/' | relative_url }}">{{ t.nav_method }} →</a>
+    </div>
+    <p class="lede" style="max-width:52rem;margin-bottom:1.6rem">{{ page.field_text }}</p>
+    <div class="field-row">
+      {%- assign lux = site.data.fieldwork.luxembourg.items -%}
+      {%- for item in lux limit: 4 %}
+      <figure>
+        <img src="{{ item.image | relative_url }}" alt="{{ item.alt[lang] | default: item.name }}" loading="lazy">
+        <figcaption>{{ item.name }}</figcaption>
+      </figure>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ===== Contact ===== -->
+<section class="contact">
+  <div class="wrap contact-grid">
+    <div>
+      <h2 class="sec-title">{{ page.contact_title }}</h2>
+      <p class="lede">{{ page.contact_text }}</p>
+    </div>
+    <div class="contact-box">
+      <p><b>{{ page.contact_families_label }}</b><br><a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
+      <p><b>{{ page.contact_schools_label }}</b><br><a href="mailto:schools@luxedupartners.lu">schools@luxedupartners.lu</a></p>
+      <p class="small">{{ page.contact_reply }}</p>
+    </div>
+  </div>
+</section>

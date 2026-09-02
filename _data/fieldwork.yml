@@ -1,7 +1,7 @@
 # ─────────────────────────────────────────────────────────────
 # 实地调研图库 · 加一张照片 = 在这里加一段，图片放 assets/fieldwork/
 # 规则：只写"我去过、我们谈过什么"，不写"该校认可我们"。
-# 未签署的合作（如 SEG）一个字都不写。
+# 合作状态照实写：签了写"已签署"，在谈写"合作洽谈"。
 # ─────────────────────────────────────────────────────────────
 
 luxembourg:
@@ -68,6 +68,16 @@ luxembourg:
         fr: Échanges continus depuis 2025 sur les élèves internationaux, les familles d'accueil, le safeguarding et l'intégration.
       alt: {zh: 与圣乔治国际学校交流, en: At St George's International School Luxembourg}
 
+    - name: UBI Business School
+      image: /assets/fieldwork/ubi.jpg
+      kind: {zh: 私立商学院, en: Private business school, fr: École de commerce privée}
+      note:
+        zh: 走访卢森堡校区，就课程路径与合作可能进行交流。
+        en: On-site visit; programme pathways and possible cooperation.
+        fr: Visite sur site ; cursus et possibilités de coopération.
+      alt: {zh: 走访 UBI 商学院, en: Visit to UBI Business School Luxembourg}
+
+
 switzerland:
   title:
     zh: 瑞士 · 学校走访与合作
@@ -122,3 +132,12 @@ switzerland:
         en: Campus visit and discussion with the school.
         fr: Visite du campus et échanges avec l'établissement.
       alt: {zh: 走访 TASIS, en: Visit to TASIS}
+
+    - name: Swiss Hotel Management School (SEG)
+      image: /assets/fieldwork/shms.jpg
+      kind: {zh: 合作洽谈 · 2026 年 6 月, en: Cooperation discussions — June 2026, fr: Échanges de coopération — juin 2026}
+      note:
+        zh: 走访 SHMS，与 Swiss Education Group 就合作事宜当面沟通。
+        en: On-site visit to SHMS and in-person cooperation discussions with Swiss Education Group.
+        fr: Visite sur site de SHMS ; échanges directs avec Swiss Education Group sur la coopération.
+      alt: {zh: 走访 SHMS 瑞士酒店管理学院, en: At Swiss Hotel Management School}
