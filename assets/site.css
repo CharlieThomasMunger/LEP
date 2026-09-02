@@ -142,3 +142,10 @@ footer.site{border-top:1px solid var(--line);margin-top:4rem;padding:2rem 0 3.5r
 .field-shot{margin:1.8rem 0}
 .field-shot img{width:100%;border:1px solid var(--line);display:block}
 .field-shot figcaption{font-size:.8rem;color:var(--faint);margin-top:.5rem}
+
+/* ---- prose 内的列表与段落 ---- */
+.prose ul,.prose ol{padding-left:1.25rem;margin:0 0 1.4rem}
+.prose li{margin-bottom:.45rem;color:var(--soft)}
+.prose ol li{color:var(--ink)}
+.prose strong{font-weight:600;color:var(--ink)}
+.prose h2:first-child{margin-top:0;border-top:none;padding-top:0}
