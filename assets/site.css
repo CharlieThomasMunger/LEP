@@ -1,0 +1,144 @@
+/* Lux Education Partners */
+
+:root{
+  --paper:#FCFCFB;
+  --panel:#F4F4F1;
+  --ink:#16181A;
+  --soft:#54585C;
+  --faint:#8A8F94;
+  --line:#E1E1DC;
+  --accent:#1F4A6B;
+  --sans:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --cjk:"Noto Sans SC","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--sans);font-size:17px;line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+html[lang="zh"] body{font-family:var(--sans),var(--cjk);line-height:1.85}
+a{color:var(--accent)}
+
+.wrap{max-width:64rem;margin:0 auto;padding:0 1.6rem}
+.wrap.narrow{max-width:44rem}
+
+/* ---- header ---- */
+header.site{border-bottom:1px solid var(--line);background:var(--paper)}
+.bar{display:flex;align-items:center;gap:1.6rem;flex-wrap:wrap;padding-top:1.1rem;padding-bottom:1.1rem}
+.brand{font-weight:700;letter-spacing:-.02em;text-decoration:none;color:var(--ink);font-size:1.02rem}
+nav.main{display:flex;gap:1.3rem;flex:1;font-size:.92rem}
+nav.main a{color:var(--soft);text-decoration:none}
+nav.main a:hover{color:var(--ink)}
+nav.lang{display:flex;gap:.7rem;font-size:.82rem}
+nav.lang a{color:var(--faint);text-decoration:none}
+nav.lang a.on{color:var(--ink);font-weight:600}
+
+/* ---- page head ---- */
+.page-head{padding:3.4rem 0 2rem;border-bottom:1px solid var(--line);margin-bottom:2.6rem}
+.page-head h1{font-size:clamp(1.7rem,3.6vw,2.35rem);line-height:1.2;letter-spacing:-.03em;margin:0 0 .9rem;font-weight:700}
+html[lang="zh"] .page-head h1{letter-spacing:0;line-height:1.4}
+.lede{color:var(--soft);margin:0;font-size:1.03rem}
+
+/* ---- article ---- */
+article.node{padding-bottom:3rem}
+.crumb{font-size:.8rem;color:var(--faint);padding-top:2.4rem;margin:0 0 1.4rem}
+.crumb a{color:var(--faint);text-decoration:none}
+article.node h1{font-size:clamp(1.65rem,3.6vw,2.3rem);line-height:1.22;letter-spacing:-.03em;margin:0 0 2rem;font-weight:700}
+html[lang="zh"] article.node h1{letter-spacing:0;line-height:1.45}
+
+.answer,.judgment{
+  background:var(--panel);border-left:3px solid var(--accent);
+  padding:1.4rem 1.5rem;margin:0 0 2.2rem;
+}
+.answer p,.judgment p{margin:0;font-size:1.06rem;font-weight:500}
+.lab{
+  display:block;font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--accent);font-weight:600;margin-bottom:.6rem;
+}
+.evidence{margin:.9rem 0 0!important;font-size:.8rem!important;color:var(--faint)!important;font-weight:400!important}
+
+.prose p,article.node p{margin:0 0 1.3rem}
+article.node h2,.prose h2{
+  font-size:1.16rem;font-weight:600;letter-spacing:-.015em;
+  margin:2.8rem 0 1rem;padding-top:1.4rem;border-top:1px solid var(--line);
+}
+ul.plain,ul.sources,ul.vars{list-style:none;padding:0;margin:0 0 1.4rem}
+ul.plain li{padding:.5rem 0 .5rem 1.1rem;position:relative;color:var(--soft)}
+ul.plain li::before{content:"—";position:absolute;left:0;color:var(--faint)}
+ul.vars li{padding:.85rem 0;border-bottom:1px solid var(--line)}
+ul.vars b{display:block;font-weight:600;margin-bottom:.15rem}
+ul.vars span{color:var(--soft);font-size:.95rem}
+ul.sources li{padding:.4rem 0;font-size:.94rem}
+
+dl.faq{margin:0 0 1.4rem}
+dl.faq dt{font-weight:600;margin-top:1.2rem}
+dl.faq dd{margin:.35rem 0 0;color:var(--soft)}
+
+.cta{
+  margin:2.6rem 0 0;padding:1.2rem 1.4rem;background:var(--panel);
+  font-size:.98rem;
+}
+.cta a{font-weight:600;text-decoration:none;white-space:nowrap}
+
+.meta{
+  margin-top:2.2rem;padding-top:1.2rem;border-top:1px solid var(--line);
+  font-size:.83rem;color:var(--faint);
+}
+.meta a{color:var(--soft)}
+.tnote{display:inline-block;margin-top:.4rem}
+
+.related{margin-top:3rem}
+.related ul{list-style:none;padding:0;margin:0}
+.related li{padding:.9rem 0;border-bottom:1px solid var(--line)}
+.related a{font-weight:500;text-decoration:none}
+.related span{display:block;color:var(--faint);font-size:.88rem;margin-top:.2rem}
+
+/* ---- index ---- */
+.cluster{margin-bottom:3.2rem}
+.cluster h2{
+  font-size:.78rem;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--faint);font-weight:600;margin:0 0 1.2rem;
+  padding-bottom:.7rem;border-bottom:1px solid var(--line);
+}
+ul.nodes{list-style:none;padding:0;margin:0}
+ul.nodes li{padding:1.2rem 0;border-bottom:1px solid var(--line)}
+ul.nodes > li > a{font-size:1.06rem;font-weight:600;text-decoration:none;letter-spacing:-.01em}
+ul.nodes p{margin:.35rem 0 .3rem;color:var(--soft);font-size:.95rem}
+.rev{font-size:.76rem;color:var(--faint)}
+.more{font-weight:600;text-decoration:none;font-size:.95rem}
+
+/* ---- footer ---- */
+footer.site{border-top:1px solid var(--line);margin-top:4rem;padding:2rem 0 3.5rem}
+.disclaimer{font-size:.82rem;color:var(--faint);margin:0 0 .6rem;max-width:48rem}
+.legal{font-size:.78rem;color:var(--faint);margin:0}
+
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+@media (max-width:640px){
+  body{font-size:16px}
+  .bar{gap:.9rem}
+  nav.main{order:3;flex-basis:100%;gap:1rem;font-size:.86rem}
+  .page-head{padding:2.4rem 0 1.6rem}
+}
+
+/* ---- 实地调研图库 ---- */
+.gallery{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));
+  gap:1.1rem;margin:1.8rem 0 1.2rem;
+}
+.gallery figure{margin:0;background:var(--panel);border:1px solid var(--line)}
+.gallery img{width:100%;height:11rem;object-fit:cover;display:block;background:var(--line)}
+.gallery figcaption{padding:.75rem .9rem}
+.gallery b{display:block;font-size:.94rem;font-weight:600;letter-spacing:-.01em}
+.gallery span{display:block;font-size:.8rem;color:var(--faint);margin-top:.15rem}
+.gallery p{margin:.4rem 0 0;font-size:.88rem;color:var(--soft);line-height:1.5}
+.photo-note{font-size:.78rem;color:var(--faint);margin:0 0 2.4rem}
+
+/* 文内单图 */
+.field-shot{margin:1.8rem 0}
+.field-shot img{width:100%;border:1px solid var(--line);display:block}
+.field-shot figcaption{font-size:.8rem;color:var(--faint);margin-top:.5rem}
