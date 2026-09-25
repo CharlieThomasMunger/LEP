@@ -88,7 +88,7 @@ layout: default
     {%- comment -%} 同 cluster 自动互链 {%- endcomment -%}
     {%- assign sames = site.posts | where: "lang", lang | where: "cluster", page.cluster -%}
     {%- assign n = 0 -%}
-    {%- if sames.size > 1 %}
+    {%- if sames.size > 1 and page.has_topic_navigation != true %}
     <div class="related">
       <h2>{{ t.cluster_more }}</h2>
       <ul>

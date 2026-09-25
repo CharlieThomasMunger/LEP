@@ -34,3 +34,14 @@ Notre accompagnement comprend la préparation des dossiers, les échanges direct
 Indiquez-nous l’âge de votre enfant, sa classe actuelle, ses compétences linguistiques, votre budget et la date d’entrée souhaitée pour commencer par le niveau scolaire adapté.
 
 WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+
+## Études hôtelières en Suisse et guides IMI
+
+- [Pourquoi étudier le management hôtelier en Suisse ? Regardons d’abord ce qui vient après](/fr/insights/why-study-hospitality-switzerland/)
+- [Pourquoi choisir IMI en Suisse ? Les cours, les stages et le rapport qualité-prix avant le prestige des bâtiments](/fr/insights/why-imi-switzerland/)
+- [Bachelor, MSc ou Graduate Diploma à IMI : quelle formation choisir ?](/fr/insights/imi-programmes-degrees/)
+- [Quel budget pour IMI en Suisse ? Frais, bourses, logement et revenus de stage](/fr/insights/imi-fees-scholarships/)
+- [Stages et emploi après IMI : acquérir de l’expérience et être recommandé par les bonnes personnes](/fr/insights/imi-internships-careers/)
+- [Candidater à IMI en Suisse : LEP vous accompagne dans le choix du programme, les bourses et l’admission](/fr/insights/apply-to-imi-with-lep/)
+- [Ce que je regarde lors d’une visite à IMI : l’avenir de l’étudiant au-delà du campus](/fr/insights/imi-campus-visit/)
+- [Programme d’hiver IMI 2027 : tarif anticipé de 1 800 CHF et déduction possible sur des études ultérieures](/fr/insights/imi-winter-summer-programmes/)

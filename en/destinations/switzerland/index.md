@@ -34,3 +34,14 @@ Application support includes preparing documents, liaising directly with schools
 Share your child’s age, current year group, language skills, family budget and intended entry date so we can start with the appropriate educational stage.
 
 WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+
+## Swiss hospitality education and IMI guides
+
+- [Why study hospitality management in Switzerland? Start with what you want to do afterwards](/en/insights/why-study-hospitality-switzerland/)
+- [Why choose IMI Switzerland? Curriculum, internships and value matter more to me than luxury facilities](/en/insights/why-imi-switzerland/)
+- [IMI bachelor’s, MSc or Graduate Diploma: which programme fits your next step?](/en/insights/imi-programmes-degrees/)
+- [What does IMI Switzerland cost? Tuition, scholarships, living costs and internship income](/en/insights/imi-fees-scholarships/)
+- [IMI internships and graduate careers: experience matters, and so does the person willing to recommend you](/en/insights/imi-internships-careers/)
+- [Applying to IMI Switzerland? LEP can handle programme selection, scholarships and the application with you](/en/insights/apply-to-imi-with-lep/)
+- [What I look for when visiting IMI: the student’s future beyond the campus](/en/insights/imi-campus-visit/)
+- [IMI Winter Programme 2027: CHF 1,800 early fee and a possible credit towards later tuition](/en/insights/imi-winter-summer-programmes/)
