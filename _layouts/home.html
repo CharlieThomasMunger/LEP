@@ -97,7 +97,7 @@ layout: default
       {%- for item in lux limit: 4 %}
       <figure>
         <img src="{{ item.image | relative_url }}" alt="{{ item.alt[lang] | default: item.name }}" loading="lazy">
-        <figcaption>{{ item.name }}</figcaption>
+        <figcaption>{{ item.alt[lang] | default: item.name }}</figcaption>
       </figure>
       {%- endfor %}
     </div>

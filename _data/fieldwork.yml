@@ -61,12 +61,12 @@ luxembourg:
 
     - name: St George's International School
       image: /assets/fieldwork/st-georges.jpg
-      kind: {zh: 私立国际学校, en: Private international school, fr: École internationale privée}
+      kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
-        zh: 2025 年起持续交流，议题涵盖国际学生、寄宿家庭、儿童保护与融入。
-        en: Continuing exchanges since 2025 on international students, host families, safeguarding and integration.
-        fr: Échanges continus depuis 2025 sur les élèves internationaux, les familles d'accueil, le safeguarding et l'intégration.
-      alt: {zh: 与圣乔治国际学校交流, en: At St George's International School Luxembourg}
+        zh: "修印先生与圣乔治国际学校校长合影"
+        en: "James Liu with the Head of St George's International School"
+        fr: "James Liu et le chef d’établissement de St George's International School"
+      alt: {"zh": "修印先生与圣乔治国际学校校长合影", "en": "James Liu with the Head of St George's International School", "fr": "James Liu et le chef d’établissement de St George's International School"}
 
     - name: UBI Business School
       image: /assets/fieldwork/ubi.jpg
@@ -90,30 +90,30 @@ switzerland:
   items:
     - name: Chantemerle International School
       image: /assets/fieldwork/chantemerle.jpg
-      kind: {zh: 实地走访 · 2026 年 4 月, en: On-site visit — April 2026, fr: Visite sur site — avril 2026}
+      kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
-        zh: 走访校园并与校方交流。
-        en: Campus visit and discussion with the school.
-        fr: Visite du campus et échanges avec l'établissement.
-      alt: {zh: 走访 Chantemerle 国际学校, en: Visit to Chantemerle International School}
+        zh: "修印先生与Chantemerle 国际学校校长合影"
+        en: "James Liu with the Head of Chantemerle International School"
+        fr: "James Liu et le chef d’établissement de Chantemerle International School"
+      alt: {"zh": "修印先生与Chantemerle 国际学校校长合影", "en": "James Liu with the Head of Chantemerle International School", "fr": "James Liu et le chef d’établissement de Chantemerle International School"}
 
     - name: ISA International School Altdorf
       image: /assets/fieldwork/isa-altdorf.jpg
-      kind: {zh: 实地走访 · 2026 年 4 月, en: On-site visit — April 2026, fr: Visite sur site — avril 2026}
+      kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
-        zh: 与校方管理层会面。
-        en: Meeting with the school's leadership.
-        fr: Rencontre avec la direction.
-      alt: {zh: 走访 ISA Altdorf 国际学校, en: Visit to ISA International School Altdorf}
+        zh: "修印先生与ISA International School Altdorf校长合影"
+        en: "James Liu with the Head of ISA International School Altdorf"
+        fr: "James Liu et le chef d’établissement de ISA International School Altdorf"
+      alt: {"zh": "修印先生与ISA International School Altdorf校长合影", "en": "James Liu with the Head of ISA International School Altdorf", "fr": "James Liu et le chef d’établissement de ISA International School Altdorf"}
 
     - name: St. Charles
       image: /assets/fieldwork/st-charles.jpg
-      kind: {zh: 实地走访 · 2026 年 4 月, en: On-site visit — April 2026, fr: Visite sur site — avril 2026}
+      kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
-        zh: 与校长会面并参观校园。
-        en: Meeting with the Principal and a campus tour.
-        fr: Rencontre avec le Principal et visite du campus.
-      alt: {zh: 走访 St. Charles 学校, en: Visit to St. Charles}
+        zh: "修印先生与St. Charles校长合影"
+        en: "James Liu with the Head of St. Charles"
+        fr: "James Liu et le chef d’établissement de St. Charles"
+      alt: {"zh": "修印先生与St. Charles校长合影", "en": "James Liu with the Head of St. Charles", "fr": "James Liu et le chef d’établissement de St. Charles"}
 
     - name: IMI International Management Institute
       image: /assets/fieldwork/imi.jpg
