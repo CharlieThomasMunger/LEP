@@ -1,6 +1,6 @@
 # 怎么发一篇新文章
 
-你只写中文。英文由 Claude 翻译，法语只做少数几页、不跟每篇文章。
+先确认中文内容，再制作对应英文和法文。中文署名修印先生，英文和法文署名 James Liu。
 
 ---
 
@@ -10,7 +10,9 @@
 2. **Claude 返回两个文件**（中文 + 英文），已经命名好、格式好
 3. **你上传** — GitHub → Add file → Upload files → 拖进去 → Commit
 
-Netlify 会自动更新，一两分钟。**其余全部自动**：Schema、sitemap、hreflang、作者关联、同主题互链、更新日期。
+本站通过 GitHub Pages 发布，仓库为 CharlieThomasMunger/LEP，发布分支 main。提交后检查 GitHub Actions/Pages 构建及正式网址，不能只凭提交成功就报告已上线。DNS 在 OVH；不要通过 Netlify 发布。
+
+2026-09-25：服务说明页使用 `/zh/insights/why-lep/`，对应英文、法文替换语言前缀。学校介绍使用 `layout: node` 并设置 `school_article: true`，自动加入同语言服务页与联系入口；瑞士酒店管理、寄宿学校分类亦自动加入。服务页自身设置 `lep_service_page: true`，避免重复展示。公开正文引用及外链遵从负责人最新要求；内部合同、奖学金矩阵、审阅说明不得上传。
 
 ---
 

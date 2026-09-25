@@ -71,10 +71,16 @@ layout: default
     </ul>
     {%- endif %}
 
+    {% unless page.lep_service_page %}
+      {% if page.school_article or page.cluster == 'switzerland-hotel' or page.cluster == 'switzerland-boarding' %}
+        {% include lep-service-link.html %}
+      {% endif %}
+    {% endunless %}
+
     <p class="cta">{{ t.cta }} <a href="{{ '/' | append: lang | append: '/families/' | relative_url }}">{{ t.nav_families }} →</a></p>
 
     <p class="meta">
-      {{ t.written_by }} <a href="{{ site.author.url | relative_url }}">{{ site.author.name }}</a>
+      {{ t.written_by }} <a href="{{ site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}{{ site.author.name }}{% endif %}</a>
       · {{ t.reviewed_label }} {{ page.reviewed | default: page.date | date: t.date_format }}
       {%- if page.translated and t.translation_note != "" %}<br><span class="tnote">{{ t.translation_note }}</span>{% endif %}
     </p>

@@ -35,6 +35,10 @@ default_lang: en
 
 # ---- 主题分组 ----
 clusters:
+  lep-services:
+    zh: 为什么选择 LEP
+    en: Why choose LEP
+    fr: Pourquoi choisir LEP
   luxembourg-school:
     zh: 卢森堡中小学
     en: Schools in Luxembourg
@@ -62,6 +66,6 @@ org:
 
 author:
   name: James Liu
-  alt_name: 刘一卜
+  alt_name: 修印先生
   url: /authors/james-liu/
   job_title: Founder
