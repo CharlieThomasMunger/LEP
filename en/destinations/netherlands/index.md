@@ -21,4 +21,4 @@ For families considering boarding education, we look beyond the campus to curric
 
 ## Contact us
 
-WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+[WhatsApp](https://wa.me/352661221289)  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)

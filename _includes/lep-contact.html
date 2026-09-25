@@ -1,10 +1,10 @@
-<section class="lep-contact" id="contact-lep" aria-label="Contact LEP">
+<section class="lep-contact{% if lang == 'zh' %} lep-contact-wechat{% endif %}" id="contact-lep" aria-label="Contact LEP">
   <div>
     {% case lang %}
     {% when 'zh' %}
     <h2>联系修印先生，聊聊你的欧洲留学计划</h2>
     <p>可以用中文、英语或法语沟通。告诉我们学生目前的学习阶段、考虑的国家、入学时间和预算。</p>
-    <p class="lep-contact-actions"><a href="mailto:contact@luxedupartners.lu">邮件咨询</a><a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp 咨询</a></p>
+    <p class="lep-contact-actions"><a href="mailto:contact@luxedupartners.lu">邮件咨询</a></p>
     <p>微信：<strong>xiuyinxiansheng</strong></p>
     {% when 'fr' %}
     <h2>Parlez de votre projet d’études en Europe avec James Liu</h2>
@@ -17,8 +17,8 @@
     {% endcase %}
     <p><a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
   </div>
-  <figure>
+  {% unless lang == 'zh' %}<figure>
     <a href="https://wa.me/352661221289" target="_blank" rel="noopener" aria-label="WhatsApp"><img src="{{ '/assets/contact/lep-whatsapp-qr.svg' | relative_url }}" width="180" height="180" alt="WhatsApp QR code" loading="lazy"></a>
     <figcaption>{% case lang %}{% when 'zh' %}手机扫码，打开 WhatsApp 对话{% when 'fr' %}Scannez avec votre téléphone pour ouvrir la conversation WhatsApp.{% else %}Scan with your phone to open a WhatsApp chat.{% endcase %}</figcaption>
-  </figure>
+  </figure>{% endunless %}
 </section>

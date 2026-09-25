@@ -33,7 +33,7 @@ Notre accompagnement comprend la préparation des dossiers, les échanges direct
 
 Indiquez-nous l’âge de votre enfant, sa classe actuelle, ses compétences linguistiques, votre budget et la date d’entrée souhaitée pour commencer par le niveau scolaire adapté.
 
-WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+[WhatsApp](https://wa.me/352661221289)  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
 
 ## Études hôtelières en Suisse et guides IMI
 

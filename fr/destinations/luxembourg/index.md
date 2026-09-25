@@ -23,4 +23,4 @@ Pour les élèves mineurs, nous coordonnons les candidatures, les familles d’a
 
 ## Nous contacter
 
-WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+[WhatsApp](https://wa.me/352661221289)  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)

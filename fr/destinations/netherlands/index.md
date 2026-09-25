@@ -21,4 +21,4 @@ Pour les familles envisageant un internat, nous examinons la continuité du curs
 
 ## Nous contacter
 
-WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+[WhatsApp](https://wa.me/352661221289)  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)

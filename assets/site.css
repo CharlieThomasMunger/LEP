@@ -243,6 +243,7 @@ nav.main a.nav-primary{color:var(--accent);font-weight:700}
 /* Approved illustrated service article: full photographs and readable tables. */
 .lep-contact{display:grid;grid-template-columns:minmax(0,1fr) 180px;gap:2rem;padding:1.5rem 0 2rem;text-align:left}
 .lep-contact h2{font-size:1.3rem;line-height:1.5}
+.lep-contact-wechat{grid-template-columns:1fr}
 .lep-contact-actions{display:flex;flex-wrap:wrap;gap:.75rem}
 .lep-contact-actions a{display:inline-block;padding:.65rem 1rem;border:1px solid currentColor;border-radius:5px;text-decoration:none}
 .lep-contact-actions a:hover,.lep-contact-actions a:focus-visible{background:var(--panel)}

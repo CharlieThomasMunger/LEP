@@ -33,7 +33,7 @@ Application support includes preparing documents, liaising directly with schools
 
 Share your child’s age, current year group, language skills, family budget and intended entry date so we can start with the appropriate educational stage.
 
-WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+[WhatsApp](https://wa.me/352661221289)  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
 
 ## Swiss hospitality education and IMI guides
 
