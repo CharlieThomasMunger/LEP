@@ -1,4 +1,5 @@
 zh:
+  nav_why: "为什么选择 LEP"
   date_format: "%Y年%-m月%-d日"
   nav_insights: "决策指南"
   nav_families: "家庭服务"
@@ -25,6 +26,7 @@ zh:
   disclaimer: "录取由学校单独决定，我们不保证任何录取结果。本页内容为一般性说明，不构成法律或移民建议。"
   cta: "如果你正面对这个决定，可以来谈谈。"
 en:
+  nav_why: "Why LEP"
   date_format: "%d %B %Y"
   nav_insights: "Decision guides"
   nav_families: "For families"
@@ -51,6 +53,7 @@ en:
   disclaimer: "Admissions decisions are made solely by the school; no admission is guaranteed. This page is general information and is not legal or immigration advice."
   cta: "If you are facing this decision, let's talk."
 fr:
+  nav_why: "Pourquoi LEP"
   date_format: "%-d %B %Y"
   nav_insights: "Guides de décision"
   nav_families: "Pour les familles"

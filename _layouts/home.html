@@ -13,8 +13,8 @@ layout: default
       <h1>{{ page.heading }}</h1>
       <p class="lede">{{ page.standfirst }}</p>
       <div class="hero-actions">
-        <a class="btn" href="{{ '/' | append: lang | append: '/families/' | relative_url }}">{{ page.cta_families }}</a>
-        <a class="btn ghost" href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ page.cta_schools }}</a>
+        <a class="btn" href="{{ '/' | append: lang | append: '/destinations/luxembourg/' | relative_url }}">{{ page.cta_families }}</a>
+        <a class="btn ghost" href="{{ '/' | append: lang | append: '/insights/why-lep/' | relative_url }}">{{ page.cta_schools }}</a>
       </div>
     </div>
     <figure class="hero-img">
@@ -22,6 +22,8 @@ layout: default
     </figure>
   </div>
 </section>
+
+{% include destinations.html %}
 
 <!-- ===== Services ===== -->
 <section class="band">

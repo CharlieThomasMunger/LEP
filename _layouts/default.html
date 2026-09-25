@@ -11,7 +11,12 @@
 <meta name="robots" content="index, follow">
 
 {%- comment -%} ---- hreflang：同 ref 的各语言版本自动互相声明 ---- {%- endcomment -%}
-{%- if page.ref -%}
+{%- if page.translation_key -%}
+  {%- assign translations = site.pages | where: "translation_key", page.translation_key -%}
+  {%- for translated in translations %}
+<link rel="alternate" hreflang="{{ translated.lang }}" href="{{ translated.url | absolute_url }}">
+  {%- endfor -%}
+{%- elsif page.ref -%}
   {%- assign sibs = site.posts | where: "ref", page.ref -%}
   {%- for s in sibs %}
 <link rel="alternate" hreflang="{{ s.lang }}" href="{{ s.url | absolute_url }}">
@@ -100,15 +105,19 @@
   <div class="wrap bar">
     <a class="brand" href="{{ '/' | append: lang | append: '/' | relative_url }}">Lux Education Partners</a>
     <nav class="main">
+      {% for destination in site.data.destinations[lang].items %}
+      <a{% if forloop.first %} class="nav-primary"{% endif %} href="{{ '/' | append: lang | append: '/destinations/' | append: destination.slug | append: '/' | relative_url }}">{{ destination.name }}</a>
+      {% endfor %}
       <a href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }}</a>
-      <a href="{{ '/' | append: lang | append: '/families/' | relative_url }}">{{ t.nav_families }}</a>
-      <a href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ t.nav_schools }}</a>
       <a href="{{ '/' | append: lang | append: '/fieldwork/' | relative_url }}">{{ t.nav_method }}</a>
-      <a href="{{ site.author.url | relative_url }}">{{ t.nav_about }}</a>
+      <a href="{{ '/' | append: lang | append: '/insights/why-lep/' | relative_url }}">{{ t.nav_why }}</a>
     </nav>
     <nav class="lang">
       {%- for l in site.languages -%}
-        {%- if page.ref -%}
+        {%- if page.translation_key -%}
+          {%- assign translated = site.pages | where: "translation_key", page.translation_key | where: "lang", l.code | first -%}
+          {% if translated %}<a href="{{ translated.url | relative_url }}"{% if l.code == lang %} class="on"{% endif %}>{{ l.label }}</a>{% endif %}
+        {%- elsif page.ref -%}
           {%- assign sib = site.posts | where: "ref", page.ref | where: "lang", l.code | first -%}
           {%- if sib %}<a href="{{ sib.url | relative_url }}"{% if l.code == lang %} class="on"{% endif %}>{{ l.label }}</a>{% endif -%}
         {%- else %}<a href="{{ '/' | append: l.code | append: '/' | relative_url }}"{% if l.code == lang %} class="on"{% endif %}>{{ l.label }}</a>
@@ -123,6 +132,7 @@
 <footer class="site">
   <div class="wrap">
     <p class="disclaimer">{{ t.disclaimer }}</p>
+    <p><a href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ t.nav_schools }}</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a> · WeChat: xiuyinxiansheng</p>
     <p class="legal">{{ site.org.legal_name }} · RCS {{ site.org.rcs }} · {{ site.org.locality }}</p>
   </div>
 </footer>

@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "heading": "留学目的地",
+    "base": "我们的本土根基",
+    "explore": "了解项目与服务",
+    "items": [
+      {
+        "slug": "luxembourg",
+        "name": "卢森堡",
+        "text": "学校申请、家庭落地与持续本地支持。从我们长期生活和经营的地方出发。"
+      },
+      {
+        "slug": "switzerland",
+        "name": "瑞士",
+        "text": "酒店管理与学校选择，结合实地访校、正式合作和职业发展视角。"
+      },
+      {
+        "slug": "netherlands",
+        "name": "荷兰",
+        "text": "从 Eerde 国际寄宿学校开始，了解荷兰国际教育与申请路径。"
+      }
+    ]
+  },
+  "en": {
+    "heading": "Study destinations",
+    "base": "Our home base",
+    "explore": "Explore programmes and support",
+    "items": [
+      {
+        "slug": "luxembourg",
+        "name": "Luxembourg",
+        "text": "School applications, family arrival and ongoing local support, grounded in where we live and work."
+      },
+      {
+        "slug": "switzerland",
+        "name": "Switzerland",
+        "text": "Hospitality education and school choices, informed by visits, partnerships and career perspectives."
+      },
+      {
+        "slug": "netherlands",
+        "name": "Netherlands",
+        "text": "Explore Dutch international education through Eerde International Boarding School."
+      }
+    ]
+  },
+  "fr": {
+    "heading": "Destinations",
+    "base": "Notre ancrage local",
+    "explore": "Découvrir les programmes et services",
+    "items": [
+      {
+        "slug": "luxembourg",
+        "name": "Luxembourg",
+        "text": "Candidatures, arrivée des familles et accompagnement local, là où nous vivons et travaillons."
+      },
+      {
+        "slug": "switzerland",
+        "name": "Suisse",
+        "text": "Management hôtelier et choix des établissements, éclairés par les visites, les partenariats et les perspectives professionnelles."
+      },
+      {
+        "slug": "netherlands",
+        "name": "Pays-Bas",
+        "text": "Découvrir l’éducation internationale aux Pays-Bas à travers Eerde International Boarding School."
+      }
+    ]
+  }
+}

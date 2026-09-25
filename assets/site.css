@@ -231,3 +231,11 @@ ul.nodes.home > li > a{font-size:1.02rem}
   .field-row{grid-template-columns:repeat(2,1fr)}
   .band{padding:2.8rem 0}
 }
+
+/* Country entrances: Luxembourg leads visually and in reading order. */
+nav.main{flex-wrap:wrap;gap:.65rem 1rem}
+nav.main a.nav-primary{color:var(--accent);font-weight:700}
+.destination-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr;gap:1.2rem}
+.destination-primary{border-top:4px solid var(--accent);background:var(--panel)}
+.destination-primary h3{font-size:1.6rem}
+@media(max-width:820px){.destination-grid{grid-template-columns:1fr}}

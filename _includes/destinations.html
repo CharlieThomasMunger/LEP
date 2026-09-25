@@ -1,0 +1,13 @@
+{% assign destinations = site.data.destinations[page.lang] %}
+<section class="band destinations" id="destinations">
+<div class="wrap">
+<h2 class="sec-title">{{ destinations.heading }}</h2>
+<div class="destination-grid">
+{% for item in destinations.items %}
+<article class="card{% if forloop.first %} destination-primary{% endif %}">
+{% if forloop.first %}<p class="kicker">{{ destinations.base }}</p>{% endif %}
+<h3>{{ item.name }}</h3><p>{{ item.text }}</p>
+<a href="{{ '/' | append: page.lang | append: '/destinations/' | append: item.slug | append: '/' | relative_url }}">{{ destinations.explore }} →</a>
+</article>
+{% endfor %}
+</div></div></section>
