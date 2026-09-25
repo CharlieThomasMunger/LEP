@@ -132,8 +132,9 @@
 
 <footer class="site">
   <div class="wrap">
+    {% include lep-contact.html %}
     <p class="disclaimer">{{ t.disclaimer }}</p>
-    <p><a href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ t.nav_schools }}</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a> · WeChat: xiuyinxiansheng</p>
+    <p><a href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ t.nav_schools }}</a></p>
     <p class="legal">{{ site.org.legal_name }} · RCS {{ site.org.rcs }} · {{ site.org.locality }}</p>
   </div>
 </footer>
