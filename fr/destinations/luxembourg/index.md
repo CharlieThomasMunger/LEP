@@ -3,11 +3,19 @@ layout: "page"
 lang: "fr"
 permalink: "/fr/destinations/luxembourg/"
 translation_key: "destination-luxembourg"
-title: "Luxembourg · LEP"
+title: "Écoles internationales privées au Luxembourg : ISL, St George’s et OTR"
 heading: "Luxembourg"
-description: "Candidatures, arrivée des familles et accompagnement local, là où nous vivons et travaillons."
+description: "Comparez les écoles, les cursus et les frais. Découvrez les familles d’accueil pour les élèves dont les parents vivent à l’étranger et un cas d’entrée à l’école en neuf jours accompagné par LEP."
 standfirst: "Candidatures, arrivée des familles et accompagnement local, là où nous vivons et travaillons."
 ---
+
+## Votre première question
+
+- [Quelle école choisir : ISL, St George’s ou OTR ?](/fr/insights/luxembourg-international-schools/)
+- [Quel budget prévoir ?](/fr/insights/luxembourg-international-school-fees/)
+- [Comment organiser les études sans les parents sur place ?](/fr/insights/study-without-parents/)
+- [Une rentrée en cours d’année : le cas des neuf jours](/fr/insights/st-georges-rapid-school-placement/)
+- [Que peut apporter LEP sur place ?](/fr/insights/luxembourg-school-support-lep/)
 
 ## Accompagnement local des familles
 

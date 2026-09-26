@@ -3,11 +3,19 @@ layout: "page"
 lang: "en"
 permalink: "/en/destinations/luxembourg/"
 translation_key: "destination-luxembourg"
-title: "Luxembourg · LEP"
+title: "Private international schools in Luxembourg: ISL, St George’s and OTR"
 heading: "Luxembourg"
-description: "School applications, family arrival and ongoing local support, grounded in where we live and work."
+description: "Compare private international schools in Luxembourg, fees and curricula. Explore host-family arrangements when parents live abroad, LEP’s local services and a documented nine-day school-placement case."
 standfirst: "School applications, family arrival and ongoing local support, grounded in where we live and work."
 ---
+
+## Start with your family’s question
+
+- [Which school fits my child: ISL, St George’s or OTR?](/en/insights/luxembourg-international-schools/)
+- [What should we budget for private school?](/en/insights/luxembourg-international-school-fees/)
+- [Can my child study in Luxembourg while we live abroad?](/en/insights/study-without-parents/)
+- [Can a child join during the school year? A nine-day case](/en/insights/st-georges-rapid-school-placement/)
+- [How can a Luxembourg-based adviser help us?](/en/insights/luxembourg-school-support-lep/)
 
 ## Local support for schools and families
 

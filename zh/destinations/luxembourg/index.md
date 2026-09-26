@@ -3,11 +3,19 @@ layout: "page"
 lang: "zh"
 permalink: "/zh/destinations/luxembourg/"
 translation_key: "destination-luxembourg"
-title: "卢森堡 · LEP"
+title: "卢森堡英文私立国际学校与低龄留学｜ISL、圣乔治、OTR"
 heading: "卢森堡"
-description: "学校申请、家庭落地与持续本地支持。从我们长期生活和经营的地方出发。"
+description: "比较卢森堡 ISL、圣乔治和 OTR 的课程、费用与学校特点，了解孩子单独留学的寄宿家庭安排，以及 LEP 九天入校案例与本地服务。"
 standfirst: "学校申请、家庭落地与持续本地支持。从我们长期生活和经营的地方出发。"
 ---
+
+## 先找到您最关心的问题
+
+- [三所学校怎么选？](/zh/insights/luxembourg-international-schools/)
+- [学费和家庭预算怎么安排？](/zh/insights/luxembourg-international-school-fees/)
+- [父母不在卢森堡，孩子住在哪里？](/zh/insights/study-without-parents/)
+- [中途插班能有多快？看九天入校的真实过程](/zh/insights/st-georges-rapid-school-placement/)
+- [LEP 的本地关系能具体帮我做什么？](/zh/insights/luxembourg-school-support-lep/)
 
 ## 学校与家庭的本地支持
 

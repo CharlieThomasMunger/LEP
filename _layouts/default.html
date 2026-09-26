@@ -5,10 +5,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-<meta name="description" content="{{ page.description | default: site.description | strip_newlines | truncate: 300 }}">
+<title>{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines | truncate: 300 | escape }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow, max-image-preview:large">
 
 {%- comment -%} ---- hreflang：同 ref 的各语言版本自动互相声明 ---- {%- endcomment -%}
 {%- if page.translation_key -%}
@@ -16,6 +16,8 @@
   {%- for translated in translations %}
 <link rel="alternate" hreflang="{{ translated.lang }}" href="{{ translated.url | absolute_url }}">
   {%- endfor -%}
+  {%- assign xd = translations | where: "lang", "en" | first -%}
+  {%- if xd %}<link rel="alternate" hreflang="x-default" href="{{ xd.url | absolute_url }}">{% endif %}
 {%- elsif page.ref -%}
   {%- assign sibs = site.posts | where: "ref", page.ref -%}
   {%- for s in sibs %}
@@ -26,15 +28,12 @@
 <link rel="alternate" hreflang="x-default" href="{{ xd.url | absolute_url }}">
   {%- endif -%}
 {%- else -%}
-  {%- for l in site.languages %}
-<link rel="alternate" hreflang="{{ l.code }}" href="{{ '/' | append: l.code | append: '/' | absolute_url }}">
-  {%- endfor %}
-<link rel="alternate" hreflang="x-default" href="{{ '/en/' | absolute_url }}">
+<link rel="alternate" hreflang="{{ lang }}" href="{{ page.url | absolute_url }}">
 {%- endif %}
 
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:description" content="{{ page.description | default: site.description | strip_newlines | truncate: 300 }}">
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta property="og:description" content="{{ page.description | default: site.description | strip_html | strip_newlines | truncate: 300 | escape }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% endif %}
 <meta property="og:type" content="{% if page.ref %}article{% else %}website{% endif %}">
@@ -47,7 +46,7 @@
 {
  "@context":"https://schema.org","@graph":[
  {"@type":"Organization","@id":"{{ '/#organization' | absolute_url }}",
-  "name":"{{ site.org.brand }}","legalName":"{{ site.org.legal_name }}",
+  "name":"{{ site.org.brand }}","alternateName":"LEP","email":{{ site.email | jsonify }},"legalName":"{{ site.org.legal_name }}",
   "logo":"{{ '/assets/brand/lep-logo.jpg' | absolute_url }}",
   "url":"{{ site.url }}","identifier":"RCS {{ site.org.rcs }}",
   "address":{"@type":"PostalAddress","addressLocality":"{{ site.org.locality }}","addressCountry":"{{ site.org.country }}"},
@@ -68,6 +67,7 @@
  {"@type":"Article",
   "@id":"{{ page.url | absolute_url }}#article",
   "headline":{{ page.title | jsonify }},
+  {% if page.image %}"image":{{ page.image | absolute_url | jsonify }},{% endif %}
   "description":{{ page.description | default: page.answer | jsonify }},
   "inLanguage":"{{ lang }}",
   "datePublished":"{{ page.date | date_to_xmlschema }}",
@@ -85,7 +85,7 @@
  {%- assign cl = site.clusters[page.cluster] %}{% if cl %},
  {"@type":"BreadcrumbList","itemListElement":[
   {"@type":"ListItem","position":1,"name":"{{ site.title }}","item":"{{ '/' | append: lang | append: '/' | absolute_url }}"},
-  {"@type":"ListItem","position":2,"name":{{ cl[lang] | jsonify }},"item":"{{ '/' | append: lang | append: '/insights/' | absolute_url }}"},
+  {"@type":"ListItem","position":2,"name":{{ cl[lang] | jsonify }},"item":"{% if page.cluster == 'luxembourg-school' %}{{ '/' | append: lang | append: '/destinations/luxembourg/' | absolute_url }}{% else %}{{ '/' | append: lang | append: '/insights/' | absolute_url }}{% endif %}"},
   {"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}
  {%- endif -%}
  ]}

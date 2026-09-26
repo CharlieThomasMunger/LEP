@@ -3,14 +3,15 @@ layout: default
 ---
 {%- assign lang = page.lang -%}
 {%- assign t = site.data.ui[lang] -%}
+{%- assign author_page = site.pages | where: "translation_key", "author-james-liu" | where: "lang", lang | first -%}
 {%- assign cl = site.clusters[page.cluster] -%}
 
 <article class="node">
   <header class="article-masthead">
     <div class="wrap">
-      <p class="crumb"><a href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }}</a>{% if cl %} &nbsp; / &nbsp; {{ cl[lang] }}{% endif %}</p>
+      <p class="crumb"><a href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }}</a>{% if page.cluster == "luxembourg-school" %} / <a href="/{{ lang }}/destinations/luxembourg/">{% if lang == "zh" %}卢森堡留学{% elsif lang == "fr" %}Étudier au Luxembourg{% else %}Study in Luxembourg{% endif %}</a>{% endif %}{% if cl %} &nbsp; / &nbsp; {{ cl[lang] }}{% endif %}</p>
       <h1>{{ page.title }}</h1>
-      <div class="article-byline"><a href="{{ site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}James Liu{% endif %}</a><span>Lux Education Partners</span><time datetime="{{ page.reviewed | default: page.date | date: '%Y-%m-%d' }}">{{ page.reviewed | default: page.date | date: t.date_format }}</time></div>
+      <div class="article-byline"><a href="{{ author_page.url | default: site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}James Liu{% endif %}</a><span>Lux Education Partners</span><time datetime="{{ page.reviewed | default: page.date | date: '%Y-%m-%d' }}">{{ page.reviewed | default: page.date | date: t.date_format }}</time></div>
     </div>
   </header>
   <div class="wrap article-layout">
@@ -82,7 +83,7 @@ layout: default
     <p class="cta">{{ t.cta }} <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu →</a></p>
 
     <p class="meta">
-      {{ t.written_by }} <a href="{{ site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}{{ site.author.name }}{% endif %}</a>
+      {{ t.written_by }} <a href="{{ author_page.url | default: site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}{{ site.author.name }}{% endif %}</a>
       · {{ t.reviewed_label }} {{ page.reviewed | default: page.date | date: t.date_format }}
       {%- if page.translated and t.translation_note != "" %}<br><span class="tnote">{{ t.translation_note }}</span>{% endif %}
     </p>
