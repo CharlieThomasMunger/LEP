@@ -39,4 +39,4 @@ lep_service_page: true
 <h2>卢森堡服务，开始前说明范围和费用</h2>
 <p>卢森堡私立国际学校需要大量本地服务，属于收费项目。我们会根据你真正需要的工作，明确服务范围与费用。</p>
 <p>你可以先发来孩子的年龄、当前课程、英语和法语情况、计划入学时间，以及父母是否同行。我们先判断：这件事怎样推进，哪些地方需要本地介入。</p><h2>推进得快，学校仍然认真把关</h2><p><strong>我们能把事情推进得快，圣乔治也始终坚持录取标准。</strong>九天案例里，即使我催促尽快给 offer，校方仍要求汇总试读老师的反馈、开会集体评估，并确认寄宿家庭安排后才作决定。学校认真考虑孩子急需上学的处境，也认真完成了应有的评估。<a href="/zh/insights/st-georges-rapid-school-placement/">查看这次录取的具体经过 →</a></p><h2>继续了解</h2><ul><li><a href="/zh/insights/luxembourg-international-schools/">卢森堡英文私立国际学校怎么选？ISL、圣乔治与 OTR 的区别</a></li><li><a href="/zh/insights/st-georges-rapid-school-placement/">9 天，把学校、试读和寄宿家庭安排接起来：LEP 在卢森堡完成的一次特殊插班</a></li><li><a href="/zh/insights/study-without-parents/">父母不在卢森堡，孩子单独留学，学校和寄宿家庭怎样落实？</a></li></ul><p><strong>卢森堡私立国际学校及本地寄宿家庭服务属于收费项目，开始前明确工作范围与费用。</strong></p>
-{% include lep-contact.html %}
+{% assign lang = page.lang %}{% include lep-contact.html %}
