@@ -6,15 +6,15 @@ layout: default
 {%- assign cl = site.clusters[page.cluster] -%}
 
 <article class="node">
-  <div class="wrap narrow">
-
-    <p class="crumb">
-      <a href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }}</a>
-      {%- if cl %} · {{ cl[lang] }}{% endif -%}
-    </p>
-
-    <h1>{{ page.title }}</h1>
-
+  <header class="article-masthead">
+    <div class="wrap">
+      <p class="crumb"><a href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }}</a>{% if cl %} &nbsp; / &nbsp; {{ cl[lang] }}{% endif %}</p>
+      <h1>{{ page.title }}</h1>
+      <div class="article-byline"><a href="{{ site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}James Liu{% endif %}</a><span>Lux Education Partners</span><time datetime="{{ page.reviewed | default: page.date | date: '%Y-%m-%d' }}">{{ page.reviewed | default: page.date | date: t.date_format }}</time></div>
+    </div>
+  </header>
+  <div class="wrap article-layout">
+  <div class="article-main">
     {%- if page.answer %}
     <div class="answer">
       <span class="lab">{{ t.answer_label }}</span>
@@ -25,7 +25,9 @@ layout: default
     </div>
     {%- endif %}
 
+    <div class="article-body">
     {{ content }}
+    </div>
 
     {%- if page.variables %}
     <h2>{{ t.variables_label }}</h2>
@@ -102,5 +104,7 @@ layout: default
     </div>
     {%- endif %}
 
+  </div>
+  <aside class="article-toc" aria-label="{% case lang %}{% when 'zh' %}本文目录{% when 'fr' %}Sommaire{% else %}Article contents{% endcase %}" hidden></aside>
   </div>
 </article>
