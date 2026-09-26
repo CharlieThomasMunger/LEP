@@ -8,20 +8,20 @@ school_article: true
 has_topic_navigation: true
 title: "为什么选择 IMI？我看重它的课程、实习和性价比"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "IMI 不是我看过的瑞士学校中设施最豪华的一所，但它的课程安排、学术训练和带薪实习，让我认为这是一所性价比很值得看的学校。"
-image: "/assets/imi/lep-imi-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.jpg"
 ---
 
-作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 25 日
+作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
 
 **IMI 不是我看过的瑞士学校中设施最豪华的一所，但它的课程安排、学术训练和带薪实习，让我认为这是一所性价比很值得看的学校。**
 
 我去过校园，也采访过学生。对重视学习内容、毕业发展，又希望把预算用在实处的家庭，我会认真介绍 IMI。学校具体教什么、合作申请后要付多少钱、孩子以后可以往哪里走，应该讲清楚。
 
 <figure class="article-photo">
-<a href="/assets/imi/lep-imi-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/lep-imi-visit.jpg" alt="修印先生在 IMI 的实地访校及合作交流照片" loading="eager"></a>
-<figcaption>修印先生在 IMI 实地访校，与招生团队交流。LEP 与 IMI 已建立正式合作关系。</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生在 IMI 访校期间与招生团队合影。" width="2400" height="1331" loading="eager"></a>
+<figcaption>修印先生在 IMI 访校期间与招生团队合影。</figcaption>
 </figure>
 
 ## 在 IMI 读本科，有三种选择

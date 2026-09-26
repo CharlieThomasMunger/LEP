@@ -8,17 +8,22 @@ school_article: true
 has_topic_navigation: true
 title: "Candidater à IMI en Suisse : LEP vous accompagne dans le choix du programme, les bourses et l’admission"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "Pour candidater à IMI, contactez directement LEP. Partenaire officiel de l’école, nous vous aidons à choisir la formation, solliciter les bourses, coordonner le dossier et faire avancer l’admission. Pour les candidatures IMI prises en charge par LEP, nos frais de service de candidature …"
-image: "/assets/imi/term-dates-2027.png"
+image: "/assets/imi/imi-admissions-visit.jpg"
 translated: true
 ---
 
-**Par James Liu | Lux Education Partners | Vérifié le 25 septembre 2026**
+**Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**
 
 **Pour candidater à IMI, contactez directement LEP. Partenaire officiel de l’école, nous vous aidons à choisir la formation, solliciter les bourses, coordonner le dossier et faire avancer l’admission. Pour les candidatures IMI prises en charge par LEP, nos frais de service de candidature sont offerts de 2026 au 15 septembre 2027.** La scolarité, l’inscription auprès de l’école et les frais de tiers restent distincts.
 
 Il n’est pas nécessaire d’avoir déjà constitué un dossier. Parlez-nous de votre diplôme actuel, de votre anglais, du budget, de la rentrée envisagée et de vos objectifs après les études.
+
+<figure class="article-photo">
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite.</figcaption>
+</figure>
 
 ## Quelle rentrée correspond à votre projet ?
 

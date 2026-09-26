@@ -8,17 +8,22 @@ school_article: true
 has_topic_navigation: true
 title: "Applying to IMI Switzerland? LEP can handle programme selection, scholarships and the application with you"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "Contact LEP directly to apply to IMI. As a formal IMI partner, we help select the programme, pursue scholarships, coordinate application documents and progress admission. For IMI applications handled by LEP, the school application service fee is waived from 2026 through 15 September 202…"
-image: "/assets/imi/term-dates-2027.png"
+image: "/assets/imi/imi-admissions-visit.jpg"
 translated: true
 ---
 
-**By James Liu | Lux Education Partners | Reviewed 25 September 2026**
+**By James Liu | Lux Education Partners | Reviewed 26 September 2026**
 
 **Contact LEP directly to apply to IMI. As a formal IMI partner, we help select the programme, pursue scholarships, coordinate application documents and progress admission. For IMI applications handled by LEP, the school application service fee is waived from 2026 through 15 September 2027.** Tuition, school registration and third-party charges remain separate.
 
 You do not need a completed application pack before contacting us. Start with your current qualification, English level, budget, preferred intake and what you hope to do afterwards.
+
+<figure class="article-photo">
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu with a member of the IMI admissions team during his campus visit." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu with a member of the IMI admissions team during his campus visit.</figcaption>
+</figure>
 
 ## Which intake could fit your plans?
 

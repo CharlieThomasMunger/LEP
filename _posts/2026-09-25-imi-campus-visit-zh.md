@@ -8,20 +8,20 @@ school_article: true
 has_topic_navigation: true
 title: "我到 IMI 看什么？校园之外，我更关心孩子读完能走哪条路"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "我去 IMI，想看的不仅是校园，还包括学生怎样学习、怎样与人沟通，以及这所学校能给什么样的孩子一个好的起点。"
-image: "/assets/imi/lep-imi-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.jpg"
 ---
 
-作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 25 日
+作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
 
 **我去 IMI，想看的不仅是校园，还包括学生怎样学习、怎样与人沟通，以及这所学校能给什么样的孩子一个好的起点。**
 
 从我的访校感受看，IMI 的设施不算豪华。但选学校要分清什么最重要：孩子需要的是更好的硬件体验，还是一套适合他的课程、实习安排和承担得起的费用？不同家庭，答案会不一样。
 
 <figure class="article-photo">
-<a href="/assets/imi/lep-imi-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/lep-imi-visit.jpg" alt="修印先生在IMI实地访校，与招生团队交流" loading="eager"></a>
-<figcaption>修印先生在 IMI 实地访校，与招生团队交流课程、学生申请和合作。</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生在 IMI 访校期间与招生团队合影。" width="2400" height="1331" loading="eager"></a>
+<figcaption>修印先生在 IMI 访校期间与招生团队合影。</figcaption>
 </figure>
 
 ## 我看学校，带着企业主和家长的两种经验
@@ -32,6 +32,11 @@ image: "/assets/imi/lep-imi-visit.jpg"
 
 这和只看校园漂亮不漂亮，是不同的选校角度。
 
+<figure class="article-photo">
+<a href="/assets/imi/imi-lake-terrace.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-lake-terrace.jpg" alt="IMI 露台与湖景，摄于实地访校期间。" width="2275" height="1280" loading="lazy"></a>
+<figcaption>IMI 露台与湖景，摄于实地访校期间。</figcaption>
+</figure>
+
 ## 我的判断：IMI 的重点在课程、实践和性价比
 
 我愿意向家庭介绍 IMI，是因为可以把它的优点讲具体。它有三条本科，分别走酒店商业管理、国际商业管理和烹饪管理；学习与带薪实习交替；本科后还有 MSc 或其他大学硕士的选择。
@@ -39,6 +44,11 @@ image: "/assets/imi/lep-imi-visit.jpg"
 费用方面，正式合作渠道的优惠与奖学金，会影响家庭最后支付的金额。实习有工资，也会带来工作经验。把这几项算进去，IMI 的性价比就值得认真比较。
 
 校园设施的取舍，我也会直接告诉家庭。喜欢这里的环境、接受相对朴素的硬件，同时重视课程和实践，才更容易作出适合自己的选择。
+
+<figure class="article-photo">
+<a href="/assets/imi/imi-interior-lake-view.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-interior-lake-view.jpg" alt="IMI 室内空间与窗外湖景，摄于实地访校期间。" width="2275" height="1280" loading="lazy"></a>
+<figcaption>IMI 室内空间与窗外湖景，摄于实地访校期间。</figcaption>
+</figure>
 
 ## 采访学生，最值得听的是具体经历
 

@@ -8,21 +8,21 @@ school_article: true
 has_topic_navigation: true
 title: "Ce que je regarde lors d’une visite à IMI : l’avenir de l’étudiant au-delà du campus"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "À IMI, je ne regarde pas seulement les bâtiments : je cherche à comprendre comment les étudiants apprennent, communiquent et à quels profils l’école peut offrir un bon départ."
-image: "/assets/imi/lep-imi-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.jpg"
 translated: true
 ---
 
-**Par James Liu | Lux Education Partners | Vérifié le 25 septembre 2026**
+**Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**
 
 **À IMI, je ne regarde pas seulement les bâtiments : je cherche à comprendre comment les étudiants apprennent, communiquent et à quels profils l’école peut offrir un bon départ.**
 
 Après ma visite, je ne qualifierais pas les installations de luxueuses. Chaque famille doit déterminer l’importance du cadre matériel par rapport à la formation, aux stages et au budget. La réponse n’est pas la même pour tous.
 
 <figure class="article-photo">
-<a href="/assets/imi/lep-imi-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/lep-imi-visit.jpg" alt="James Liu en visite à IMI, avec l’équipe des admissions" loading="eager"></a>
-<figcaption>James Liu à IMI : échanges sur les formations, les candidatures et la coopération avec l’équipe des admissions.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite.</figcaption>
 </figure>
 
 ## Le regard d’un parent et d’un entrepreneur
@@ -31,6 +31,11 @@ Je vis et dirige des activités au Luxembourg, où mon enfant fréquente une éc
 
 À IMI, je m’intéresse donc à la comptabilité, à la gestion des revenus, des équipes et des projets. Pour les stages, je veux savoir quelles tâches sont réellement confiées, comment les responsables évaluent les étudiants et ce que l’expérience permet ensuite.
 
+<figure class="article-photo">
+<a href="/assets/imi/imi-lake-terrace.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-lake-terrace.jpg" alt="La terrasse et la vue sur le lac à IMI, photographiées lors de la visite." width="2275" height="1280" loading="lazy"></a>
+<figcaption>La terrasse et la vue sur le lac à IMI, photographiées lors de la visite.</figcaption>
+</figure>
+
 ## Mon appréciation : enseignement, pratique et rapport qualité-prix
 
 Les atouts d’IMI peuvent être décrits concrètement : trois orientations de bachelor, l’alternance des études et des stages rémunérés, puis la possibilité de candidater à un MSc à IMI ou dans une autre université.
@@ -38,6 +43,11 @@ Les atouts d’IMI peuvent être décrits concrètement : trois orientations de 
 Les avantages partenaires et les bourses applicables modifient le coût payé par la famille. Les stages apportent aussi une expérience et des revenus. L’ensemble mérite une comparaison sérieuse.
 
 Je parle également des installations telles que je les ai vues. Un étudiant qui accepte un cadre matériel relativement simple et privilégie les cours et la pratique peut y trouver son compte. Le choix doit se faire en connaissant les deux aspects.
+
+<figure class="article-photo">
+<a href="/assets/imi/imi-interior-lake-view.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-interior-lake-view.jpg" alt="Un espace intérieur d’IMI avec vue sur le lac, photographié lors de la visite." width="2275" height="1280" loading="lazy"></a>
+<figcaption>Un espace intérieur d’IMI avec vue sur le lac, photographié lors de la visite.</figcaption>
+</figure>
 
 ## Les entretiens avec les étudiants doivent montrer du vécu
 

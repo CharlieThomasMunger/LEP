@@ -8,16 +8,21 @@ school_article: true
 has_topic_navigation: true
 title: "IMI 怎么申请？找 LEP，课程、奖学金和申请由我们一起推进"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "想申请 IMI，直接联系 LEP。我们是 IMI 的正式合作服务机构，可以帮你选课程、申请奖学金、对接材料并推进录取。2026 年至 2027 年 9 月 15 日，由 LEP 承接的 IMI 申请免学校申请服务费。 学校学费、注册费及第三方费用另计。"
-image: "/assets/imi/term-dates-2027.png"
+image: "/assets/imi/imi-admissions-visit.jpg"
 ---
 
-作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 25 日
+作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
 
 **想申请 IMI，直接联系 LEP。我们是 IMI 的正式合作服务机构，可以帮你选课程、申请奖学金、对接材料并推进录取。2026 年至 2027 年 9 月 15 日，由 LEP 承接的 IMI 申请免学校申请服务费。** 学校学费、注册费及第三方费用另计。
 
 你第一次联系我们，不需要先整理好整套文件。先说清目前学历、英语水平、预算、希望入学的时间，以及毕业后大致想做什么，就可以开始判断。
+
+<figure class="article-photo">
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生在 IMI 访校期间与招生团队合影。" width="2400" height="1331" loading="eager"></a>
+<figcaption>修印先生在 IMI 访校期间与招生团队合影。</figcaption>
+</figure>
 
 ## 哪些课程，什么时候入学？
 

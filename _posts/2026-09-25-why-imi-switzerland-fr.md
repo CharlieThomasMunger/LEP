@@ -8,21 +8,21 @@ school_article: true
 has_topic_navigation: true
 title: "Pourquoi choisir IMI en Suisse ? Les cours, les stages et le rapport qualité-prix avant le prestige des bâtiments"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "IMI mérite, selon moi, d’être étudié pour ses programmes, l’expérience pratique et son rapport qualité-prix. Ses installations ne sont pas les plus luxueuses que j’aie visitées, mais ce n’est qu’une partie du choix."
-image: "/assets/imi/lep-imi-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.jpg"
 translated: true
 ---
 
-**Par James Liu | Lux Education Partners | Vérifié le 25 septembre 2026**
+**Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**
 
 **IMI mérite, selon moi, d’être étudié pour ses programmes, l’expérience pratique et son rapport qualité-prix. Ses installations ne sont pas les plus luxueuses que j’aie visitées, mais ce n’est qu’une partie du choix.**
 
 En tant qu’entrepreneur établi en Europe, je regarde ce que l’étudiant apprendra, l’expérience qu’il pourra acquérir et la manière dont l’investissement familial prépare la suite.
 
 <figure class="article-photo">
-<a href="/assets/imi/lep-imi-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/lep-imi-visit.jpg" alt="James Liu en visite à IMI avec l’équipe des admissions" loading="eager"></a>
-<figcaption>Visite et échanges de coopération avec l’équipe des admissions d’IMI. LEP est un partenaire officiel de l’école.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite.</figcaption>
 </figure>
 
 Situé dans la région de Lucerne, IMI enseigne en anglais. Les trois bachelors correspondent à des intérêts différents :

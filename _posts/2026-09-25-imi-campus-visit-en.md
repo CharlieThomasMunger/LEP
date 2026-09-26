@@ -8,21 +8,21 @@ school_article: true
 has_topic_navigation: true
 title: "What I look for when visiting IMI: the student’s future beyond the campus"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "When I visit IMI, I look at more than the grounds: how students learn, how they communicate and which young people this school could give a useful start."
-image: "/assets/imi/lep-imi-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.jpg"
 translated: true
 ---
 
-**By James Liu | Lux Education Partners | Reviewed 25 September 2026**
+**By James Liu | Lux Education Partners | Reviewed 26 September 2026**
 
 **When I visit IMI, I look at more than the grounds: how students learn, how they communicate and which young people this school could give a useful start.**
 
 From my visit, I would not describe IMI’s facilities as luxurious. Families need to decide how they weigh the physical environment against teaching, placements and an affordable plan. Different students will reach different conclusions.
 
 <figure class="article-photo">
-<a href="/assets/imi/lep-imi-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/lep-imi-visit.jpg" alt="James Liu visiting IMI and speaking with the admissions team" loading="eager"></a>
-<figcaption>James Liu at IMI, discussing programmes, applications and cooperation with the admissions team.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu with a member of the IMI admissions team during his campus visit." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu with a member of the IMI admissions team during his campus visit.</figcaption>
 </figure>
 
 ## I visit as both a parent and a business owner
@@ -31,6 +31,11 @@ I live and operate businesses in Luxembourg, where my own child attends an inter
 
 At IMI, that means examining accounting, revenue control, people and project management. For placements, I want to understand the work students actually do, how supervisors assess them and how that experience helps the next step.
 
+<figure class="article-photo">
+<a href="/assets/imi/imi-lake-terrace.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-lake-terrace.jpg" alt="The terrace and lake view at IMI, photographed during the campus visit." width="2275" height="1280" loading="lazy"></a>
+<figcaption>The terrace and lake view at IMI, photographed during the campus visit.</figcaption>
+</figure>
+
 ## My assessment: curriculum, practice and value
 
 IMI has strengths I can describe concretely: three bachelor’s directions, alternating study and paid internships, and the possibility of applying for an MSc at IMI or elsewhere afterwards.
@@ -38,6 +43,11 @@ IMI has strengths I can describe concretely: three bachelor’s directions, alte
 Applicable partner benefits and scholarships affect the family’s final cost. Placements can bring wages as well as experience. Together, these make IMI worth comparing on value.
 
 I also tell families about the facilities as I saw them. A student who accepts a relatively modest physical setting and values the teaching and practical structure may find a good fit. The choice should be made with a clear picture of both.
+
+<figure class="article-photo">
+<a href="/assets/imi/imi-interior-lake-view.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-interior-lake-view.jpg" alt="An interior space at IMI overlooking the lake, photographed during the campus visit." width="2275" height="1280" loading="lazy"></a>
+<figcaption>An interior space at IMI overlooking the lake, photographed during the campus visit.</figcaption>
+</figure>
 
 ## Student interviews should reveal actual experiences
 

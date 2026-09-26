@@ -8,21 +8,21 @@ school_article: true
 has_topic_navigation: true
 title: "Why choose IMI Switzerland? Curriculum, internships and value matter more to me than luxury facilities"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "I see IMI as a school worth considering for its curriculum, practical experience and value. Its facilities are not the most luxurious I have visited, but that is only one part of an education decision."
-image: "/assets/imi/lep-imi-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.jpg"
 translated: true
 ---
 
-**By James Liu | Lux Education Partners | Reviewed 25 September 2026**
+**By James Liu | Lux Education Partners | Reviewed 26 September 2026**
 
 **I see IMI as a school worth considering for its curriculum, practical experience and value. Its facilities are not the most luxurious I have visited, but that is only one part of an education decision.**
 
 As an entrepreneur based in Europe, I ask what a student will learn, what experience they can gain and how the family’s investment connects with their future.
 
 <figure class="article-photo">
-<a href="/assets/imi/lep-imi-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/lep-imi-visit.jpg" alt="James Liu visiting IMI and meeting the admissions team" loading="eager"></a>
-<figcaption>James Liu during an IMI visit and cooperation discussion with the admissions team. LEP has a formal partnership with IMI.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu with a member of the IMI admissions team during his campus visit." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu with a member of the IMI admissions team during his campus visit.</figcaption>
 </figure>
 
 IMI is in the Lucerne area and teaches in English. Its bachelor’s choices connect to different interests:
