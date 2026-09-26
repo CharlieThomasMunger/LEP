@@ -20,8 +20,8 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 从我的访校感受看，IMI 的设施不算豪华。但选学校要分清什么最重要：孩子需要的是更好的硬件体验，还是一套适合他的课程、实习安排和承担得起的费用？不同家庭，答案会不一样。
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生在 IMI 访校期间与招生团队合影。" width="2400" height="1331" loading="eager"></a>
-<figcaption>修印先生在 IMI 访校期间与招生团队合影。</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生实地访校 IMI。LEP 与校方直接合作。" width="2400" height="1331" loading="eager"></a>
+<figcaption>修印先生实地访校 IMI。LEP 与校方直接合作。</figcaption>
 </figure>
 
 ## 我看学校，带着企业主和家长的两种经验
@@ -74,7 +74,7 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 <figcaption>修印先生与瑞士 St. Charles 学校所有者（owner）合影。这张照片展示 LEP 在欧洲教育圈的另一项长期合作，不是 IMI 人员合影。</figcaption>
 </figure>
 
-IMI 这一项目，我们已建立正式合作，与招生团队直接对接课程和申请。不同学校的具体联系人不同，但我的做法一致：通过持续合作建立信任，家庭需要推进事情时，知道找谁，也联系得上。
+IMI 这一项目，我们已建立正式合作，与校方直接合作，对接课程和申请。不同学校的具体联系人不同，但我的做法一致：通过持续合作建立信任，家庭需要推进事情时，知道找谁，也联系得上。
 
 ## 为什么本地资源很难靠一份攻略替代？
 

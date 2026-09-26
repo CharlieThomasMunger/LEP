@@ -21,8 +21,8 @@ translated: true
 Après ma visite, je ne qualifierais pas les installations de luxueuses. Chaque famille doit déterminer l’importance du cadre matériel par rapport à la formation, aux stages et au budget. La réponse n’est pas la même pour tous.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
 </figure>
 
 ## Le regard d’un parent et d’un entrepreneur
@@ -73,7 +73,7 @@ Pour les parcours scolaires, j’entretiens des relations approfondies avec les 
 <figcaption>James Liu avec le propriétaire de St. Charles : une autre relation de LEP dans l’éducation européenne. Il ne s’agit pas d’un représentant d’IMI.</figcaption>
 </figure>
 
-À IMI, notre partenariat officiel permet de travailler directement avec l’équipe des admissions sur les cours et les candidatures. Les interlocuteurs diffèrent selon l’école, mais la méthode reste la même : construire la confiance dans la durée et savoir qui joindre pour faire avancer le projet d’une famille.
+À IMI, notre partenariat officiel permet de travailler directement avec l’école sur les cours et les candidatures. Les interlocuteurs diffèrent selon l’école, mais la méthode reste la même : construire la confiance dans la durée et savoir qui joindre pour faire avancer le projet d’une famille.
 
 ## Pourquoi un guide ne remplace pas les relations locales
 

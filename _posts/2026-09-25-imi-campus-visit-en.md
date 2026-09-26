@@ -21,8 +21,8 @@ translated: true
 From my visit, I would not describe IMIâ€™s facilities as luxurious. Families need to decide how they weigh the physical environment against teaching, placements and an affordable plan. Different students will reach different conclusions.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu with a member of the IMI admissions team during his campus visit." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu with a member of the IMI admissions team during his campus visit.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu visiting IMI. LEP works directly with the school as an official partner.</figcaption>
 </figure>
 
 ## I visit as both a parent and a business owner
@@ -73,7 +73,7 @@ In our school-level work, I have deep relationships with the heads of St Georgeâ
 <figcaption>James Liu with the owner of St. Charles. This is another LEP relationship within European education; the person pictured is not an IMI representative.</figcaption>
 </figure>
 
-For IMI, we have a formal partnership and direct contact with the admissions team on courses and applications. The specific contact differs by school. The underlying approach is consistent: build trust through ongoing cooperation and know whom to reach when a family needs something progressed.
+For IMI, we have a formal partnership with IMI and work directly with the school on courses and applications. The specific contact differs by school. The underlying approach is consistent: build trust through ongoing cooperation and know whom to reach when a family needs something progressed.
 
 ## Why a guide cannot replace local relationships
 

@@ -21,8 +21,8 @@ translated: true
 En tant qu’entrepreneur établi en Europe, je regarde ce que l’étudiant apprendra, l’expérience qu’il pourra acquérir et la manière dont l’investissement familial prépare la suite.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
 </figure>
 
 Situé dans la région de Lucerne, IMI enseigne en anglais. Les trois bachelors correspondent à des intérêts différents :

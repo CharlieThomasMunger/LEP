@@ -21,8 +21,8 @@ translated: true
 You do not need a completed application pack before contacting us. Start with your current qualification, English level, budget, preferred intake and what you hope to do afterwards.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu with a member of the IMI admissions team during his campus visit." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu with a member of the IMI admissions team during his campus visit.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu visiting IMI. LEP works directly with the school as an official partner.</figcaption>
 </figure>
 
 ## Which intake could fit your plans?

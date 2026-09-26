@@ -20,8 +20,8 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 你第一次联系我们，不需要先整理好整套文件。先说清目前学历、英语水平、预算、希望入学的时间，以及毕业后大致想做什么，就可以开始判断。
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生在 IMI 访校期间与招生团队合影。" width="2400" height="1331" loading="eager"></a>
-<figcaption>修印先生在 IMI 访校期间与招生团队合影。</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生实地访校 IMI。LEP 与校方直接合作。" width="2400" height="1331" loading="eager"></a>
+<figcaption>修印先生实地访校 IMI。LEP 与校方直接合作。</figcaption>
 </figure>
 
 ## 哪些课程，什么时候入学？

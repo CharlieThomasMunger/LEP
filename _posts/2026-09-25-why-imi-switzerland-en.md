@@ -21,8 +21,8 @@ translated: true
 As an entrepreneur based in Europe, I ask what a student will learn, what experience they can gain and how the family’s investment connects with their future.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu with a member of the IMI admissions team during his campus visit." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu with a member of the IMI admissions team during his campus visit.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu visiting IMI. LEP works directly with the school as an official partner.</figcaption>
 </figure>
 
 IMI is in the Lucerne area and teaches in English. Its bachelor’s choices connect to different interests:

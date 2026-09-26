@@ -11,7 +11,7 @@ standfirst: "从 Eerde 国际寄宿学校开始，了解荷兰国际教育与申
 
 ## Eerde International Boarding School
 
-LEP 当前在荷兰重点对接 Eerde International Boarding School（Eerde 国际寄宿学校），学校位于 Ommen。我们已经与校方招生团队直接沟通，并在推进访校、学生交流及合作安排。
+LEP 当前在荷兰重点对接 Eerde International Boarding School（Eerde 国际寄宿学校），学校位于 Ommen。我们已经与校方直接沟通，并在推进访校、学生交流及合作安排。
 
 对考虑荷兰寄宿教育的家庭，我们关注的不只是校园环境，还包括孩子的课程衔接、英语准备、寄宿适应和后续升学方向。咨询时请说明孩子的年龄、当前年级、课程体系及计划入学时间，我们会结合校方信息讨论适合的下一步。
 

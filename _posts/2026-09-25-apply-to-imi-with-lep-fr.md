@@ -21,8 +21,8 @@ translated: true
 Il n’est pas nécessaire d’avoir déjà constitué un dossier. Parlez-nous de votre diplôme actuel, de votre anglais, du budget, de la rentrée envisagée et de vos objectifs après les études.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu avec une représentante de l’équipe des admissions d’IMI lors de sa visite.</figcaption>
+<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
+<figcaption>James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
 </figure>
 
 ## Quelle rentrée correspond à votre projet ?
