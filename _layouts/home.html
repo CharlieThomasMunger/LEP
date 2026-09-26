@@ -80,7 +80,17 @@ layout: default
     </div>
     <ul class="nodes home">
       {%- for p in notes limit: 4 %}
-      <li>{% if p.image %}<a class="guide-card-image" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ p.image | relative_url }}" alt="" loading="lazy"></a>{% endif %}<div class="guide-card-copy"><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.answer %}<p>{{ p.answer }}</p>{% endif %}</div></li>
+      {%- assign cover = site.data.guide_covers[p.ref] -%}
+      {%- assign cover_image = cover.image | default: p.image -%}
+      <li>
+        {% if cover_image %}
+        <figure class="guide-card-figure">
+          <a class="guide-card-image" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ cover_image | relative_url }}" alt="" loading="lazy"></a>
+          {% if cover.caption[lang] %}<figcaption>{{ cover.caption[lang] }}</figcaption>{% endif %}
+        </figure>
+        {% endif %}
+        <div class="guide-card-copy"><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.answer %}<p>{{ p.answer }}</p>{% endif %}</div>
+      </li>
       {%- endfor %}
     </ul>
   </div>

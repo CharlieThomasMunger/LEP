@@ -1,0 +1,26 @@
+# Article-card photographs are curated separately from article body/hero images.
+# Use distinct photographs within the homepage group; keep language versions aligned.
+seg-guide-s1:
+  image: /assets/seg/james-shms-partnership.jpg
+  caption:
+    zh: 修印先生在 SHMS 访校 · LEP 实拍
+    en: James Liu visiting SHMS · LEP photograph
+    fr: James Liu en visite à SHMS · Photo LEP
+seg-guide-s0:
+  image: /assets/seg/shms-palace-fieldwork.jpg
+  caption:
+    zh: SHMS 宫殿校园 · LEP 实拍
+    en: SHMS palace campus · LEP photograph
+    fr: Le campus-palace de SHMS · Photo LEP
+seg-guide-s5:
+  image: /assets/seg/james-shms-lake.jpg
+  caption:
+    zh: 修印先生在 SHMS 实地考察 · LEP 实拍
+    en: James Liu during his SHMS visit · LEP photograph
+    fr: James Liu lors de sa visite à SHMS · Photo LEP
+seg-guide-s6:
+  image: /assets/imi/imi-admissions-visit.jpg
+  caption:
+    zh: 修印先生在 IMI 访校 · LEP 实拍
+    en: James Liu visiting IMI · LEP photograph
+    fr: James Liu en visite à IMI · Photo LEP
