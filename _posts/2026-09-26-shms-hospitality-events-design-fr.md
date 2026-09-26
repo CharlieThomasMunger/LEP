@@ -15,7 +15,7 @@ translated: true
 
 **Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**
 
-**Deux campus dans des palaces, la quatrième place du classement QS 2026 en Hospitality & Leisure Management, deux stages internationaux rémunérés et des qualifications de SHMS et de l’Université de Derby : voilà plusieurs caractéristiques de Swiss Hotel Management School (SHMS).**
+**Deux campus dans des palaces, la quatrième place du classement QS 2026 en Hospitality & Leisure Management, deux stages internationaux rémunérés et des bachelors de SHMS et de l’Université de Derby : voilà plusieurs caractéristiques de Swiss Hotel Management School (SHMS).**
 
 J’ai personnellement visité SHMS. Pour un jeune intéressé par l’hôtellerie, les services haut de gamme ou l’événementiel, cette école mérite d’être étudiée. Son orientation en design management permet aussi de relier le goût des espaces, de l’esthétique et de l’expérience client à la gestion hôtelière.
 
@@ -54,13 +54,13 @@ Les premières étapes comprennent la théorie et la pratique de la restauration
 <figcaption>Organisation des études et des stages en bachelor à SHMS. Cliquer pour agrandir ; l’ordre dépend du parcours choisi.</figcaption>
 </figure>
 
-La brochure présente un parcours de **2,5 à 3 ans**, comprenant la qualification professionnelle ES puis la poursuite vers le bachelor. Une famille visant le diplôme complet doit intégrer la dernière étape : un diplôme intermédiaire ne constitue pas à lui seul le bachelor.
+Le parcours dure **2,5 à 3 ans**, comprenant le diplôme professionnel ES puis la poursuite vers le bachelor. Une famille visant le diplôme complet doit intégrer la dernière étape : un diplôme intermédiaire ne constitue pas à lui seul le bachelor.
 
-## Comprendre les trois qualifications
+## Quels diplômes peut-on obtenir ?
 
-La brochure 2027 mentionne le diplôme suisse de formation professionnelle supérieure en gestion hôtelière, Advanced Federal Diploma of Higher Education, la qualification de bachelor correspondante délivrée par SHMS et le BA (Hons) de l’Université de Derby au Royaume-Uni.
+Après avoir suivi les cursus correspondants, les étudiants peuvent obtenir le diplôme suisse de formation professionnelle supérieure en gestion hôtelière, Advanced Federal Diploma of Higher Education, le bachelor correspondant délivrée par SHMS et le BA (Hons) de l’Université de Derby au Royaume-Uni.
 
-Le diplôme ES relève de la formation professionnelle supérieure suisse ; le BA est un bachelor. Ce sont des qualifications distinctes au sein du parcours. Pour une poursuite en master, nous examinons l’établissement qui délivre le diplôme, les résultats et les conditions du programme visé.
+Le diplôme ES relève de la formation professionnelle supérieure suisse ; le BA est un bachelor. Ces diplômes correspondent à des étapes distinctes du parcours. Pour une poursuite en master, nous examinons l’établissement qui délivre le diplôme, les résultats et les conditions du programme visé.
 
 SHMS occupe la **quatrième place du classement QS 2026 Hospitality & Leisure Management**. Il s’agit d’un classement disciplinaire, pas du classement général des universités. Le classement aide à situer une école ; les cours et les stages permettent de comprendre ce qu’un étudiant peut réellement y apprendre.
 
@@ -78,7 +78,7 @@ SHMS occupe la **quatrième place du classement QS 2026 Hospitality & Leisure Ma
 <figcaption>MA International Hospitality Business Management : parcours standard et accéléré, avec spécialisation en marques de luxe.</figcaption>
 </figure>
 
-Une personne déjà expérimentée qui souhaite consolider ses connaissances en gestion n’a pas nécessairement les mêmes besoins qu’un jeune diplômé intéressé par la recherche. LEP échange directement avec l’école pour relier le choix du parcours, sa durée, la pratique et la qualification finale.
+Une personne déjà expérimentée qui souhaite consolider ses connaissances en gestion n’a pas nécessairement les mêmes besoins qu’un jeune diplômé intéressé par la recherche. LEP échange directement avec l’école pour relier le choix du parcours, sa durée, la pratique et le diplôme obtenu.
 
 ## Quel budget pour le bachelor en 2027 ?
 
@@ -112,4 +112,4 @@ Je dirige des activités en Europe et m’intéresse aux compétences recherché
 
 Les familles partenaires peuvent bénéficier des réseaux locaux que nous entretenons. Les écoles ont besoin d’étudiants qui progressent, les entreprises de talents adaptés, et nous de jeunes que nous pouvons recommander durablement. Cette relation se construit grâce à des années de coopération et à la réputation. Elle commence par une sélection attentive et une bonne adéquation entre l’étudiant, le pays et l’école.
 
-Présentez-nous les qualifications, les intérêts, le budget et les pays envisagés pour la suite. LEP prend en charge le choix de formation, les échanges sur les bourses et l’avancement de la candidature.
+Présentez-nous le parcours scolaire, les intérêts, le budget et les pays envisagés pour la suite. LEP prend en charge le choix de formation, les échanges sur les bourses et l’avancement de la candidature.

@@ -15,7 +15,7 @@ translated: true
 
 **By James Liu | Lux Education Partners | Reviewed 26 September 2026**
 
-**Two palace campuses, fourth place in the QS 2026 Hospitality & Leisure Management subject ranking, two international paid internships, and qualifications from SHMS and the University of Derby: these are distinctive features of Swiss Hotel Management School (SHMS).**
+**Two palace campuses, fourth place in the QS 2026 Hospitality & Leisure Management subject ranking, two international paid internships, and bachelor’s degrees from SHMS and the University of Derby: these are distinctive features of Swiss Hotel Management School (SHMS).**
 
 I have visited SHMS myself. For students interested in hotels, high-end service or events, I think it deserves serious consideration. Its design management pathway also connects an interest in space, aesthetics and customer experience with hospitality business.
 
@@ -54,13 +54,13 @@ Early study includes food and beverage theory and practice, cost control, wine, 
 <figcaption>SHMS undergraduate study and internship structure. Click to enlarge; the sequence depends on the selected route.</figcaption>
 </figure>
 
-The brochure describes a **2.5–3-year route**, including the ES professional qualification and progression to bachelor-level study. Families planning a full bachelor's degree must include the final stage, rather than treating an intermediate diploma as the completed degree.
+The **2.5–3-year route** includes the ES professional diploma and progression to bachelor-level study. Families planning a full bachelor's degree must include the final stage, rather than treating an intermediate diploma as the completed degree.
 
-## Understanding the three qualifications
+## Which degrees and diplomas can students earn?
 
-The 2027 brochure lists the Swiss Advanced Federal Diploma of Higher Education in hospitality management, the relevant SHMS bachelor's qualification and a BA (Hons) from the University of Derby in the UK.
+Students completing the corresponding programmes can earn the Swiss Advanced Federal Diploma of Higher Education in hospitality management, the relevant SHMS bachelor's degree and a BA (Hons) from the University of Derby in the UK.
 
-The ES diploma is a Swiss higher professional education qualification; a BA is a bachelor's degree. They represent different qualifications within the study route. If a student plans to continue to a master's, we consider the awarding institution, results and the requirements of the intended postgraduate programme.
+The ES diploma is a Swiss higher professional education diploma; a BA is a bachelor's degree. The diploma and degrees correspond to different stages of study. If a student plans to continue to a master's, we consider the awarding institution, results and the requirements of the intended postgraduate programme.
 
 SHMS is **fourth in the QS 2026 Hospitality & Leisure Management subject ranking**. This is a subject ranking, not fourth place among universities overall. Rankings help families become familiar with a school; the curriculum and practical experience explain what a student can learn there.
 
@@ -78,7 +78,7 @@ SHMS is **fourth in the QS 2026 Hospitality & Leisure Management subject ranking
 <figcaption>International Hospitality Business Management MA: standard and accelerated routes, including the luxury brand specialisation.</figcaption>
 </figure>
 
-A person with practical experience who wants a stronger business foundation may need a different route from a recent graduate preparing for research-oriented study. LEP works directly with the school to connect programme choice, actual study time, practical experience and the final qualification.
+A person with practical experience who wants a stronger business foundation may need a different route from a recent graduate preparing for research-oriented study. LEP works directly with the school to connect programme choice, actual study time, practical experience and the final degree or diploma.
 
 ## What does the 2027 undergraduate route cost?
 
@@ -112,4 +112,4 @@ I run businesses in Europe and pay attention to the skills employers value. An a
 
 Partner families can draw on the local networks we maintain. Schools need students who develop well; employers need suitable talent; we need students whom we can continue to recommend with confidence. That relationship grows through years of cooperation and reputation. It starts with careful student selection and a suitable match between the person, country and school.
 
-Tell us about the student's qualifications, interests, budget and preferred countries for their future. LEP can handle programme selection, scholarship discussions and the application process.
+Tell us about the student's educational background, interests, budget and preferred countries for their future. LEP can handle programme selection, scholarship discussions and the application process.
