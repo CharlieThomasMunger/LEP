@@ -8,14 +8,14 @@ school_article: true
 has_topic_navigation: true
 title: "IMI 实习和毕业就业：学校给你起点，本地网络帮你继续往前走"
 date: "2026-09-25"
-reviewed: "2026-09-25"
+reviewed: "2026-09-26"
 description: "我介绍 IMI 时，很重视它把实习放进本科课程的安排。学生毕业时有实际工作经历，也开始认识雇主，比只拿着一张文凭出发更有准备。"
 image: "/assets/imi/hospitality-curriculum.png"
 ---
 
-作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 25 日
+作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
 
-**我介绍 IMI 时，很重视它把实习放进本科课程的安排。学生毕业时有实际工作经历，也开始认识雇主，比只拿着一张文凭出发更有准备。**
+**我介绍瑞士国际酒店管理学院（IMI International Management Institute Switzerland，简称 IMI）时，很重视它把实习放进本科课程的安排。学生毕业时有实际工作经历，也开始认识雇主，比只拿着一张文凭出发更有准备。**
 
 但我们做规划，不能只停在“学校有实习”。第一份工作怎么选，第二次实习往哪里走，毕业时谁愿意推荐你，都应该提前想。
 

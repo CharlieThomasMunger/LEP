@@ -15,7 +15,7 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
 
-**我去 IMI，想看的不仅是校园，还包括学生怎样学习、怎样与人沟通，以及这所学校能给什么样的孩子一个好的起点。**
+**我去瑞士国际酒店管理学院（IMI International Management Institute Switzerland，简称 IMI），想看的不仅是校园，还包括学生怎样学习、怎样与人沟通，以及这所学校能给什么样的孩子一个好的起点。**
 
 从我的访校感受看，IMI 的设施不算豪华。但选学校要分清什么最重要：孩子需要的是更好的硬件体验，还是一套适合他的课程、实习安排和承担得起的费用？不同家庭，答案会不一样。
 
