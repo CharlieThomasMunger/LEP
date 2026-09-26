@@ -45,3 +45,8 @@ WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxe
 - [IMI 怎么申请？找 LEP，课程、奖学金和申请由我们一起推进](/zh/insights/apply-to-imi-with-lep/)
 - [我到 IMI 看什么？校园之外，我更关心孩子读完能走哪条路](/zh/insights/imi-campus-visit/)
 - [IMI 2027 冬令营：1,800 瑞郎早鸟价，之后入读可抵学费](/zh/insights/imi-winter-summer-programmes/)
+
+
+## 深入了解 SHMS 瑞士酒店管理大学
+
+[SHMS 瑞士酒店管理大学：两座宫殿校园，酒店、会展与设计三条本科方向](/zh/insights/shms-hospitality-events-design/)

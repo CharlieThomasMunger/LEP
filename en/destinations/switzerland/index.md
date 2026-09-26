@@ -45,3 +45,8 @@ Share your child’s age, current year group, language skills, family budget and
 - [Applying to IMI Switzerland? LEP can handle programme selection, scholarships and the application with you](/en/insights/apply-to-imi-with-lep/)
 - [What I look for when visiting IMI: the student’s future beyond the campus](/en/insights/imi-campus-visit/)
 - [IMI Winter Programme 2027: CHF 1,800 early fee and a possible credit towards later tuition](/en/insights/imi-winter-summer-programmes/)
+
+
+## Explore Swiss Hotel Management School
+
+[SHMS Swiss Hotel Management School: two palace campuses and three routes into hospitality, events and design](/en/insights/shms-hospitality-events-design/)

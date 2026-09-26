@@ -45,3 +45,8 @@ Indiquez-nous l’âge de votre enfant, sa classe actuelle, ses compétences lin
 - [Candidater à IMI en Suisse : LEP vous accompagne dans le choix du programme, les bourses et l’admission](/fr/insights/apply-to-imi-with-lep/)
 - [Ce que je regarde lors d’une visite à IMI : l’avenir de l’étudiant au-delà du campus](/fr/insights/imi-campus-visit/)
 - [Programme d’hiver IMI 2027 : tarif anticipé de 1 800 CHF et déduction possible sur des études ultérieures](/fr/insights/imi-winter-summer-programmes/)
+
+
+## Découvrir Swiss Hotel Management School
+
+[SHMS Swiss Hotel Management School : deux campus dans des palaces et trois orientations en hôtellerie, événementiel et design](/fr/insights/shms-hospitality-events-design/)
