@@ -53,3 +53,16 @@ WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxe
 
 
 [瑞士恺撒里兹大学 CRCS：学企业经营、金融与应用 AI，为什么值得考虑？](/zh/insights/cesar-ritz-business-ai-leadership/)
+
+
+## SEG 四校：课程与费用比较
+
+[SEG 四所学校怎么选？酒店看 SHMS，商科看 CRCS 和 HIM，厨艺看 CAA](/zh/insights/seg-schools-comparison/)
+
+[HIM 瑞士蒙特勒工商管理大学：三次实习的商科，和一条 AI 客户体验硕士](/zh/insights/him-business-ai-customer-experience/)
+
+[CAA 瑞士美食艺术管理学院：为追求卓越厨艺的学生，走一条大师淬炼之路](/zh/insights/culinary-arts-academy-switzerland/)
+
+[SEG 四校费用与奖学金：学校怎么选，预算怎样安排？](/zh/insights/seg-fees-scholarships/)
+
+[IMI 和 SEG 怎么选？把 SHMS、CRCS、HIM、CAA 分开，答案才有用](/zh/insights/imi-vs-seg-schools/)

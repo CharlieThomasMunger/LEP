@@ -53,3 +53,16 @@ Share your child’s age, current year group, language skills, family budget and
 
 
 [César Ritz Colleges Switzerland: business management, finance and applied AI](/en/insights/cesar-ritz-business-ai-leadership/)
+
+
+## SEG schools: courses and costs
+
+[Choosing between SEG’s four schools: SHMS, César Ritz, HIM and Culinary Arts Academy](/en/insights/seg-schools-comparison/)
+
+[HIM Business School: three business internships and a master’s in applied AI for customer experience](/en/insights/him-business-ai-customer-experience/)
+
+[Culinary Arts Academy Switzerland: a demanding path towards culinary excellence](/en/insights/culinary-arts-academy-switzerland/)
+
+[SEG fees and scholarships: comparing four schools and planning the family budget](/en/insights/seg-fees-scholarships/)
+
+[IMI or SEG’s schools? Comparing hospitality, business, culinary training and budgets](/en/insights/imi-vs-seg-schools/)

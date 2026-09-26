@@ -9,7 +9,7 @@ title: "SHMS Swiss Hotel Management School: two palace campuses and three routes
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "Explore SHMS hospitality, event and design pathways, postgraduate options and 2027 fees with James Liu’s campus visit perspective and LEP’s direct school partnership."
-image: "/assets/seg/lep-shms-visit.jpg"
+image: "/assets/seg/james-shms-partnership.jpg"
 translated: true
 ---
 
@@ -22,13 +22,13 @@ I have visited SHMS myself. For students interested in hotels, high-end service 
 One student wants to run a hotel, another enjoys organising events, and a third is drawn to interiors. SHMS offers three undergraduate directions that give those interests a practical focus.
 
 <figure class="article-photo">
-<a href="/assets/seg/lep-shms-visit.jpg" target="_blank" rel="noopener"><img src="/assets/seg/lep-shms-visit.jpg" alt="James Liu visiting SHMS, a direct partner of LEP" loading="eager"></a>
-<figcaption>James Liu visiting SHMS. LEP works directly with the school as an official partner.</figcaption>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu visiting SHMS, a direct partner of LEP" loading="eager"></a>
+<figcaption>James Liu visiting SHMS. LEP works directly with the school as an official partner. · Photographed during LEP’s campus visit | LEP photograph</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-campus.jpg" alt="A palace campus at SHMS" loading="lazy"></a>
-<figcaption>A palace campus at SHMS.</figcaption>
+<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="A palace campus at SHMS" loading="lazy"></a>
+<figcaption>A palace campus at SHMS. · Photographed during LEP’s campus visit | LEP photograph</figcaption>
 </figure>
 
 ## Three pathways, three different interests
@@ -102,7 +102,7 @@ These figures are before scholarships. Accommodation and meals cover the study p
 
 SHMS has a higher listed undergraduate cost within the four SEG schools. For a student committed to hotel operations, events or hospitality design, its setting, specialist pathways and practical training are worth comparing. I consider the student's direction and the family's budget, then work with the school on applicable scholarships.
 
-Postgraduate routes have separate fees. The standard MA and MSc schedules contain inconsistencies between component figures and totals. LEP will obtain written clarification before preparing an application budget for a family.
+Postgraduate fees depend on the selected programme and intake. Fees may vary; the final amount is confirmed by the school during the application.
 
 ## How does LEP help a student make use of these opportunities?
 

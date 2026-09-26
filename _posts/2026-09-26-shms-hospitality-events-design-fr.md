@@ -9,7 +9,7 @@ title: "SHMS Swiss Hotel Management School : deux campus dans des palaces et tro
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "Découvrez les orientations SHMS en hôtellerie, événementiel et design, les masters et les frais 2027, avec le regard de James Liu et l’accompagnement de LEP."
-image: "/assets/seg/lep-shms-visit.jpg"
+image: "/assets/seg/james-shms-partnership.jpg"
 translated: true
 ---
 
@@ -22,13 +22,13 @@ J’ai personnellement visité SHMS. Pour un jeune intéressé par l’hôteller
 Certains souhaitent diriger un hôtel, d’autres organiser des événements ou travailler sur les espaces intérieurs. Les trois orientations de SHMS donnent à ces intérêts des débouchés concrets à explorer.
 
 <figure class="article-photo">
-<a href="/assets/seg/lep-shms-visit.jpg" target="_blank" rel="noopener"><img src="/assets/seg/lep-shms-visit.jpg" alt="James Liu en visite à SHMS, partenaire direct de LEP" loading="eager"></a>
-<figcaption>James Liu en visite à SHMS. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu en visite à SHMS, partenaire direct de LEP" loading="eager"></a>
+<figcaption>James Liu en visite à SHMS. LEP travaille directement avec l’école en tant que partenaire officiel. · Photo prise lors de la visite de LEP | Photo LEP</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-campus.jpg" alt="Un campus de SHMS dans un palace" loading="lazy"></a>
-<figcaption>Un campus de SHMS dans un palace.</figcaption>
+<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="Un campus de SHMS dans un palace" loading="lazy"></a>
+<figcaption>Un campus de SHMS dans un palace. · Photo prise lors de la visite de LEP | Photo LEP</figcaption>
 </figure>
 
 ## Trois orientations pour trois types de projets
@@ -102,7 +102,7 @@ Ces montants sont indiqués avant bourse. L’hébergement et les repas couvrent
 
 Le coût affiché du bachelor SHMS est relativement élevé parmi les quatre écoles du SEG. Pour un étudiant déterminé à travailler dans la gestion hôtelière, l’événementiel ou le design hôtelier, son environnement, ses spécialisations et sa pratique méritent une comparaison. Je rapproche le projet du jeune du budget familial, puis nous discutons avec l’école des bourses applicables.
 
-Les programmes de master ont des tarifs distincts. Les tableaux du MA standard et du MSc présentent des incohérences entre certaines rubriques et les totaux. LEP demandera une clarification écrite avant de préparer le budget de candidature d’une famille.
+Les frais de master dépendent de la formation et de la rentrée choisies. Ils peuvent varier ; le montant définitif est confirmé par l’école lors de la candidature.
 
 ## Comment LEP aide-t-il à utiliser les ressources de l’école ?
 

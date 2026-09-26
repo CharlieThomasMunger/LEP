@@ -9,7 +9,7 @@ title: "SHMS 瑞士酒店管理大学：两座宫殿校园，酒店、会展与�
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "SHMS 瑞士酒店管理大学有哪些优势？修印先生结合实地访校，讲清酒店、会展与设计本科、硕士选择、2027费用，以及LEP的校方直接合作与奖学金申请支持。"
-image: "/assets/seg/lep-shms-visit.jpg"
+image: "/assets/seg/james-shms-partnership.jpg"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
@@ -21,13 +21,13 @@ image: "/assets/seg/lep-shms-visit.jpg"
 同样读酒店管理，有人希望经营酒店，有人擅长组织活动，有人更喜欢空间设计。SHMS 把这三种兴趣做成了不同的本科方向，选择时就有了具体落点。
 
 <figure class="article-photo">
-<a href="/assets/seg/lep-shms-visit.jpg" target="_blank" rel="noopener"><img src="/assets/seg/lep-shms-visit.jpg" alt="修印先生实地访校 SHMS。LEP 与校方直接合作" loading="eager"></a>
-<figcaption>修印先生实地访校 SHMS。LEP 与校方直接合作。</figcaption>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="修印先生实地访校 SHMS。LEP 与校方直接合作" loading="eager"></a>
+<figcaption>修印先生实地访校 SHMS。LEP 与校方直接合作。 | LEP 实拍</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-campus.jpg" alt="SHMS 宫殿校园" loading="lazy"></a>
-<figcaption>SHMS 宫殿校园。</figcaption>
+<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="SHMS 宫殿校园" loading="lazy"></a>
+<figcaption>SHMS 宫殿校园。 · LEP 实拍</figcaption>
 </figure>
 
 ## 三个方向，对应三种不同的工作
@@ -101,7 +101,7 @@ SHMS 在 **QS 2026 Hospitality & Leisure Management 学科排名中列世界第 
 
 在 SEG 四校中，SHMS 本科的表列收费较高。对明确希望学习酒店经营、会展或酒店空间设计的学生，这套行业环境、专业分支与实践安排，是值得比较的投入。我会结合孩子的方向和家庭预算判断，再与学校沟通适用奖学金，把实际需要准备的金额列清楚。
 
-硕士不同路径的收费另算；其中标准 MA 和 MSc 原表存在分项与合计不一致，LEP 会先向学校核清书面金额，再为家庭作申请预算。
+硕士费用按具体课程与入学安排确认。费用为申请预算参考，可能略有变化，以最终学校申请确认的金额为准。
 
 ## 通过 LEP，怎样把学校资源变成孩子能用上的机会？
 
