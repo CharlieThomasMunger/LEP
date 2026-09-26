@@ -4,6 +4,14 @@ layout: default
 {%- assign lang = page.lang -%}
 {%- assign t = site.data.ui[lang] -%}
 {%- assign notes = site.posts | where: "lang", lang -%}
+{%- assign lux_overview = notes | where: "ref", "lux-guide-l0" -%}
+{%- if lux_overview.size > 0 -%}
+  {%- assign lux_case = notes | where: "ref", "lux-guide-l5" -%}
+  {%- assign lux_otr = notes | where: "ref", "lux-guide-l3" -%}
+  {%- assign swiss_guide = notes | where: "ref", "seg-guide-s1" -%}
+  {%- assign notes = lux_overview | concat: lux_case | concat: lux_otr | concat: swiss_guide -%}
+{%- endif -%}
+
 
 <!-- ===== Hero ===== -->
 {% assign hero_school = site.data.fieldwork.luxembourg.items | where: 'name', "St George's International School" | first %}

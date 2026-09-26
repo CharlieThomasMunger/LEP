@@ -24,3 +24,16 @@ standfirst: "学校申请、家庭落地与持续本地支持。从我们长期�
 ## 联系咨询
 
 WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+
+<!-- lux-school-guides -->
+## 英文私立国际学校：选校、费用与真实案例
+
+- [卢森堡英文私立国际学校怎么选？ISL、圣乔治与 OTR 的区别](/zh/insights/luxembourg-international-schools/)
+- [ISL 卢森堡国际学校：适合什么样的孩子和家庭？](/zh/insights/isl-luxembourg-school/)
+- [圣乔治国际学校：在卢森堡读英式课程，为什么值得认真了解？](/zh/insights/st-georges-luxembourg-school/)
+- [OTR 国际学校：小班、英法双语，以及 IB 与 A Level 选择](/zh/insights/otr-luxembourg-school/)
+- [卢森堡英文私立国际学校一年多少钱？ISL、圣乔治、OTR 费用对比](/zh/insights/luxembourg-international-school-fees/)
+- [9 天，把学校、试读和寄宿家庭安排接起来：LEP 在卢森堡完成的一次特殊插班](/zh/insights/st-georges-rapid-school-placement/)
+- [父母不在卢森堡，孩子单独留学，学校和寄宿家庭怎样落实？](/zh/insights/study-without-parents/)
+- [在卢森堡给孩子找学校，为什么找一家真正扎根本地的企业？](/zh/insights/luxembourg-school-support-lep/)
+<!-- /lux-school-guides -->

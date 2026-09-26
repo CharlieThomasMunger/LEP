@@ -1,58 +1,18 @@
 ---
-layout: node
-lang: en
-ref: dn-lux-001
-permalink: /en/insights/study-without-parents/
-cluster: luxembourg-school
-title: "Can a child study in Luxembourg if the parents are not resident?"
-date: 2026-09-02
-reviewed: 2026-09-02
+layout: "node"
+lang: "en"
+ref: "dn-lux-001"
+permalink: "/en/insights/study-without-parents/"
+cluster: "luxembourg-school"
+title: "Studying in Luxembourg without parents: arranging the school and a host family"
+date: "2026-09-26"
+reviewed: "2026-09-26"
+description: "ISL, St George’s and OTR are day schools: an offer does not include accommodation. When parents do not live in Luxembourg, the child’s local home and responsible adults must be arranged alongside school admission. LEP helps with host-family matching and local coordination."
+image: "/assets/fieldwork/otr.jpg"
+lep_service_page: false
 translated: true
-answer: "Yes, but almost every school will require a legal guardian resident in Luxembourg and confirmed accommodation before enrolment. The hard part is not finding a school — it is getting all of these to hold at the same time."
-evidence: C
-description: "Four conditions that must hold together when a minor studies in Luxembourg without a resident parent: school policy, guardian, accommodation, and residence status."
-variables:
-  - name: "The child's age"
-    note: "Minimum ages for studying without a parent vary widely; the younger the child, the closer the scrutiny of the guardianship arrangement."
-  - name: "Type of school"
-    note: "Public, public international and private schools differ, and schools within the same category are not consistent with each other."
-  - name: "Who the guardian is"
-    note: "Relatives, family friends and third-party guardianship providers are not treated the same way by schools."
-  - name: "Accommodation"
-    note: "Host family, relatives, or an arrangement the school accepts — settled before enrolment, not after."
-  - name: "Residence pathway"
-    note: "The child's residence status is tied to the parents' arrangements and cannot be planned separately from the school decision."
-judgment: "If the four pieces — school, guardian, accommodation, residence — cannot be made to hold within the same window, solving any one of them first achieves nothing. The cases I have seen fail were rarely rejected by a school. They stalled after a place was offered, on guardianship or accommodation."
-not_for:
-  - "Families who want a child to live entirely independently, with no guardianship arrangement"
-  - "Families who cannot confirm accommodation before enrolment"
-  - "Families for whom Luxembourg is primarily a tax or residence arrangement, with school as the stated reason"
-assessment:
-  - "The current guardianship policy and minimum age at the specific school"
-  - "The proposed guardian's residence status and whether the school will accept them"
-  - "The child's residence application route and timeline"
-faq:
-  - q: "Will the school arrange a guardian?"
-    a: "Most do not. Families are generally expected to put the arrangement in place and submit it for the school's review. Policies differ by school."
-  - q: "Does the guardian have to be a relative?"
-    a: "Not necessarily, but schools usually ask for fuller documentation where the guardian is not a family member."
-  - q: "When should we start?"
-    a: "A full academic year ahead of enrolment is a reasonable starting point. Guardianship and accommodation routinely take longer than families expect."
-sources:
-  - name: "Luxembourg — Ministère de l'Éducation nationale"
-    url: "https://men.public.lu/"
-  - name: "Guichet.lu — Residence of third-country nationals"
-    url: "https://guichet.public.lu/"
 ---
 
-Most families start with the wrong question. They ask which school will take the child, when the school is rarely the hardest part.
-
-The real order runs the other way. A school will want to know two other things first — **who is legally responsible for the child in Luxembourg, and where the child sleeps** — before it treats the application seriously. Without those, a place is not worth much.
-
-## What schools are actually checking
-
-Schools need an unbroken chain of responsibility: who is called if something happens, who can sign, who can be physically present. This is a safeguarding requirement rather than an administrative one, which is why policies that are worded differently all point at the same thing.
-
-## A workable order
-
-Confirm the target school's current policy first. Then settle guardianship and accommodation. Documentation comes last. Done in the other order, each step risks having to be redone.
+<p class="lead">ISL, St George’s and OTR are day schools: an offer does not include accommodation. When parents do not live in Luxembourg, the child’s local home and responsible adults must be arranged alongside school admission. LEP helps with host-family matching and local coordination.</p>
+<figure class="article-photo"><img alt="James Liu visiting OTR. LEP photograph." loading="eager" src="/assets/fieldwork/otr.jpg"/><figcaption>James Liu visiting OTR. LEP photograph.</figcaption></figure><h2>The child needs a local home</h2><p>A school accepting a pupil for lessons does not take over their everyday living arrangements. For a child arriving without parents, the host family cannot be left as an afterthought. Where the child lives, who looks after them and whom the school contacts need to be settled before the start.</p><p>This article concerns families whose parents will not live locally. The three schools discussed here should not be approached as British-style boarding schools with accommodation included.</p><h2>More than an available bedroom</h2><p>I consider the match between the child and host family, communication, travel to school and how parents remain involved. Age, language ability, independence and habits all affect the support required. Local arrangements also need a named person who can respond and attend when something unexpected happens.</p><p>LEP uses its local relationships to coordinate suitable arrangements alongside school selection. In our nine-day case the parents had already found the host family; our work was to connect that arrangement with the school’s requirements and accompany the meeting.</p><h2>Schools respond differently</h2><p>In our applications involving parents abroad, St George’s has been the most constructive and responsive, followed by OTR, with ISL the most cautious. ISL expects strong parental participation and examines host-family arrangements closely. Its assessments in cases I have encountered included two sessions of about two hours.</p><p>St George’s combines strict procedures with willingness to discuss individual circumstances. Families working with LEP can arrange a three-day free trial through us. Admission still requires the school’s assessment.</p><h2>Residence is a separate part of the plan</h2><p>An offer is not a residence permission. An EU-internal family and a family moving from a third country may face different procedures. We check the applicable route alongside the school and local arrangements, with SBMG services available for broader cross-border planning. A minor’s situation should not be treated as an ordinary university student application.</p><p>The nine-day case did not include a visa application from China. For families preparing from China, I advise starting overall preparations at least four months ahead, with timing assessed for the actual circumstances.</p><h2>Talk to a local team</h2><p>Tell us the child’s age, present school, languages, planned start and budget. LEP can bring school applications, host-family matching, meetings and local living arrangements together. These are paid Luxembourg services; we explain the work and fee before beginning.</p><h2>Explore the related guides</h2><ul><li><a href="/en/insights/luxembourg-international-schools/">Choosing an English-medium private international school in Luxembourg: ISL, St George’s and OTR</a></li><li><a href="/en/insights/st-georges-rapid-school-placement/">Nine days from paid engagement to a school start: a Luxembourg placement and host-family case</a></li><li><a href="/en/insights/luxembourg-school-support-lep/">Why choose LEP for a Luxembourg school application? Local relationships that lead to action</a></li></ul><p><strong>Luxembourg school and local host-family services are paid. We agree the work and fees before starting.</strong></p>
+{% include lep-contact.html %}
