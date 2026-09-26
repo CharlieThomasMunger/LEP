@@ -50,3 +50,6 @@ Indiquez-nous l’âge de votre enfant, sa classe actuelle, ses compétences lin
 ## Découvrir Swiss Hotel Management School
 
 [SHMS Swiss Hotel Management School : deux campus dans des palaces et trois orientations en hôtellerie, événementiel et design](/fr/insights/shms-hospitality-events-design/)
+
+
+[César Ritz Colleges Switzerland : gestion d’entreprise, finance et IA appliquée](/fr/insights/cesar-ritz-business-ai-leadership/)

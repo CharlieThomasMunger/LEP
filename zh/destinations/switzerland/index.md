@@ -50,3 +50,6 @@ WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxe
 ## 深入了解 SHMS 瑞士酒店管理大学
 
 [SHMS 瑞士酒店管理大学：两座宫殿校园，酒店、会展与设计三条本科方向](/zh/insights/shms-hospitality-events-design/)
+
+
+[瑞士恺撒里兹大学 CRCS：学企业经营、金融与应用 AI，为什么值得考虑？](/zh/insights/cesar-ritz-business-ai-leadership/)

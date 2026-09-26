@@ -50,3 +50,6 @@ Share your child’s age, current year group, language skills, family budget and
 ## Explore Swiss Hotel Management School
 
 [SHMS Swiss Hotel Management School: two palace campuses and three routes into hospitality, events and design](/en/insights/shms-hospitality-events-design/)
+
+
+[César Ritz Colleges Switzerland: business management, finance and applied AI](/en/insights/cesar-ritz-business-ai-leadership/)
