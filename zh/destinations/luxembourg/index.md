@@ -27,7 +27,6 @@ standfirst: "学校申请、家庭落地与持续本地支持。从我们长期�
 - [为什么考虑卢森堡读初高中？什么家庭适合，什么家庭不适合？](/zh/insights/why-study-luxembourg-secondary-school/)
 <!-- /lux-four-family-questions -->
 
-
 ## 学校与家庭的本地支持
 
 我们在卢森堡生活和经营企业。对家庭而言，学校选择之后，还有住宿、家长沟通、落地与在读支持需要衔接。LEP 将这些环节放在同一个家庭规划中讨论。

@@ -84,6 +84,6 @@ faq: [{"q": "孩子成绩特别好，还有必要出国吗？", "a": "看目标�
 
 <p>您可以先告诉我们孩子的年级、英语情况、为什么考虑出国，以及父母是否同行。把这些说明白，才有办法判断卢森堡是否适合您家，以及哪所学校值得走进去看。</p>
 
-<section class="lep-service-link" id="contact-lep"><h2>和LEP讨论孩子的具体情况</h2><p>告诉我们孩子的年级、在读课程、英语情况、计划入学时间，以及父母是否同行。LEP在卢森堡本地协调学校申请、寄宿家庭和入学衔接。</p><p class="lep-contact-actions"><a href="mailto:jamesliu@luxedupartners.lu">邮件联系修印先生</a><span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/luxembourg-school-support-lep/">了解LEP本地申请与寄宿家庭服务 →</a></p></section>
+<section class="lep-service-link" id="lux-school-contact"><h2>和LEP讨论孩子的具体情况</h2><p>告诉我们孩子的年级、在读课程、英语情况、计划入学时间，以及父母是否同行。LEP在卢森堡本地协调学校申请、寄宿家庭和入学衔接。</p><p class="lep-contact-actions"><a href="mailto:jamesliu@luxedupartners.lu">邮件联系修印先生</a><span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/luxembourg-school-support-lep/">了解LEP本地申请与寄宿家庭服务 →</a></p></section>
 
 <section class="related"><h2>继续了解卢森堡留学</h2><ul><li><a href="/zh/insights/luxembourg-school-english-language/">英语一般、不会法语，能去卢森堡国际学校读初高中吗？</a></li><li><a href="/zh/insights/luxembourg-school-application-midyear-entry/">卢森堡国际学校什么时候申请？开学后还能插班吗？</a></li><li><a href="/zh/insights/luxembourg-ib-a-level-university-pathways/">在卢森堡读IB还是A Level？以后能申请哪些国家的大学？</a></li><li><a href="/zh/insights/luxembourg-international-school-fees/">卢森堡英文私立国际学校一年多少钱？ISL、圣乔治、OTR 费用对比</a></li><li><a href="/zh/insights/study-without-parents/">父母不在卢森堡，孩子单独留学，学校和寄宿家庭怎样落实？</a></li></ul><p><a href="/zh/destinations/luxembourg/">卢森堡留学完整指南 →</a></p></section>

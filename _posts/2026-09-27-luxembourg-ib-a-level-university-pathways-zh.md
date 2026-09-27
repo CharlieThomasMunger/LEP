@@ -74,6 +74,6 @@ faq: [{"q": "A Level能申请美国大学吗？", "a": "可以。还要按具体
 
 <p>联系时，可以先告诉我们：孩子目前的年级、最强和最吃力的科目，以及大致想去的大学国家。不确定专业也没有关系，可以从这些实际情况开始讨论。</p>
 
-<section class="lep-service-link" id="contact-lep"><h2>和LEP讨论孩子的具体情况</h2><p>告诉我们孩子的年级、在读课程、英语情况、计划入学时间，以及父母是否同行。LEP在卢森堡本地协调学校申请、寄宿家庭和入学衔接。</p><p class="lep-contact-actions"><a href="mailto:jamesliu@luxedupartners.lu">邮件联系修印先生</a><span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/luxembourg-school-support-lep/">了解LEP本地申请与寄宿家庭服务 →</a></p></section>
+<section class="lep-service-link" id="lux-school-contact"><h2>和LEP讨论孩子的具体情况</h2><p>告诉我们孩子的年级、在读课程、英语情况、计划入学时间，以及父母是否同行。LEP在卢森堡本地协调学校申请、寄宿家庭和入学衔接。</p><p class="lep-contact-actions"><a href="mailto:jamesliu@luxedupartners.lu">邮件联系修印先生</a><span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/luxembourg-school-support-lep/">了解LEP本地申请与寄宿家庭服务 →</a></p></section>
 
 <section class="related"><h2>继续了解卢森堡留学</h2><ul><li><a href="/zh/insights/luxembourg-school-english-language/">英语一般、不会法语，能去卢森堡国际学校读初高中吗？</a></li><li><a href="/zh/insights/luxembourg-school-application-midyear-entry/">卢森堡国际学校什么时候申请？开学后还能插班吗？</a></li><li><a href="/zh/insights/why-study-luxembourg-secondary-school/">为什么考虑卢森堡读初高中？什么家庭适合，什么家庭不适合？</a></li><li><a href="/zh/insights/luxembourg-international-schools/">卢森堡英文私立国际学校怎么选？ISL、圣乔治与 OTR 的区别</a></li><li><a href="/zh/insights/otr-luxembourg-school/">OTR 国际学校：小班、英法双语，以及 IB 与 A Level 选择</a></li></ul><p><a href="/zh/destinations/luxembourg/">卢森堡留学完整指南 →</a></p></section>

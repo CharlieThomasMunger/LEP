@@ -27,7 +27,6 @@ standfirst: "Candidatures, arrivée des familles et accompagnement local, là o�
 - [Pourquoi envisager le secondaire au Luxembourg, et à quelles familles ce choix convient-il ?](/fr/insights/why-study-luxembourg-secondary-school/)
 <!-- /lux-four-family-questions -->
 
-
 ## Accompagnement local des familles
 
 Nous vivons et exerçons nos activités au Luxembourg. Le choix d’un établissement s’inscrit dans un projet familial comprenant aussi le logement, la communication, l’arrivée et l’accompagnement pendant les études.

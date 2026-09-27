@@ -27,7 +27,6 @@ standfirst: "School applications, family arrival and ongoing local support, grou
 - [Why consider secondary school in Luxembourg—and which families does it suit?](/en/insights/why-study-luxembourg-secondary-school/)
 <!-- /lux-four-family-questions -->
 
-
 ## Local support for schools and families
 
 We live and operate businesses in Luxembourg. Choosing a school is only one part of a family’s plans: accommodation, communication, arrival and support during study also need to fit together.

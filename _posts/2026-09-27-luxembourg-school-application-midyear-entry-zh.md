@@ -66,6 +66,6 @@ faq: [{"q": "三所学校是否都有统一的申请截止日？", "a": "没有�
 
 <p>联系LEP时，告诉我们孩子现在在哪里、在读课程和年级、希望何时入学。我们会一起判断：现在能不能接、要先做什么评估、寄宿家庭和学校能否同步推进，以及应当预留多久。</p>
 
-<section class="lep-service-link" id="contact-lep"><h2>和LEP讨论孩子的具体情况</h2><p>告诉我们孩子的年级、在读课程、英语情况、计划入学时间，以及父母是否同行。LEP在卢森堡本地协调学校申请、寄宿家庭和入学衔接。</p><p class="lep-contact-actions"><a href="mailto:jamesliu@luxedupartners.lu">邮件联系修印先生</a><span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/luxembourg-school-support-lep/">了解LEP本地申请与寄宿家庭服务 →</a></p></section>
+<section class="lep-service-link" id="lux-school-contact"><h2>和LEP讨论孩子的具体情况</h2><p>告诉我们孩子的年级、在读课程、英语情况、计划入学时间，以及父母是否同行。LEP在卢森堡本地协调学校申请、寄宿家庭和入学衔接。</p><p class="lep-contact-actions"><a href="mailto:jamesliu@luxedupartners.lu">邮件联系修印先生</a><span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/luxembourg-school-support-lep/">了解LEP本地申请与寄宿家庭服务 →</a></p></section>
 
 <section class="related"><h2>继续了解卢森堡留学</h2><ul><li><a href="/zh/insights/luxembourg-school-english-language/">英语一般、不会法语，能去卢森堡国际学校读初高中吗？</a></li><li><a href="/zh/insights/luxembourg-ib-a-level-university-pathways/">在卢森堡读IB还是A Level？以后能申请哪些国家的大学？</a></li><li><a href="/zh/insights/why-study-luxembourg-secondary-school/">为什么考虑卢森堡读初高中？什么家庭适合，什么家庭不适合？</a></li><li><a href="/zh/insights/st-georges-rapid-school-placement/">9 天，把学校、试读和寄宿家庭安排接起来：LEP 在卢森堡完成的一次特殊插班</a></li></ul><p><a href="/zh/destinations/luxembourg/">卢森堡留学完整指南 →</a></p></section>
