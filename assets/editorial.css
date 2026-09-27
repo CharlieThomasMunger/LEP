@@ -191,3 +191,10 @@ article.node .visit-gallery{display:grid;grid-template-columns:repeat(3,minmax(0
 article.node .visit-gallery .article-photo{margin:0;min-width:0}
 article.node .visit-gallery .article-photo img{width:100%;height:330px!important;object-fit:contain;background:#f5f6f6}
 @media(max-width:650px){article.node .visit-gallery{grid-template-columns:1fr}article.node .visit-gallery .article-photo img{height:auto!important;max-height:480px!important}}
+
+/* Eerde application pathway */
+.eerde-offer{padding:22px 26px;margin:28px 0 34px;background:#edf3ef;border-left:3px solid #877342;line-height:1.8}
+.eerde-offer strong{font-size:18px}.eerde-offer p{font-size:15px!important;margin:10px 0!important}.eerde-offer a{font-weight:600}
+.eerde-contact{background:#173b45;color:#fff;padding:26px 30px;margin:38px 0;scroll-margin-top:90px}.eerde-contact h2{color:#fff!important;margin-top:0!important;font-size:25px!important}.eerde-contact h2:before{display:none!important}.eerde-contact a{color:#fff!important;text-decoration:underline}.eerde-contact p{font-size:16px!important}
+.netherlands-guides{padding-left:1.4rem}.netherlands-guides li{padding:14px 0;border-bottom:1px solid #dde4e2}.netherlands-guides li>a{font-size:20px;font-weight:600}.netherlands-guides p{font-size:15px;color:#52656c;margin:7px 0 0}
+@media(max-width:650px){.eerde-contact,.eerde-offer{padding:20px}.eerde-contact h2{font-size:22px!important}}

@@ -1,0 +1,43 @@
+---
+layout: "node"
+lang: "en"
+ref: "netherlands-n7"
+permalink: "/en/insights/eerde-boarding-school-visit/"
+cluster: "netherlands-school"
+title: "After visiting Eerde: which families should consider this Dutch boarding school?"
+date: "2026-09-27"
+reviewed: "2026-09-27"
+description: "I see Eerde as a worthwhile option for families seeking English-language education and boarding while parents remain abroad. Its historic estate, modern teaching spaces and close school community left a positive impression."
+answer: "I see Eerde as a worthwhile option for families seeking English-language education and boarding while parents remain abroad. Its historic estate, modern teaching spaces and close school community left a positive impression."
+image: "/assets/eerde/n7-1.webp"
+school_article: true
+has_topic_navigation: true
+---
+
+<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n7-1.webp" width="1600" height="1066" alt="Eerde · The castle estate" loading="eager"><figcaption>Eerde · The castle estate</figcaption></figure><h2>Why I am willing to introduce Eerde to families</h2>
+<p>I have visited Eerde International Boarding School. What stood out was the combination of a historic castle estate with modern teaching facilities. Students are choosing a setting in which to live as well as a building in which to attend lessons.</p>
+<p>I went into the boarding accommodation and found the conditions satisfactory. Full boarding covers term-time weekends, which is particularly relevant when parents are not living in the Netherlands.</p>
+<p>The school staff who welcomed us were very warm and approachable. I believe that is worth describing: a family sending a child abroad will care about the people they may need to communicate with, not only the curriculum title.</p>
+<h2>Shared meals and clear expectations in daily life</h2>
+<p>During the visit, the school specifically explained that students eat together with teachers. Contact between students and staff extends beyond lessons.</p>
+<p>There are clear rules around meals and everyday habits. Students clear up after eating, and kitchen use is managed. These routines are part of developing independence while living away from parents.</p>
+<p>Boarding is arranged in historic buildings on the castle campus, while teaching takes place in a very modern building. That combination of the estate’s character and contemporary learning spaces is something I remember clearly.</p>
+<figure class="article-photo"><img src="/assets/eerde/n7-2.webp" width="1600" height="1066" alt="Eerde · Student accommodation" loading="lazy"><figcaption>Eerde · Student accommodation</figcaption></figure><h2>A community where students know one another</h2>
+<p>My impression was that students were in close contact and had personal relationships with one another. For boarding life, that shared community has value.</p>
+<p>The school is near Ommen. I found the surroundings beautiful, with a setting suited to outdoor recreation. Students who enjoy nature and a concentrated campus community may find this appealing.</p>
+<h2>International life means more than lessons in English</h2>
+<p>In our conversation, the school told me that its aim was to keep students from any one country at no more than 10%. This was one of the points I paid particular attention to during the visit.</p>
+<p>For a family seeking an international environment, the attraction is daily contact with people from different backgrounds. It also makes it important that the school understands each student’s academic, language and everyday needs. LEP helps families express those needs clearly and coordinate with the school.</p>
+<figure class="article-photo"><img src="/assets/eerde/n7-3.webp" width="1600" height="1067" alt="Eerde · Entrance to the modern teaching building" loading="lazy"><figcaption>Eerde · Entrance to the modern teaching building</figcaption></figure><h2>Riding, sport, music and art matter in boarding life</h2>
+<p>The school’s materials describe equestrian opportunities through its relationship with the local stables De Hazelhorst, ranging from lessons to participation in competitions.</p>
+<p>There are sports and fitness spaces on campus, described as available for lessons and for boarders in their free time. The surrounding landscape also offers opportunities for walking, running and cycling.</p>
+<p>Music and art are part of the environment too. I learned about the music room, and the school describes creative spaces for painting, design and modelling. These give students different ways to spend time and develop interests outside lessons.</p>
+<p>If riding, music or a particular sport matters to your child, tell LEP so we can clarify the arrangements and any charges with the school.</p>
+<figure class="article-photo"><img src="/assets/eerde/n7-4.webp" width="1600" height="1000" alt="Eerde · Equestrian activities" loading="lazy"><figcaption>Eerde · Equestrian activities</figcaption></figure><h2>Which students would I particularly consider it for?</h2>
+<p>The first group is students who need full boarding because their parents are not moving to the Netherlands. Our main application focus is age 14 and above, considering course fit and readiness for boarding together.</p>
+<p>The second is students willing to study in English and live among peers from different countries. Stronger English may support entry to an appropriate course; those needing preparation can explore Eerde’s Pre-IB arrangements.</p>
+<p>A third group is families already interested in Dutch universities, who would like a student to become familiar with the country while retaining possible university directions in Switzerland, the UK or the US.</p>
+<p>I would not choose a school for a child simply because the campus is attractive. Academic foundations, personality, English and budget must fit too. But from my visit, Eerde has specific qualities that are worth discussing with families.</p>
+<h2>Why work with LEP on this application?</h2>
+<p>James Liu has visited Eerde and seen its boarding and teaching facilities. LEP maintains direct school contact, prepares applications around the individual student and organises visits in the Netherlands each quarter. Families of different nationalities can draw on this local knowledge.</p>
+<p>Until 15 September 2027, LEP charges no additional service fee for assistance with an Eerde application. This includes application assessment, school liaison, document preparation and visa application support. School tuition, boarding and government or other third-party charges remain payable.</p><section class="eerde-contact" id="eerde-contact"><h2>Discuss your child’s application and a school visit with James Liu</h2><p>Tell us your child’s age, current year, English level and intended starting date.</p><p><a href="mailto:jamesliu@luxedupartners.lu">Email James Liu directly</a> · <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a></p><p><a href="/en/insights/apply-to-eerde-with-lep/">How LEP can help with your application →</a></p></section><nav class="related" aria-label="Explore the Netherlands guides"><h2>Explore the Netherlands guides</h2><ul><li><a href="/en/insights/netherlands-international-schools/">Choosing an English-language international school in the Netherlands: what if parents are not moving?</a></li><li><a href="/en/insights/netherlands-boarding-without-parents/">Can a child attend boarding school in the Netherlands without their parents moving?</a></li><li><a href="/en/insights/netherlands-international-school-english/">Can a student study at an international high school in the Netherlands without speaking Dutch?</a></li><li><a href="/en/insights/eerde-boarding-school-fees/">How much does boarding school in the Netherlands cost? Eerde’s tuition and boarding explained</a></li><li><a href="/en/insights/netherlands-boarding-school-application/">Applying to a Dutch boarding school from abroad: where should families start?</a></li><li><a href="/en/insights/netherlands-ib-university-pathways/">After an IB education in the Netherlands, where can students apply to university?</a></li></ul></nav>

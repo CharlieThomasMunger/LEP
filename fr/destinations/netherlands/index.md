@@ -1,24 +1,12 @@
 ---
 layout: "page"
 lang: "fr"
-permalink: "/fr/destinations/netherlands/"
 translation_key: "destination-netherlands"
-title: "Pays-Bas · LEP"
-heading: "Pays-Bas"
-description: "Découvrir l’éducation internationale aux Pays-Bas à travers Eerde International Boarding School."
-standfirst: "Découvrir l’éducation internationale aux Pays-Bas à travers Eerde International Boarding School."
+permalink: "/fr/destinations/netherlands/"
+title: "Étudier en internat anglophone aux Pays-Bas"
+heading: "Étudier en internat anglophone aux Pays-Bas"
+description: "Découvrez Eerde à travers une visite de terrain, les études, l’internat, l’anglais, les frais et les perspectives universitaires. LEP aide les familles internationales à relier le choix scolaire aux démarches concrètes en Europe."
+standfirst: "Découvrez Eerde à travers une visite de terrain, les études, l’internat, l’anglais, les frais et les perspectives universitaires. LEP aide les familles internationales à relier le choix scolaire aux démarches concrètes en Europe."
 ---
 
-## Eerde International Boarding School
-
-Aux Pays-Bas, nous concentrons actuellement nos échanges sur Eerde International Boarding School, à Ommen. Nous sommes en contact direct avec l’école et préparons une visite, des échanges avec les élèves et les modalités de coopération.
-
-Pour les familles envisageant un internat, nous examinons la continuité du cursus, la préparation en anglais, l’adaptation à la vie en pension et la poursuite des études. Indiquez l’âge de votre enfant, sa classe, son cursus et la date d’entrée envisagée pour discuter des prochaines étapes à partir des informations de l’école.
-
-## Pourquoi LEP
-
-[Pourquoi LEP](/fr/insights/why-lep/)
-
-## Nous contacter
-
-[WhatsApp](https://wa.me/352661221289)  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
+<p>J’ai visité Eerde, son hébergement et son campus associant domaine historique et espaces pédagogiques modernes, et échangé directement avec l’école. LEP est basé au Luxembourg, dans le même fuseau horaire, et organise des visites aux Pays-Bas chaque trimestre pour relier cursus, internat et préparation de la candidature.</p><aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><h2>Découvrir les guides sur les Pays-Bas</h2><ol class="netherlands-guides"><li><a href="/fr/insights/netherlands-international-schools/">Comment choisir une école internationale anglophone aux Pays-Bas si les parents ne déménagent pas ?</a><p>Une famille qui déménage ensemble et un élève qui part seul ont des besoins différents. LEP accompagne principalement les candidatures en internat à partir de 14 ans, avec Eerde comme établissement de référence aux Pays-Bas.</p></li><li><a href="/fr/insights/netherlands-boarding-without-parents/">Un enfant peut-il étudier en internat aux Pays-Bas sans que ses parents s’y installent ?</a><p>Eerde propose un internat complet, y compris les week-ends en période scolaire. UWC Maastricht accueille aussi des lycéens en résidence, mais avec un âge d’entrée et une sélection différents. LEP se concentre actuellement sur Eerde.</p></li><li><a href="/fr/insights/netherlands-international-school-english/">Peut-on étudier dans un lycée international aux Pays-Bas sans parler néerlandais ?</a><p>Oui. Pour un cursus international enseigné en anglais, le point de départ est la capacité à apprendre en anglais. Une préparation adaptée peut être envisagée si l’élève en a besoin.</p></li><li><a href="/fr/insights/eerde-boarding-school-fees/">Quel budget prévoir pour un internat aux Pays-Bas ? Les frais d’Eerde expliqués</a><p>En 2026–2027, scolarité et internat complet à Eerde représentent 57 900 € en Middle School et 61 600 € en IGCSE ou IBDP. L’inscription initiale et le dépôt d’internat s’ajoutent la première année.</p></li><li><a href="/fr/insights/netherlands-boarding-school-application/">Candidater à un internat aux Pays-Bas depuis l’étranger : par où commencer ?</a><p>Commencez par l’âge, les bases scolaires, l’anglais et la préparation à la vie en internat. LEP peut échanger directement avec Eerde sur la situation de l’élève et coordonner sa candidature.</p></li><li><a href="/fr/insights/netherlands-ib-university-pathways/">Après un lycée IB aux Pays-Bas, vers quelles universités peut-on se diriger ?</a><p>Les possibilités après l’IB dépassent les Pays-Bas. Une famille peut privilégier les universités néerlandaises tout en envisageant la Suisse, le Royaume-Uni et les États-Unis, selon les exigences de chaque cursus.</p></li><li><a href="/fr/insights/eerde-boarding-school-visit/">Après ma visite d’Eerde : à quelles familles cet internat néerlandais peut-il convenir ?</a><p>Eerde mérite d’être étudié par les familles recherchant une scolarité en anglais avec internat, tandis que les parents restent à l’étranger. Le domaine historique, les espaces modernes et la proximité entre élèves m’ont laissé une impression positive.</p></li></ol><section class="eerde-contact" id="eerde-contact"><h2>Parlez de la candidature de votre enfant et d’une visite avec James Liu</h2><p>Indiquez l’âge, la classe, le niveau d’anglais et la rentrée souhaitée de votre enfant.</p><p><a href="mailto:jamesliu@luxedupartners.lu">Écrire directement à James Liu</a> · <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a></p><p><a href="/fr/insights/apply-to-eerde-with-lep/">Comment LEP accompagne votre candidature →</a></p></section>

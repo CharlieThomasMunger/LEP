@@ -47,6 +47,10 @@ clusters:
     zh: 卢森堡高等教育
     en: Higher education in Luxembourg
     fr: Enseignement supérieur au Luxembourg
+  netherlands-school:
+    zh: 荷兰国际寄宿学校
+    en: Boarding education in the Netherlands
+    fr: Internats aux Pays-Bas
   switzerland-boarding:
     zh: 瑞士寄宿学校
     en: Swiss boarding schools

@@ -1,0 +1,36 @@
+---
+layout: "node"
+lang: "en"
+ref: "netherlands-n2"
+permalink: "/en/insights/netherlands-boarding-without-parents/"
+cluster: "netherlands-school"
+title: "Can a child attend boarding school in the Netherlands without their parents moving?"
+date: "2026-09-27"
+reviewed: "2026-09-27"
+description: "Eerde offers full boarding, including term-time weekends. UWC Maastricht also has a residential upper-secondary route, but its age range and selection process differ. LEP currently focuses on Eerde."
+answer: "Eerde offers full boarding, including term-time weekends. UWC Maastricht also has a residential upper-secondary route, but its age range and selection process differ. LEP currently focuses on Eerde."
+image: "/assets/eerde/n2-1.webp"
+school_article: true
+has_topic_navigation: true
+---
+
+<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n2-1.webp" width="1600" height="1066" alt="Eerde · Boarding common room" loading="eager"><figcaption>Eerde · Boarding common room</figcaption></figure><h2>Boarding must cover life beyond lessons</h2>
+<p>For parents staying abroad, English-medium teaching is only part of the decision. Where a child lives after school, what happens at weekends and how daily routines are managed matter just as much.</p>
+<p>This series examines Eerde International Boarding School and the residential programme at UWC Maastricht. These are the routes discussed here, rather than an exhaustive claim about every school in the Netherlands.</p>
+<h2>Eerde: full boarding for families who are not moving</h2>
+<p>Eerde’s full-boarding option includes term-time weekends, making it relevant to families without a separate weekend home for their child in the Netherlands.</p>
+<p>The school combines accommodation, meals, laundry, boarding supervision and evening study arrangements. Activities and shared daily life also give students opportunities to build relationships.</p>
+<p>During my visit, I felt that the castle estate setting brought students into close contact. The community seemed personal and the relationships between students close. That atmosphere is worth considering for a child leaving home for the first time.</p>
+<p>LEP’s main focus is applicants aged 14 and above. We discuss the student’s background with Eerde to establish an appropriate course and boarding arrangement.</p>
+<figure class="article-photo"><img src="/assets/eerde/n2-2.webp" width="1600" height="1066" alt="Eerde · Student accommodation" loading="lazy"><figcaption>Eerde · Student accommodation</figcaption></figure><h2>Boarding is more than a bedroom</h2>
+<p>The school specifically explained during my visit that students eat with teachers. There are clear expectations around meals and daily habits: students clear up after themselves, and kitchen use is managed.</p>
+<p>I went into the student accommodation and found the conditions satisfactory. Families should look at rooms, but also at how a school helps young people develop everyday independence.</p>
+<h2>Term-time weekends and school holidays are different</h2>
+<p>Full boarding covers term-time weekends. Eerde’s fee documentation says the boarding houses close during autumn, Christmas, spring, Easter and summer holidays. Families therefore need to plan travel home or other arrangements for those periods.</p>
+<figure class="article-photo"><img src="/assets/eerde/n2-3.webp" width="1600" height="1067" alt="Eerde · Shared kitchen and dining space" loading="lazy"><figcaption>Eerde · Shared kitchen and dining space</figcaption></figure><h2>UWC Maastricht: a selective upper-secondary route</h2>
+<p>UWC Maastricht welcomes residential students broadly aged 16–19 to its IB Diploma and Career-related programmes. It does admit international students living away from their parents.</p>
+<p>The main routes described by the school are a UWC national committee and the Global Selection Programme, or GSP. Families seeking financial assistance generally consider the national committee route; GSP is for applicants not seeking assistance who wish to choose a particular UWC school. Both involve selection.</p>
+<p>It is not the same boarding option for a 14-year-old, and paying fees does not remove selection requirements. LEP has not yet established a partnership with this school.</p>
+<h2>Why work with LEP on this application?</h2>
+<p>When parents will not be living nearby, it helps to have a Europe-based contact who has seen the boarding environment. LEP helps clarify term-time weekends, holiday plans, boarding support and arrival arrangements with Eerde.</p>
+<p>Until 15 September 2027, LEP charges no additional service fee for assistance with an Eerde application. This includes application assessment, school liaison, document preparation and visa application support. School tuition, boarding and government or other third-party charges remain payable.</p><section class="eerde-contact" id="eerde-contact"><h2>Discuss your child’s application and a school visit with James Liu</h2><p>Tell us your child’s age, current year, English level and intended starting date.</p><p><a href="mailto:jamesliu@luxedupartners.lu">Email James Liu directly</a> · <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a></p><p><a href="/en/insights/apply-to-eerde-with-lep/">How LEP can help with your application →</a></p></section><nav class="related" aria-label="Explore the Netherlands guides"><h2>Explore the Netherlands guides</h2><ul><li><a href="/en/insights/netherlands-international-schools/">Choosing an English-language international school in the Netherlands: what if parents are not moving?</a></li><li><a href="/en/insights/netherlands-international-school-english/">Can a student study at an international high school in the Netherlands without speaking Dutch?</a></li><li><a href="/en/insights/eerde-boarding-school-fees/">How much does boarding school in the Netherlands cost? Eerde’s tuition and boarding explained</a></li><li><a href="/en/insights/netherlands-boarding-school-application/">Applying to a Dutch boarding school from abroad: where should families start?</a></li><li><a href="/en/insights/netherlands-ib-university-pathways/">After an IB education in the Netherlands, where can students apply to university?</a></li><li><a href="/en/insights/eerde-boarding-school-visit/">After visiting Eerde: which families should consider this Dutch boarding school?</a></li></ul></nav>

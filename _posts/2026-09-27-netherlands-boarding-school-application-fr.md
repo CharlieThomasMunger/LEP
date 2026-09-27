@@ -1,0 +1,34 @@
+---
+layout: "node"
+lang: "fr"
+ref: "netherlands-n5"
+permalink: "/fr/insights/netherlands-boarding-school-application/"
+cluster: "netherlands-school"
+title: "Candidater à un internat aux Pays-Bas depuis l’étranger : par où commencer ?"
+date: "2026-09-27"
+reviewed: "2026-09-27"
+description: "Commencez par l’âge, les bases scolaires, l’anglais et la préparation à la vie en internat. LEP peut échanger directement avec Eerde sur la situation de l’élève et coordonner sa candidature."
+answer: "Commencez par l’âge, les bases scolaires, l’anglais et la préparation à la vie en internat. LEP peut échanger directement avec Eerde sur la situation de l’élève et coordonner sa candidature."
+image: "/assets/eerde/n5-1.webp"
+school_article: true
+has_topic_navigation: true
+---
+
+<aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n5-1.webp" width="1600" height="1066" alt="Eerde · Le campus et ses environs" loading="eager"><figcaption>Eerde · Le campus et ses environs</figcaption></figure><h2>Notre accompagnement concerne principalement les élèves de 14 ans et plus</h2>
+<p>Pour les élèves qui partent aux Pays-Bas sans leurs parents, LEP se concentre sur les candidatures dans le secondaire à partir de 14 ans. L’âge ne suffit pas : il faut aussi considérer les matières déjà étudiées et le niveau que l’enfant peut raisonnablement rejoindre.</p>
+<p>Un élève encore au premier cycle du secondaire, un autre qui le termine et un troisième déjà scolarisé dans un cursus international peuvent avoir besoin de parcours différents.</p>
+<h2>Examiner ensemble les études, l’anglais et l’autonomie</h2>
+<p>Sur le plan scolaire, nous regardons les matières actuelles, les points forts et les orientations possibles pour la suite.</p>
+<p>Pour la langue, un élève capable de suivre des cours en anglais peut envisager une entrée dans une classe adaptée. S’il a besoin de préparation, les voies de transition d’Eerde peuvent être étudiées. L’école évalue chaque candidature.</p>
+<p>Pour l’internat, l’envie de vivre loin de sa famille et la capacité à exprimer ses besoins comptent. Le choix porte sur un cadre de vie quotidien autant que sur un cursus.</p>
+<figure class="article-photo"><img src="/assets/eerde/n5-2.webp" width="1600" height="1067" alt="Eerde · À l’intérieur du bâtiment historique" loading="lazy"><figcaption>Eerde · À l’intérieur du bâtiment historique</figcaption></figure><h2>Vous n’avez pas besoin de connaître toutes les démarches avant de nous contacter</h2>
+<p>Indiquez à LEP l’âge de l’enfant, sa classe, ses résultats récents, son anglais, la rentrée souhaitée et votre budget. Ces informations suffisent pour une première discussion utile.</p>
+<p>Nous pourrons ensuite évaluer la direction, échanger avec Eerde sur les études et l’internat, puis expliquer la préparation nécessaire. La famille fournit ses documents et participe aux évaluations ou entretiens demandés par l’école.</p>
+<figure class="article-photo"><img src="/assets/eerde/n5-3.webp" width="1600" height="1066" alt="Eerde · Locaux d’enseignement" loading="lazy"><figcaption>Eerde · Locaux d’enseignement</figcaption></figure><h2>Un accompagnement qui relie les étapes</h2>
+<p>LEP a visité Eerde et travaille directement avec l’établissement. Nous aidons à organiser les informations sur l’élève, coordonner les échanges, suivre la candidature et préciser le cursus, l’hébergement et l’arrivée.</p>
+<p>Lorsqu’un visa ou un titre de séjour est nécessaire, nous aidons à préparer les documents et faisons le lien avec l’école pour les démarches qui lui reviennent. La décision d’admission appartient à l’école, et les décisions de séjour à l’autorité compétente.</p>
+<p>Prévoyez suffisamment de temps. Dès qu’une date d’entrée approximative se dessine, il est possible de commencer à échanger avec LEP, sans attendre que tout soit fixé.</p>
+<p>LEP organise des visites d’écoles aux Pays-Bas chaque trimestre. Nous pouvons aider à préparer les questions sur les cours, l’internat et les habitudes de vie, tout en évoquant les perspectives d’études ultérieures en Europe.</p>
+<h2>Pourquoi préparer cette candidature avec LEP ?</h2>
+<p>De l’évaluation initiale à la préparation du dossier, aux échanges avec l’école, à l’internat et à l’aide à la demande de visa, LEP vous apporte un interlocuteur en Europe. Nous avons visité Eerde et travaillons dans le même fuseau horaire que l’école.</p>
+<p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais de service supplémentaires pour l’accompagnement d’une candidature à Eerde. Cet accompagnement comprend l’évaluation du projet, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de scolarité, d’internat et les frais administratifs ou facturés par des tiers restent à régler.</p><section class="eerde-contact" id="eerde-contact"><h2>Parlez de la candidature de votre enfant et d’une visite avec James Liu</h2><p>Indiquez l’âge, la classe, le niveau d’anglais et la rentrée souhaitée de votre enfant.</p><p><a href="mailto:jamesliu@luxedupartners.lu">Écrire directement à James Liu</a> · <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a></p><p><a href="/fr/insights/apply-to-eerde-with-lep/">Comment LEP accompagne votre candidature →</a></p></section><nav class="related" aria-label="Découvrir les guides sur les Pays-Bas"><h2>Découvrir les guides sur les Pays-Bas</h2><ul><li><a href="/fr/insights/netherlands-international-schools/">Comment choisir une école internationale anglophone aux Pays-Bas si les parents ne déménagent pas ?</a></li><li><a href="/fr/insights/netherlands-boarding-without-parents/">Un enfant peut-il étudier en internat aux Pays-Bas sans que ses parents s’y installent ?</a></li><li><a href="/fr/insights/netherlands-international-school-english/">Peut-on étudier dans un lycée international aux Pays-Bas sans parler néerlandais ?</a></li><li><a href="/fr/insights/eerde-boarding-school-fees/">Quel budget prévoir pour un internat aux Pays-Bas ? Les frais d’Eerde expliqués</a></li><li><a href="/fr/insights/netherlands-ib-university-pathways/">Après un lycée IB aux Pays-Bas, vers quelles universités peut-on se diriger ?</a></li><li><a href="/fr/insights/eerde-boarding-school-visit/">Après ma visite d’Eerde : à quelles familles cet internat néerlandais peut-il convenir ?</a></li></ul></nav>
