@@ -17,6 +17,17 @@ standfirst: "Candidatures, arrivée des familles et accompagnement local, là o�
 - [Une rentrée en cours d’année : le cas des neuf jours](/fr/insights/st-georges-rapid-school-placement/)
 - [Que peut apporter LEP sur place ?](/fr/insights/luxembourg-school-support-lep/)
 
+
+<!-- lux-four-family-questions -->
+## Langues, calendrier, universités et projet familial
+
+- [Un enfant peut-il étudier au secondaire au Luxembourg avec un anglais encore limité et sans parler français ?](/fr/insights/luxembourg-school-english-language/)
+- [Quand candidater dans une école internationale au Luxembourg ? Peut-on entrer en cours d’année ?](/fr/insights/luxembourg-school-application-midyear-entry/)
+- [IB ou A Levels au Luxembourg : quel cursus et quelles destinations universitaires ?](/fr/insights/luxembourg-ib-a-level-university-pathways/)
+- [Pourquoi envisager le secondaire au Luxembourg, et à quelles familles ce choix convient-il ?](/fr/insights/why-study-luxembourg-secondary-school/)
+<!-- /lux-four-family-questions -->
+
+
 ## Accompagnement local des familles
 
 Nous vivons et exerçons nos activités au Luxembourg. Le choix d’un établissement s’inscrit dans un projet familial comprenant aussi le logement, la communication, l’arrivée et l’accompagnement pendant les études.

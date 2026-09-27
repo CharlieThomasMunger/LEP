@@ -17,6 +17,17 @@ standfirst: "School applications, family arrival and ongoing local support, grou
 - [Can a child join during the school year? A nine-day case](/en/insights/st-georges-rapid-school-placement/)
 - [How can a Luxembourg-based adviser help us?](/en/insights/luxembourg-school-support-lep/)
 
+
+<!-- lux-four-family-questions -->
+## Language, timing, university pathways and family fit
+
+- [Can a child with limited English and no French attend secondary school in Luxembourg?](/en/insights/luxembourg-school-english-language/)
+- [When should you apply to an international school in Luxembourg? Is mid-year entry possible?](/en/insights/luxembourg-school-application-midyear-entry/)
+- [IB or A Levels in Luxembourg: which route, and which university destinations?](/en/insights/luxembourg-ib-a-level-university-pathways/)
+- [Why consider secondary school in Luxembourg—and which families does it suit?](/en/insights/why-study-luxembourg-secondary-school/)
+<!-- /lux-four-family-questions -->
+
+
 ## Local support for schools and families
 
 We live and operate businesses in Luxembourg. Choosing a school is only one part of a family’s plans: accommodation, communication, arrival and support during study also need to fit together.

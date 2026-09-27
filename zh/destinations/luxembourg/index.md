@@ -17,6 +17,17 @@ standfirst: "学校申请、家庭落地与持续本地支持。从我们长期�
 - [中途插班能有多快？看九天入校的真实过程](/zh/insights/st-georges-rapid-school-placement/)
 - [LEP 的本地关系能具体帮我做什么？](/zh/insights/luxembourg-school-support-lep/)
 
+
+<!-- lux-four-family-questions -->
+## 从语言、入学到大学方向，继续判断是否适合
+
+- [英语一般、不会法语，能去卢森堡国际学校读初高中吗？](/zh/insights/luxembourg-school-english-language/)
+- [卢森堡国际学校什么时候申请？开学后还能插班吗？](/zh/insights/luxembourg-school-application-midyear-entry/)
+- [在卢森堡读IB还是A Level？以后能申请哪些国家的大学？](/zh/insights/luxembourg-ib-a-level-university-pathways/)
+- [为什么考虑卢森堡读初高中？什么家庭适合，什么家庭不适合？](/zh/insights/why-study-luxembourg-secondary-school/)
+<!-- /lux-four-family-questions -->
+
+
 ## 学校与家庭的本地支持
 
 我们在卢森堡生活和经营企业。对家庭而言，学校选择之后，还有住宿、家长沟通、落地与在读支持需要衔接。LEP 将这些环节放在同一个家庭规划中讨论。
