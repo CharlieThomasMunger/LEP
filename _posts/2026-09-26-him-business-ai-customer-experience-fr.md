@@ -9,7 +9,7 @@ title: "HIM Business School : trois stages en gestion et un master en IA appliqu
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "HIM Business School : trois stages en gestion et un master en IA appliquée à l’expérience client. Cursus, frais, bourses et regard de James Liu, établi en Europe."
-image: "/assets/seg/him-campus.jpg"
+image: "/assets/fieldwork/him-james-campus-visit.jpg"
 translated: true
 ---
 
@@ -19,10 +19,7 @@ Par James Liu | Lux Education Partners | 26 septembre 2026
 
 HIM est huitième du classement QS 2026 en Hospitality & Leisure Management. Il s’agit du classement de cette discipline, et non d’un classement général des écoles de commerce.
 
-<figure class="article-photo">
-<a href="/assets/seg/him-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/him-campus.jpg" alt="Campus HIM à Montreux" loading="eager"></a>
-<figcaption>Campus HIM à Montreux | Photo fournie par l’école.</figcaption>
-</figure>
+<figure class="article-photo"><a href="/assets/fieldwork/him-james-campus-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-campus-visit.jpg" alt="James Liu en visite à HIM Business School à Montreux. Photo prise par LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>James Liu en visite à HIM Business School à Montreux. Photo prise par LEP.</figcaption></figure>
 
 ## Quatre orientations en bachelor
 
@@ -80,6 +77,8 @@ Le budget bachelor 2027 est de **CHF 131 800**, avec l’hébergement, les repas
 </figure>
 
 Le master IA représente un budget d’environ **CHF 38 000**. Les frais peuvent varier légèrement ; le montant confirmé par l’école lors de la candidature fait foi.
+
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/him-lounge.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-lounge.jpg" alt="Un salon du campus HIM. Photo prise par LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>Un salon du campus HIM. Photo prise par LEP.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-james-alumni-wall.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-alumni-wall.jpg" alt="James Liu devant les photographies des anciens élèves de HIM. Photo prise par LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>James Liu devant les photographies des anciens élèves de HIM. Photo prise par LEP.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-alumni-corridor.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-alumni-corridor.jpg" alt="Photographies des anciens élèves et espace commun à HIM. Photo prise par LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>Photographies des anciens élèves et espace commun à HIM. Photo prise par LEP.</figcaption></figure></div>
 
 ## Construire ces trois années avec LEP
 

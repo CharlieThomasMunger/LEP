@@ -9,7 +9,7 @@ title: "HIM 瑞士蒙特勒工商管理大学：三次实习的商科，和一�
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "HIM Business School（瑞士蒙特勒工商管理大学，原 Hotel Institute Montreux）的本科是三年商业管理路线，设金融、市场营销、管理学和款待业管理四个方向，安排三段带薪实习。 对希望读商科，又愿意通过实际工作学习的学生，HIM 值得放进比较名单。"
-image: "/assets/seg/him-campus.jpg"
+image: "/assets/fieldwork/him-james-campus-visit.jpg"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
@@ -20,10 +20,7 @@ image: "/assets/seg/him-campus.jpg"
 
 HIM 在 QS 2026 Hospitality & Leisure Management 学科排名中列世界第 8。这里指款待业与休闲管理学科，不能写成商科综合排名世界第八。
 
-<figure class="article-photo">
-<a href="/assets/seg/him-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/him-campus.jpg" alt="HIM 蒙特勒校园" loading="eager"></a>
-<figcaption>HIM 蒙特勒校园｜学校资料。</figcaption>
-</figure>
+<figure class="article-photo"><a href="/assets/fieldwork/him-james-campus-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-campus-visit.jpg" alt="修印先生实地走访HIM瑞士蒙特勒工商管理大学。LEP实拍。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>修印先生实地走访HIM瑞士蒙特勒工商管理大学。LEP实拍。</figcaption></figure>
 
 ## 金融、营销、管理、款待业，课程差在哪？
 
@@ -92,6 +89,8 @@ HIM 这条 AI 课程引起我的兴趣，就在这个交叉点：AI 用来做客
 </figure>
 
 AI 硕士预算参考为 **CHF 38,000**。课程采用线上、澳门和瑞士分阶段学习。费用为申请预算参考，可能略有变化，以最终学校申请确认的金额为准。
+
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/him-lounge.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-lounge.jpg" alt="HIM校园休息区。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>HIM校园休息区。LEP实地拍摄。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-james-alumni-wall.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-alumni-wall.jpg" alt="修印先生在HIM参观历届学生合影墙。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>修印先生在HIM参观历届学生合影墙。LEP实地拍摄。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-alumni-corridor.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-alumni-corridor.jpg" alt="HIM历届学生合影与交流空间。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>HIM历届学生合影与交流空间。LEP实地拍摄。</figcaption></figure></div>
 
 ## LEP 帮你把“读商科”变成有目标的三年
 

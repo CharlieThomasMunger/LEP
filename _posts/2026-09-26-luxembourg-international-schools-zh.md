@@ -62,13 +62,13 @@ lep_service_page: false
 <p><strong>这是我们与圣乔治深度合作，为通过 LEP 对接的家庭争取到的一项针对性安排。</strong>如果你希望孩子先试读，再决定是否正式入学，可以直接联系 LEP，由我们与校方对接试读日期和具体安排。</p>
 <p>另一个区别，对父母不在卢森堡的家庭尤其重要：<strong>在我们实际经办和沟通的这类申请中，圣乔治的态度最积极，响应也最快；OTR 其次，ISL 则最谨慎、沟通推进相对较慢。</strong>这说的是我们处理这类特殊安排的经历，不是三所学校所有申请的统一速度。</p>
 <p>我个人的理解是，英国教育传统中，孩子离开父母求学并不罕见，这或许有助于理解圣乔治的开放态度。但真正让我作出判断的，是校方在具体事情上的配合：愿意讨论、及时回复，并一起落实孩子的学习与寄宿家庭安排。</p>
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure>
+<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure>
 <p><strong>我能够直接与圣乔治校长沟通，进行深度交流，平时也随时联系得上。</strong>我们处理特殊入学时，校长直接参与课程和年级安排的讨论，再推进试读与评估。这种长期合作，让一个家庭的特殊情况能够被充分理解，也让本地执行更有效率。</p>
 <h2>OTR：小而温馨，把英法双语用进日常</h2>
 <p><strong>OTR 不只有 IB，也提供 Cambridge AS 和 A Level 课程。</strong>所以，希望走 A Level 路线的家庭，也可以把 OTR 放进比较名单。英法双语是学校的特色，不能因此把它的高中选择简单理解成只有 IB。</p>
 <p><strong>OTR 与前两所最大的区别，是学校规模小、人与人的距离近。</strong>校园位于市区，空间和活动场地比较紧凑。若只比校园面积和硬件，它并不占优势；但有些孩子需要的，恰恰是一个更容易熟悉老师和同学的环境。</p>
 <p>在我实地接触了解到的班级中，不少班当时只有七八名学生。这是具体班级的情况，不同年级、不同学期会有变化。学校目前公布的常见班额是 15–25 人，了解孩子准备入读的那个班，比只听“小班制”三个字更有用。</p>
-<figure class="article-photo"><img src="/assets/fieldwork/otr.jpg" alt="修印先生实地走访 OTR 国际学校。LEP 实拍。" loading="lazy"><figcaption>修印先生实地走访 OTR 国际学校。LEP 实拍。</figcaption></figure>
+<figure class="article-photo"><img src="/assets/fieldwork/otr-james-visit.jpg" alt="修印先生实地走访 OTR 国际学校。LEP 实拍。" loading="lazy"><figcaption>修印先生实地走访 OTR 国际学校。LEP 实拍。</figcaption></figure>
 <p>从我的感受看，OTR 的学习氛围介于前两者之间，更突出小规模学校的温馨感。它的英法双语特色也很鲜明。如果家庭准备在欧洲长期生活，希望两种语言都成为孩子能实际使用的工具，我会把 OTR 放在重点比较的位置。</p>
 <h3>一个老师带四五个孩子，我看到的语言辅导是这样的</h3>
 <p>按我访校了解到的情况，这几所私立学校都有免费的语言补习安排。<strong>OTR 让我印象特别深的，是我参观时看到的法语补习班：一位老师带四到五名学生。</strong>我了解到的葡萄牙语、日语等语言课堂，也是一位老师负责个位数的学生。</p>

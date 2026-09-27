@@ -8,12 +8,12 @@ title: "在卢森堡给孩子找学校，为什么找一家真正扎根本地的
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "学校介绍可以在网上看。孩子需要转学、父母不能到场、学校提出新的安排要求时，家庭需要有人能够直接沟通、迅速响应，并到现场把事情推进。LEP 长期扎根卢森堡，这就是我们提供本地教育服务的基础。"
-image: "/assets/fieldwork/st-georges.jpg"
+image: "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 lep_service_page: true
 ---
 
 <p class="lead">学校介绍可以在网上看。孩子需要转学、父母不能到场、学校提出新的安排要求时，家庭需要有人能够直接沟通、迅速响应，并到现场把事情推进。LEP 长期扎根卢森堡，这就是我们提供本地教育服务的基础。</p>
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure><h2>我在这里生活，也在这里经营企业</h2>
+<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure><h2>我在这里生活，也在这里经营企业</h2>
 <p>我是修印先生，Lux Education Partners 的创办人。我长期在卢森堡生活和经营企业，与学校、本地企业和家庭持续来往。我的判断来自这些实际关系，也来自作为家长对教育的长期关注。</p>
 <p><strong>在卢森堡这样重视信誉的地方，关系需要靠一件件事建立。</strong>学校愿意认真听一个人的推荐，是因为知道他是谁、怎样做事，也知道以后还会继续合作。</p>
 <p>与 LEP 合作的家庭，我们会向你们开放和共享长期积累的本地社交网络。孩子适合怎样的学校、家庭需要怎样的本地支持，我们会把适合的联系与资源接进来。</p>

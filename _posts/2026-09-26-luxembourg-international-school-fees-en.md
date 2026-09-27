@@ -8,7 +8,7 @@ title: "Private international school fees in Luxembourg: comparing ISL, St Georg
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "For 2026–27, published annual school charges across these three schools range from €12,780 to €24,226, depending on school and year group. A realistic family budget also includes initial charges, accommodation and any local support services."
-image: "/assets/fieldwork/otr.jpg"
+image: "/assets/fieldwork/otr-james-visit.jpg"
 lep_service_page: false
 translated: true
 ---

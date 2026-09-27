@@ -9,7 +9,7 @@ title: "HIM Business School: three business internships and a master’s in appl
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "HIM Business School: three business internships and a master’s in applied AI for customer experience. Courses, fees, scholarships and James Liu’s perspective from Europe."
-image: "/assets/seg/him-campus.jpg"
+image: "/assets/fieldwork/him-james-campus-visit.jpg"
 translated: true
 ---
 
@@ -19,10 +19,7 @@ By James Liu | Lux Education Partners | 26 September 2026
 
 HIM ranks eighth in QS 2026 Hospitality & Leisure Management. This is a subject ranking, not a general business-school ranking.
 
-<figure class="article-photo">
-<a href="/assets/seg/him-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/him-campus.jpg" alt="HIM campus in Montreux" loading="eager"></a>
-<figcaption>HIM campus in Montreux | School-provided photograph.</figcaption>
-</figure>
+<figure class="article-photo"><a href="/assets/fieldwork/him-james-campus-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-campus-visit.jpg" alt="James Liu visiting HIM Business School in Montreux. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>James Liu visiting HIM Business School in Montreux. Photograph by LEP.</figcaption></figure>
 
 ## Four undergraduate directions
 
@@ -80,6 +77,8 @@ The 2027 undergraduate budget is **CHF 131,800**, including scheduled on-campus 
 </figure>
 
 The AI master’s budget is approximately **CHF 38,000**. Fees may vary slightly; the amount confirmed by the school for your application takes precedence.
+
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/him-lounge.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-lounge.jpg" alt="A campus lounge at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>A campus lounge at HIM. Photograph by LEP.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-james-alumni-wall.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-alumni-wall.jpg" alt="James Liu visiting the alumni photograph wall at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>James Liu visiting the alumni photograph wall at HIM. Photograph by LEP.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-alumni-corridor.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-alumni-corridor.jpg" alt="Alumni photographs and a shared space at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>Alumni photographs and a shared space at HIM. Photograph by LEP.</figcaption></figure></div>
 
 ## Plan the three years with LEP
 

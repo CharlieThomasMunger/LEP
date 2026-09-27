@@ -8,12 +8,12 @@ title: "圣乔治国际学校：在卢森堡读英式课程，为什么值得认
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "圣乔治国际学校给我的感受，是典型的英式学校：非常抓成绩，严谨、专业，也很重视安全。我们能够直接与校长沟通；通过 LEP 对接的学生，还可以安排三天免费进校试读。这些是家庭选校时真正能用到的合作安排。"
-image: "/assets/fieldwork/st-georges.jpg"
+image: "/assets/fieldwork/st-georges-principal-conversation.jpg"
 lep_service_page: false
 ---
 
 <p class="lead">圣乔治国际学校给我的感受，是典型的英式学校：非常抓成绩，严谨、专业，也很重视安全。我们能够直接与校长沟通；通过 LEP 对接的学生，还可以安排三天免费进校试读。这些是家庭选校时真正能用到的合作安排。</p>
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure>
+<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-conversation.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure>
 <h2>先看课程这条主线</h2>
 <p>圣乔治的中学课程沿英国国家课程框架展开，高中阶段包括 IGCSE、A Level 和 BTEC 等选择。对家长来说，最重要的是弄清楚孩子下一阶段读什么科目、怎样衔接大学方向。</p>
 <p>如果孩子已经在英式学校就读，比较圣乔治时应重点看年级、选课和考试进度。如果从其他体系转来，就要把原有课程与新课程放在一起判断。</p>

@@ -8,7 +8,7 @@ title: "卢森堡英文私立国际学校一年多少钱？ISL、圣乔治、OTR
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "按 2026–2027 学年公布费用，三校每名学生的年度学校费用约为 €12,780–€24,226，具体取决于学校和年级。下面把学费与年度必缴基金合并列出，再单独说明新生费用，方便家庭直接比较。"
-image: "/assets/fieldwork/otr.jpg"
+image: "/assets/fieldwork/otr-james-visit.jpg"
 lep_service_page: false
 ---
 

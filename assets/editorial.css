@@ -185,3 +185,9 @@ footer.site>.wrap>p>a{font-size:13px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 @media print{header.site,footer.site,.article-toc,.menu-toggle{display:none}.article-layout{display:block}.article-masthead{background:white}.table-scroll{overflow:visible}article.node table{font-size:10px}.article-photo{break-inside:avoid}}
+
+/* Compact original visit photographs; preserve the full portrait. */
+article.node .visit-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:32px 0}
+article.node .visit-gallery .article-photo{margin:0;min-width:0}
+article.node .visit-gallery .article-photo img{width:100%;height:330px!important;object-fit:contain;background:#f5f6f6}
+@media(max-width:650px){article.node .visit-gallery{grid-template-columns:1fr}article.node .visit-gallery .article-photo img{height:auto!important;max-height:480px!important}}

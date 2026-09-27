@@ -8,7 +8,7 @@ title: "父母不在卢森堡，孩子单独留学，学校和寄宿家庭怎样
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "父母不在卢森堡长期居住，孩子独自来 ISL、圣乔治或 OTR 留学，必须先解决在当地住在哪里、由谁照顾的问题。这三所学校都是走读学校，录取并不包含住宿。LEP 提供本地寄宿家庭匹配与后续协调，把学校申请和孩子在卢森堡的生活安置一起落实。"
-image: "/assets/fieldwork/otr.jpg"
+image: "/assets/fieldwork/otr-james-visit.jpg"
 lep_service_page: false
 ---
 

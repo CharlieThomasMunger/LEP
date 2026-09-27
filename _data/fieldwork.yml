@@ -51,7 +51,7 @@ luxembourg:
       alt: {zh: 走访卢森堡国际学校 ISL, en: Visit to the International School of Luxembourg}
 
     - name: OTR International School
-      image: /assets/fieldwork/otr.jpg
+      image: /assets/fieldwork/otr-james-visit.jpg
       kind: {zh: 私立国际学校, en: Private international school, fr: École internationale privée}
       note:
         zh: 多次走访，持续了解国际家庭的选校需求。
@@ -60,7 +60,7 @@ luxembourg:
       alt: {zh: 走访 OTR 国际学校, en: Visit to OTR International School}
 
     - name: St George's International School
-      image: /assets/fieldwork/st-georges.jpg
+      image: /assets/fieldwork/st-georges-principal-school-sign.jpg
       kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
         zh: "修印先生与圣乔治国际学校校长合影"
@@ -141,3 +141,12 @@ switzerland:
         en: On-site visit to SHMS and in-person cooperation discussions with Swiss Education Group.
         fr: Visite sur site de SHMS ; échanges directs avec Swiss Education Group sur la coopération.
       alt: {zh: 走访 SHMS 瑞士酒店管理学院, en: At Swiss Hotel Management School}
+
+    - name: HIM Business School
+      image: /assets/fieldwork/him-james-alumni-wall.jpg
+      kind: {zh: 实地访校, en: Campus visit, fr: Visite sur place}
+      note:
+        zh: 修印先生参观 HIM 校园与历届学生合影墙。LEP 实拍。
+        en: James Liu visiting the HIM campus and alumni photograph wall. Photograph by LEP.
+        fr: James Liu visite le campus de HIM et son mur de photographies des anciennes promotions. Photo LEP.
+      alt: {zh: 修印先生实地走访 HIM, en: James Liu visiting HIM, fr: James Liu en visite à HIM}

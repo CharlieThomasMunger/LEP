@@ -8,7 +8,7 @@ title: "Combien coûtent ISL, St George’s et OTR ? Comparer les écoles intern
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "Pour 2026–2027, les frais scolaires annuels publiés vont de 12 780 € à 24 226 € selon l’école et le niveau. Le budget familial doit aussi intégrer les frais d’entrée, le logement et les éventuels services locaux."
-image: "/assets/fieldwork/otr.jpg"
+image: "/assets/fieldwork/otr-james-visit.jpg"
 lep_service_page: false
 translated: true
 ---

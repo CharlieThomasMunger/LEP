@@ -8,12 +8,12 @@ title: "9 天，把学校、试读和寄宿家庭安排接起来：LEP 在卢森
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "9 月 7 日，家长支付启动费，我们正式受托推进。9 月 16 日，孩子按校方安排开始上课。从付费启动到开课，相隔 9 天。这期间，我们把校长沟通、年级安排、到校试读、正式录取，以及寄宿家庭与学校之间的责任分工一并落实。"
-image: "/assets/fieldwork/st-georges.jpg"
+image: "/assets/fieldwork/st-georges-principal-portrait.jpg"
 lep_service_page: false
 ---
 
 <p class="lead">9 月 7 日，家长支付启动费，我们正式受托推进。9 月 16 日，孩子按校方安排开始上课。从付费启动到开课，相隔 9 天。这期间，我们把校长沟通、年级安排、到校试读、正式录取，以及寄宿家庭与学校之间的责任分工一并落实。</p>
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/st-georges-principal-portrait.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-georges-principal-portrait.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP访校实拍，非本案例学生入校当天照片。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>修印先生与圣乔治国际学校校长合影。LEP访校实拍，非本案例学生入校当天照片。</figcaption></figure>
 <h2>欧洲的办事节奏里，这样的九天有多难？</h2>
 <p><strong>按我给家庭做整体申请规划的经验，普通流程要按约两个月准备，这还不包括匹配寄宿家庭。</strong>长期在欧洲生活的人知道，这里的办事节奏普遍比国内慢，不能指望周末、节假日邮件和电话也得到及时回复。八月的暑假，更会影响学校和家庭的响应。</p>
 <p>这次孩子需要在学校已经开学后，获得一个特殊的短期插班安排。父母不能长期陪在身边，学校又必须把课程、评估和各方责任都确认好。<strong>我认为，能在九天里把这些事情做成，称得上一次奇迹般的推进。</strong>它背后是实际的专业判断、本地执行，以及圣乔治愿意为孩子认真寻找解决办法。</p>
