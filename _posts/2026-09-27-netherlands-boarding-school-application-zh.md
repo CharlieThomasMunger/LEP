@@ -6,15 +6,15 @@ permalink: "/zh/insights/netherlands-boarding-school-application/"
 cluster: "netherlands-school"
 title: "中国学生怎样申请荷兰寄宿高中？先看这几个条件"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "父母不陪读的家庭，先评估孩子的年龄、学科基础、英语和寄宿适应能力。具体课程及入学安排，可以交由LEP与校方直接沟通。"
 answer: "父母不陪读的家庭，先评估孩子的年龄、学科基础、英语和寄宿适应能力。具体课程及入学安排，可以交由LEP与校方直接沟通。"
-image: "/assets/eerde/n5-1.webp"
+image: "/assets/eerde/eerde-campus-approach-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><img src="/assets/eerde/n5-1.webp" width="1600" height="1066" alt="Eerde 校园与周边环境" loading="eager"><figcaption>Eerde 校园与周边环境</figcaption></figure><h2>14岁及以上，是我们重点评估的阶段</h2>
+<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-campus-approach-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-campus-approach-lep.jpg" width="2275" height="1280" alt="Eerde校园与庭院外景。LEP实拍。" loading="eager" decoding="async"></a><figcaption>Eerde校园与庭院外景。LEP实拍。</figcaption></figure><h2>14岁及以上，是我们重点评估的阶段</h2>
 <p>对于从中国独自前往荷兰、父母不在当地的孩子，LEP重点服务14岁及以上的中学申请。不是只看孩子到了几岁，更要判断目前的学习能接上哪一阶段。</p>
 <p>初中在读、初中毕业，或已经读国际课程的孩子，准备情况不一样。申请前先找到合适的课程位置，后面的安排才有基础。</p>
 <figure class="article-photo"><img src="/assets/eerde/n5-2.webp" width="1600" height="1067" alt="Eerde 古堡室内空间" loading="lazy"><figcaption>Eerde 古堡室内空间</figcaption></figure><h2>学术、英语和独立生活，三个方面一起看</h2>

@@ -6,15 +6,15 @@ permalink: "/fr/insights/eerde-boarding-school-visit/"
 cluster: "netherlands-school"
 title: "Après ma visite d’Eerde : à quelles familles cet internat néerlandais peut-il convenir ?"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "Eerde mérite d’être étudié par les familles recherchant une scolarité en anglais avec internat, tandis que les parents restent à l’étranger. Le domaine historique, les espaces modernes et la proximité entre élèves m’ont laissé une impression positive."
 answer: "Eerde mérite d’être étudié par les familles recherchant une scolarité en anglais avec internat, tandis que les parents restent à l’étranger. Le domaine historique, les espaces modernes et la proximité entre élèves m’ont laissé une impression positive."
-image: "/assets/eerde/n7-1.webp"
+image: "/assets/eerde/eerde-james-school-sign-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n7-1.webp" width="1600" height="1066" alt="Eerde · Le domaine du château" loading="eager"><figcaption>Eerde · Le domaine du château</figcaption></figure><h2>Pourquoi je souhaite présenter Eerde aux familles</h2>
+<aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-james-school-sign-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-james-school-sign-lep.jpg" width="2275" height="1280" alt="James Liu en visite à Eerde International Boarding School. Photo LEP." loading="eager" decoding="async"></a><figcaption>James Liu en visite à Eerde International Boarding School. Photo LEP.</figcaption></figure><h2>Pourquoi je souhaite présenter Eerde aux familles</h2>
 <p>J’ai visité Eerde International Boarding School. Ce qui m’a marqué est l’association d’un domaine historique et de locaux d’enseignement modernes. Les élèves choisissent un lieu où vivre autant qu’un bâtiment où suivre des cours.</p>
 <p>Je suis entré dans l’hébergement des élèves et j’ai trouvé les conditions satisfaisantes. L’internat complet comprend les week-ends en période scolaire, un élément très concret lorsque les parents ne vivent pas aux Pays-Bas.</p>
 <p>Les personnes qui nous ont accueillis étaient particulièrement chaleureuses et accessibles. Cela mérite d’être raconté : une famille qui envoie son enfant à l’étranger se préoccupe aussi des personnes avec lesquelles elle pourra communiquer, pas seulement du nom du programme.</p>

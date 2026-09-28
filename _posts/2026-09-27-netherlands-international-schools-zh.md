@@ -6,15 +6,15 @@ permalink: "/zh/insights/netherlands-international-schools/"
 cluster: "netherlands-school"
 title: "荷兰英文国际学校怎么选？父母不陪读，重点看什么"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "父母在荷兰与孩子独自赴荷，是两种不同的选校需求。LEP重点服务14岁及以上、父母不陪读的寄宿留学家庭，Eerde是我们已实地到访并直接对接的学校。"
 answer: "父母在荷兰与孩子独自赴荷，是两种不同的选校需求。LEP重点服务14岁及以上、父母不陪读的寄宿留学家庭，Eerde是我们已实地到访并直接对接的学校。"
-image: "/assets/eerde/n1-1.webp"
+image: "/assets/eerde/eerde-castle-front-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><img src="/assets/eerde/n1-1.webp" width="1600" height="1066" alt="Eerde 古堡校园外观" loading="eager"><figcaption>Eerde 古堡校园外观</figcaption></figure><h2>先分清两类家庭，选校才有意义</h2>
+<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-castle-front-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-castle-front-lep.jpg" width="2275" height="1280" alt="Eerde古堡正面与庭院。LEP实拍。" loading="eager" decoding="async"></a><figcaption>Eerde古堡正面与庭院。LEP实拍。</figcaption></figure><h2>先分清两类家庭，选校才有意义</h2>
 <p>第一类，父母不在荷兰，单独送孩子过去读书。第二类，父母已经在荷兰，希望孩子接受英文国际教育。这两类家庭都可以考虑国际学校，但需要解决的问题完全不同。</p>
 <p>父母在当地，生活和接送已经有人负责，可以考虑走读。父母不去，学校除了提供课程，还要有孩子能够长期生活的寄宿安排，周末也得有着落。</p>
 <p>我们这组文章主要谈第一类。这也是LEP目前荷兰学校服务的重点：把课程、寄宿和入学安排一起落实。其他走读国际学校确实存在，但对孩子独自赴荷的家庭，列出一长串名字，意义并不大。</p>

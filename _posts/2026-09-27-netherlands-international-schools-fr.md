@@ -6,15 +6,15 @@ permalink: "/fr/insights/netherlands-international-schools/"
 cluster: "netherlands-school"
 title: "Comment choisir une école internationale anglophone aux Pays-Bas si les parents ne déménagent pas ?"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "Une famille qui déménage ensemble et un élève qui part seul ont des besoins différents. LEP accompagne principalement les candidatures en internat à partir de 14 ans, avec Eerde comme établissement de référence aux Pays-Bas."
 answer: "Une famille qui déménage ensemble et un élève qui part seul ont des besoins différents. LEP accompagne principalement les candidatures en internat à partir de 14 ans, avec Eerde comme établissement de référence aux Pays-Bas."
-image: "/assets/eerde/n1-1.webp"
+image: "/assets/eerde/eerde-castle-front-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n1-1.webp" width="1600" height="1066" alt="Eerde · Le domaine du château d’Eerde" loading="eager"><figcaption>Eerde · Le domaine du château d’Eerde</figcaption></figure><h2>Commencer par la situation de la famille</h2>
+<aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-castle-front-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-castle-front-lep.jpg" width="2275" height="1280" alt="Le château d’Eerde et sa cour. Photo LEP." loading="eager" decoding="async"></a><figcaption>Le château d’Eerde et sa cour. Photo LEP.</figcaption></figure><h2>Commencer par la situation de la famille</h2>
 <p>Certaines familles vivent déjà aux Pays-Bas et souhaitent une éducation en anglais. D’autres envisagent d’y envoyer leur enfant tout en restant à l’étranger. Dans les deux cas, une école internationale peut convenir, mais les questions pratiques ne sont pas les mêmes.</p>
 <p>Lorsque les parents résident sur place, le choix peut inclure des écoles de jour, en tenant compte des trajets et de la vie après les cours. Lorsqu’ils ne sont pas présents, il faut aussi une solution d’internat adaptée, y compris pour les week-ends en période scolaire.</p>
 <p>Cette série porte surtout sur cette deuxième situation, qui correspond à l’activité actuelle de LEP aux Pays-Bas. Il existe d’autres écoles internationales de jour, mais une longue liste de noms apporte peu à une famille dont le premier besoin est l’hébergement.</p>

@@ -6,9 +6,10 @@ permalink: "/fr/insights/apply-to-eerde-with-lep/"
 cluster: "netherlands-school"
 title: "Pourquoi préparer votre candidature à Eerde avec LEP ? Une connaissance du terrain et un accompagnement sans frais de service supplémentaires"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "Candidater à Eerde sans frais de service LEP supplémentaires"
 lep_service_page: true
+image: "/assets/eerde/eerde-courtyard-buildings-lep.jpg"
 has_topic_navigation: true
 ---
 
@@ -22,6 +23,7 @@ has_topic_navigation: true
 <h2>Des visites d’écoles aux Pays-Bas chaque trimestre</h2>
 <p>LEP organise des visites d’écoles aux Pays-Bas chaque trimestre. Contactez-nous pour connaître les prochaines possibilités et préparer les questions qui comptent pour votre famille. Notre présence en Europe facilite les échanges et la coordination sur place.</p>
 <p>Une visite permet de comprendre la vie quotidienne de l’enfant : les cours, l’internat, les repas et les habitudes de vie. Nous vous aidons à examiner ces éléments avant de prendre une décision.</p>
+<figure class="article-photo"><a href="/assets/eerde/eerde-courtyard-buildings-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-courtyard-buildings-lep.jpg" width="2275" height="1280" alt="Le domaine d’Eerde photographié lors d’une visite de l’école. Photo LEP." loading="lazy" decoding="async"></a><figcaption>Le domaine d’Eerde photographié lors d’une visite de l’école. Photo LEP.</figcaption></figure>
 <h2>Passer par LEP entraîne-t-il des frais supplémentaires ?</h2>
 <p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais de service supplémentaires pour l’accompagnement d’une candidature à Eerde. Cet accompagnement comprend l’évaluation du projet, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de scolarité, d’internat et les frais administratifs ou facturés par des tiers restent à régler.</p>
 <p>Vous bénéficiez ainsi d’un interlocuteur en Europe pour préparer et suivre la candidature, sans frais de service LEP supplémentaires pendant cette période.</p>

@@ -6,15 +6,15 @@ permalink: "/fr/insights/netherlands-boarding-school-application/"
 cluster: "netherlands-school"
 title: "Candidater à un internat aux Pays-Bas depuis l’étranger : par où commencer ?"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "Commencez par l’âge, les bases scolaires, l’anglais et la préparation à la vie en internat. LEP peut échanger directement avec Eerde sur la situation de l’élève et coordonner sa candidature."
 answer: "Commencez par l’âge, les bases scolaires, l’anglais et la préparation à la vie en internat. LEP peut échanger directement avec Eerde sur la situation de l’élève et coordonner sa candidature."
-image: "/assets/eerde/n5-1.webp"
+image: "/assets/eerde/eerde-campus-approach-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n5-1.webp" width="1600" height="1066" alt="Eerde · Le campus et ses environs" loading="eager"><figcaption>Eerde · Le campus et ses environs</figcaption></figure><h2>Notre accompagnement concerne principalement les élèves de 14 ans et plus</h2>
+<aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-campus-approach-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-campus-approach-lep.jpg" width="2275" height="1280" alt="Vue du campus et de la cour d’Eerde. Photo LEP." loading="eager" decoding="async"></a><figcaption>Vue du campus et de la cour d’Eerde. Photo LEP.</figcaption></figure><h2>Notre accompagnement concerne principalement les élèves de 14 ans et plus</h2>
 <p>Pour les élèves qui partent aux Pays-Bas sans leurs parents, LEP se concentre sur les candidatures dans le secondaire à partir de 14 ans. L’âge ne suffit pas : il faut aussi considérer les matières déjà étudiées et le niveau que l’enfant peut raisonnablement rejoindre.</p>
 <p>Un élève encore au premier cycle du secondaire, un autre qui le termine et un troisième déjà scolarisé dans un cursus international peuvent avoir besoin de parcours différents.</p>
 <h2>Examiner ensemble les études, l’anglais et l’autonomie</h2>

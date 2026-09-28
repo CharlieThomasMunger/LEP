@@ -6,15 +6,15 @@ permalink: "/zh/insights/eerde-boarding-school-visit/"
 cluster: "netherlands-school"
 title: "实地看过Eerde：这所荷兰国际寄宿学校，适合什么孩子？"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "我的判断是：Eerde很适合父母不来荷兰、希望孩子在英文环境里学习和住校的家庭。古堡与现代建筑结合，住宿条件可以，校方非常热情，校园里的同学关系也比较亲近。"
 answer: "我的判断是：Eerde很适合父母不来荷兰、希望孩子在英文环境里学习和住校的家庭。古堡与现代建筑结合，住宿条件可以，校方非常热情，校园里的同学关系也比较亲近。"
-image: "/assets/eerde/n7-1.webp"
+image: "/assets/eerde/eerde-james-school-sign-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><img src="/assets/eerde/n7-1.webp" width="1600" height="1066" alt="Eerde 古堡建筑" loading="eager"><figcaption>Eerde 古堡建筑</figcaption></figure><h2>我为什么愿意把这所学校介绍给家长？</h2>
+<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-james-school-sign-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-james-school-sign-lep.jpg" width="2275" height="1280" alt="修印先生实地到访Eerde国际寄宿学校。LEP实拍。" loading="eager" decoding="async"></a><figcaption>修印先生实地到访Eerde国际寄宿学校。LEP实拍。</figcaption></figure><h2>我为什么愿意把这所学校介绍给家长？</h2>
 <p>Eerde国际寄宿学校我去过。给我的第一印象，是古堡与现代教学建筑结合在一起，孩子不是只在一栋楼里上课，而是在一个完整的校园环境里学习、生活。</p>
 <p>住宿条件在我看来是可以的。尤其对父母不去荷兰、孩子自己过去的家庭，全寄宿连学期内周末也覆盖，这一点很重要。学校能把课堂和日常生活接起来，才真正符合这类家庭的需要。</p>
 <p>接待我们的校方人员非常热情，非常nice。我愿意把这种真实接触的感受写出来：家长把孩子送到海外，关心的不只有课程名称，也会在意以后跟学校沟通时，面对的是怎样的人。</p>

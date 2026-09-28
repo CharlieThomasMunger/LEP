@@ -6,9 +6,10 @@ permalink: "/en/insights/apply-to-eerde-with-lep/"
 cluster: "netherlands-school"
 title: "Why apply to Eerde with LEP? Local knowledge, practical support and no additional application service fee"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "Apply to Eerde with no additional LEP application service fee"
 lep_service_page: true
+image: "/assets/eerde/eerde-courtyard-buildings-lep.jpg"
 has_topic_navigation: true
 ---
 
@@ -22,6 +23,7 @@ has_topic_navigation: true
 <h2>Quarterly visits to the Netherlands</h2>
 <p>LEP organises school visits in the Netherlands each quarter. Contact us to discuss the next arrangements and the questions you would like to explore. Our location makes communication and in-person coordination with the school easier.</p>
 <p>A visit should help you understand how your child would learn and live, including boarding, meals and everyday routines. We help you focus on the aspects that matter to your family.</p>
+<figure class="article-photo"><a href="/assets/eerde/eerde-courtyard-buildings-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-courtyard-buildings-lep.jpg" width="2275" height="1280" alt="The Eerde castle campus, photographed during a school visit. LEP photograph." loading="lazy" decoding="async"></a><figcaption>The Eerde castle campus, photographed during a school visit. LEP photograph.</figcaption></figure>
 <h2>Does applying through LEP cost more?</h2>
 <p>Until 15 September 2027, LEP charges no additional service fee for assistance with an Eerde application. This includes application assessment, school liaison, document preparation and visa application support. School tuition, boarding and government or other third-party charges remain payable.</p>
 <p>You gain a Europe-based point of contact to help prepare and coordinate the application, without an additional LEP application service charge during this period.</p>

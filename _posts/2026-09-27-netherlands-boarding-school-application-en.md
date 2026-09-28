@@ -6,15 +6,15 @@ permalink: "/en/insights/netherlands-boarding-school-application/"
 cluster: "netherlands-school"
 title: "Applying to a Dutch boarding school from abroad: where should families start?"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "Start with age, academic preparation, English and readiness for boarding. LEP can discuss the student’s circumstances directly with Eerde and coordinate the application."
 answer: "Start with age, academic preparation, English and readiness for boarding. LEP can discuss the student’s circumstances directly with Eerde and coordinate the application."
-image: "/assets/eerde/n5-1.webp"
+image: "/assets/eerde/eerde-campus-approach-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n5-1.webp" width="1600" height="1066" alt="Eerde · The campus and its surroundings" loading="eager"><figcaption>Eerde · The campus and its surroundings</figcaption></figure><h2>Age 14 and above is our main application focus</h2>
+<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-campus-approach-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-campus-approach-lep.jpg" width="2275" height="1280" alt="The Eerde campus and courtyard. LEP photograph." loading="eager" decoding="async"></a><figcaption>The Eerde campus and courtyard. LEP photograph.</figcaption></figure><h2>Age 14 and above is our main application focus</h2>
 <p>For students moving to the Netherlands without their parents, LEP focuses on secondary applications from age 14. The decision involves more than age: the school needs to consider what the student has studied and which stage they can realistically enter.</p>
 <p>A student still in lower secondary, one completing that stage and one already following an international curriculum may need different arrangements.</p>
 <h2>Consider academics, English and daily independence together</h2>

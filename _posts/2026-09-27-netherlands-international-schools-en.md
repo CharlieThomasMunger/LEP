@@ -6,15 +6,15 @@ permalink: "/en/insights/netherlands-international-schools/"
 cluster: "netherlands-school"
 title: "Choosing an English-language international school in the Netherlands: what if parents are not moving?"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "Families relocating together and students moving without their parents need different school arrangements. LEP focuses on boarding applications for students aged 14 and above, with Eerde as our current school focus in the Netherlands."
 answer: "Families relocating together and students moving without their parents need different school arrangements. LEP focuses on boarding applications for students aged 14 and above, with Eerde as our current school focus in the Netherlands."
-image: "/assets/eerde/n1-1.webp"
+image: "/assets/eerde/eerde-castle-front-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n1-1.webp" width="1600" height="1066" alt="Eerde · Eerde castle campus" loading="eager"><figcaption>Eerde · Eerde castle campus</figcaption></figure><h2>Start with the family’s living arrangements</h2>
+<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-castle-front-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-castle-front-lep.jpg" width="2275" height="1280" alt="Eerde castle and courtyard. LEP photograph." loading="eager" decoding="async"></a><figcaption>Eerde castle and courtyard. LEP photograph.</figcaption></figure><h2>Start with the family’s living arrangements</h2>
 <p>Some families already live in the Netherlands and want an English-language education. Others plan to send a child while the parents remain abroad. Both may consider international schools, but their practical needs are different.</p>
 <p>When parents live nearby, school choice can include day schools, commuting and after-school arrangements. When they do not, a suitable boarding arrangement must cover life outside lessons, including term-time weekends.</p>
 <p>This series focuses mainly on the second group, reflecting LEP’s current Dutch school services. Other international day schools exist, but a long list of names does little for a family whose first requirement is boarding.</p>

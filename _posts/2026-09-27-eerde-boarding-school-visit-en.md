@@ -6,15 +6,15 @@ permalink: "/en/insights/eerde-boarding-school-visit/"
 cluster: "netherlands-school"
 title: "After visiting Eerde: which families should consider this Dutch boarding school?"
 date: "2026-09-27"
-reviewed: "2026-09-27"
+reviewed: "2026-09-28"
 description: "I see Eerde as a worthwhile option for families seeking English-language education and boarding while parents remain abroad. Its historic estate, modern teaching spaces and close school community left a positive impression."
 answer: "I see Eerde as a worthwhile option for families seeking English-language education and boarding while parents remain abroad. Its historic estate, modern teaching spaces and close school community left a positive impression."
-image: "/assets/eerde/n7-1.webp"
+image: "/assets/eerde/eerde-james-school-sign-lep.jpg"
 school_article: true
 has_topic_navigation: true
 ---
 
-<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n7-1.webp" width="1600" height="1066" alt="Eerde · The castle estate" loading="eager"><figcaption>Eerde · The castle estate</figcaption></figure><h2>Why I am willing to introduce Eerde to families</h2>
+<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-james-school-sign-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-james-school-sign-lep.jpg" width="2275" height="1280" alt="James Liu visiting Eerde International Boarding School. LEP photograph." loading="eager" decoding="async"></a><figcaption>James Liu visiting Eerde International Boarding School. LEP photograph.</figcaption></figure><h2>Why I am willing to introduce Eerde to families</h2>
 <p>I have visited Eerde International Boarding School. What stood out was the combination of a historic castle estate with modern teaching facilities. Students are choosing a setting in which to live as well as a building in which to attend lessons.</p>
 <p>I went into the boarding accommodation and found the conditions satisfactory. Full boarding covers term-time weekends, which is particularly relevant when parents are not living in the Netherlands.</p>
 <p>The school staff who welcomed us were very warm and approachable. I believe that is worth describing: a family sending a child abroad will care about the people they may need to communicate with, not only the curriculum title.</p>
