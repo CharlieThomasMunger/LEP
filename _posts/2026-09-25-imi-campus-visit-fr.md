@@ -10,7 +10,7 @@ title: "Ce que je regarde lors d’une visite à IMI : l’avenir de l’étudia
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "À IMI, je ne regarde pas seulement les bâtiments : je cherche à comprendre comment les étudiants apprennent, communiquent et à quels profils l’école peut offrir un bon départ."
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
 ---
 
@@ -21,7 +21,7 @@ translated: true
 Après ma visite, je ne qualifierais pas les installations de luxueuses. Chaque famille doit déterminer l’importance du cadre matériel par rapport à la formation, aux stages et au budget. La réponse n’est pas la même pour tous.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
 <figcaption>James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ Ce sont des questions de lecture des entretiens, pas des réponses inventées au
 Pour les parcours scolaires, j’entretiens des relations approfondies avec les directions de St George’s International School au Luxembourg, ainsi que de Chantemerle, ISA Altdorf et St. Charles en Suisse. Ces échanges permettent de comprendre leur philosophie éducative et la manière dont un enfant peut utiliser les ressources d’apprentissage et de poursuite d’études.
 
 <figure class="article-photo">
-<a href="/assets/fieldwork/st-charles-owner.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-charles-owner.jpg" alt="James Liu avec le propriétaire de St. Charles en Suisse" loading="lazy"></a>
+<a href="/assets/swiss/sc03.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc03.jpg" alt="James Liu avec le propriétaire de St. Charles en Suisse" loading="lazy" width="1600" height="1067" decoding="async"></a>
 <figcaption>James Liu avec le propriétaire de St. Charles : une autre relation de LEP dans l’éducation européenne. Il ne s’agit pas d’un représentant d’IMI.</figcaption>
 </figure>
 

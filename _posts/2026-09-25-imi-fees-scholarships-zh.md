@@ -37,7 +37,7 @@ image: "/assets/imi/accommodation-fees.png"
 学校列出的住宿费为每 22 周 2,700—5,750 瑞郎，全膳每 22 周 2,950 瑞郎。最低的 2,700 瑞郎房型限女生，不能默认每个学生都能选到。
 
 <figure class="article-photo">
-<a href="/assets/imi/accommodation-fees.png" target="_blank" rel="noopener"><img src="/assets/imi/accommodation-fees.png" alt="IMI 官方食宿费用表，按22周学期列示房型与餐费" loading="eager"></a>
+<a href="/assets/imi/accommodation-fees.png" target="_blank" rel="noopener"><img src="/assets/imi/accommodation-fees.png" alt="IMI 官方食宿费用表，按22周学期列示房型与餐费" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI 提供的食宿表原页；金额与本次核对的公开费用页面一致。页面中的住宿和餐费均按 22 周计算。</figcaption>
 </figure>
 

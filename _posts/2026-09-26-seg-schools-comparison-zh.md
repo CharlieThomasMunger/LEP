@@ -29,7 +29,7 @@ image: "/assets/seg/james-shms-palace.jpg"
 ## SHMS：酒店、会展与设计，行业方向鲜明
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-palace.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-palace.jpg" alt="修印先生实地考察 SHMS" loading="eager"></a>
+<a href="/assets/seg/james-shms-palace.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-palace.jpg" alt="修印先生实地考察 SHMS" loading="eager" width="1280" height="1920" decoding="async"></a>
 <figcaption>修印先生实地考察 SHMS｜LEP 实拍。</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ image: "/assets/seg/james-shms-palace.jpg"
 ## CRCS：商科方向更细，适合关注企业经营的学生
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="瑞士恺撒里兹大学校园" loading="lazy"></a>
+<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="瑞士恺撒里兹大学校园" loading="lazy" width="2174" height="1280" decoding="async"></a>
 <figcaption>瑞士恺撒里兹大学校园｜学校资料。</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ image: "/assets/seg/james-shms-palace.jpg"
 ## HIM：三年商科、三次实习，本科预算更低
 
 <figure class="article-photo">
-<a href="/assets/seg/him-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/him-campus.jpg" alt="瑞士蒙特勒工商管理大学校园" loading="lazy"></a>
+<a href="/assets/seg/him-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/him-campus.jpg" alt="瑞士蒙特勒工商管理大学校园" loading="lazy" width="2000" height="1335" decoding="async"></a>
 <figcaption>HIM 蒙特勒校园｜学校资料。</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ image: "/assets/seg/james-shms-palace.jpg"
 ## CAA：先练好厨艺，再学会经营餐饮
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="瑞士美食艺术管理学院教学楼" loading="lazy"></a>
+<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="瑞士美食艺术管理学院教学楼" loading="lazy" width="1920" height="1280" decoding="async"></a>
 <figcaption>CAA 的 Apicius 教学楼｜学校资料。</figcaption>
 </figure>
 

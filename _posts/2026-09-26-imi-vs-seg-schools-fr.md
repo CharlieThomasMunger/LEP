@@ -18,7 +18,7 @@ Par James Liu | Lux Education Partners | 26 septembre 2026
 **J’ai visité IMI, SHMS et HIM. Mon analyse est claire : IMI pour le rapport formation-investissement ; SHMS pour l’hôtellerie, l’événementiel et le design ; César Ritz pour les spécialisations en gestion ; HIM pour ses trois stages ; CAA pour une ambition culinaire affirmée.**
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-window.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-window.jpg" alt="James Liu en visite à SHMS" loading="eager"></a>
+<a href="/assets/seg/james-shms-window.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-window.jpg" alt="James Liu en visite à SHMS" loading="eager" width="1280" height="1920" decoding="async"></a>
 <figcaption>James Liu lors de sa visite à SHMS | Photo LEP.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ IMI International Management Institute Switzerland ne possède pas les installat
 Le bachelor en commerce international d’IMI aborde échanges et finance, droit des affaires, stratégie et management interculturel, avec des bases liées aux services et à la pratique. César Ritz propose six spécialisations en gestion et un bachelor distinct en IA appliquée ; son cursus complet de quatre ans comprend une année immersive. HIM offre finance, marketing, management et hôtellerie, avec trois stages de quatre à six mois sur trois ans.
 
 <figure class="article-photo">
-<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="Orientations et stages HIM" loading="lazy"></a>
+<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="Orientations et stages HIM" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Les quatre orientations en gestion et les trois stages de HIM.</figcaption>
 </figure>
 

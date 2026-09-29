@@ -10,7 +10,7 @@ title: "为什么选择 IMI？我看重它的课程、实习和性价比"
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "IMI 不是我看过的瑞士学校中设施最豪华的一所，但它的课程安排、学术训练和带薪实习，让我认为这是一所性价比很值得看的学校。"
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
@@ -20,7 +20,7 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 我去过校园，也采访过学生。对重视学习内容、毕业发展，又希望把预算用在实处的家庭，我会认真介绍 IMI。学校具体教什么、合作申请后要付多少钱、孩子以后可以往哪里走，应该讲清楚。
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生实地访校 IMI。LEP 与校方直接合作。" width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="修印先生实地访校 IMI。LEP 与校方直接合作。" width="2400" height="1331" loading="eager"></a>
 <figcaption>修印先生实地访校 IMI。LEP 与校方直接合作。</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ IMI 位于瑞士卢塞恩地区，以英语授课。本科分为酒店商业管�
 IMI 三条本科都把学习和工作交替安排：**22 周学习，22 周实习，再回学校学习，再去实习，最后完成本科阶段课程。** 第三段实习可以选择参加。
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI 酒店商业管理本科官方课程与实习安排" loading="lazy"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI 酒店商业管理本科官方课程与实习安排" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI 官方课程资料第 4 页。三段课堂学习各 22 周，两段必修实习各 22 周，第三段实习为可选。课程资料概述学制为 2.5—3 年，官网本科总览写三年。</figcaption>
 </figure>
 

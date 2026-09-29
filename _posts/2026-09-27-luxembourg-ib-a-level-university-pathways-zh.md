@@ -9,12 +9,12 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "两条路线都能申请多个国家的大学。IB兼顾多学科，A Level更早集中选科，要结合孩子的长处和目标专业来选。"
 answer: "两条路线都能申请多个国家的大学。IB兼顾多学科，A Level更早集中选科，要结合孩子的长处和目标专业来选。"
-image: "/assets/people/james-library-landscape.png"
+image: "/assets/people/james-library-landscape.webp"
 has_topic_navigation: true
 faq: [{"q": "A Level能申请美国大学吗？", "a": "可以。还要按具体大学要求，准备完整的学术和其他申请材料。"}, {"q": "OTR只有IB，没有A Level吗？", "a": "不是。OTR目前也提供Cambridge AS与A Level课程。"}, {"q": "在卢森堡读高中，能申请瑞士大学吗？", "a": "可以研究对应路线，但必须同时核对文凭、选科、成绩和授课语言条件。"}]
 ---
 
-<figure class="article-photo"><a href="/assets/people/james-library-landscape.png" target="_blank" rel="noopener"><img src="/assets/people/james-library-landscape.png" alt="修印先生，书架背景个人照片" width="1198" height="800" loading="lazy" decoding="async"></a><figcaption>修印先生｜个人照片。</figcaption></figure>
+<figure class="article-photo"><a href="/assets/people/james-library-landscape.webp" target="_blank" rel="noopener"><img src="/assets/people/james-library-landscape.webp" alt="修印先生，书架背景个人照片" width="1198" height="800" loading="lazy" decoding="async"></a><figcaption>修印先生｜个人照片。</figcaption></figure>
 
 <h2>先把课程和学校分清楚</h2>
 

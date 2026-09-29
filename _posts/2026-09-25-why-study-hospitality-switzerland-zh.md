@@ -26,7 +26,7 @@ image: "/assets/imi/hospitality-curriculum.png"
 拿 IMI 的国际酒店商业管理本科来说，学生从酒店运营和商业会计开始，接着学消费者研究、财务表现与收益控制，后面还有营销、研究项目和活动管理。酒店提供了一个很具体的学习场景：客人为什么愿意付钱，价格怎么定，团队怎么带，服务出了问题怎么解决。
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI 国际酒店商业管理本科官方课程表，包含三个学习阶段及带薪实习" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI 国际酒店商业管理本科官方课程表，包含三个学习阶段及带薪实习" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>图：IMI 官方本科课程资料第 4 页。下方标出了学习与实习的交替安排；点击图片可放大。</figcaption>
 </figure>
 

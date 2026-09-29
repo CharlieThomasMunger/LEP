@@ -22,7 +22,7 @@ Le bachelor de trois ans associe **1 100 heures de pratique en cuisine** à deux
 À mes yeux, c’est un parcours vers la maîtrise : transformer la passion en technique, l’inspiration en qualité régulière, puis le talent individuel en capacité à diriger une équipe.
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="Bâtiment Apicius de CAA" loading="eager"></a>
+<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="Bâtiment Apicius de CAA" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>Bâtiment Apicius de CAA | Photo fournie par l’école.</figcaption>
 </figure>
 
@@ -36,12 +36,12 @@ Le bachelor de trois ans associe **1 100 heures de pratique en cuisine** à deux
 Les deux premières années se déroulent principalement au Bouveret, puis la troisième à Brigue. Recherche, marketing, finance, événements gastronomiques et plan d’affaires viennent compléter la formation.
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-culinary-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-culinary-bachelor-curriculum-2027.png" alt="Cursus arts culinaires CAA" loading="lazy"></a>
+<a href="/assets/seg/caa-culinary-bachelor-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-culinary-bachelor-curriculum-2027.webp" alt="Cursus arts culinaires CAA" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Bachelor en arts culinaires et ses deux stages.</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-pastry-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-pastry-bachelor-curriculum-2027.png" alt="Cursus pâtisserie CAA" loading="lazy"></a>
+<a href="/assets/seg/caa-pastry-bachelor-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-pastry-bachelor-curriculum-2027.webp" alt="Cursus pâtisserie CAA" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Bachelor en pâtisserie, boulangerie et chocolat.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Le diplôme professionnel est distinct du bachelor. Les intitulés des bachelors
 Le MA couvre culture gastronomique, gestion des équipes, performance économique, développement durable, marketing, recherche et entrepreneuriat. Il prépare à la gestion de la restauration ; ce n’est pas un raccourci pour devenir chef expérimenté en partant de zéro.
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-master-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-master-curriculum-2027.png" alt="Cursus master CAA" loading="lazy"></a>
+<a href="/assets/seg/caa-master-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-master-curriculum-2027.webp" alt="Cursus master CAA" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Programme du MA in Culinary Business Management.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Le MA couvre culture gastronomique, gestion des équipes, performance économiqu
 Les deux bachelors représentent **CHF 176 200**. Le MA est à **CHF 49 000** et le diplôme professionnel de trois périodes d’enseignement à **CHF 60 000**. Les uniformes et équipements professionnels correspondants sont prévus dans les frais. Les dépenses pendant les vacances et stages non couverts sont à ajouter.
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="Frais bachelor CAA" loading="lazy"></a>
+<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="Frais bachelor CAA" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>Frais bachelor CAA 2027.</figcaption>
 </figure>
 

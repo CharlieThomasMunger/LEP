@@ -10,7 +10,7 @@ title: "Candidater à IMI en Suisse : LEP vous accompagne dans le choix du progr
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "Pour candidater à IMI, contactez directement LEP. Partenaire officiel de l’école, nous vous aidons à choisir la formation, solliciter les bourses, coordonner le dossier et faire avancer l’admission. Pour les candidatures IMI prises en charge par LEP, nos frais de service de candidature …"
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
 ---
 
@@ -21,7 +21,7 @@ translated: true
 Il n’est pas nécessaire d’avoir déjà constitué un dossier. Parlez-nous de votre diplôme actuel, de votre anglais, du budget, de la rentrée envisagée et de vos objectifs après les études.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
 <figcaption>James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Il n’est pas nécessaire d’avoir déjà constitué un dossier. Parlez-nous d
 | Graduate Diploma culinaire | Février, août |
 
 <figure class="article-photo">
-<a href="/assets/imi/term-dates-2027.png" target="_blank" rel="noopener"><img src="/assets/imi/term-dates-2027.png" alt="Calendrier officiel IMI 2027 et dates de rentrée" loading="eager"></a>
+<a href="/assets/imi/term-dates-2027.webp" target="_blank" rel="noopener"><img src="/assets/imi/term-dates-2027.webp" alt="Calendrier officiel IMI 2027 et dates de rentrée" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI Term Dates 2026–27, page 2027. Les dates surlignées sont des rentrées, pas des dates limites de candidature. Toutes les formations ne sont pas ouvertes à chaque rentrée.</figcaption>
 </figure>
 

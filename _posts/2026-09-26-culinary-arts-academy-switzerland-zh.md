@@ -21,7 +21,7 @@ image: "/assets/seg/caa-campus.jpg"
 我把这种高强度训练看作一条**大师淬炼之路**：把热爱变成基本功，把灵感变成稳定的出品，把个人手艺变成带领团队的能力。对于有耐心、有审美、愿意反复打磨技术的孩子，这是值得认真投入的专业道路。
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="CAA 的 Apicius 教学楼" loading="eager"></a>
+<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="CAA 的 Apicius 教学楼" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>CAA 的 Apicius 教学楼｜学校资料。</figcaption>
 </figure>
 
@@ -35,12 +35,12 @@ image: "/assets/seg/caa-campus.jpg"
 两条本科前两年主要在 **Le Bouveret**，第三年在 **Brig**。后段逐渐加入研究、市场营销、财务、餐饮活动和商业计划，把“能做出产品”继续推进到“能理解一家生意”。
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-culinary-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-culinary-bachelor-curriculum-2027.png" alt="CAA 西餐本科课程与两段实习课程图" loading="lazy"></a>
+<a href="/assets/seg/caa-culinary-bachelor-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-culinary-bachelor-curriculum-2027.webp" alt="CAA 西餐本科课程与两段实习课程图" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>CAA 西餐本科课程与两段实习。</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-pastry-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-pastry-bachelor-curriculum-2027.png" alt="CAA 甜点烘焙巧克力本科课程图" loading="lazy"></a>
+<a href="/assets/seg/caa-pastry-bachelor-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-pastry-bachelor-curriculum-2027.webp" alt="CAA 甜点烘焙巧克力本科课程图" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>CAA 甜点烘焙巧克力本科课程。</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ image: "/assets/seg/caa-campus.jpg"
 硕士 **MA in Culinary Business Management** 关注餐饮文化与趋势、人员管理、经营表现、可持续发展、营销、研究和创业。它适合讨论餐饮经营问题，但不应被当作从零练到资深厨师的捷径。
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-master-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-master-curriculum-2027.png" alt="CAA 餐饮商务管理硕士官方课程图" loading="lazy"></a>
+<a href="/assets/seg/caa-master-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-master-curriculum-2027.webp" alt="CAA 餐饮商务管理硕士官方课程图" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>CAA 餐饮商务管理硕士课程图。</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ image: "/assets/seg/caa-campus.jpg"
 本科两条方向在本轮费用表中合计均为 **176,200 瑞郎**；餐饮商务管理硕士为 **49,000 瑞郎**。三学期职业文凭路线列示 **60,000 瑞郎**，不能把这个金额写成本科总费。
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="CAA 2027 本科收费表" loading="lazy"></a>
+<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="CAA 2027 本科收费表" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>CAA 2027 本科收费。</figcaption>
 </figure>
 

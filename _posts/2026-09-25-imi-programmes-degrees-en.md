@@ -40,7 +40,7 @@ The first stage of the **BA (Hons) International Hospitality Business Management
 The questions are practical: what should a room cost, how do you control expenses, why do guests return and how do you improve a team? For a student aiming to progress from operational experience towards management, these subjects have a clear purpose.
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI official hospitality business bachelor’s curriculum" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI official hospitality business bachelor’s curriculum" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI programme brochure, page 4, including compulsory and optional internships.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ The **BA (Hons) International Business Management with Internship** shares the i
 It deserves consideration when a student is more interested in markets and cross-border business than a specific hotel role. It still includes service and hospitality foundations; the word “Business” does not make it identical to every general business degree.
 
 <figure class="article-photo">
-<a href="/assets/imi/business-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/business-curriculum.png" alt="IMI official international business bachelor’s curriculum" loading="lazy"></a>
+<a href="/assets/imi/business-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/business-curriculum.png" alt="IMI official international business bachelor’s curriculum" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI programme brochure, page 4. Compare the second and third stages with the hospitality route.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ The **BA (Hons) International Culinary Management with Internship** includes cul
 Enjoying food is different from wanting to train in a kitchen. I discuss willingness to practise, follow standards and work in a team. Someone who hopes to run a restaurant also needs to understand costing, purchasing, service efficiency and staffing.
 
 <figure class="article-photo">
-<a href="/assets/imi/culinary-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/culinary-curriculum.png" alt="IMI official culinary management bachelor’s curriculum" loading="lazy"></a>
+<a href="/assets/imi/culinary-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/culinary-curriculum.png" alt="IMI official culinary management bachelor’s curriculum" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI programme brochure, page 4. Published intakes are February and August.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Current materials for the **MSc International Hospitality Business Management** 
 Subjects include hospitality operations, talent development, assets, international strategy, concept development, digital marketing, global business issues and research methods, followed by a dissertation. The emphasis is on analysis, business judgment and independent research.
 
 <figure class="article-photo">
-<a href="/assets/imi/msc-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/msc-curriculum.png" alt="IMI official MSc teaching, dissertation and optional professional practice structure" loading="lazy"></a>
+<a href="/assets/imi/msc-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/msc-curriculum.png" alt="IMI official MSc teaching, dissertation and optional professional practice structure" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>MSc brochure, page 4. The school describes a 12-month programme; timing of optional professional practice needs separate confirmation.</figcaption>
 </figure>
 

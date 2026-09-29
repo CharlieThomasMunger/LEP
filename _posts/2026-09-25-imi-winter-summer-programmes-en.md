@@ -37,7 +37,7 @@ The early price is CHF 1,200 below the standard fee. The condition concerns rece
 ## What happens during the week?
 
 <figure class="article-photo">
-<a href="/assets/imi/winter-2027-timetable.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-timetable.png" alt="Official IMI Winter Programme 2027 example timetable" loading="eager"></a>
+<a href="/assets/imi/winter-2027-timetable.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-timetable.png" alt="Official IMI Winter Programme 2027 example timetable" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>Example timetable from IMI’s winter brochure. Activities and timings may change with weather and organisation.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Travel requirements depend on the participant’s nationality and current status
 **The sequence is to pay for the camp, complete it successfully, then use the amount paid as a tuition credit when entering an eligible longer-term programme under the conditions.** It is not a cash refund after the camp.
 
 <figure class="article-photo">
-<a href="/assets/imi/winter-2027-tuition-credit.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-tuition-credit.png" alt="IMI official winter brochure explaining credit against first-year tuition within two years" loading="lazy"></a>
+<a href="/assets/imi/winter-2027-tuition-credit.webp" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-tuition-credit.webp" alt="IMI official winter brochure explaining credit against first-year tuition within two years" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>IMI’s brochure sets out the two-year tuition-credit arrangement. The short-programme application terms describe a one-time award per student equal to the short-programme fee actually paid.</figcaption>
 </figure>
 

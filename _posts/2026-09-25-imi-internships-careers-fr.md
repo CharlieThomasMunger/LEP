@@ -23,7 +23,7 @@ La réflexion doit dépasser « l’école propose des stages ». Que doit appor
 ## Comment les stages s’intègrent au bachelor
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Programme officiel d’IMI montrant l’alternance entre études et stages rémunérés" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Programme officiel d’IMI montrant l’alternance entre études et stages rémunérés" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>Deux stages rémunérés obligatoires de 22 semaines chacun ; un troisième stage de 22 semaines est facultatif. Les stages peuvent se dérouler en Suisse ou dans d’autres pays.</figcaption>
 </figure>
 

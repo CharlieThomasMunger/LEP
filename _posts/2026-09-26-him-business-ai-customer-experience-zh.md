@@ -20,7 +20,7 @@ image: "/assets/fieldwork/him-james-campus-visit.jpg"
 
 HIM 在 QS 2026 Hospitality & Leisure Management 学科排名中列世界第 8。这里指款待业与休闲管理学科，不能写成商科综合排名世界第八。
 
-<figure class="article-photo"><a href="/assets/fieldwork/him-james-campus-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-campus-visit.jpg" alt="修印先生实地走访HIM瑞士蒙特勒工商管理大学。LEP实拍。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>修印先生实地走访HIM瑞士蒙特勒工商管理大学。LEP实拍。</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/him-james-campus-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-campus-visit.jpg" alt="修印先生实地走访HIM瑞士蒙特勒工商管理大学。LEP实拍。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="466" height="810" decoding="async"></a><figcaption>修印先生实地走访HIM瑞士蒙特勒工商管理大学。LEP实拍。</figcaption></figure>
 
 ## 金融、营销、管理、款待业，课程差在哪？
 
@@ -34,7 +34,7 @@ HIM 在 QS 2026 Hospitality & Leisure Management 学科排名中列世界第 8�
 前期共享商业数学、会计、经济学、营销、跨文化沟通、客户体验等基础；后期再深化方向。这给还在探索的孩子留出一定空间，但也意味着他仍然要认真学数学、财务与数据分析。
 
 <figure class="article-photo">
-<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="HIM 2027 本科四方向与三段实习课程图" loading="lazy"></a>
+<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="HIM 2027 本科四方向与三段实习课程图" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>HIM 2027 本科四方向与三段实习课程。</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ HIM 在 QS 2026 Hospitality & Leisure Management 学科排名中列世界第 8�
 | 10—12 月 | 线上项目 | 完成综合项目 |
 
 <figure class="article-photo">
-<a href="/assets/seg/him-ai-master-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-ai-master-curriculum-2027.png" alt="HIM 应用 AI 客户体验硕士全球学习安排" loading="lazy"></a>
+<a href="/assets/seg/him-ai-master-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/him-ai-master-curriculum-2027.webp" alt="HIM 应用 AI 客户体验硕士全球学习安排" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>HIM 应用 AI 客户体验硕士全球学习安排。</figcaption>
 </figure>
 
@@ -84,13 +84,13 @@ HIM 这条 AI 课程引起我的兴趣，就在这个交叉点：AI 用来做客
 2027 本科预算参考 **CHF 131,800**，是 SEG 四校本轮本科预算金额中较低的一项，含表内在校食宿与相关服务。另列 2,000 瑞郎保证金；假期、实习生活及个人支出需要另做预算。
 
 <figure class="article-photo">
-<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="HIM 2027 本科费用表" loading="lazy"></a>
+<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="HIM 2027 本科费用表" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>HIM 2027 本科费用。</figcaption>
 </figure>
 
 AI 硕士预算参考为 **CHF 38,000**。课程采用线上、澳门和瑞士分阶段学习。费用为申请预算参考，可能略有变化，以最终学校申请确认的金额为准。
 
-<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/him-lounge.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-lounge.jpg" alt="HIM校园休息区。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>HIM校园休息区。LEP实地拍摄。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-james-alumni-wall.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-alumni-wall.jpg" alt="修印先生在HIM参观历届学生合影墙。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>修印先生在HIM参观历届学生合影墙。LEP实地拍摄。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-alumni-corridor.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-alumni-corridor.jpg" alt="HIM历届学生合影与交流空间。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>HIM历届学生合影与交流空间。LEP实地拍摄。</figcaption></figure></div>
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/him-lounge.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-lounge.jpg" alt="HIM校园休息区。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="464" height="802" decoding="async"></a><figcaption>HIM校园休息区。LEP实地拍摄。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-james-alumni-wall.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-alumni-wall.jpg" alt="修印先生在HIM参观历届学生合影墙。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="458" height="784" decoding="async"></a><figcaption>修印先生在HIM参观历届学生合影墙。LEP实地拍摄。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-alumni-corridor.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-alumni-corridor.jpg" alt="HIM历届学生合影与交流空间。LEP实地拍摄。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="464" height="802" decoding="async"></a><figcaption>HIM历届学生合影与交流空间。LEP实地拍摄。</figcaption></figure></div>
 
 ## LEP 帮你把“读商科”变成有目标的三年
 

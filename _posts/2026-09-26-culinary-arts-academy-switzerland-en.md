@@ -22,7 +22,7 @@ Its three-year bachelor’s combines **1,100 hours of kitchen practice** with tw
 I regard this as an apprenticeship in mastery: turning enthusiasm into technique, inspiration into consistent results, and individual ability into the capacity to lead a team.
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="CAA Apicius building" loading="eager"></a>
+<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="CAA Apicius building" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>CAA’s Apicius building | School-provided photograph.</figcaption>
 </figure>
 
@@ -36,12 +36,12 @@ I regard this as an apprenticeship in mastery: turning enthusiasm into technique
 The first two years are mainly at Le Bouveret, followed by the third year in Brig. Later study adds research, marketing, finance, food events and business planning.
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-culinary-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-culinary-bachelor-curriculum-2027.png" alt="CAA culinary arts curriculum" loading="lazy"></a>
+<a href="/assets/seg/caa-culinary-bachelor-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-culinary-bachelor-curriculum-2027.webp" alt="CAA culinary arts curriculum" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Culinary arts bachelor’s curriculum and two internships.</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-pastry-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-pastry-bachelor-curriculum-2027.png" alt="CAA pastry curriculum" loading="lazy"></a>
+<a href="/assets/seg/caa-pastry-bachelor-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-pastry-bachelor-curriculum-2027.webp" alt="CAA pastry curriculum" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Pastry, baking and chocolate bachelor’s curriculum.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ The professional diploma is distinct from a bachelor’s degree. CAA’s own awa
 The MA addresses food culture, people management, business performance, sustainability, marketing, research and entrepreneurship. Its focus is business management rather than a shortcut from beginner to experienced chef.
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-master-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-master-curriculum-2027.png" alt="CAA culinary business master’s curriculum" loading="lazy"></a>
+<a href="/assets/seg/caa-master-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/caa-master-curriculum-2027.webp" alt="CAA culinary business master’s curriculum" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>MA in Culinary Business Management curriculum.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ The MA addresses food culture, people management, business performance, sustaina
 Both bachelor’s pathways are budgeted at **CHF 176,200**. The MA is **CHF 49,000**; the three-term professional diploma route is **CHF 60,000**. Relevant uniforms and culinary or baking equipment are included in the fee arrangements. Living expenses during uncovered holidays and internships are additional.
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="CAA undergraduate fees" loading="lazy"></a>
+<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="CAA undergraduate fees" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>CAA undergraduate fees for 2027.</figcaption>
 </figure>
 

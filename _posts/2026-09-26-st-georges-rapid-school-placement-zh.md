@@ -13,7 +13,7 @@ lep_service_page: false
 ---
 
 <p class="lead">9 月 7 日，家长支付启动费，我们正式受托推进。9 月 16 日，孩子按校方安排开始上课。从付费启动到开课，相隔 9 天。这期间，我们把校长沟通、年级安排、到校试读、正式录取，以及寄宿家庭与学校之间的责任分工一并落实。</p>
-<figure class="article-photo"><a href="/assets/fieldwork/st-georges-principal-portrait.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-georges-principal-portrait.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP访校实拍，非本案例学生入校当天照片。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>修印先生与圣乔治国际学校校长合影。LEP访校实拍，非本案例学生入校当天照片。</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/st-georges-principal-portrait.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-georges-principal-portrait.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP访校实拍，非本案例学生入校当天照片。" loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="1280" height="1920" decoding="async"></a><figcaption>修印先生与圣乔治国际学校校长合影。LEP访校实拍，非本案例学生入校当天照片。</figcaption></figure>
 <h2>欧洲的办事节奏里，这样的九天有多难？</h2>
 <p><strong>按我给家庭做整体申请规划的经验，普通流程要按约两个月准备，这还不包括匹配寄宿家庭。</strong>长期在欧洲生活的人知道，这里的办事节奏普遍比国内慢，不能指望周末、节假日邮件和电话也得到及时回复。八月的暑假，更会影响学校和家庭的响应。</p>
 <p>这次孩子需要在学校已经开学后，获得一个特殊的短期插班安排。父母不能长期陪在身边，学校又必须把课程、评估和各方责任都确认好。<strong>我认为，能在九天里把这些事情做成，称得上一次奇迹般的推进。</strong>它背后是实际的专业判断、本地执行，以及圣乔治愿意为孩子认真寻找解决办法。</p>
@@ -52,7 +52,7 @@ lep_service_page: false
 <blockquote>“我们寻找合适学校的时间非常有限。我特别感谢您迅速、投入地推进，在很短时间内建立必要联系，并为我们核查可行的选择。”</blockquote>
 <blockquote>“最终找到合适的学校，是我们能够真正落实孩子此次卢森堡停留计划的关键。没有您的支持，我们很难在这么短的时间里做到。”</blockquote>
 <p class="note">以上为家长德语邮件节选的中文译文；姓名及可识别个人信息已隐去。</p>
-<figure class="article-photo evidence"><a href="/assets/luxembourg/parent-thank-you-original-redacted.png" target="_blank" rel="noopener"><img src="/assets/luxembourg/parent-thank-you-original-redacted.png" alt="家长感谢信德语原邮件正文截图，私人信息已遮盖" loading="eager"></a><figcaption>2026 年 9 月 15 日家长感谢信。保留原邮件正文排版截图，姓名及金额已遮盖；点击可放大阅读。</figcaption></figure>
+<figure class="article-photo evidence"><a href="/assets/luxembourg/parent-thank-you-original-redacted.png" target="_blank" rel="noopener"><img src="/assets/luxembourg/parent-thank-you-original-redacted.png" alt="家长感谢信德语原邮件正文截图，私人信息已遮盖" loading="eager" width="1600" height="790" decoding="async"></a><figcaption>2026 年 9 月 15 日家长感谢信。保留原邮件正文排版截图，姓名及金额已遮盖；点击可放大阅读。</figcaption></figure>
 <h3>家长在信中还写道</h3><blockquote>“我们特别感谢您迅速而直接的工作方式，以及您在临时不断出现新问题、新要求时所付出的个人努力。现在，您仍在帮助我们处理最后的文件和手续，我们同样非常感激。”</blockquote><p>这封信让我很有感触。家长记住的，是事情着急时有人马上推进，临时有了问题有人接着处理，拿到录取后还有人把最后的事情做完。</p>
 <h2>九天体现我们的专业能力，但请一定提前申请</h2>
 <p><strong>我把这个案例写出来，是让家长看到我们能把什么事做到，不是建议你把孩子的入学计划压缩到九天。</strong>学校名额、课程衔接和寄宿家庭，都值得提前安排；普通申请按约两个月准备，匹配寄宿家庭还要另外留时间。</p>

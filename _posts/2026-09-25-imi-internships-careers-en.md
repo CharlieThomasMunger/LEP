@@ -23,7 +23,7 @@ Planning should go further than “the school offers internships”. What should
 ## The undergraduate placement structure
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI official bachelor’s curriculum showing study and paid internships" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI official bachelor’s curriculum showing study and paid internships" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI’s bachelor’s structure includes two compulsory paid internships of 22 weeks each and an optional third 22-week placement. Placements may be in Switzerland or other countries.</figcaption>
 </figure>
 

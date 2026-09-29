@@ -36,7 +36,7 @@ image: "/assets/imi/winter-2027-timetable.png"
 ## 这一周做什么？
 
 <figure class="article-photo">
-<a href="/assets/imi/winter-2027-timetable.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-timetable.png" alt="IMI 2027冬令营官方课程与活动日程" loading="eager"></a>
+<a href="/assets/imi/winter-2027-timetable.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-timetable.png" alt="IMI 2027冬令营官方课程与活动日程" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI 2027 冬令营官方简章中的示例日程。具体活动和时间可能因天气及组织安排调整。</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ image: "/assets/imi/winter-2027-timetable.png"
 **先支付营费并完成营地，之后按条件入读长期课程，再把已付营费抵到学费里。** 这项权益是学费抵扣，不是营地结束后把现金退回。
 
 <figure class="article-photo">
-<a href="/assets/imi/winter-2027-tuition-credit.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-tuition-credit.png" alt="IMI官方简章说明两年内入读符合条件的长期项目可将冬令营费用抵扣第一年学费" loading="lazy"></a>
+<a href="/assets/imi/winter-2027-tuition-credit.webp" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-tuition-credit.webp" alt="IMI官方简章说明两年内入读符合条件的长期项目可将冬令营费用抵扣第一年学费" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>IMI 官方简章原页：两年内入读符合条件的长期课程，冬令营费用计入第一年学费抵扣。申请表进一步说明，为每位学生一次、相当于实际已付短期课程费用的奖学金。</figcaption>
 </figure>
 

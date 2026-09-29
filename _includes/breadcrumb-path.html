@@ -1,0 +1,9 @@
+{%- assign breadcrumb_path = '/' | append: lang | append: '/insights/' -%}
+{%- case page.cluster -%}
+{%- when 'luxembourg-school', 'luxembourg-university' -%}
+{%- assign breadcrumb_path = '/' | append: lang | append: '/destinations/luxembourg/' -%}
+{%- when 'netherlands-school' -%}
+{%- assign breadcrumb_path = '/' | append: lang | append: '/destinations/netherlands/' -%}
+{%- when 'switzerland-boarding', 'switzerland-hotel' -%}
+{%- assign breadcrumb_path = '/' | append: lang | append: '/destinations/switzerland/' -%}
+{%- endcase -%}

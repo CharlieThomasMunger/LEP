@@ -10,7 +10,7 @@ title: "Pourquoi choisir IMI en Suisse ? Les cours, les stages et le rapport qua
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "IMI mérite, selon moi, d’être étudié pour ses programmes, l’expérience pratique et son rapport qualité-prix. Ses installations ne sont pas les plus luxueuses que j’aie visitées, mais ce n’est qu’une partie du choix."
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
 ---
 
@@ -21,7 +21,7 @@ translated: true
 En tant qu’entrepreneur établi en Europe, je regarde ce que l’étudiant apprendra, l’expérience qu’il pourra acquérir et la manière dont l’investissement familial prépare la suite.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
 <figcaption>James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Un futur restaurateur a besoin de maîtriser achats, coûts et équipes en plus 
 IMI propose trois bachelors : management hôtelier international, management international et management culinaire international. Chacun associe trois périodes d’études de 22 semaines et deux stages rémunérés obligatoires de 22 semaines. Un troisième stage est facultatif.
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Programme officiel du bachelor hôtelier d’IMI et alternance avec les stages" loading="lazy"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Programme officiel du bachelor hôtelier d’IMI et alternance avec les stages" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>Brochure IMI, page 4. Les brochures indiquent 2,5 à 3 ans ; la présentation générale des bachelors mentionne trois ans.</figcaption>
 </figure>
 

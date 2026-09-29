@@ -5,11 +5,12 @@ layout: default
 {%- assign t = site.data.ui[lang] -%}
 {%- assign author_page = site.pages | where: "translation_key", "author-james-liu" | where: "lang", lang | first -%}
 {%- assign cl = site.clusters[page.cluster] -%}
+{%- include breadcrumb-path.html -%}
 
 <article class="node">
   <header class="article-masthead">
     <div class="wrap">
-      <p class="crumb"><a href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }}</a>{% if page.cluster == "luxembourg-school" %} / <a href="/{{ lang }}/destinations/luxembourg/">{% if lang == "zh" %}卢森堡留学{% elsif lang == "fr" %}Étudier au Luxembourg{% else %}Study in Luxembourg{% endif %}</a>{% endif %}{% if cl %} &nbsp; / &nbsp; {{ cl[lang] }}{% endif %}</p>
+      <p class="crumb"><a href="{{ '/' | append: lang | append: '/' | relative_url }}">LEP</a>{% if cl %} / <a href="{{ breadcrumb_path | relative_url }}">{{ cl[lang] }}</a>{% endif %}</p>
       <h1>{{ page.title }}</h1>
       <div class="article-byline"><a href="{{ author_page.url | default: site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}James Liu{% endif %}</a><span>Lux Education Partners</span><time datetime="{{ page.reviewed | default: page.date | date: '%Y-%m-%d' }}">{{ page.reviewed | default: page.date | date: t.date_format }}</time></div>
     </div>
@@ -21,7 +22,7 @@ layout: default
       <span class="lab">{{ t.answer_label }}</span>
       <p>{{ page.answer }}</p>
       {%- if page.evidence %}
-      <p class="evidence">{{ t["evidence_" | append: page.evidence] }}</p>
+      <p class="evidence">{% assign evidence_key = "evidence_" | append: page.evidence %}{{ t[evidence_key] }}</p>
       {%- endif %}
     </div>
     {%- endif %}

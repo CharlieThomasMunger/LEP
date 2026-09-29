@@ -10,7 +10,7 @@ title: "Why choose IMI Switzerland? Curriculum, internships and value matter mor
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "I see IMI as a school worth considering for its curriculum, practical experience and value. Its facilities are not the most luxurious I have visited, but that is only one part of an education decision."
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
 ---
 
@@ -21,7 +21,7 @@ translated: true
 As an entrepreneur based in Europe, I ask what a student will learn, what experience they can gain and how the family’s investment connects with their future.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
 <figcaption>James Liu visiting IMI. LEP works directly with the school as an official partner.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ A future restaurant owner needs purchasing, costing and team management as well 
 IMI offers bachelor’s routes in international hospitality business management, international business management and international culinary management. Each combines three 22-week study periods with two compulsory 22-week paid internships; a third internship is optional.
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Official IMI hospitality bachelor’s curriculum and internship structure" loading="lazy"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Official IMI hospitality bachelor’s curriculum and internship structure" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI programme brochure, page 4. Brochures describe a 2.5–3-year route; the undergraduate overview describes three years.</figcaption>
 </figure>
 

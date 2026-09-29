@@ -38,7 +38,7 @@ These are the starting figures, not all-inclusive quotes. Comparing one schoolâ€
 Published accommodation ranges from CHF 2,700 to CHF 5,750 per 22 weeks; full board is CHF 2,950. The lowest-priced CHF 2,700 room category is for female students only, so it is not a universal budget assumption.
 
 <figure class="article-photo">
-<a href="/assets/imi/accommodation-fees.png" target="_blank" rel="noopener"><img src="/assets/imi/accommodation-fees.png" alt="IMI official accommodation and meal fee table for a 22-week period" loading="eager"></a>
+<a href="/assets/imi/accommodation-fees.png" target="_blank" rel="noopener"><img src="/assets/imi/accommodation-fees.png" alt="IMI official accommodation and meal fee table for a 22-week period" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>Official IMI accommodation and meal table, consistent with the published fees checked for this article.</figcaption>
 </figure>
 

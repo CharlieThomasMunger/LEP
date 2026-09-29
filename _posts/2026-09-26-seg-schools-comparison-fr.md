@@ -29,7 +29,7 @@ Par James Liu | Lux Education Partners | 26 septembre 2026
 ## SHMS : hôtellerie, événements et design
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-palace.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-palace.jpg" alt="James Liu en visite à SHMS" loading="eager"></a>
+<a href="/assets/seg/james-shms-palace.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-palace.jpg" alt="James Liu en visite à SHMS" loading="eager" width="1280" height="1920" decoding="async"></a>
 <figcaption>James Liu lors de sa visite à SHMS | Photo LEP.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ J’ai visité SHMS. Au-delà du cadre, ses trois orientations permettent de rel
 ## César Ritz : approfondir la gestion d’entreprise
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="Campus César Ritz" loading="lazy"></a>
+<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="Campus César Ritz" loading="lazy" width="2174" height="1280" decoding="async"></a>
 <figcaption>Campus César Ritz | Photo fournie par l’école.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Je l’envisage particulièrement pour les jeunes intéressés par l’entrepren
 ## HIM : trois ans de gestion et trois stages
 
 <figure class="article-photo">
-<a href="/assets/seg/him-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/him-campus.jpg" alt="Campus HIM à Montreux" loading="lazy"></a>
+<a href="/assets/seg/him-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/him-campus.jpg" alt="Campus HIM à Montreux" loading="lazy" width="2000" height="1335" decoding="async"></a>
 <figcaption>Campus HIM à Montreux | Photo fournie par l’école.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ HIM Business School, anciennement Hotel Institute Montreux, propose finance, mar
 ## CAA : viser l’excellence culinaire
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="Bâtiment Apicius de CAA" loading="lazy"></a>
+<a href="/assets/seg/caa-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/caa-campus.jpg" alt="Bâtiment Apicius de CAA" loading="lazy" width="1920" height="1280" decoding="async"></a>
 <figcaption>Bâtiment Apicius de CAA | Photo fournie par l’école.</figcaption>
 </figure>
 

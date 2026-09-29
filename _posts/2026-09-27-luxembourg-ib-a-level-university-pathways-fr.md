@@ -9,13 +9,13 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "Les deux parcours permettent de candidater dans plusieurs pays. L’IB conserve une grande diversité de matières ; les A Levels se concentrent plus tôt. Le choix dépend de l’élève et du projet d’études."
 answer: "Les deux parcours permettent de candidater dans plusieurs pays. L’IB conserve une grande diversité de matières ; les A Levels se concentrent plus tôt. Le choix dépend de l’élève et du projet d’études."
-image: "/assets/people/james-library-landscape.png"
+image: "/assets/people/james-library-landscape.webp"
 has_topic_navigation: true
 faq: [{"q": "Peut-on candidater aux États-Unis avec des A Levels ?", "a": "Oui, en remplissant aussi les autres conditions du dossier demandé par l’université."}, {"q": "OTR propose-t-elle seulement l’IB ?", "a": "Non. OTR propose aussi actuellement Cambridge AS et A Levels."}, {"q": "Un secondaire au Luxembourg peut-il mener à une université suisse ?", "a": "Oui, sous réserve des conditions de diplôme, de matières, de résultats et de langue applicables."}]
 translated: true
 ---
 
-<figure class="article-photo"><a href="/assets/people/james-library-landscape.png" target="_blank" rel="noopener"><img src="/assets/people/james-library-landscape.png" alt="James Liu devant des bibliothèques" width="1198" height="800" loading="lazy" decoding="async"></a><figcaption>James Liu. Photo personnelle.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/people/james-library-landscape.webp" target="_blank" rel="noopener"><img src="/assets/people/james-library-landscape.webp" alt="James Liu devant des bibliothèques" width="1198" height="800" loading="lazy" decoding="async"></a><figcaption>James Liu. Photo personnelle.</figcaption></figure>
 
 <h2>Distinguer le cursus de l’école</h2>
 

@@ -18,7 +18,7 @@ By James Liu | Lux Education Partners | 26 September 2026
 **Undergraduate budgets range from CHF 131,800 at HIM to CHF 186,500 at SHMS. I first ask what the additional investment gives the student, then consider the family’s budget and scholarships.** I have visited SHMS and HIM, and LEP works directly with all four schools.
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu during his SHMS visit" loading="eager"></a>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu during his SHMS visit" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>James Liu visiting SHMS; LEP works directly with the school | LEP photograph.</figcaption>
 </figure>
 
@@ -59,21 +59,21 @@ Schools need strong students; businesses need suitable talent. We start by selec
 ## School fee schedules
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="SHMS undergraduate fees" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="SHMS undergraduate fees" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>SHMS undergraduate fees.</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="César Ritz undergraduate fees" loading="lazy"></a>
+<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="César Ritz undergraduate fees" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>César Ritz undergraduate fees.</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="HIM undergraduate fees" loading="lazy"></a>
+<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="HIM undergraduate fees" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>HIM undergraduate fees.</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="CAA undergraduate fees" loading="lazy"></a>
+<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="CAA undergraduate fees" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>CAA undergraduate fees.</figcaption>
 </figure>

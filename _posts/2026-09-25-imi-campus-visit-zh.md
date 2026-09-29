@@ -10,7 +10,7 @@ title: "我到 IMI 看什么？校园之外，我更关心孩子读完能走哪�
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "我去 IMI，想看的不仅是校园，还包括学生怎样学习、怎样与人沟通，以及这所学校能给什么样的孩子一个好的起点。"
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
@@ -20,7 +20,7 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 从我的访校感受看，IMI 的设施不算豪华。但选学校要分清什么最重要：孩子需要的是更好的硬件体验，还是一套适合他的课程、实习安排和承担得起的费用？不同家庭，答案会不一样。
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生实地访校 IMI。LEP 与校方直接合作。" width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="修印先生实地访校 IMI。LEP 与校方直接合作。" width="2400" height="1331" loading="eager"></a>
 <figcaption>修印先生实地访校 IMI。LEP 与校方直接合作。</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 在中小学合作中，我与卢森堡圣乔治，以及瑞士 Chantemerle、ISA Altdorf、St. Charles 的校长有深度合作。与这些学校直接沟通，让我能够深入了解办学理念，并讨论孩子怎样用好教育与升学资源。
 
 <figure class="article-photo">
-<a href="/assets/fieldwork/st-charles-owner.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-charles-owner.jpg" alt="修印先生与瑞士St. Charles学校所有者owner合影" loading="lazy"></a>
+<a href="/assets/swiss/sc03.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc03.jpg" alt="修印先生与瑞士St. Charles学校所有者owner合影" loading="lazy" width="1600" height="1067" decoding="async"></a>
 <figcaption>修印先生与瑞士 St. Charles 学校所有者（owner）合影。这张照片展示 LEP 在欧洲教育圈的另一项长期合作，不是 IMI 人员合影。</figcaption>
 </figure>
 

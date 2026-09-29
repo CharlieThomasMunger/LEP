@@ -20,7 +20,7 @@ translated: true
 Within SEG, SHMS focuses on hospitality, events and design; HIM combines a three-year business degree with three internships; Culinary Arts Academy Switzerland specialises in culinary arts and food business. **CRCS is particularly relevant to students who want to learn how to run a business through experience in service industries.**
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="César Ritz Colleges Switzerland campus" loading="eager"></a>
+<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="César Ritz Colleges Switzerland campus" loading="eager" width="2174" height="1280" decoding="async"></a>
 <figcaption>César Ritz Colleges Switzerland campus.</figcaption>
 </figure>
 
@@ -36,14 +36,14 @@ Within SEG, SHMS focuses on hospitality, events and design; HIM combines a three
 Both complete undergraduate routes take four years and include two internships. The first year develops foundations in service operations, languages and professional practice before the main business curriculum. Students with relevant study or work experience can ask LEP to arrange an assessment by the school for a possible first-year exemption.
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-business-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-business-curriculum-2027.png" alt="CRCS business management curriculum and internships" loading="lazy"></a>
+<a href="/assets/seg/crcs-business-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-business-curriculum-2027.png" alt="CRCS business management curriculum and internships" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Business management curriculum and internships.</figcaption>
 </figure>
 
 I value the combination of working with people and understanding costs, profit and data. **Interpersonal ability is an advantage; business management also requires training.** That is why I discuss CRCS with families interested in business education.
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-ai-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-ai-curriculum-2027.png" alt="CRCS applied AI undergraduate curriculum" loading="lazy"></a>
+<a href="/assets/seg/crcs-ai-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-ai-curriculum-2027.png" alt="CRCS applied AI undergraduate curriculum" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Applied AI undergraduate curriculum.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Students who want to research underlying algorithms should compare computer scie
 The course combines leadership, finance, marketing and strategy, including a dissertation stage. It suits graduates who want to develop their business management knowledge. Students from families running hotels, restaurants or other service businesses can also bring real company questions into their project work.
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-msc-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-msc-curriculum-2027.png" alt="CRCS MSc in Leadership curriculum" loading="lazy"></a>
+<a href="/assets/seg/crcs-msc-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-msc-curriculum-2027.png" alt="CRCS MSc in Leadership curriculum" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>MSc in Leadership curriculum.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Eligible graduates from outside the EU/EFTA can remain in Switzerland for six mo
 These figures include tuition, accommodation and meals during the specified on-campus periods, and related services, before scholarships. Allow separately for a CHF 2,000 deposit and living costs outside the included periods. LEP will confirm fees for the Applied AI bachelor's directly with the school.
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="CRCS undergraduate fees" loading="lazy"></a>
+<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="CRCS undergraduate fees" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>Undergraduate fees.</figcaption>
 </figure>
 

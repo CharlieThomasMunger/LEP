@@ -38,7 +38,7 @@ Il s’agit des montants de départ, pas de devis tout compris. Comparer les seu
 Le logement publié coûte de 2 700 à 5 750 CHF par période de 22 semaines ; la pension complète, 2 950 CHF. La catégorie à 2 700 CHF est réservée aux étudiantes et ne peut donc pas servir d’hypothèse pour tous.
 
 <figure class="article-photo">
-<a href="/assets/imi/accommodation-fees.png" target="_blank" rel="noopener"><img src="/assets/imi/accommodation-fees.png" alt="Tableau officiel IMI du logement et des repas pour 22 semaines" loading="eager"></a>
+<a href="/assets/imi/accommodation-fees.png" target="_blank" rel="noopener"><img src="/assets/imi/accommodation-fees.png" alt="Tableau officiel IMI du logement et des repas pour 22 semaines" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>Tableau IMI cohérent avec les tarifs publics vérifiés pour cet article.</figcaption>
 </figure>
 

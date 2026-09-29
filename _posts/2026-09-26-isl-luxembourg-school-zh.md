@@ -13,7 +13,7 @@ lep_service_page: false
 ---
 
 <p class="lead">ISL 的校园设施和兴趣活动，是我认为很突出的优势。但相对于圣乔治，它明显更偏美式自由、自主发展的方向，对学术和成绩没有抓得那么紧。传统华人家庭是否适应这种教育方式，以及父母能否参与孩子的日常教育，是我会提前讲清楚的事情。</p>
-<figure class="article-photo portrait"><img src="/assets/fieldwork/isl.jpg" alt="修印先生实地走访 ISL 卢森堡国际学校。LEP 实拍。" loading="lazy"><figcaption>修印先生实地走访 ISL 卢森堡国际学校。LEP 实拍。</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/fieldwork/isl.jpg" alt="修印先生实地走访 ISL 卢森堡国际学校。LEP 实拍。" loading="lazy" width="900" height="1200" decoding="async"><figcaption>修印先生实地走访 ISL 卢森堡国际学校。LEP 实拍。</figcaption></figure>
 <h2>ISL 的课程，要分学段看</h2>
 <p>ISL 覆盖幼儿阶段到高中。学校已获 IB 小学项目（PYP）和大学预科项目（DP）授权；中学项目（MYP）目前处于候选阶段。家长比较课程时，应按孩子准备入读的具体年级确认，不能把不同学段混在一起。</p>
 <p>小学阶段重视探究与跨学科学习；到了高中，家庭需要进一步讨论是否选择完整 IB Diploma，以及课程组合怎样支持未来大学方向。选学校的工作，应当延伸到孩子将来学什么。</p>

@@ -27,7 +27,7 @@ The name may suggest reception desks, restaurants and guest rooms. The curriculu
 At IMI, the hospitality business bachelor’s moves from operations and business accounting into consumer research, financial performance, revenue control, marketing, research and events. A hotel makes business questions tangible: why customers pay, how prices are set, how teams work and what happens when service goes wrong.
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI official hospitality business bachelor’s curriculum and internship sequence" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI official hospitality business bachelor’s curriculum and internship sequence" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI programme brochure, page 4. The diagram shows the study and internship sequence. Select the image to enlarge it.</figcaption>
 </figure>
 

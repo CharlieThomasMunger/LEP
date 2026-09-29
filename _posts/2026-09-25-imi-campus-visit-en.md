@@ -10,7 +10,7 @@ title: "What I look for when visiting IMI: the student’s future beyond the cam
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "When I visit IMI, I look at more than the grounds: how students learn, how they communicate and which young people this school could give a useful start."
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
 ---
 
@@ -21,7 +21,7 @@ translated: true
 From my visit, I would not describe IMI’s facilities as luxurious. Families need to decide how they weigh the physical environment against teaching, placements and an affordable plan. Different students will reach different conclusions.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
 <figcaption>James Liu visiting IMI. LEP works directly with the school as an official partner.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ These are questions I suggest using to assess an interview, not invented answers
 In our school-level work, I have deep relationships with the heads of St George’s International School in Luxembourg and Chantemerle, ISA Altdorf and St. Charles in Switzerland. Those conversations help me understand their educational approach and discuss how a child can use the school’s learning and progression resources.
 
 <figure class="article-photo">
-<a href="/assets/fieldwork/st-charles-owner.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-charles-owner.jpg" alt="James Liu with the owner of St. Charles in Switzerland" loading="lazy"></a>
+<a href="/assets/swiss/sc03.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc03.jpg" alt="James Liu with the owner of St. Charles in Switzerland" loading="lazy" width="1600" height="1067" decoding="async"></a>
 <figcaption>James Liu with the owner of St. Charles. This is another LEP relationship within European education; the person pictured is not an IMI representative.</figcaption>
 </figure>
 

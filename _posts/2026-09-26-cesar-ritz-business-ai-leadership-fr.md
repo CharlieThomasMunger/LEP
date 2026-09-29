@@ -20,7 +20,7 @@ translated: true
 Au sein du SEG, SHMS se concentre sur l’hôtellerie, l’événementiel et le design ; HIM associe trois années de gestion à trois stages ; Culinary Arts Academy Switzerland se spécialise dans les arts culinaires et la restauration. **CRCS convient particulièrement aux étudiants qui veulent apprendre à gérer une entreprise à partir des métiers de service.**
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="Campus de César Ritz Colleges Switzerland" loading="eager"></a>
+<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="Campus de César Ritz Colleges Switzerland" loading="eager" width="2174" height="1280" decoding="async"></a>
 <figcaption>Campus de César Ritz Colleges Switzerland.</figcaption>
 </figure>
 
@@ -36,14 +36,14 @@ Au sein du SEG, SHMS se concentre sur l’hôtellerie, l’événementiel et le 
 Les deux parcours complets durent quatre ans et comprennent deux stages. La première année développe les bases des opérations de service, des langues et de la pratique professionnelle, avant le cursus principal de gestion. Les étudiants ayant une expérience pertinente peuvent demander à LEP de faire examiner par l’école une éventuelle dispense de première année.
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-business-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-business-curriculum-2027.png" alt="Programme de gestion commerciale CRCS et stages" loading="lazy"></a>
+<a href="/assets/seg/crcs-business-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-business-curriculum-2027.png" alt="Programme de gestion commerciale CRCS et stages" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Programme de gestion commerciale et stages.</figcaption>
 </figure>
 
 J’apprécie cette association entre les relations humaines et la compréhension des coûts, des bénéfices et des données. **L’aisance relationnelle est un atout ; la gestion s’apprend également.** C’est pourquoi je présente CRCS aux familles intéressées par les études commerciales.
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-ai-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-ai-curriculum-2027.png" alt="Programme du bachelor en IA appliquée CRCS" loading="lazy"></a>
+<a href="/assets/seg/crcs-ai-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-ai-curriculum-2027.png" alt="Programme du bachelor en IA appliquée CRCS" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Programme du bachelor en IA appliquée.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Un étudiant qui souhaite étudier les fondements des algorithmes devrait compar
 La formation réunit leadership, finance, marketing et stratégie, avec une phase de mémoire. Elle s’adresse aux diplômés souhaitant approfondir la gestion d’entreprise. Les étudiants dont la famille possède un hôtel, un restaurant ou une activité de services peuvent aussi travailler sur des questions réelles de l’entreprise.
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-msc-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-msc-curriculum-2027.png" alt="Programme du MSc en leadership CRCS" loading="lazy"></a>
+<a href="/assets/seg/crcs-msc-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-msc-curriculum-2027.png" alt="Programme du MSc en leadership CRCS" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Programme du MSc en leadership.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Les diplômés admissibles originaires de pays hors UE/AELE peuvent rester en Su
 Ces montants comprennent les études, l’hébergement et les repas pendant les périodes prévues sur campus, ainsi que les services associés, avant bourse. Il faut prévoir séparément un dépôt de 2 000 CHF et les dépenses de vie hors des périodes incluses. LEP confirmera directement avec l’école les frais du bachelor en IA appliquée.
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="Frais du bachelor CRCS" loading="lazy"></a>
+<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="Frais du bachelor CRCS" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>Frais du bachelor.</figcaption>
 </figure>
 

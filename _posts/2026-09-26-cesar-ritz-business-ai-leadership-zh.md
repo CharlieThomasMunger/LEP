@@ -19,7 +19,7 @@ image: "/assets/seg/crcs-campus.jpg"
 在 SEG 四校中，SHMS 更侧重酒店、会展和设计；HIM 强调三年商科与三次实习；CAA 专攻厨艺与餐饮经营。**CRCS 更适合希望从服务行业出发，系统学习怎样经营企业的学生。**
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="瑞士恺撒里兹大学校园" loading="eager"></a>
+<a href="/assets/seg/crcs-campus.jpg" target="_blank" rel="noopener"><img src="/assets/seg/crcs-campus.jpg" alt="瑞士恺撒里兹大学校园" loading="eager" width="2174" height="1280" decoding="async"></a>
 <figcaption>瑞士恺撒里兹大学校园。</figcaption>
 </figure>
 
@@ -35,14 +35,14 @@ image: "/assets/seg/crcs-campus.jpg"
 两条本科完整学制均为四年，包含两段实习。第一年学习服务运营、语言与职业基础，之后进入商业主课程。已有相关学习或工作经历的学生，可以通过 LEP 请学校评估能否豁免第一年。
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-business-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-business-curriculum-2027.png" alt="CRCS 商业管理本科课程与实习安排" loading="lazy"></a>
+<a href="/assets/seg/crcs-business-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-business-curriculum-2027.png" alt="CRCS 商业管理本科课程与实习安排" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>CRCS 商业管理本科课程与实习安排。</figcaption>
 </figure>
 
 我看重的是，学生不仅学会与人打交道，还要读懂成本、利润和数据。**情商是优势，经营能力需要训练。** 这也是我会向有商业兴趣的家庭介绍 CRCS 的原因。
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-ai-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-ai-curriculum-2027.png" alt="CRCS 应用 AI 本科课程" loading="lazy"></a>
+<a href="/assets/seg/crcs-ai-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-ai-curriculum-2027.png" alt="CRCS 应用 AI 本科课程" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>CRCS 应用 AI 本科课程。</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ image: "/assets/seg/crcs-campus.jpg"
 课程结合领导力、财务、营销和战略，包含论文阶段。它适合已有本科学历、希望进一步学习企业管理的人。家庭有酒店、餐饮或其他服务生意的，也可以把企业面临的真实问题带进项目研究。
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-msc-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-msc-curriculum-2027.png" alt="CRCS 领导力硕士课程" loading="lazy"></a>
+<a href="/assets/seg/crcs-msc-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-msc-curriculum-2027.png" alt="CRCS 领导力硕士课程" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>CRCS 领导力硕士课程。</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ image: "/assets/seg/crcs-campus.jpg"
 以上包括学费、规定在校期间的食宿与相关服务，尚未扣除奖学金；另需准备 CHF 2,000 保证金及未覆盖时段的生活支出。应用 AI 本科费用由 LEP 单独向校方确认。
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="CRCS 本科费用表" loading="lazy"></a>
+<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="CRCS 本科费用表" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>CRCS 本科费用表。</figcaption>
 </figure>
 

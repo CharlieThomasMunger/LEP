@@ -18,7 +18,7 @@ By James Liu | Lux Education Partners | 26 September 2026
 **I have visited IMI, SHMS and HIM. My assessment is clear: consider IMI for value; SHMS for hospitality, events and design; César Ritz for specialised business study; HIM for three internships; and CAA for ambitious culinary training.**
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-window.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-window.jpg" alt="James Liu visiting SHMS" loading="eager"></a>
+<a href="/assets/seg/james-shms-window.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-window.jpg" alt="James Liu visiting SHMS" loading="eager" width="1280" height="1920" decoding="async"></a>
 <figcaption>James Liu on his SHMS campus visit | LEP photograph.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ IMI International Management Institute Switzerland does not have the most luxuri
 IMI’s international business bachelor’s covers trade and finance, business law, strategy and cross-cultural management, alongside service-industry and practical foundations. César Ritz has six business specialisations and a separate applied AI bachelor’s, within a four-year undergraduate structure that includes an immersive year. HIM offers finance, marketing, management and hospitality, with three four-to-six-month internships in three years.
 
 <figure class="article-photo">
-<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="HIM business pathways and internships" loading="lazy"></a>
+<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="HIM business pathways and internships" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>HIM’s four business pathways and three internships.</figcaption>
 </figure>
 

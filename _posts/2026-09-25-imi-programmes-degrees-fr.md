@@ -40,7 +40,7 @@ Le **BA (Hons) International Hospitality Business Management with Internship** c
 Combien vendre une chambre ? Comment contrôler les coûts, fidéliser les clients et améliorer le travail d’une équipe ? Les cours répondent à ces questions concrètes et préparent une progression depuis l’expérience opérationnelle vers la gestion.
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Programme officiel du bachelor en management hôtelier d’IMI" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Programme officiel du bachelor en management hôtelier d’IMI" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>Brochure IMI, page 4 : études, stages obligatoires et stage facultatif.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Le **BA (Hons) International Business Management with Internship** partage les p
 Cette voie mérite d’être comparée lorsque l’étudiant s’intéresse davantage aux marchés et aux entreprises internationales qu’à un poste hôtelier précis. Elle conserve toutefois des bases de services et d’opérations hôtelières : le mot « Business » ne la rend pas identique à tous les cursus généralistes.
 
 <figure class="article-photo">
-<a href="/assets/imi/business-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/business-curriculum.png" alt="Programme officiel du bachelor en management international d’IMI" loading="lazy"></a>
+<a href="/assets/imi/business-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/business-curriculum.png" alt="Programme officiel du bachelor en management international d’IMI" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>Brochure IMI, page 4. Les deuxième et troisième étapes permettent de comparer les deux parcours.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Le **BA (Hons) International Culinary Management with Internship** comprend la p
 J’établis une différence entre aimer la gastronomie et vouloir se former dans une cuisine professionnelle. Il faut accepter la répétition, les standards et le travail d’équipe. Pour diriger un restaurant, il faut aussi maîtriser les coûts, les achats, l’organisation du service et les effectifs.
 
 <figure class="article-photo">
-<a href="/assets/imi/culinary-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/culinary-curriculum.png" alt="Programme officiel du bachelor en management culinaire d’IMI" loading="lazy"></a>
+<a href="/assets/imi/culinary-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/culinary-curriculum.png" alt="Programme officiel du bachelor en management culinaire d’IMI" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>Brochure IMI, page 4. Les rentrées annoncées sont février et août.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Le **MSc International Hospitality Business Management** accepte actuellement un
 Il traite des opérations, du développement des talents, des actifs hôteliers, de la stratégie, des concepts hôteliers, du marketing numérique, des enjeux internationaux et des méthodes de recherche. Un mémoire complète le parcours. L’accent porte sur l’analyse, les décisions de gestion et le travail de recherche autonome.
 
 <figure class="article-photo">
-<a href="/assets/imi/msc-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/msc-curriculum.png" alt="Organisation officielle du MSc d’IMI : cours, mémoire et pratique professionnelle facultative" loading="lazy"></a>
+<a href="/assets/imi/msc-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/msc-curriculum.png" alt="Organisation officielle du MSc d’IMI : cours, mémoire et pratique professionnelle facultative" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>Brochure MSc, page 4. L’école présente un programme de 12 mois ; l’articulation avec la pratique professionnelle facultative est à préciser séparément.</figcaption>
 </figure>
 

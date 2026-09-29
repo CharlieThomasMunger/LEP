@@ -10,7 +10,7 @@ title: "Applying to IMI Switzerland? LEP can handle programme selection, scholar
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "Contact LEP directly to apply to IMI. As a formal IMI partner, we help select the programme, pursue scholarships, coordinate application documents and progress admission. For IMI applications handled by LEP, the school application service fee is waived from 2026 through 15 September 202…"
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
 ---
 
@@ -21,7 +21,7 @@ translated: true
 You do not need a completed application pack before contacting us. Start with your current qualification, English level, budget, preferred intake and what you hope to do afterwards.
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
 <figcaption>James Liu visiting IMI. LEP works directly with the school as an official partner.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ You do not need a completed application pack before contacting us. Start with yo
 | Graduate Diploma in International Culinary Arts | February, August |
 
 <figure class="article-photo">
-<a href="/assets/imi/term-dates-2027.png" target="_blank" rel="noopener"><img src="/assets/imi/term-dates-2027.png" alt="Official IMI 2027 calendar with programme start dates" loading="eager"></a>
+<a href="/assets/imi/term-dates-2027.webp" target="_blank" rel="noopener"><img src="/assets/imi/term-dates-2027.webp" alt="Official IMI 2027 calendar with programme start dates" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI Term Dates 2026–27, 2027 page. Highlighted dates are starts, not application deadlines. Each course has its own available intakes.</figcaption>
 </figure>
 

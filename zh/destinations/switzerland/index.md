@@ -3,9 +3,10 @@ layout: "page"
 lang: "zh"
 permalink: "/zh/destinations/switzerland/"
 translation_key: "destination-switzerland"
-title: "瑞士 · LEP"
-heading: "瑞士"
-description: "从低龄、小学、初高中私立国际学校与寄宿教育，到酒店管理本科及研究生，结合家庭预算与长期发展规划瑞士留学。"
+last_modified_at: "2026-09-29"
+title: "瑞士国际寄宿学校怎么选？课程、费用与升学路径"
+heading: "瑞士国际寄宿学校与升学规划"
+description: "比较 Saint-Charles、Chantemerle 与 TASIS 的课程、寄宿生活及费用，结合 LEP 实地访校了解 IB、A Level、AP 和瑞士升学路径；另设瑞士酒店管理本科与硕士专题。"
 standfirst: "从低龄、小学、初高中私立国际学校与寄宿教育，到酒店管理本科及研究生，结合家庭预算与长期发展规划瑞士留学。"
 ---
 

@@ -17,7 +17,7 @@ image: "/assets/seg/james-shms-window.jpg"
 **我实地访问过 IMI、SHMS 和 HIM。我的判断很明确：IMI 值得看性价比；SHMS 的酒店、会展与设计方向鲜明；CRCS 更偏企业经营与细分商科；HIM 强在三次实习；CAA 适合在厨艺上追求卓越的学生。**
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-window.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-window.jpg" alt="修印先生在 SHMS 实地考察" loading="eager"></a>
+<a href="/assets/seg/james-shms-window.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-window.jpg" alt="修印先生在 SHMS 实地考察" loading="eager" width="1280" height="1920" decoding="async"></a>
 <figcaption>修印先生在 SHMS 实地考察｜LEP 实拍。</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ CRCS 酒店商业管理本科有六个方向，包含领导力、国际金融、
 HIM 有金融、营销、管理和款待业管理四个方向，三年安排三段各 4—6 个月实习。想通过多次实际工作逐步找准方向的学生，可以重点看它。
 
 <figure class="article-photo">
-<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="HIM 四方向商科与三段实习的课程表" loading="lazy"></a>
+<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="HIM 四方向商科与三段实习的课程表" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>HIM 四方向商科与三段实习的课程表。</figcaption>
 </figure>
 

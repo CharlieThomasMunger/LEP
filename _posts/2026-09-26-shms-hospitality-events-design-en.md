@@ -22,12 +22,12 @@ I have visited SHMS myself. For students interested in hotels, high-end service 
 One student wants to run a hotel, another enjoys organising events, and a third is drawn to interiors. SHMS offers three undergraduate directions that give those interests a practical focus.
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu visiting SHMS, a direct partner of LEP" loading="eager"></a>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu visiting SHMS, a direct partner of LEP" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>James Liu visiting SHMS. LEP works directly with the school as an official partner. · Photographed during LEP’s campus visit | LEP photograph</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="A palace campus at SHMS" loading="lazy"></a>
+<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="A palace campus at SHMS" loading="lazy" width="1920" height="1280" decoding="async"></a>
 <figcaption>A palace campus at SHMS. · Photographed during LEP’s campus visit | LEP photograph</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Early study includes food and beverage theory and practice, cost control, wine, 
 **Service training deserves to be taken seriously.** Someone preparing to manage a team needs to understand what happens in housekeeping, restaurants and reception. Internships bring costs, service and staffing into focus; students can then return to class with real questions.
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-curriculum-2027.png" alt="SHMS undergraduate curriculum, specialisations and two internships" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-curriculum-2027.webp" alt="SHMS undergraduate curriculum, specialisations and two internships" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>SHMS undergraduate study and internship structure. Click to enlarge; the sequence depends on the selected route.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ SHMS is **fourth in the QS 2026 Hospitality & Leisure Management subject ranking
 | Global MBA | Broader business management and leadership | Entry background and the selected intake need individual confirmation |
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-ma-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-ma-curriculum-2027.png" alt="SHMS MA study routes and luxury brand specialisation" loading="lazy"></a>
+<a href="/assets/seg/shms-ma-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/shms-ma-curriculum-2027.webp" alt="SHMS MA study routes and luxury brand specialisation" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>International Hospitality Business Management MA: standard and accelerated routes, including the luxury brand specialisation.</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ The 2027 fee schedule lists **CHF 186,500** for the full undergraduate route.
 These figures are before scholarships. Accommodation and meals cover the study periods specified in the schedule; holidays, living costs during internships and personal spending need separate provision. Families paying in another currency should budget using the exchange rate when payment is due.
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="SHMS 2027 undergraduate fee schedule" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="SHMS 2027 undergraduate fee schedule" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>SHMS 2027 undergraduate fees. Internship earnings depend on the year, country and position; the salary note in this document is not a promise of future income.</figcaption>
 </figure>
 

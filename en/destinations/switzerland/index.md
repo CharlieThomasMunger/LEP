@@ -3,9 +3,10 @@ layout: "page"
 lang: "en"
 permalink: "/en/destinations/switzerland/"
 translation_key: "destination-switzerland"
-title: "Switzerland · LEP"
-heading: "Switzerland"
-description: "Swiss education from early years, primary and secondary international schools and boarding options to undergraduate and postgraduate hospitality studies."
+last_modified_at: "2026-09-29"
+title: "Swiss boarding schools: curricula, fees and university pathways"
+heading: "Swiss boarding schools and study pathways"
+description: "Explore Saint-Charles, Chantemerle and TASIS through LEP school visits. Compare boarding, fees, IB, A Levels and AP, with separate guides to Swiss hospitality degrees."
 standfirst: "Swiss education from early years, primary and secondary international schools and boarding options to undergraduate and postgraduate hospitality studies."
 ---
 

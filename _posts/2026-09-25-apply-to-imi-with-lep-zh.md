@@ -10,7 +10,7 @@ title: "IMI 怎么申请？找 LEP，课程、奖学金和申请由我们一起�
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "想申请 IMI，直接联系 LEP。我们是 IMI 的正式合作服务机构，可以帮你选课程、申请奖学金、对接材料并推进录取。2026 年至 2027 年 9 月 15 日，由 LEP 承接的 IMI 申请免学校申请服务费。 学校学费、注册费及第三方费用另计。"
-image: "/assets/imi/imi-admissions-visit.jpg"
+image: "/assets/imi/imi-admissions-visit.webp"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
@@ -20,7 +20,7 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 你第一次联系我们，不需要先整理好整套文件。先说清目前学历、英语水平、预算、希望入学的时间，以及毕业后大致想做什么，就可以开始判断。
 
 <figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.jpg" alt="修印先生实地访校 IMI。LEP 与校方直接合作。" width="2400" height="1331" loading="eager"></a>
+<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="修印先生实地访校 IMI。LEP 与校方直接合作。" width="2400" height="1331" loading="eager"></a>
 <figcaption>修印先生实地访校 IMI。LEP 与校方直接合作。</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ image: "/assets/imi/imi-admissions-visit.jpg"
 | 国际烹饪艺术 Graduate Diploma | 2、8 月 |
 
 <figure class="article-photo">
-<a href="/assets/imi/term-dates-2027.png" target="_blank" rel="noopener"><img src="/assets/imi/term-dates-2027.png" alt="IMI 官方2027校历，标明2月8日、5月3日、8月16日和11月8日开学" loading="eager"></a>
+<a href="/assets/imi/term-dates-2027.webp" target="_blank" rel="noopener"><img src="/assets/imi/term-dates-2027.webp" alt="IMI 官方2027校历，标明2月8日、5月3日、8月16日和11月8日开学" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI《Term Dates 2026–27》中的 2027 校历原页。标黄的是开学日，并非申请截止日期；先选课程，再确认该课程实际开放的批次。</figcaption>
 </figure>
 

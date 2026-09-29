@@ -19,7 +19,7 @@ image: "/assets/seg/james-shms-partnership.jpg"
 我已经实地访问过 SHMS 和 HIM，也与 SEG 四校直接合作。课程、校园和实践安排是否适合孩子，要与费用放在一起看。
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="修印先生实地访校 SHMS，与校方直接合作" loading="eager"></a>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="修印先生实地访校 SHMS，与校方直接合作" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>修印先生实地访校 SHMS，与校方直接合作｜LEP 实拍。</figcaption>
 </figure>
 
@@ -64,21 +64,21 @@ image: "/assets/seg/james-shms-partnership.jpg"
 ## 四校费用表
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="SHMS 本科费用" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="SHMS 本科费用" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>SHMS 本科费用。</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="CRCS 本科费用" loading="lazy"></a>
+<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="CRCS 本科费用" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>CRCS 本科费用。</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="HIM 本科费用" loading="lazy"></a>
+<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="HIM 本科费用" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>HIM 本科费用。</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="CAA 本科费用" loading="lazy"></a>
+<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="CAA 本科费用" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>CAA 本科费用。</figcaption>
 </figure>

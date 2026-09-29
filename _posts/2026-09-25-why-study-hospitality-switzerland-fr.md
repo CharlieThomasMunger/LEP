@@ -27,7 +27,7 @@ Le nom évoque la réception, la restauration et les chambres. Les programmes co
 À IMI, le bachelor en management hôtelier commence par les opérations et la comptabilité, puis aborde les consommateurs, la performance financière, les revenus, le marketing, la recherche et l’événementiel. L’hôtel rend les questions commerciales concrètes : pourquoi le client paie-t-il, comment fixer les prix, organiser une équipe et résoudre un problème de service ?
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Programme officiel du bachelor en management hôtelier d’IMI et succession des stages" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="Programme officiel du bachelor en management hôtelier d’IMI et succession des stages" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>Brochure officielle IMI, page 4 : alternance entre études et stages. Cliquez sur l’image pour l’agrandir.</figcaption>
 </figure>
 

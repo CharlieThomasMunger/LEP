@@ -18,7 +18,7 @@ Par James Liu | Lux Education Partners | 26 septembre 2026
 **Les budgets bachelor vont de CHF 131 800 à HIM à CHF 186 500 à SHMS. Je commence par ce que l’investissement supplémentaire apporte à l’étudiant, avant de le rapprocher du budget familial et des bourses.** J’ai visité SHMS et HIM ; LEP travaille directement avec les quatre écoles.
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu lors de sa visite à SHMS" loading="eager"></a>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu lors de sa visite à SHMS" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>James Liu en visite à SHMS ; LEP travaille directement avec l’établissement | Photo LEP.</figcaption>
 </figure>
 
@@ -59,21 +59,21 @@ Les écoles recherchent de bons étudiants ; les entreprises ont besoin de talen
 ## Tableaux des frais
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="Frais bachelor SHMS" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="Frais bachelor SHMS" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>Frais bachelor SHMS.</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="Frais bachelor César Ritz" loading="lazy"></a>
+<a href="/assets/seg/crcs-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/crcs-undergraduate-fees-2027.png" alt="Frais bachelor César Ritz" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>Frais bachelor César Ritz.</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="Frais bachelor HIM" loading="lazy"></a>
+<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="Frais bachelor HIM" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>Frais bachelor HIM.</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="Frais bachelor CAA" loading="lazy"></a>
+<a href="/assets/seg/caa-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/caa-undergraduate-fees-2027.png" alt="Frais bachelor CAA" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>Frais bachelor CAA.</figcaption>
 </figure>

@@ -9,13 +9,13 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "Both routes can lead to universities in several countries. The IB maintains breadth; A Levels concentrate subjects earlier. Choose around the student’s strengths and intended degree."
 answer: "Both routes can lead to universities in several countries. The IB maintains breadth; A Levels concentrate subjects earlier. Choose around the student’s strengths and intended degree."
-image: "/assets/people/james-library-landscape.png"
+image: "/assets/people/james-library-landscape.webp"
 has_topic_navigation: true
 faq: [{"q": "Can A Level students apply to US universities?", "a": "Yes. They must also meet the university’s requirements for the complete application."}, {"q": "Does OTR offer only the IB?", "a": "No. OTR also currently offers Cambridge AS and A Levels."}, {"q": "Can a Luxembourg school education lead to a Swiss university?", "a": "Yes, subject to the relevant diploma, subject, grade and language requirements."}]
 translated: true
 ---
 
-<figure class="article-photo"><a href="/assets/people/james-library-landscape.png" target="_blank" rel="noopener"><img src="/assets/people/james-library-landscape.png" alt="James Liu in front of bookshelves" width="1198" height="800" loading="lazy" decoding="async"></a><figcaption>James Liu. Personal photograph.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/people/james-library-landscape.webp" target="_blank" rel="noopener"><img src="/assets/people/james-library-landscape.webp" alt="James Liu in front of bookshelves" width="1198" height="800" loading="lazy" decoding="async"></a><figcaption>James Liu. Personal photograph.</figcaption></figure>
 
 <h2>Separate the curriculum from the school</h2>
 

@@ -22,7 +22,7 @@ image: "/assets/imi/hospitality-curriculum.png"
 ## 本科怎么实习，先看学校的课程图
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI 酒店商业管理本科官方课程表及带薪实习安排" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI 酒店商业管理本科官方课程表及带薪实习安排" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI 官方课程表：本科有两段各 22 周的必修带薪实习，第三段 22 周实习可选。地点可以在瑞士或其他国家。</figcaption>
 </figure>
 

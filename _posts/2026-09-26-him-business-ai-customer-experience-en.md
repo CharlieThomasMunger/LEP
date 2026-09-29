@@ -19,7 +19,7 @@ By James Liu | Lux Education Partners | 26 September 2026
 
 HIM ranks eighth in QS 2026 Hospitality & Leisure Management. This is a subject ranking, not a general business-school ranking.
 
-<figure class="article-photo"><a href="/assets/fieldwork/him-james-campus-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-campus-visit.jpg" alt="James Liu visiting HIM Business School in Montreux. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>James Liu visiting HIM Business School in Montreux. Photograph by LEP.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/him-james-campus-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-campus-visit.jpg" alt="James Liu visiting HIM Business School in Montreux. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="466" height="810" decoding="async"></a><figcaption>James Liu visiting HIM Business School in Montreux. Photograph by LEP.</figcaption></figure>
 
 ## Four undergraduate directions
 
@@ -33,7 +33,7 @@ HIM ranks eighth in QS 2026 Hospitality & Leisure Management. This is a subject 
 Students first share foundations in business mathematics, accounting, economics, marketing, cross-cultural communication and customer experience before specialising. This leaves room to explore while still requiring serious work with numbers and analysis.
 
 <figure class="article-photo">
-<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="HIM undergraduate curriculum" loading="lazy"></a>
+<a href="/assets/seg/him-bachelor-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-bachelor-curriculum-2027.png" alt="HIM undergraduate curriculum" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>HIM’s four pathways and three internships.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ The **Master in Applied AI in Customer Experience** focuses on using data and AI
 | October–December | Online project | Integrated final project |
 
 <figure class="article-photo">
-<a href="/assets/seg/him-ai-master-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-ai-master-curriculum-2027.png" alt="HIM applied AI master’s study schedule" loading="lazy"></a>
+<a href="/assets/seg/him-ai-master-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/him-ai-master-curriculum-2027.webp" alt="HIM applied AI master’s study schedule" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>HIM’s global study schedule for the applied AI master’s.</figcaption>
 </figure>
 
@@ -72,13 +72,13 @@ Technology can help analyse customers and improve processes. A company still nee
 The 2027 undergraduate budget is **CHF 131,800**, including scheduled on-campus board and associated services. Allow separately for the CHF 2,000 deposit and expenses during uncovered holidays and internships.
 
 <figure class="article-photo">
-<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="HIM undergraduate fees" loading="lazy"></a>
+<a href="/assets/seg/him-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/him-undergraduate-fees-2027.png" alt="HIM undergraduate fees" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>HIM undergraduate fees for 2027.</figcaption>
 </figure>
 
 The AI master’s budget is approximately **CHF 38,000**. Fees may vary slightly; the amount confirmed by the school for your application takes precedence.
 
-<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/him-lounge.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-lounge.jpg" alt="A campus lounge at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>A campus lounge at HIM. Photograph by LEP.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-james-alumni-wall.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-alumni-wall.jpg" alt="James Liu visiting the alumni photograph wall at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>James Liu visiting the alumni photograph wall at HIM. Photograph by LEP.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-alumni-corridor.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-alumni-corridor.jpg" alt="Alumni photographs and a shared space at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain"></a><figcaption>Alumni photographs and a shared space at HIM. Photograph by LEP.</figcaption></figure></div>
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/him-lounge.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-lounge.jpg" alt="A campus lounge at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="464" height="802" decoding="async"></a><figcaption>A campus lounge at HIM. Photograph by LEP.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-james-alumni-wall.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-james-alumni-wall.jpg" alt="James Liu visiting the alumni photograph wall at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="458" height="784" decoding="async"></a><figcaption>James Liu visiting the alumni photograph wall at HIM. Photograph by LEP.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/him-alumni-corridor.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/him-alumni-corridor.jpg" alt="Alumni photographs and a shared space at HIM. Photograph by LEP." loading="lazy" style="width:100%;height:auto;max-height:680px;object-fit:contain" width="464" height="802" decoding="async"></a><figcaption>Alumni photographs and a shared space at HIM. Photograph by LEP.</figcaption></figure></div>
 
 ## Plan the three years with LEP
 

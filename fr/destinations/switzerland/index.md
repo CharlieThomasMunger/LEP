@@ -3,9 +3,10 @@ layout: "page"
 lang: "fr"
 permalink: "/fr/destinations/switzerland/"
 translation_key: "destination-switzerland"
-title: "Suisse · LEP"
-heading: "Suisse"
-description: "Étudier en Suisse dès le plus jeune âge, dans le primaire et le secondaire international, avec des possibilités d’internat, puis en management hôtelier au niveau bachelor et postgrade."
+last_modified_at: "2026-09-29"
+title: "Internats en Suisse : cursus, frais et études supérieures"
+heading: "Internats suisses et parcours d’études"
+description: "Découvrez Saint-Charles, Chantemerle et TASIS à travers les visites de LEP : internat, frais, IB, A Levels et AP. Consultez aussi nos guides sur les études hôtelières en Suisse."
 standfirst: "Étudier en Suisse dès le plus jeune âge, dans le primaire et le secondaire international, avec des possibilités d’internat, puis en management hôtelier au niveau bachelor et postgrade."
 ---
 

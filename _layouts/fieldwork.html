@@ -21,7 +21,7 @@ layout: default
     <div class="gallery">
       {%- for item in g.items %}
       <figure>
-        <img src="{{ item.image | relative_url }}" alt="{{ item.alt[lang] | default: item.name }}" loading="lazy">
+        {% assign image_size = site.data.image_dimensions[item.image] %}<img src="{{ item.image | relative_url }}" alt="{{ item.alt[lang] | default: item.name }}" width="{{ image_size.width }}" height="{{ image_size.height }}" loading="lazy" decoding="async">
         <figcaption>
           <b>{{ item.name }}</b>
           {%- if item.kind %}<span>{{ item.kind[lang] }}</span>{% endif %}

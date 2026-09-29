@@ -22,12 +22,12 @@ J’ai personnellement visité SHMS. Pour un jeune intéressé par l’hôteller
 Certains souhaitent diriger un hôtel, d’autres organiser des événements ou travailler sur les espaces intérieurs. Les trois orientations de SHMS donnent à ces intérêts des débouchés concrets à explorer.
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu en visite à SHMS, partenaire direct de LEP" loading="eager"></a>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu en visite à SHMS, partenaire direct de LEP" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>James Liu en visite à SHMS. LEP travaille directement avec l’école en tant que partenaire officiel. · Photo prise lors de la visite de LEP | Photo LEP</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="Un campus de SHMS dans un palace" loading="lazy"></a>
+<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="Un campus de SHMS dans un palace" loading="lazy" width="1920" height="1280" decoding="async"></a>
 <figcaption>Un campus de SHMS dans un palace. · Photo prise lors de la visite de LEP | Photo LEP</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Les premières étapes comprennent la théorie et la pratique de la restauration
 **La formation aux métiers de service mérite d’être prise au sérieux.** Pour diriger une équipe, il faut comprendre le fonctionnement des chambres, du restaurant et de la réception. Les stages confrontent les étudiants aux coûts, au service et aux questions de personnel ; ils reviennent ensuite en cours avec une expérience concrète.
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-curriculum-2027.png" alt="Programme de bachelor SHMS, orientations et deux stages" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-curriculum-2027.webp" alt="Programme de bachelor SHMS, orientations et deux stages" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>Organisation des études et des stages en bachelor à SHMS. Cliquer pour agrandir ; l’ordre dépend du parcours choisi.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ SHMS occupe la **quatrième place du classement QS 2026 Hospitality & Leisure Ma
 | Global MBA | Gestion d’entreprise et leadership | Profil d’entrée et organisation à confirmer selon la session |
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-ma-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-ma-curriculum-2027.png" alt="Parcours du MA SHMS et spécialisation en marques de luxe" loading="lazy"></a>
+<a href="/assets/seg/shms-ma-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/shms-ma-curriculum-2027.webp" alt="Parcours du MA SHMS et spécialisation en marques de luxe" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>MA International Hospitality Business Management : parcours standard et accéléré, avec spécialisation en marques de luxe.</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Le barème 2027 indique **186 500 CHF** pour le parcours complet de bachelor.
 Ces montants sont indiqués avant bourse. L’hébergement et les repas couvrent les périodes d’études précisées au barème. Les vacances, la vie quotidienne pendant les stages et les dépenses personnelles demandent un budget distinct. Pour un paiement dans une autre monnaie, il faut tenir compte du taux de change à l’échéance.
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="Barème SHMS 2027 pour le bachelor" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="Barème SHMS 2027 pour le bachelor" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>Frais du bachelor SHMS en 2027. La rémunération d’un stage dépend de l’année, du pays et du poste ; la note salariale du document ne constitue pas une promesse de revenu futur.</figcaption>
 </figure>
 

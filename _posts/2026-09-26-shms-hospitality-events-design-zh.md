@@ -21,12 +21,12 @@ image: "/assets/seg/james-shms-partnership.jpg"
 同样读酒店管理，有人希望经营酒店，有人擅长组织活动，有人更喜欢空间设计。SHMS 把这三种兴趣做成了不同的本科方向，选择时就有了具体落点。
 
 <figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="修印先生实地访校 SHMS。LEP 与校方直接合作" loading="eager"></a>
+<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="修印先生实地访校 SHMS。LEP 与校方直接合作" loading="eager" width="1920" height="1280" decoding="async"></a>
 <figcaption>修印先生实地访校 SHMS。LEP 与校方直接合作。 | LEP 实拍</figcaption>
 </figure>
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="SHMS 宫殿校园" loading="lazy"></a>
+<a href="/assets/seg/shms-palace-fieldwork.jpg" target="_blank" rel="noopener"><img src="/assets/seg/shms-palace-fieldwork.jpg" alt="SHMS 宫殿校园" loading="lazy" width="1920" height="1280" decoding="async"></a>
 <figcaption>SHMS 宫殿校园。 · LEP 实拍</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ SHMS 的酒店管理、会展管理、设计管理，共享酒店与商业基础
 **基础服务训练值得认真对待。** 如果将来要管理一支团队，自己却不知道客房、餐厅和前台怎样运转，管理很容易停留在口号上。实习让学生把课堂上的成本、服务和人员问题放到真实工作中去理解，再带着问题回学校。
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-curriculum-2027.png" alt="SHMS 2027 本科课程、三个方向及两段实习原图" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-curriculum-2027.webp" alt="SHMS 2027 本科课程、三个方向及两段实习原图" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>SHMS 本科课程与实习安排，点击可放大。具体顺序按所选学习路径安排。</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ SHMS 在 **QS 2026 Hospitality & Leisure Management 学科排名中列世界第 
 | MBA Global | 更广的企业管理与领导力 | 需要单独核对背景要求与所选届别安排 |
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-ma-curriculum-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-ma-curriculum-2027.png" alt="SHMS MA 课程与奢侈品牌方向原图" loading="lazy"></a>
+<a href="/assets/seg/shms-ma-curriculum-2027.webp" target="_blank" rel="noopener"><img src="/assets/seg/shms-ma-curriculum-2027.webp" alt="SHMS MA 课程与奢侈品牌方向原图" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>国际酒店商务管理 MA：标准与快速路径，以及奢侈品牌管理方向。</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ SHMS 在 **QS 2026 Hospitality & Leisure Management 学科排名中列世界第 
 若仅为预算演算，按 **1 瑞郎＝9 元人民币**，186,500 瑞郎约为 **168 万元人民币**。这是假设汇率，未扣奖学金；实际换汇按付款时汇价。食宿覆盖表内在校学习阶段，假期、实习期间生活及个人支出另作安排。
 
 <figure class="article-photo">
-<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="SHMS 2027 本科费用原表" loading="lazy"></a>
+<a href="/assets/seg/shms-undergraduate-fees-2027.png" target="_blank" rel="noopener"><img src="/assets/seg/shms-undergraduate-fees-2027.png" alt="SHMS 2027 本科费用原表" loading="lazy" width="1600" height="897" decoding="async"></a>
 <figcaption>SHMS 2027 本科费用表。实习工资按实际年份、所在国家和岗位核定，图中工资注释不作为未来收入承诺。</figcaption>
 </figure>
 

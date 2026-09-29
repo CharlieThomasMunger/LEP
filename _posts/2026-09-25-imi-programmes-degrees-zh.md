@@ -41,7 +41,7 @@ image: "/assets/imi/hospitality-curriculum.png"
 这些课对应的是很具体的问题：客房卖多少钱，怎样控制成本，如何让客人再来，团队出了问题怎么调整。对希望从一线工作逐步走向经营管理的学生，这是一套有用的训练。
 
 <figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI 国际酒店商业管理本科三阶段官方课程表" loading="eager"></a>
+<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI 国际酒店商业管理本科三阶段官方课程表" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI 官方课程资料第 4 页，含必修及可选实习。</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ image: "/assets/imi/hospitality-curriculum.png"
 如果孩子对企业经营、市场和跨国业务的兴趣，比对某一种酒店岗位更强，这条路线更值得比较。不过它仍然有服务业和酒店运营基础，不能只看到“Business”就以为和一般商学院完全一样。
 
 <figure class="article-photo">
-<a href="/assets/imi/business-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/business-curriculum.png" alt="IMI 国际商业管理本科官方课程表" loading="lazy"></a>
+<a href="/assets/imi/business-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/business-curriculum.png" alt="IMI 国际商业管理本科官方课程表" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI 官方课程资料第 4 页。可以对照上一张图，看第二、第三阶段的课程差别。</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ image: "/assets/imi/hospitality-curriculum.png"
 我会特别分清孩子喜欢的是“品尝美食”，还是愿意在厨房里练习、接受标准和团队协作。想以后经营餐厅，还得懂一道菜的成本、出餐效率、采购和人员安排。课程把这些放在一起，才有经营上的价值。
 
 <figure class="article-photo">
-<a href="/assets/imi/culinary-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/culinary-curriculum.png" alt="IMI 国际烹饪管理本科官方课程表" loading="lazy"></a>
+<a href="/assets/imi/culinary-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/culinary-curriculum.png" alt="IMI 国际烹饪管理本科官方课程表" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI 官方课程资料第 4 页。烹饪本科目前列示 2 月、8 月入学。</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ image: "/assets/imi/hospitality-curriculum.png"
 它学酒店运营、人才发展、酒店资产、国际战略、酒店概念开发、数字营销、全球商业议题和研究方法，之后完成论文。与本科相比，硕士更集中在分析问题、作经营判断和独立研究。
 
 <figure class="article-photo">
-<a href="/assets/imi/msc-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/msc-curriculum.png" alt="IMI MSc 官方授课、论文与可选实践安排" loading="lazy"></a>
+<a href="/assets/imi/msc-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/msc-curriculum.png" alt="IMI MSc 官方授课、论文与可选实践安排" loading="lazy" width="1273" height="1800" decoding="async"></a>
 <figcaption>IMI 硕士课程资料第 4 页。学校概述为 12 个月课程；图中的可选专业实践，需要另外核对衔接时间。</figcaption>
 </figure>
 

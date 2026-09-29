@@ -37,7 +37,7 @@ L’écart est de 1 200 CHF. La condition porte sur la réception de la totalit�
 ## Que fait-on pendant cette semaine ?
 
 <figure class="article-photo">
-<a href="/assets/imi/winter-2027-timetable.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-timetable.png" alt="Exemple officiel de programme quotidien du séjour d’hiver IMI 2027" loading="eager"></a>
+<a href="/assets/imi/winter-2027-timetable.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-timetable.png" alt="Exemple officiel de programme quotidien du séjour d’hiver IMI 2027" loading="eager" width="1273" height="1800" decoding="async"></a>
 <figcaption>Exemple de planning issu de la brochure IMI. Activités et horaires peuvent évoluer selon la météo et l’organisation.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Les formalités d’entrée dépendent de la nationalité et du statut actuel. N
 **Il faut d’abord payer le séjour et le terminer avec succès, puis utiliser le montant payé en déduction de frais de scolarité si l’on rejoint un programme long admissible dans les conditions prévues.** Ce n’est pas un remboursement en espèces à la fin du séjour.
 
 <figure class="article-photo">
-<a href="/assets/imi/winter-2027-tuition-credit.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-tuition-credit.png" alt="Brochure officielle IMI présentant la déduction sur la première année d’études dans les deux ans" loading="lazy"></a>
+<a href="/assets/imi/winter-2027-tuition-credit.webp" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-tuition-credit.webp" alt="Brochure officielle IMI présentant la déduction sur la première année d’études dans les deux ans" loading="lazy" width="1132" height="1600" decoding="async"></a>
 <figcaption>La brochure présente le délai de deux ans. Les conditions du formulaire de programme court précisent une attribution unique par étudiant, équivalente aux frais du séjour réellement payés.</figcaption>
 </figure>
 
