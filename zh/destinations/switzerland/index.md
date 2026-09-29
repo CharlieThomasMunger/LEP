@@ -17,6 +17,11 @@ LEP 的瑞士留学服务覆盖低龄、小学、初中和高中阶段。我们�
 
 对于初高中学生，我们进一步关注课程体系、大学升学方向，以及如何利用学校的教育与升学资源。我们的判断来自持续合作、实地访校，以及与校长的直接沟通和深度访谈。
 
+## 瑞士寄宿学校：课程、费用与实地访校
+
+- [圣查尔斯 Saint-Charles 适合中国孩子吗？英文 IB、寄宿费用与瑞士升学路线](/zh/insights/saint-charles-switzerland-boarding-school/)
+- [瑞士 Chantemerle 圣特美勒适合什么孩子？A Level、寄宿生活与一年费用](/zh/insights/chantemerle-switzerland-a-level-boarding-school/)
+
 ## 酒店管理高等教育：本科与研究生
 
 我们与 IMI 及 SEG 集团旗下学校有正式合作。围绕本科和研究生阶段，我们帮助学生比较课程与文凭、学术要求、实习安排、家庭总投入，以及毕业后的就业或继续升学方向。

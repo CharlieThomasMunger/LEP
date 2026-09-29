@@ -17,6 +17,11 @@ Pour les jeunes enfants, la scolarité et l’organisation familiale se prépare
 
 Au secondaire, nous examinons également les programmes, les parcours vers l’université et les ressources pédagogiques et d’orientation de l’école. Notre regard repose sur une coopération suivie, des visites sur place, des échanges directs et des entretiens approfondis avec les directeurs.
 
+## Internats suisses : cursus, frais et visites sur place
+
+- [Saint-Charles convient-il à votre enfant ? IB, internat et études en Suisse](/fr/insights/saint-charles-switzerland-boarding-school/)
+- [Chantemerle convient-il à votre enfant ? A Levels, internat et budget annuel](/fr/insights/chantemerle-switzerland-a-level-boarding-school/)
+
 ## Enseignement supérieur hôtelier : bachelor et études postgrades
 
 LEP a des partenariats formels avec IMI et les écoles du groupe SEG. Nous aidons les étudiants à comparer les formations et diplômes, les exigences académiques, les stages, l’investissement familial total et les perspectives d’emploi ou de poursuite d’études.

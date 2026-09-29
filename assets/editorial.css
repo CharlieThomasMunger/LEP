@@ -198,3 +198,15 @@ article.node .visit-gallery .article-photo img{width:100%;height:330px!important
 .eerde-contact{background:#173b45;color:#fff;padding:26px 30px;margin:38px 0;scroll-margin-top:90px}.eerde-contact h2{color:#fff!important;margin-top:0!important;font-size:25px!important}.eerde-contact h2:before{display:none!important}.eerde-contact a{color:#fff!important;text-decoration:underline}.eerde-contact p{font-size:16px!important}
 .netherlands-guides{padding-left:1.4rem}.netherlands-guides li{padding:14px 0;border-bottom:1px solid #dde4e2}.netherlands-guides li>a{font-size:20px;font-weight:600}.netherlands-guides p{font-size:15px;color:#52656c;margin:7px 0 0}
 @media(max-width:650px){.eerde-contact,.eerde-offer{padding:20px}.eerde-contact h2{font-size:22px!important}}
+
+/* Swiss school guides: original photographs and application contact. */
+article.node .swiss-visit-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin:32px 0}
+article.node .swiss-visit-pair .article-photo{margin:0;min-width:0;max-width:none}
+article.node .swiss-visit-pair .article-photo img{width:100%;height:340px;object-fit:contain;background:#f5f6f6}
+article.node .swiss-contact{padding:26px 30px;margin:38px 0;background:#173b45;color:#fff}
+article.node .swiss-contact h2{color:#fff;margin-top:0;font-size:25px}article.node .swiss-contact h2:before{display:none}
+article.node .swiss-contact a{color:#fff;text-decoration:underline;overflow-wrap:anywhere}
+article.node .swiss-contact .contact{display:flex;flex-wrap:wrap;gap:12px 22px}
+article.node .swiss-sources{font-size:13px;line-height:1.8;margin:32px 0;padding-top:20px;border-top:1px solid var(--line);overflow-wrap:anywhere}
+article.node .swiss-sources summary{cursor:pointer}article.node .cite{font-size:11px;margin-left:4px;white-space:nowrap}
+@media(max-width:650px){article.node .swiss-visit-pair{grid-template-columns:1fr}article.node .swiss-visit-pair .article-photo img{height:auto;max-height:480px}article.node .swiss-contact{padding:22px}}

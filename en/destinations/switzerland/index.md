@@ -17,6 +17,11 @@ For younger children, schooling and family arrangements need to be planned toget
 
 For secondary pupils, we also consider curricula, university pathways and how to make good use of the school’s educational and university guidance resources. Our perspective comes from ongoing cooperation, campus visits, direct conversations and in-depth interviews with school heads.
 
+## Swiss boarding schools: courses, costs and first-hand visits
+
+- [Is Saint-Charles the right Swiss boarding school? IB, fees and university pathways](/en/insights/saint-charles-switzerland-boarding-school/)
+- [Is Chantemerle right for your child? A Levels, boarding life and annual fees](/en/insights/chantemerle-switzerland-a-level-boarding-school/)
+
 ## Hospitality higher education: undergraduate and postgraduate studies
 
 LEP has formal partnerships with IMI and schools within the SEG group. We help students compare undergraduate and postgraduate courses and qualifications, academic expectations, internships, the total family investment and options for employment or further study after graduation.
