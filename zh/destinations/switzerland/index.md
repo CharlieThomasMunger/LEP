@@ -21,6 +21,7 @@ LEP 的瑞士留学服务覆盖低龄、小学、初中和高中阶段。我们�
 
 - [圣查尔斯 Saint-Charles 适合中国孩子吗？英文 IB、寄宿费用与瑞士升学路线](/zh/insights/saint-charles-switzerland-boarding-school/)
 - [瑞士 Chantemerle 圣特美勒适合什么孩子？A Level、寄宿生活与一年费用](/zh/insights/chantemerle-switzerland-a-level-boarding-school/)
+- [TASIS瑞士美国学校适合什么孩子？IB、AP、寄宿年级与2026/27费用](/zh/insights/tasis-switzerland-ib-ap-boarding-school/)
 
 ## 酒店管理高等教育：本科与研究生
 

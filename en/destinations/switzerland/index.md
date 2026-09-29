@@ -21,6 +21,7 @@ For secondary pupils, we also consider curricula, university pathways and how to
 
 - [Is Saint-Charles the right Swiss boarding school? IB, fees and university pathways](/en/insights/saint-charles-switzerland-boarding-school/)
 - [Is Chantemerle right for your child? A Levels, boarding life and annual fees](/en/insights/chantemerle-switzerland-a-level-boarding-school/)
+- [Is TASIS Switzerland right for your child? IB, AP, boarding and 2026/27 fees](/en/insights/tasis-switzerland-ib-ap-boarding-school/)
 
 ## Hospitality higher education: undergraduate and postgraduate studies
 

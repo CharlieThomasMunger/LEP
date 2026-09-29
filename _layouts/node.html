@@ -74,7 +74,7 @@ layout: default
     </ul>
     {%- endif %}
 
-    {% unless page.lep_service_page %}
+    {% unless page.lep_service_page or page.custom_lep_support %}
       {% if page.cluster == 'netherlands-school' %}
         <p><a href="/{{ lang }}/insights/apply-to-eerde-with-lep/">{% if lang == 'zh' %}了解LEP的Eerde申请服务{% elsif lang == 'fr' %}L’accompagnement LEP pour Eerde{% else %}LEP application support for Eerde{% endif %} →</a></p>
       {% elsif page.school_article or page.cluster == 'switzerland-hotel' or page.cluster == 'switzerland-boarding' %}

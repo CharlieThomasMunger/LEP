@@ -21,6 +21,7 @@ Au secondaire, nous examinons également les programmes, les parcours vers l’u
 
 - [Saint-Charles convient-il à votre enfant ? IB, internat et études en Suisse](/fr/insights/saint-charles-switzerland-boarding-school/)
 - [Chantemerle convient-il à votre enfant ? A Levels, internat et budget annuel](/fr/insights/chantemerle-switzerland-a-level-boarding-school/)
+- [TASIS en Suisse convient-elle à votre enfant ? IB, AP, internat et frais 2026/27](/fr/insights/tasis-switzerland-ib-ap-boarding-school/)
 
 ## Enseignement supérieur hôtelier : bachelor et études postgrades
 
