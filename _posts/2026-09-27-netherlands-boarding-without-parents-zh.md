@@ -28,11 +28,11 @@ has_topic_navigation: true
 <h2>学期内周末可以住，长假另作安排</h2>
 <p>Eerde全寄宿包含学期内周末。学校列明的秋假、圣诞假、春假、复活节假和暑假期间，宿舍关闭，家庭要提前安排回家或其他去向。</p>
 <p>把这一区别说清楚，就能理解全寄宿怎样覆盖孩子的生活，不必把它与全年无休混为一谈。</p>
-<figure class="article-photo"><img src="/assets/eerde/n2-3.webp" width="1600" height="1067" alt="Eerde 公共厨房与用餐空间" loading="lazy"><figcaption>Eerde 公共厨房与用餐空间</figcaption></figure><h2>UWC Maastricht：高中住校，但要经过选拔</h2>
+<figure class="article-photo"><a href="/assets/eerde/eerde-fold-dining-room.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-dining-room.jpg" width="1600" height="1200" alt="Eerde古堡内的餐厅，拍摄于实地访校期间。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>Eerde古堡内的餐厅，拍摄于实地访校期间。LEP实拍。</figcaption></figure><h2>UWC Maastricht：高中住校，但要经过选拔</h2>
 <p>UWC Maastricht主要接收约16—19岁的高中住校生，提供IB文凭课程及IB职业相关课程。它确实接收离开父母来住校的国际学生。</p>
 <p>主要申请路径包括国家委员会和全球选拔项目GSP。希望申请资助的家庭通常考虑国家委员会；不申请资助、希望选择具体UWC学校的家庭，可研究GSP。两条路径都需要通过选拔。</p>
 <p>因此，它不是给14岁孩子直接套用的同一种寄宿安排，也不是交费就可以入学。LEP尚未与该校建立合作，后续对接清楚后，再向家庭提供具体服务方案。</p>
-<h2>父母不在欧洲，更需要一个本地对接人</h2>
+<figure class="article-photo portrait"><a href="/assets/eerde/eerde-fold-family-visit.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-family-visit.jpg" width="1200" height="1600" alt="访校时，孩子走过Eerde古堡校园的小桥。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时，孩子走过Eerde古堡校园的小桥。LEP实拍。</figcaption></figure><h2>父母不在欧洲，更需要一个本地对接人</h2>
 <p>LEP已看过Eerde的宿舍与校园，也了解过师生用餐和生活管理。我们可以协助家长把周末住校、假期安排、生活支持及到校准备逐项向校方落实。LEP在欧洲，与荷兰同一时区，每季度组织荷兰访校，沟通与实地协调更方便。</p>
 <p>截至2027年9月15日，通过LEP申请Eerde，我们不额外收取申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校学费、寄宿费及政府等第三方收取的费用照常支付。</p>
 <p>联系James Liu，说明孩子的年级、英语情况和计划入学时间。我们先判断学校是否适合，再一起推进申请。</p><section class="eerde-contact" id="eerde-contact"><h2>联系修印先生，讨论孩子的申请与访校</h2><p>告诉我们孩子的年龄、年级、英语情况和计划入学时间。</p><p><a href="mailto:jamesliu@luxedupartners.lu">直接邮件联系James Liu</a> · <span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/apply-to-eerde-with-lep/">了解LEP如何协助申请 →</a></p></section><nav class="related" aria-label="继续了解荷兰留学"><h2>继续了解荷兰留学</h2><ul><li><a href="/zh/insights/netherlands-international-schools/">荷兰英文国际学校怎么选？父母不陪读，重点看什么</a></li><li><a href="/zh/insights/netherlands-international-school-english/">会英语、不会荷兰语，可以去荷兰读国际高中吗？</a></li><li><a href="/zh/insights/eerde-boarding-school-fees/">荷兰寄宿高中一年多少钱？以Eerde的学费和住宿费用为例</a></li><li><a href="/zh/insights/netherlands-boarding-school-application/">中国学生怎样申请荷兰寄宿高中？先看这几个条件</a></li><li><a href="/zh/insights/netherlands-ib-university-pathways/">在荷兰读IB高中，可以申请荷兰、瑞士、英国和美国哪些大学方向？</a></li><li><a href="/zh/insights/eerde-boarding-school-visit/">实地看过Eerde：这所荷兰国际寄宿学校，适合什么孩子？</a></li></ul></nav>

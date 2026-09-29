@@ -24,7 +24,7 @@ has_topic_navigation: true
 <p>LEP每个季度组织荷兰访校。家庭可以联系我们了解安排，带着课程、住宿和孩子适应方面的问题去看学校。我们本身就在欧洲，与校方沟通和协调实地安排都更方便。</p>
 <p>访校时，重要的不只是拍几张照片，而是看孩子将怎样学习、吃饭、住校，与谁交流。我们已经看过这些环境，可以帮助家长把注意力放在对孩子真正有影响的问题上。</p>
 <figure class="article-photo"><a href="/assets/eerde/eerde-courtyard-buildings-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-courtyard-buildings-lep.jpg" width="2275" height="1280" alt="访校时拍摄的Eerde古堡校园。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时拍摄的Eerde古堡校园。LEP实拍。</figcaption></figure>
-<h2>通过LEP，会不会增加一笔中介费用？</h2>
+<figure class="article-photo portrait"><a href="/assets/eerde/eerde-fold-family-visit.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-family-visit.jpg" width="1200" height="1600" alt="访校时，孩子走过Eerde古堡校园的小桥。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时，孩子走过Eerde古堡校园的小桥。LEP实拍。</figcaption></figure><h2>通过LEP，会不会增加一笔中介费用？</h2>
 <p>截至2027年9月15日，通过LEP申请Eerde，我们不额外收取申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校学费、寄宿费及政府等第三方收取的费用照常支付。</p>
 <p>家庭得到的是欧洲本地的申请协助，而不是多出一笔LEP申请服务费。自己联系学校，需要自行跟进材料和沟通；委托LEP，可以把约定的申请工作交给我们推进。</p>
 <h2>如果孩子以后继续在欧洲发展，我们能把前后路径一起考虑</h2>

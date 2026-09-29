@@ -25,14 +25,14 @@ has_topic_navigation: true
 </tbody></table></div>
 <p>“Native English” is a route name, not simply a passport category. The school describes stronger English speakers preparing to study at Grade 10 level as candidates for this direction.</p>
 <p>The ESL route gives some students more space to build English. It does not mean every language level can enter, or that completion automatically guarantees admission to the IB Diploma Programme.</p>
-<figure class="article-photo"><img src="/assets/eerde/n3-2.webp" width="1600" height="1066" alt="Eerde · Classroom learning" loading="lazy"><figcaption>Eerde · Classroom learning</figcaption></figure><h2>When preparation may be worthwhile</h2>
+<figure class="article-photo"><a href="/assets/eerde/eerde-fold-science-classroom.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-science-classroom.jpg" width="1600" height="1200" alt="Eerde’s science classroom, seen during our school visit. LEP photograph." loading="lazy" decoding="async"></a><figcaption>Eerde’s science classroom, seen during our school visit. LEP photograph.</figcaption></figure><h2>When preparation may be worthwhile</h2>
 <p>A student may have sound subject knowledge but have studied mostly in another language. Mathematics or science may not be the underlying problem; reading speed, expression and written work in English may need time.</p>
 <p>Another student may already follow an international curriculum but need stronger writing, study habits or subject foundations. The aim is to identify those needs rather than simply secure the highest possible year placement.</p>
 <p>If both academic and language preparation are limited, the school needs to assess what it can support. A sustainable learning route matters more than an early offer alone.</p>
 <h2>Give the school a useful picture of the student</h2>
 <p>Recent results, current subjects and English-learning experience are more informative than saying that English is “average”. Where the school requests an assessment, its results help clarify the appropriate route.</p>
 <p>LEP can organise this background, coordinate school discussions and clarify any additional support charges. Families do not need to decide between routes before their first conversation with us.</p>
-<figure class="article-photo"><img src="/assets/eerde/n3-3.webp" width="1600" height="1066" alt="Eerde · Student reading" loading="lazy"><figcaption>Eerde · Student reading</figcaption></figure><h2>Common questions</h2>
+<figure class="article-photo portrait"><a href="/assets/eerde/eerde-fold-dining-rules.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-dining-rules.jpg" width="1200" height="1600" alt="Dining-room rules seen during our visit: speak English and clear up after yourself. LEP photograph." loading="lazy" decoding="async"></a><figcaption>Dining-room rules seen during our visit: speak English and clear up after yourself. LEP photograph.</figcaption></figure><h2>Common questions</h2>
 <h3>Must Dutch be learned before applying?</h3>
 <p>English-taught programmes generally do not require Dutch as the initial language of academic study; the specific school requirements still apply.</p>
 <h3>Can a student with no English enter the IB directly?</h3>

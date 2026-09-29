@@ -26,7 +26,7 @@ has_topic_navigation: true
 </tbody></table></div>
 <p>Native English是课程路线名称，不宜简单理解成只看护照或是否母语家庭。学校介绍将英语能力较好、准备在Grade 10阶段学习的学生列为这一方向的对象。</p>
 <p>ESL路线则为英语准备留出更大空间。它给部分学生提供了衔接办法，但并不等于任何英语水平都能直接进入，更不等于读完自动获得IB文凭课程录取。</p>
-<figure class="article-photo"><img src="/assets/eerde/n3-2.webp" width="1600" height="1066" alt="Eerde 学生在课堂使用学习设备" loading="lazy"><figcaption>Eerde 学生在课堂使用学习设备</figcaption></figure><h2>哪些孩子值得认真考虑衔接？</h2>
+<figure class="article-photo"><a href="/assets/eerde/eerde-fold-science-classroom.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-science-classroom.jpg" width="1600" height="1200" alt="访校时看到的Eerde科学教室。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时看到的Eerde科学教室。LEP实拍。</figcaption></figure><h2>哪些孩子值得认真考虑衔接？</h2>
 <p>一种情况是学科基础尚可，但长期用中文学习。孩子并非不懂数学或科学，而是换一种语言后，阅读、表达和作业速度暂时跟不上。</p>
 <p>另一种情况是已经在国际课程里学习，但学习方法、写作或某些科目还不够稳。此时要判断缺口在哪里，而不是只为了年级数字好看，急着进入更高阶段。</p>
 <p>如果孩子目前既缺语言基础，又缺必要的学科准备，应先由学校评估支持能力及可行安排。家庭需要的是孩子真正能走下去的课程，而不是一张过早到手的录取。</p>
@@ -34,7 +34,7 @@ has_topic_navigation: true
 <p>近期成绩、现在使用的教材和课程、英语学习情况，比一句“英语一般”更能帮助判断。学校如要求评估或语言测试，再结合结果确认路线。</p>
 <p>LEP可以协助家庭整理这些背景，与校方讨论：是直接申请目标年级，还是先做衔接；需要哪些支持；这些支持是否另收费。这样得到的答复，才是针对孩子本人的安排。</p>
 <p>LEP与Eerde校方直接沟通，可以结合孩子现在的学习情况，讨论课程衔接与英语支持。家长不必先替孩子选定某条路线，先把实际水平告诉我们即可。</p>
-<figure class="article-photo"><img src="/assets/eerde/n3-3.webp" width="1600" height="1066" alt="Eerde 学生阅读" loading="lazy"><figcaption>Eerde 学生阅读</figcaption></figure><h2>英语和材料怎样准备，LEP帮孩子对接校方</h2>
+<figure class="article-photo portrait"><a href="/assets/eerde/eerde-fold-dining-rules.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-dining-rules.jpg" width="1200" height="1600" alt="访校时拍到的餐厅规则：用英语交流、用餐后自行收拾。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时拍到的餐厅规则：用英语交流、用餐后自行收拾。LEP实拍。</figcaption></figure><h2>英语和材料怎样准备，LEP帮孩子对接校方</h2>
 <p>家长说“英语一般”，学校很难据此判断。LEP协助整理孩子的成绩、英语学习经历及目标课程，按照校方需要组织材料，协调评估，确认直接入读还是先做衔接。我们熟悉学校，也在欧洲工作时间跟进问题，减少家长跨时区反复沟通。</p>
 <p>截至2027年9月15日，通过LEP申请Eerde，我们不额外收取申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校学费、寄宿费及政府等第三方收取的费用照常支付。</p>
 <p>联系James Liu，说明孩子的年级、英语情况和计划入学时间。我们先判断学校是否适合，再一起推进申请。</p>

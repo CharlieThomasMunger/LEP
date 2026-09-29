@@ -22,14 +22,14 @@ has_topic_navigation: true
 <p>访校时，校方特别向我介绍，孩子吃饭时是与老师一起用餐的。在这样的古堡校园里，师生接触不只发生在课堂。</p>
 <p>学校对用餐和日常生活习惯有严格规定。吃完饭要自己收拾，也有厨房管理方面的要求。对父母不在身边的孩子，这些具体的生活规矩，是寄宿教育的一部分。</p>
 <p>学生宿舍我也进去看过，条件可以。我的访校印象是，住宿生活安排在古堡校园内的历史建筑中，而教学楼是一座很现代化的建筑。古堡的生活氛围与现代教学空间结合，是这所学校让我记得很清楚的特点。</p>
-<figure class="article-photo"><img src="/assets/eerde/n7-2.webp" width="1600" height="1066" alt="Eerde 学生宿舍" loading="lazy"><figcaption>Eerde 学生宿舍</figcaption></figure><h2>同学之间的关系，是我很在意的一点</h2>
+<figure class="article-photo"><a href="/assets/eerde/eerde-fold-dining-room.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-dining-room.jpg" width="1600" height="1200" alt="Eerde古堡内的餐厅，拍摄于实地访校期间。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>Eerde古堡内的餐厅，拍摄于实地访校期间。LEP实拍。</figcaption></figure><figure class="article-photo"><img src="/assets/eerde/n7-2.webp" width="1600" height="1066" alt="Eerde 学生宿舍" loading="lazy"><figcaption>Eerde 学生宿舍</figcaption></figure><h2>同学之间的关系，是我很在意的一点</h2>
 <p>它相当于一个古堡校园，同学之间接触得很密切。我的观察是，学生关系比较亲近，这种共同学习、共同生活的氛围，对寄宿生活是有价值的。</p>
 <p>学校位于Ommen一带。我觉得当地很美，周边有适合休闲和户外活动的环境。对喜欢自然、希望校园生活相对集中的孩子，这是一种可以认真考虑的生活方式。</p>
-<h2>校方谈到的国际化，不只是英文授课</h2>
+<figure class="article-photo portrait"><a href="/assets/eerde/eerde-fold-family-visit.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-family-visit.jpg" width="1200" height="1600" alt="访校时，孩子走过Eerde古堡校园的小桥。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时，孩子走过Eerde古堡校园的小桥。LEP实拍。</figcaption></figure><h2>校方谈到的国际化，不只是英文授课</h2>
 <p>在与校方的交流中，对方明确向我介绍，他们对单一国家学生比例的控制目标是不超过10%。这是我访校沟通中很关注的一点。</p>
 <p>据我在2026年与校方交流了解到的情况，学校当时只有5名华人学生。对希望孩子真正走进国际环境的家庭，这一点很有吸引力，孩子日常接触的会是不同文化背景的同学。</p>
 <p>华人同学少，更需要把孩子和家长的实际需求向学校表达清楚。LEP了解中国家庭常关心的学业、语言适应和日常生活问题，也熟悉欧洲学校的沟通方式，可以把双方的需要接起来。</p>
-<figure class="article-photo"><img src="/assets/eerde/n7-3.webp" width="1600" height="1067" alt="Eerde 现代教学建筑入口" loading="lazy"><figcaption>Eerde 现代教学建筑入口</figcaption></figure><h2>马术、运动与艺术，不是课表之外可有可无的事</h2>
+<figure class="article-photo"><a href="/assets/eerde/eerde-fold-modern-teaching.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-modern-teaching.jpg" width="1600" height="1200" alt="Eerde古堡与现代教学楼同处一座校园。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>Eerde古堡与现代教学楼同处一座校园。LEP实拍。</figcaption></figure><h2>马术、运动与艺术，不是课表之外可有可无的事</h2>
 <p>学校资料介绍了与当地马场De Hazelhorst合作的马术活动，从骑乘课程到赛事参与，为喜欢马术的学生提供了继续发展的空间。</p>
 <p>校园有体育馆和健身空间，学校介绍这些设施用于课程，也供寄宿学生在空闲时间使用。周围的自然环境，也适合步行、跑步和骑行。</p>
 <p>音乐与艺术同样是这里的一部分。我了解到学校有音乐室；校方资料也介绍了艺术创作空间，学生可以接触绘画、设计和造型等活动。对一个住在学校里的孩子，这些空间让放学后的生活更充实，也给不同兴趣的学生留下位置。</p>
