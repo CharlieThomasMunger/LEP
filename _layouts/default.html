@@ -95,9 +95,11 @@
 <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/editorial.css?v=20260929-swiss' | relative_url }}">
 <script src="{{ '/assets/editorial.js?v=20260926' | relative_url }}" defer></script>
+{% if page.home_refresh %}<link rel="stylesheet" href="{{ '/assets/homepage.css?v=20260929-1' | relative_url }}">
+<script src="{{ '/assets/homepage.js?v=20260929-1' | relative_url }}" defer></script>{% endif %}
 {%- feed_meta -%}
 </head>
-<body>
+<body{% if page.home_refresh %} class="lep-home"{% endif %}>
 <a class="skip-link" href="#main-content">{% case lang %}{% when 'zh' %}跳到正文{% when 'fr' %}Aller au contenu{% else %}Skip to content{% endcase %}</a>
 
 <header class="site">
@@ -137,7 +139,7 @@
       <a href="{{ '/' | append: lang | append: '/' | relative_url }}" aria-label="Lux Education Partners"><span class="brand-logo"><img src="{{ '/assets/brand/lep-logo.jpg' | relative_url }}" alt="Lux Education Partners" width="1100" height="750" loading="lazy"></span></a>
       <p>{% case lang %}{% when 'zh' %}扎根卢森堡，连接欧洲教育与未来。{% when 'fr' %}Ancrés au Luxembourg.<br>Votre avenir en Europe.{% else %}Rooted in Luxembourg.<br>Your future in Europe.{% endcase %}</p>
     </div>
-    {% include lep-contact.html %}
+    {% unless page.home_refresh %}{% include lep-contact.html %}{% endunless %}
     <p class="disclaimer">{{ t.disclaimer }}</p>
     <p><a href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ t.nav_schools }}</a></p>
     <p class="legal">{{ site.org.legal_name }} · RCS {{ site.org.rcs }} · {{ site.org.locality }}</p>

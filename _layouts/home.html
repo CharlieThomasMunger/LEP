@@ -1,141 +1,157 @@
 ---
 layout: default
 ---
-{%- assign lang = page.lang -%}
-{%- assign t = site.data.ui[lang] -%}
-{%- assign notes = site.posts | where: "lang", lang -%}
-{%- assign lux_overview = notes | where: "ref", "lux-guide-l0" -%}
-{%- if lux_overview.size > 0 -%}
-  {%- assign lux_case = notes | where: "ref", "lux-guide-l5" -%}
-  {%- assign lux_otr = notes | where: "ref", "lux-guide-l3" -%}
-  {%- assign swiss_guide = notes | where: "ref", "seg-guide-s1" -%}
-  {%- assign notes = lux_overview | concat: lux_case | concat: lux_otr | concat: swiss_guide -%}
-{%- endif -%}
+{% assign lang = page.lang %}
+{% assign h = site.data.homepage[lang] %}
+{% assign posts = site.posts | where: "lang", lang %}
+{% assign prefix = '/' | append: lang %}
+{% assign featured = posts | where: "ref", "sc1-swiss-school" | first %}
 
+<section class="home-hero" aria-labelledby="home-title">
+  <div class="wrap home-hero-grid">
+    <div class="home-hero-copy">
+      <p class="kicker">{{ h.eyebrow }}</p>
+      <h1 id="home-title">{{ h.heading }}</h1>
+      <p class="home-intro">{{ h.intro }}</p>
+      <div class="home-actions">
+        <a class="btn" href="{{ prefix | append: '/destinations/luxembourg/' | relative_url }}">{{ h.primary }} <span aria-hidden="true">→</span></a>
+        <a class="btn ghost" href="#contact-lep">{{ h.consult }}</a>
+      </div>
+      <p class="home-byline">{{ h.byline }}</p>
+    </div>
+    <figure class="home-hero-photo">
+      <img src="{{ '/assets/fieldwork/st-georges-principal-school-sign.jpg' | relative_url }}" alt="{{ h.hero_caption | escape }}" width="1920" height="1280" fetchpriority="high">
+      <figcaption>{{ h.hero_caption }}</figcaption>
+    </figure>
+  </div>
+  <div class="wrap"><ul class="home-anchors">{% for anchor in h.anchors %}<li><span aria-hidden="true">0{{ forloop.index }}</span>{{ anchor }}</li>{% endfor %}</ul></div>
+</section>
 
-<!-- ===== Hero ===== -->
-{% assign hero_school = site.data.fieldwork.luxembourg.items | where: 'name', "St George's International School" | first %}
-<section class="hero">
-  <div class="wrap hero-grid">
-    <div class="hero-text">
-      <p class="kicker">{{ page.kicker }}</p>
-      <h1>{% if lang == 'zh' %}{{ page.heading | replace: '，', '，<br>' }}{% else %}{{ page.heading }}{% endif %}</h1>
-      <p class="lede">{{ page.standfirst }}</p>
-      <div class="hero-actions">
-        <a class="btn" href="{{ '/' | append: lang | append: '/destinations/luxembourg/' | relative_url }}">{{ page.cta_families }}</a>
-        <a class="btn ghost" href="{{ '/' | append: lang | append: '/insights/why-lep/' | relative_url }}">{{ page.cta_schools }}</a>
+<section class="home-section home-visits" id="school-visits" aria-labelledby="visit-title">
+  <div class="wrap">
+    <div class="home-section-head">
+      <div><p class="kicker">{{ h.visit_kicker }}</p><h2 id="visit-title">{{ h.visit_title }}</h2></div>
+      <div class="home-section-aside"><p>{{ h.visit_intro }}</p><a class="home-text-link" href="{{ prefix | append: '/fieldwork/' | relative_url }}">{{ h.visit_all }} <span aria-hidden="true">↗</span></a></div>
+    </div>
+    <div class="home-visits-grid">
+      <article class="home-featured-visit">
+        <figure>
+          <a href="{{ featured.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ '/assets/swiss/sc03.jpg' | relative_url }}" alt="{{ h.featured.caption | escape }}" width="1600" height="1067" loading="lazy" decoding="async"></a>
+          <figcaption>{{ h.featured.caption }} · {{ h.photo_label }}</figcaption>
+        </figure>
+        <div class="home-featured-copy">
+          <p class="home-label">{{ h.featured.country }}</p>
+          <h3><a href="{{ featured.url | relative_url }}">{{ h.featured.title }}</a></h3>
+          <p>{{ h.featured.text }}</p>
+          <a class="home-text-link" href="{{ featured.url | relative_url }}">{{ h.featured.link }} <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+      <div class="home-visit-list">
+        {% for v in h.visits %}
+        {% assign photo = site.data.homepage.photos[forloop.index0] %}
+        {% assign post = posts | where: "ref", photo.ref | first %}
+        <article class="home-visit-item">
+          <a class="home-visit-photo" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ photo.image | relative_url }}" alt="{{ v.alt | escape }}" loading="lazy" decoding="async" width="480" height="320"></a>
+          <div><p class="home-label">{{ v.country }}</p><h3><a href="{{ post.url | relative_url }}">{{ v.title }}</a></h3><p>{{ v.text }}</p></div>
+        </article>
+        {% endfor %}
+        <p class="home-photo-credit">{{ h.photo_label }}</p>
       </div>
     </div>
-    <figure class="hero-img">
-      <img src="{{ '/assets/fieldwork/st-georges-principal-school-sign.jpg' | relative_url }}" alt="{{ hero_school.alt[lang] }}" width="1200" height="800" fetchpriority="high">
-      <figcaption>{{ hero_school.alt[lang] }} · {% if lang == 'zh' %}LEP 实拍{% elsif lang == 'fr' %}Photo LEP{% else %}LEP photograph{% endif %}</figcaption>
-    </figure>
   </div>
 </section>
 
-{% include destinations.html %}
-
-<!-- ===== Services ===== -->
-<section class="band">
+<section class="home-section home-destinations" id="destinations" aria-labelledby="destinations-title">
   <div class="wrap">
-    <h2 class="sec-title">{{ page.services_title }}</h2>
-    <div class="cards">
-      {%- for s in page.services %}
-      <article class="card">
-        <h3>{{ s.title }}</h3>
-        <p>{{ s.text }}</p>
+    <p class="kicker">{{ h.destination_kicker }}</p><h2 id="destinations-title">{{ h.destination_title }}</h2>
+    <p class="home-section-intro">{{ h.destination_intro }}</p>
+    <div class="home-country-grid">
+      {% for d in h.destinations %}
+      <article class="home-country{% if forloop.first %} home-country-primary{% endif %}">
+        <p class="home-label">{{ d.label }}</p>
+        <h3>{{ d.name }}</h3><p class="home-country-description">{{ d.text }}</p>
+        <ul>{% for link in d.links %}<li><a href="{{ prefix | append: '/insights/' | append: link.slug | append: '/' | relative_url }}">{{ link.text }} <span aria-hidden="true">↗</span></a></li>{% endfor %}</ul>
+        <a class="home-country-action" href="{{ prefix | append: '/destinations/' | append: d.slug | append: '/' | relative_url }}">{{ d.action }} <span aria-hidden="true">→</span></a>
       </article>
-      {%- endfor %}
+      {% endfor %}
     </div>
   </div>
 </section>
 
-<!-- ===== Photo strip ===== -->
-<section class="strip">
-  <div class="wrap strip-grid">
-    <figure><img src="{{ '/assets/ib-classroom.jpg' | relative_url }}" alt="{{ page.photo1_cap }}" loading="lazy"><figcaption>{{ page.photo1_cap }}</figcaption></figure>
-    <figure><img src="{{ '/assets/walk-to-school.jpg' | relative_url }}" alt="{{ page.photo2_cap }}" loading="lazy"><figcaption>{{ page.photo2_cap }}</figcaption></figure>
-    <figure><img src="{{ '/assets/luxembourg-grund.jpg' | relative_url }}" alt="{{ page.photo3_cap }}" loading="lazy"><figcaption>{{ page.photo3_cap }}</figcaption></figure>
-  </div>
-</section>
-
-<!-- ===== Why us ===== -->
-<section class="band alt">
-  <div class="wrap why-grid">
-    <figure class="why-img">
-      <img src="{{ '/assets/fieldwork/st-charles-owner.jpg' | relative_url }}" alt="{% if lang == 'zh' %}修印先生与圣查尔斯学校 owner{% elsif lang == 'fr' %}James Liu avec le propriétaire de St. Charles{% else %}James Liu with the owner of St. Charles{% endif %}" loading="lazy">
-      <figcaption>{% if lang == 'zh' %}修印先生与圣查尔斯学校 owner · LEP 实拍{% elsif lang == 'fr' %}James Liu avec le propriétaire de St. Charles · Photo LEP{% else %}James Liu with the owner of St. Charles · LEP photograph{% endif %}</figcaption>
-    </figure>
-    <div>
-      <h2 class="sec-title">{{ page.why_title }}</h2>
-      <ul class="why">
-        {%- for w in page.why %}
-        <li><b>{{ w.title }}</b><span>{{ w.text }}</span></li>
-        {%- endfor %}
-      </ul>
-      <p class="honest">{{ page.honest }}</p>
+<section class="home-section home-why" id="why-lep" aria-labelledby="why-title">
+  <div class="wrap home-why-grid">
+    <div class="home-founder">
+      <p class="kicker">{{ h.why_kicker }}</p><h2 id="why-title">{{ h.why_title }}</h2>
+      <p>{{ h.why_intro }}</p><p class="home-signature">{{ h.signature }}</p>
+      <a class="home-text-link" href="{{ prefix | append: '/insights/why-lep/' | relative_url }}">{{ h.why_link }} <span aria-hidden="true">→</span></a>
     </div>
+    <ol class="home-benefits">
+      {% for benefit in h.why %}<li><span class="home-step-number" aria-hidden="true">0{{ forloop.index }}</span><h3>{{ benefit.title }}</h3><p>{{ benefit.text }}</p></li>{% endfor %}
+    </ol>
   </div>
 </section>
 
-<!-- ===== Guides ===== -->
-{%- if notes.size > 0 %}
-<section class="band">
+<section class="home-section home-case" id="family-case" aria-labelledby="case-title">
   <div class="wrap">
-    <div class="sec-head">
-      <h2 class="sec-title">{{ t.nav_insights }}</h2>
-      <a class="more" href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ page.all_guides }} →</a>
+    <div class="home-case-top">
+      <div><p class="kicker">{{ h.case_kicker }}</p><h2 id="case-title">{{ h.case_title }}</h2></div>
+      <p>{{ h.case_intro }}</p>
     </div>
-    <ul class="nodes home">
-      {%- for p in notes limit: 4 %}
-      {%- assign cover = site.data.guide_covers[p.ref] -%}
-      {%- assign cover_image = cover.image | default: p.image -%}
-      <li>
-        {% if cover_image %}
-        <figure class="guide-card-figure">
-          <a class="guide-card-image" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ cover_image | relative_url }}" alt="" loading="lazy"></a>
-          {% if cover.caption[lang] %}<figcaption>{{ cover.caption[lang] }}</figcaption>{% endif %}
-        </figure>
-        {% endif %}
-        <div class="guide-card-copy"><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.answer %}<p>{{ p.answer }}</p>{% endif %}</div>
-      </li>
-      {%- endfor %}
-    </ul>
-  </div>
-</section>
-{%- endif %}
-
-<!-- ===== Fieldwork preview ===== -->
-<section class="band alt">
-  <div class="wrap">
-    <div class="sec-head">
-      <h2 class="sec-title">{{ page.field_title }}</h2>
-      <a class="more" href="{{ '/' | append: lang | append: '/fieldwork/' | relative_url }}">{{ t.nav_method }} →</a>
-    </div>
-    <p class="lede" style="max-width:52rem;margin-bottom:1.6rem">{{ page.field_text }}</p>
-    <div class="field-row">
-      {%- assign lux = site.data.fieldwork.luxembourg.items -%}
-      {%- for item in lux limit: 4 %}
-      <figure>
-        <img src="{{ item.image | relative_url }}" alt="{{ item.alt[lang] | default: item.name }}" loading="lazy">
-        <figcaption>{{ item.alt[lang] | default: item.name }}</figcaption>
+    <ol class="home-timeline">
+      {% for step in h.case_steps %}<li><p class="home-case-date">{{ step.date }}</p><h3>{{ step.title }}</h3><p>{{ step.text }}</p></li>{% endfor %}
+    </ol>
+    <div class="home-case-bottom">
+      <div class="home-case-outcome">
+        <blockquote><p>“{{ h.case_quote }}”</p><cite>{{ h.case_quote_source }}</cite></blockquote>
+        <p class="home-case-note">{{ h.case_note }}</p>
+        <div class="home-actions"><a class="btn" href="{{ prefix | append: '/insights/st-georges-rapid-school-placement/' | relative_url }}">{{ h.case_link }} <span aria-hidden="true">→</span></a><a class="home-text-link" href="#contact-lep">{{ h.consult }} <span aria-hidden="true">↗</span></a></div>
+      </div>
+      <figure class="home-case-evidence">
+        <a href="{{ '/assets/luxembourg/parent-thank-you-original-redacted.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/luxembourg/parent-thank-you-original-redacted.png' | relative_url }}" alt="{{ h.case_alt | escape }}" width="1600" height="790" loading="lazy" decoding="async"></a>
+        <figcaption>{{ h.case_evidence }}</figcaption>
       </figure>
-      {%- endfor %}
     </div>
   </div>
 </section>
 
-<!-- ===== Contact ===== -->
-<section class="contact">
-  <div class="wrap contact-grid">
-    <div>
-      <h2 class="sec-title">{{ page.contact_title }}</h2>
-      <p class="lede">{{ page.contact_text }}</p>
+<section class="home-section home-questions" aria-labelledby="questions-title">
+  <div class="wrap">
+    <div class="home-section-head">
+      <div><p class="kicker">{{ h.questions_kicker }}</p><h2 id="questions-title">{{ h.questions_title }}</h2></div>
+      <a class="home-text-link" href="{{ prefix | append: '/insights/' | relative_url }}">{{ h.questions_all }} <span aria-hidden="true">→</span></a>
     </div>
-    <div class="contact-box">
-      <p><b>{{ page.contact_families_label }}</b><br><a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
-      <p><b>{{ page.contact_schools_label }}</b><br><a href="mailto:schools@luxedupartners.lu">schools@luxedupartners.lu</a></p>
-      <p class="small">{{ page.contact_reply }}</p>
+    <div class="home-question-grid">
+      {% for q in h.questions %}
+      {% assign slug = site.data.homepage.questions[forloop.index0] %}
+      <a class="home-question" href="{{ prefix | append: '/insights/' | append: slug | append: '/' | relative_url }}"><div><h3>{{ q.title }}</h3><p>{{ q.text }}</p></div><span aria-hidden="true">↗</span></a>
+      {% endfor %}
     </div>
   </div>
 </section>
+
+<section class="home-section home-contact" id="contact-lep" aria-labelledby="contact-title">
+  <div class="wrap home-contact-grid">
+    <div>
+      <p class="kicker">{{ h.contact_kicker }}</p><h2 id="contact-title">{{ h.contact_title }}</h2>
+      <p class="home-section-intro">{{ h.contact_intro }}</p>
+      <ul class="home-contact-items">{% for item in h.contact_items %}<li>{{ item }}</li>{% endfor %}</ul>
+    </div>
+    <div class="home-contact-card">
+      <h3>{{ h.contact_name }}</h3><p>{{ h.contact_languages }}</p>
+      {% if lang == 'zh' %}
+      <div class="home-wechat"><span>微信</span><strong id="wechat-id">xiuyinxiansheng</strong><button type="button" class="home-copy" data-success="{{ h.copied }}" data-failure="{{ h.copy_failed }}" hidden>{{ h.copy }}</button></div>
+      <p class="home-copy-status" aria-live="polite"></p>
+      <a class="btn" href="mailto:contact@luxedupartners.lu">{{ h.email_label }} <span aria-hidden="true">↗</span></a>
+      {% else %}
+      <div class="home-contact-methods"><div class="home-actions">
+        <a class="btn" href="https://wa.me/352661221289" target="_blank" rel="noopener">{{ h.whatsapp }} <span aria-hidden="true">↗</span></a>
+        <a class="btn ghost" href="mailto:contact@luxedupartners.lu">{{ h.email_label }}</a>
+      </div>
+      <figure><a href="https://wa.me/352661221289" target="_blank" rel="noopener" aria-label="WhatsApp"><img src="{{ '/assets/contact/lep-whatsapp-qr.svg' | relative_url }}" width="120" height="120" alt="WhatsApp QR code" loading="lazy"></a><figcaption>{{ h.qr_caption }}</figcaption></figure></div>
+      {% endif %}
+      <a class="home-email" href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>
+      <p class="home-contact-scope">{{ h.contact_scope }}</p>
+    </div>
+  </div>
+</section>
+<div class="home-mobile-contact" aria-label="{{ h.consult | escape }}"><span>{{ h.mobile_label }}</span><a class="btn" href="#contact-lep">{{ h.consult }} <span aria-hidden="true">→</span></a></div>

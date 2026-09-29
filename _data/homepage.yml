@@ -1,0 +1,640 @@
+{
+  "photos": [
+    {
+      "ref": "lux-guide-l3",
+      "image": "/assets/fieldwork/otr-classroom-view.jpg"
+    },
+    {
+      "ref": "netherlands-n7",
+      "image": "/assets/eerde/eerde-castle-front-lep.jpg"
+    },
+    {
+      "ref": "cm1-swiss-school",
+      "image": "/assets/swiss/cm02.jpg"
+    },
+    {
+      "ref": "tasis-swiss-school",
+      "image": "/assets/swiss/tasis-visit-admissions.jpg"
+    }
+  ],
+  "questions": [
+    "luxembourg-school-english-language",
+    "study-without-parents",
+    "luxembourg-international-school-fees",
+    "luxembourg-school-application-midyear-entry",
+    "luxembourg-ib-a-level-university-pathways",
+    "why-lep"
+  ],
+  "zh": {
+    "eyebrow": "LUX EDUCATION PARTNERS · 卢森堡",
+    "heading": "扎根卢森堡，<br>为孩子找到适合的<br><em>欧洲学校。</em>",
+    "intro": "从国际学校与寄宿教育，到下一阶段的升学规划。修印先生与 LEP 帮您把学校选择、申请沟通和当地生活安排一起考虑，在卢森堡、瑞士与荷兰找到适合孩子的方向。",
+    "primary": "了解卢森堡留学",
+    "consult": "联系修印先生",
+    "byline": "修印先生 James Liu · LEP 创始人 · 长期生活、经营于卢森堡",
+    "hero_caption": "修印先生与圣乔治国际学校校长 · LEP 实拍",
+    "anchors": [
+      "卢森堡本土经验",
+      "真实访校与校方交流",
+      "申请与当地安排"
+    ],
+    "visit_kicker": "从现场出发",
+    "visit_title": "一所一所走进去，<br>才能把选择讲清楚。",
+    "visit_intro": "与校长和学校所有者深入交流，走进课堂、宿舍和校园生活。这里展示的是 LEP 实际访校的记录，以及由此展开的选校分析。",
+    "visit_all": "查看更多访校记录",
+    "photo_label": "LEP 访校实拍",
+    "featured": {
+      "country": "瑞士 · 波朗特吕",
+      "title": "圣查尔斯：走进校园，也与学校所有者深入交流",
+      "text": "从课程路径到住宿与活动设施，结合实地观察，判断这所学校是否适合您的孩子。",
+      "caption": "修印先生与圣查尔斯学校所有者（owner）",
+      "link": "阅读圣查尔斯学校详解"
+    },
+    "visits": [
+      {
+        "country": "卢森堡",
+        "title": "OTR 国际学校",
+        "text": "课堂、小班氛围与英法双语选择",
+        "alt": "LEP 访校实拍：OTR 国际学校的教室"
+      },
+      {
+        "country": "荷兰",
+        "title": "Eerde 艾登国际寄宿学校",
+        "text": "古堡校园与真实的寄宿生活",
+        "alt": "LEP 访校实拍：Eerde 古堡校园正面"
+      },
+      {
+        "country": "瑞士",
+        "title": "Chantemerle 圣德美拉",
+        "text": "小规模校园、住宿与升学路径",
+        "alt": "LEP 访校实拍：Chantemerle 校园眺望日内瓦湖"
+      },
+      {
+        "country": "瑞士",
+        "title": "TASIS 瑞士美国学校",
+        "text": "实地访校，了解 IB 与 AP 路线",
+        "alt": "修印先生在 TASIS 实地访校时与校方合影"
+      }
+    ],
+    "destination_kicker": "从家庭需要开始",
+    "destination_title": "三个目的地，各有适合的方向。",
+    "destination_intro": "父母是否同行、孩子的学习阶段、语言和预算，会影响学校与住宿的选择。",
+    "destinations": [
+      {
+        "slug": "luxembourg",
+        "name": "卢森堡",
+        "label": "LEP 的本土根基",
+        "text": "适合计划在卢森堡生活的家庭，也为考虑让孩子独自就读的家庭评估学校、寄宿家庭与当地安排。",
+        "links": [
+          {
+            "text": "比较 ISL、圣乔治与 OTR",
+            "slug": "luxembourg-international-schools"
+          },
+          {
+            "text": "父母不在当地，怎样安排？",
+            "slug": "study-without-parents"
+          }
+        ],
+        "action": "了解卢森堡学校与服务"
+      },
+      {
+        "slug": "switzerland",
+        "name": "瑞士",
+        "label": "国际学校与寄宿教育",
+        "text": "从低龄、小学到初高中，结合课程、寄宿条件与孩子的独立能力选校；升学阶段另有酒店管理本科与研究生方向。",
+        "links": [
+          {
+            "text": "Saint-Charles 圣查尔斯",
+            "slug": "saint-charles-switzerland-boarding-school"
+          },
+          {
+            "text": "Chantemerle 与升学路线",
+            "slug": "chantemerle-switzerland-a-level-boarding-school"
+          }
+        ],
+        "action": "了解瑞士留学方向"
+      },
+      {
+        "slug": "netherlands",
+        "name": "荷兰",
+        "label": "英文课程与全寄宿",
+        "text": "以 Eerde 艾登国际寄宿学校为重点，适合父母不同行、希望了解英文国际教育与校园寄宿生活的家庭。",
+        "links": [
+          {
+            "text": "Eerde 访校与校园生活",
+            "slug": "eerde-boarding-school-visit"
+          },
+          {
+            "text": "学费与寄宿费用",
+            "slug": "eerde-boarding-school-fees"
+          }
+        ],
+        "action": "了解荷兰寄宿学校"
+      }
+    ],
+    "why_kicker": "为什么选择 LEP",
+    "why_title": "学校之外，<br>还有一整个家庭的安排。",
+    "why_intro": "我长期在卢森堡生活、经营企业，也是一名家长。选学校时，我会把课堂、住宿、孩子的适应，以及下一阶段的方向放在一起看。",
+    "signature": "修印先生 · James Liu",
+    "why_link": "了解 LEP 如何帮助家庭",
+    "why": [
+      {
+        "title": "把学校看具体",
+        "text": "通过反复访校和校方交流，比较课程、管理方式、住宿与校园生活，再结合孩子的语言和学习情况判断适配。"
+      },
+      {
+        "title": "让沟通进入具体安排",
+        "text": "与长期保持联系的校长、学校所有者直接沟通，把孩子的情况讲清楚，推进评估、材料与申请时间安排。"
+      },
+      {
+        "title": "把录取与生活接起来",
+        "text": "在卢森堡协调学校、家庭与寄宿家庭；瑞士和荷兰的寄宿直接对接校方，同时衔接申请、签证材料与抵达准备。"
+      },
+      {
+        "title": "为下一步保留方向",
+        "text": "把 IB、A Level 等课程选择与目标大学、国家和家庭预算一起讨论。每季度组织访校，帮助家庭进一步了解学校。"
+      }
+    ],
+    "case_kicker": "一个真实家庭的经历 · 卢森堡",
+    "case_title": "从急需插班，<br>到孩子真正开始上课。",
+    "case_intro": "父母无法长期陪伴，孩子需要开学后的特殊短期插班。LEP 协调校长沟通、到校试读，并将家庭自行找到的寄宿家庭与学校要求衔接起来。",
+    "case_steps": [
+      {
+        "date": "2026.09.07",
+        "title": "正式受托启动",
+        "text": "直接联系校长，讨论年级与试读安排。"
+      },
+      {
+        "date": "2026.09.14",
+        "title": "收到正式录取",
+        "text": "校方完成评估，相关家庭文件落实。"
+      },
+      {
+        "date": "2026.09.16",
+        "title": "孩子开始上课",
+        "text": "开课前陪寄宿家庭到校沟通。"
+      }
+    ],
+    "case_note": "从付费启动到开课相隔 9 天。这是欧盟内部家庭的个案，不包含境外签证办理时间；具体过程见完整记录。",
+    "case_link": "阅读案例与家长来信",
+    "case_quote": "最终找到合适的学校，是我们能够真正落实孩子此次卢森堡停留计划的关键。",
+    "case_quote_source": "家长德语感谢邮件节选 · 中文译文",
+    "case_evidence": "家长原邮件正文截图 · 已脱敏，点击放大",
+    "case_alt": "家长的德语感谢信原邮件正文截图，私人信息已遮盖",
+    "questions_kicker": "家长的决策指南",
+    "questions_title": "从您正在考虑的问题开始。",
+    "questions_all": "查看全部指南",
+    "questions": [
+      {
+        "title": "英语一般、不会法语，能读国际学校吗？",
+        "text": "先看英文课程的入学评估、语言支持，以及孩子的适应准备。"
+      },
+      {
+        "title": "父母不去，孩子的学校和生活怎么安排？",
+        "text": "学校申请、寄宿家庭与当地生活需要一起落实。"
+      },
+      {
+        "title": "一年要准备多少预算？",
+        "text": "分开看学费、住宿和其他必要支出，比较家庭的实际总成本。"
+      },
+      {
+        "title": "什么时候申请？开学后还能插班吗？",
+        "text": "理解学校名额、评估安排与课程衔接，提前规划申请时间。"
+      },
+      {
+        "title": "IB 还是 A Level，怎样考虑大学方向？",
+        "text": "结合擅长的学科、课程负担和目标大学要求作选择。"
+      },
+      {
+        "title": "已经找到学校，为什么还需要 LEP？",
+        "text": "看清选校判断、校方沟通和欧洲本地执行能为家庭做什么。"
+      }
+    ],
+    "contact_kicker": "下一步，聊聊孩子的情况",
+    "contact_title": "先把方向谈清楚，<br>再推进学校申请。",
+    "contact_intro": "不必先选好学校。把以下情况告诉我们，我们可以从适合的国家、学校与住宿方向开始讨论。",
+    "contact_items": [
+      "年龄与目前年级",
+      "英语及其他语言情况",
+      "父母是否同行",
+      "年度总预算",
+      "预计入学时间"
+    ],
+    "contact_name": "直接联系修印先生",
+    "contact_languages": "可用中文、英语或法语沟通。",
+    "contact_scope": "根据具体项目说明工作范围与收费，再由家庭决定是否委托。",
+    "email_label": "邮件咨询",
+    "copy": "复制微信号",
+    "copied": "微信号已复制",
+    "copy_failed": "请长按或选中微信号复制",
+    "whatsapp": "WhatsApp 咨询",
+    "qr_caption": "扫码打开 WhatsApp 对话",
+    "mobile_label": "欧洲学校 · LEP"
+  },
+  "en": {
+    "eyebrow": "LUX EDUCATION PARTNERS · LUXEMBOURG",
+    "heading": "Rooted in Luxembourg.<br><em>The right school<br>for your child.</em>",
+    "intro": "International schools, boarding life and the next stage of education. James Liu and LEP bring school selection, applications and local arrangements together for families considering Luxembourg, Switzerland and the Netherlands.",
+    "primary": "Explore Luxembourg",
+    "consult": "Speak with James Liu",
+    "byline": "James Liu · Founder of LEP · Living and working in Luxembourg",
+    "hero_caption": "James Liu with the Head of St George’s International School · LEP photograph",
+    "anchors": [
+      "Based in Luxembourg",
+      "First-hand school visits",
+      "Applications and local arrangements"
+    ],
+    "visit_kicker": "First-hand perspectives",
+    "visit_title": "To understand a school,<br>we go inside.",
+    "visit_intro": "Conversations with heads and school owners, time in classrooms and a close look at boarding life. These are our own visits, with practical guidance to help families make a choice.",
+    "visit_all": "More school visits",
+    "photo_label": "Photographed on a LEP visit",
+    "featured": {
+      "country": "Switzerland · Porrentruy",
+      "title": "Saint-Charles, through a campus visit and a conversation with its owner",
+      "text": "Explore the curriculum, accommodation and activities through our first-hand observations, and consider how they fit your child.",
+      "caption": "James Liu with the owner of Saint-Charles",
+      "link": "Explore Saint-Charles"
+    },
+    "visits": [
+      {
+        "country": "Luxembourg",
+        "title": "OTR International School",
+        "text": "Classrooms, small-school atmosphere and bilingual choices",
+        "alt": "A classroom at OTR International School photographed during a LEP visit"
+      },
+      {
+        "country": "Netherlands",
+        "title": "Eerde International Boarding School",
+        "text": "A historic campus and everyday boarding life",
+        "alt": "The front of Eerde’s castle photographed during a LEP visit"
+      },
+      {
+        "country": "Switzerland",
+        "title": "Chantemerle",
+        "text": "A small school, boarding life and academic pathways",
+        "alt": "The view of Lake Geneva from Chantemerle photographed during a LEP visit"
+      },
+      {
+        "country": "Switzerland",
+        "title": "TASIS The American School in Switzerland",
+        "text": "Our visit and a closer look at IB and AP pathways",
+        "alt": "James Liu meeting the school during a visit to TASIS"
+      }
+    ],
+    "destination_kicker": "Start with your family",
+    "destination_title": "Three destinations. Different possibilities.",
+    "destination_intro": "Where parents will live, the student’s age, languages and budget all shape the choice of school and accommodation.",
+    "destinations": [
+      {
+        "slug": "luxembourg",
+        "name": "Luxembourg",
+        "label": "Our home base",
+        "text": "For families living in or moving to Luxembourg, and those exploring a school place with a host family while parents remain abroad.",
+        "links": [
+          {
+            "text": "Compare ISL, St George’s and OTR",
+            "slug": "luxembourg-international-schools"
+          },
+          {
+            "text": "Studying without parents locally",
+            "slug": "study-without-parents"
+          }
+        ],
+        "action": "Explore schools and local support"
+      },
+      {
+        "slug": "switzerland",
+        "name": "Switzerland",
+        "label": "International schools & boarding",
+        "text": "School choices from early years to upper secondary, based on curriculum and boarding needs. Separate routes cover undergraduate and postgraduate hospitality studies.",
+        "links": [
+          {
+            "text": "Discover Saint-Charles",
+            "slug": "saint-charles-switzerland-boarding-school"
+          },
+          {
+            "text": "Chantemerle and its pathways",
+            "slug": "chantemerle-switzerland-a-level-boarding-school"
+          }
+        ],
+        "action": "Explore Swiss education"
+      },
+      {
+        "slug": "netherlands",
+        "name": "Netherlands",
+        "label": "English-medium boarding education",
+        "text": "A focus on Eerde International Boarding School for families considering English-medium international education and boarding while parents live elsewhere.",
+        "links": [
+          {
+            "text": "Our Eerde visit and school life",
+            "slug": "eerde-boarding-school-visit"
+          },
+          {
+            "text": "Tuition and boarding costs",
+            "slug": "eerde-boarding-school-fees"
+          }
+        ],
+        "action": "Explore boarding in the Netherlands"
+      }
+    ],
+    "why_kicker": "Why families choose LEP",
+    "why_title": "A school decision.<br>A whole family to consider.",
+    "why_intro": "I live and run businesses in Luxembourg, and I am a parent myself. I consider the classroom, daily life, how a child will settle in and what comes next as parts of the same decision.",
+    "signature": "James Liu · Founder of LEP",
+    "why_link": "How LEP supports your family",
+    "why": [
+      {
+        "title": "Get to know the school",
+        "text": "Repeated visits and direct conversations help us compare teaching, school culture, accommodation and everyday life against your child’s needs."
+      },
+      {
+        "title": "Turn conversations into practical next steps",
+        "text": "With heads and owners we stay in contact with, we can discuss the student’s circumstances directly and coordinate assessments, documents and application timing."
+      },
+      {
+        "title": "Connect admission with daily life",
+        "text": "We coordinate with schools, parents and host families in Luxembourg, and boarding schools in Switzerland and the Netherlands. This includes school and accommodation documents for the applicable visa process, alongside arrival preparation."
+      },
+      {
+        "title": "Keep the next stage in view",
+        "text": "We consider IB, A Level and other routes alongside future university plans and the family budget. We organise school visits each quarter so families can explore further."
+      }
+    ],
+    "case_kicker": "A family’s experience · Luxembourg",
+    "case_title": "From an urgent school search<br>to the first day in class.",
+    "case_intro": "A student needed a special short-term placement after term had started, with parents unable to stay locally. LEP coordinated school discussions and a trial visit, then aligned the family’s existing host-family arrangement with the school’s requirements.",
+    "case_steps": [
+      {
+        "date": "7 SEP 2026",
+        "title": "The work begins",
+        "text": "Direct contact with the Head to discuss year placement and a trial visit."
+      },
+      {
+        "date": "14 SEP 2026",
+        "title": "A formal offer",
+        "text": "School assessment completed and family documents put in place."
+      },
+      {
+        "date": "16 SEP 2026",
+        "title": "The first day of class",
+        "text": "A school meeting with the host family took place before the start."
+      }
+    ],
+    "case_note": "Nine days from paid engagement to the start of classes, in a case involving a family within the EU. This did not include an overseas visa process; the full account explains the circumstances.",
+    "case_link": "Read the case and parent’s letter",
+    "case_quote": "Finding a suitable school place was the decisive step that allowed us to make the stay in Luxembourg happen.",
+    "case_quote_source": "Excerpt from a parent’s email, translated from German",
+    "case_evidence": "Original email body · Personal details redacted · Open to enlarge",
+    "case_alt": "The original German thank-you email with private information redacted",
+    "questions_kicker": "Decisions that matter",
+    "questions_title": "Start with the question on your mind.",
+    "questions_all": "All decision guides",
+    "questions": [
+      {
+        "title": "What if my child’s English is still developing?",
+        "text": "Explore entry assessments, language support and preparation for an English-medium school."
+      },
+      {
+        "title": "Can a child study here while parents live abroad?",
+        "text": "School admission, host-family arrangements and daily support need to be considered together."
+      },
+      {
+        "title": "What should we budget for a full year?",
+        "text": "Consider tuition, accommodation and other necessary expenses as a complete family budget."
+      },
+      {
+        "title": "When should we apply? Is a mid-year move possible?",
+        "text": "Understand availability, assessment timing and how the student’s courses will fit."
+      },
+      {
+        "title": "IB or A Level for the next stage?",
+        "text": "Match subject strengths and workload with future university requirements."
+      },
+      {
+        "title": "Why work with LEP if we have found a school?",
+        "text": "See how school judgment, direct communication and local follow-through help families."
+      }
+    ],
+    "contact_kicker": "Your next step",
+    "contact_title": "Let’s find a direction<br>that fits your child.",
+    "contact_intro": "You do not need a school shortlist to start. Share a little about your family, and we can discuss suitable destinations, schools and living arrangements.",
+    "contact_items": [
+      "Age and current year group",
+      "English and other languages",
+      "Where parents will live",
+      "Total annual budget",
+      "Intended start date"
+    ],
+    "contact_name": "Speak directly with James Liu",
+    "contact_languages": "We can talk in English, French or Chinese.",
+    "contact_scope": "We explain the scope and fees for your project before you decide to engage us.",
+    "email_label": "Email James Liu",
+    "whatsapp": "Chat on WhatsApp",
+    "qr_caption": "Scan to open a WhatsApp conversation",
+    "mobile_label": "European education · LEP"
+  },
+  "fr": {
+    "eyebrow": "LUX EDUCATION PARTNERS · LUXEMBOURG",
+    "heading": "Ancrés au Luxembourg.<br><em>Une école adaptée<br>à votre enfant.</em>",
+    "intro": "Écoles internationales, internat et poursuite d’études. James Liu et LEP accompagnent les familles dans le choix d’une école, les candidatures et l’organisation de la vie sur place, au Luxembourg, en Suisse et aux Pays-Bas.",
+    "primary": "Découvrir le Luxembourg",
+    "consult": "Échanger avec James Liu",
+    "byline": "James Liu · Fondateur de LEP · Installé et entrepreneur au Luxembourg",
+    "hero_caption": "James Liu avec la directrice de St George’s International School · Photo LEP",
+    "anchors": [
+      "Ancrés au Luxembourg",
+      "Visites et échanges sur place",
+      "Candidatures et vie locale"
+    ],
+    "visit_kicker": "L’expérience du terrain",
+    "visit_title": "Pour comprendre une école,<br>nous allons à sa rencontre.",
+    "visit_intro": "Échanges avec les directions et les propriétaires, visites des classes et découverte de la vie en internat. Nos visites nourrissent des analyses concrètes pour éclairer votre choix.",
+    "visit_all": "Voir nos visites d’écoles",
+    "photo_label": "Photo prise lors d’une visite LEP",
+    "featured": {
+      "country": "Suisse · Porrentruy",
+      "title": "Saint-Charles, à travers une visite du campus et un échange avec son propriétaire",
+      "text": "Cursus, hébergement et activités : nos observations sur place vous aident à apprécier leur adéquation avec votre enfant.",
+      "caption": "James Liu avec le propriétaire de Saint-Charles",
+      "link": "Découvrir Saint-Charles"
+    },
+    "visits": [
+      {
+        "country": "Luxembourg",
+        "title": "OTR International School",
+        "text": "Les classes, l’ambiance et le choix bilingue",
+        "alt": "Une salle de classe d’OTR photographiée lors d’une visite LEP"
+      },
+      {
+        "country": "Pays-Bas",
+        "title": "Eerde International Boarding School",
+        "text": "Un campus historique et la vie en internat",
+        "alt": "La façade du château d’Eerde photographiée lors d’une visite LEP"
+      },
+      {
+        "country": "Suisse",
+        "title": "Chantemerle",
+        "text": "Une petite école, l’internat et les parcours scolaires",
+        "alt": "Vue du lac Léman depuis Chantemerle lors d’une visite LEP"
+      },
+      {
+        "country": "Suisse",
+        "title": "TASIS The American School in Switzerland",
+        "text": "Notre visite et les parcours IB et AP",
+        "alt": "James Liu avec une représentante de l’école lors de sa visite à TASIS"
+      }
+    ],
+    "destination_kicker": "Partir de votre situation",
+    "destination_title": "Trois destinations, des possibilités différentes.",
+    "destination_intro": "Le lieu de résidence des parents, l’âge de l’enfant, ses langues et votre budget orientent le choix de l’école et de l’hébergement.",
+    "destinations": [
+      {
+        "slug": "luxembourg",
+        "name": "Luxembourg",
+        "label": "Notre ancrage local",
+        "text": "Pour les familles installées ou arrivant au Luxembourg, et celles qui envisagent une scolarité avec une famille d’accueil tandis que les parents restent à l’étranger.",
+        "links": [
+          {
+            "text": "Comparer ISL, St George’s et OTR",
+            "slug": "luxembourg-international-schools"
+          },
+          {
+            "text": "Étudier sans ses parents sur place",
+            "slug": "study-without-parents"
+          }
+        ],
+        "action": "Découvrir les écoles et nos services"
+      },
+      {
+        "slug": "switzerland",
+        "name": "Suisse",
+        "label": "Écoles internationales et internats",
+        "text": "Du plus jeune âge au secondaire, choisir selon le cursus et les besoins d’hébergement. Des parcours distincts concernent aussi le bachelor et les études postgrades en management hôtelier.",
+        "links": [
+          {
+            "text": "Découvrir Saint-Charles",
+            "slug": "saint-charles-switzerland-boarding-school"
+          },
+          {
+            "text": "Chantemerle et ses parcours",
+            "slug": "chantemerle-switzerland-a-level-boarding-school"
+          }
+        ],
+        "action": "Explorer les études en Suisse"
+      },
+      {
+        "slug": "netherlands",
+        "name": "Pays-Bas",
+        "label": "Enseignement en anglais et internat",
+        "text": "Avec Eerde International Boarding School, explorer l’enseignement international en anglais et la vie en internat lorsque les parents résident dans un autre pays.",
+        "links": [
+          {
+            "text": "Notre visite d’Eerde et la vie scolaire",
+            "slug": "eerde-boarding-school-visit"
+          },
+          {
+            "text": "Frais de scolarité et d’internat",
+            "slug": "eerde-boarding-school-fees"
+          }
+        ],
+        "action": "Explorer l’internat aux Pays-Bas"
+      }
+    ],
+    "why_kicker": "Pourquoi choisir LEP",
+    "why_title": "Une école à choisir.<br>Toute une famille à prendre en compte.",
+    "why_intro": "Je vis et dirige des entreprises au Luxembourg, et je suis moi-même parent. Les cours, la vie quotidienne, l’adaptation de l’enfant et la suite de ses études font partie d’une même réflexion.",
+    "signature": "James Liu · Fondateur de LEP",
+    "why_link": "Comment LEP accompagne votre famille",
+    "why": [
+      {
+        "title": "Connaître concrètement les écoles",
+        "text": "Les visites régulières et les échanges directs permettent de comparer l’enseignement, le fonctionnement, l’hébergement et la vie quotidienne avec les besoins de votre enfant."
+      },
+      {
+        "title": "Faire avancer les démarches",
+        "text": "Avec les directions et propriétaires que nous connaissons, nous échangeons directement sur la situation de l’élève et coordonnons les évaluations, les pièces du dossier et le calendrier."
+      },
+      {
+        "title": "Relier l’admission à la vie sur place",
+        "text": "Au Luxembourg, nous coordonnons écoles, parents et familles d’accueil ; en Suisse et aux Pays-Bas, l’internat avec l’école. Nous accompagnons aussi la préparation des documents scolaires et d’hébergement pour le visa applicable et l’arrivée."
+      },
+      {
+        "title": "Garder la suite des études en vue",
+        "text": "Nous réfléchissons aux parcours IB, A Level et autres cursus selon les projets universitaires et le budget familial. Des visites d’écoles sont organisées chaque trimestre."
+      }
+    ],
+    "case_kicker": "L’expérience d’une famille · Luxembourg",
+    "case_title": "D’une recherche urgente<br>au premier jour de classe.",
+    "case_intro": "Un élève avait besoin d’une scolarisation temporaire après la rentrée, sans présence durable de ses parents. LEP a coordonné les échanges avec l’école et l’essai en classe, puis relié la famille d’accueil déjà trouvée par les parents aux exigences de l’établissement.",
+    "case_steps": [
+      {
+        "date": "7 SEPT. 2026",
+        "title": "Début de la mission",
+        "text": "Contact direct avec la direction pour discuter du niveau et de l’essai en classe."
+      },
+      {
+        "date": "14 SEPT. 2026",
+        "title": "Admission officielle",
+        "text": "Évaluation de l’école terminée et documents familiaux réunis."
+      },
+      {
+        "date": "16 SEPT. 2026",
+        "title": "Début des cours",
+        "text": "Une rencontre à l’école avec la famille d’accueil a précédé la rentrée de l’élève."
+      }
+    ],
+    "case_note": "Neuf jours entre le début de la mission rémunérée et les cours, pour une famille au sein de l’UE. Ce délai n’incluait aucune procédure de visa depuis l’étranger ; le récit complet précise le contexte.",
+    "case_link": "Lire le cas et le courrier du parent",
+    "case_quote": "Trouver une école adaptée a été l’étape décisive qui nous a permis de concrétiser le séjour au Luxembourg.",
+    "case_quote_source": "Extrait d’un courriel de parent, traduit de l’allemand",
+    "case_evidence": "Corps du courriel original · Données personnelles masquées · Cliquer pour agrandir",
+    "case_alt": "Courriel de remerciement original en allemand, avec les informations privées masquées",
+    "questions_kicker": "Des guides pour décider",
+    "questions_title": "Commencez par la question qui vous concerne.",
+    "questions_all": "Tous les guides",
+    "questions": [
+      {
+        "title": "Et si l’anglais de mon enfant est encore fragile ?",
+        "text": "Évaluations d’entrée, soutien linguistique et préparation à une scolarité en anglais."
+      },
+      {
+        "title": "Un enfant peut-il étudier ici sans ses parents ?",
+        "text": "Admission, famille d’accueil et organisation quotidienne se préparent ensemble."
+      },
+      {
+        "title": "Quel budget prévoir pour une année complète ?",
+        "text": "Comparer les frais de scolarité, l’hébergement et les autres dépenses nécessaires."
+      },
+      {
+        "title": "Quand candidater ? Peut-on arriver en cours d’année ?",
+        "text": "Places disponibles, calendrier des évaluations et continuité du cursus."
+      },
+      {
+        "title": "IB ou A Level pour la suite des études ?",
+        "text": "Relier les matières fortes de l’élève et sa charge de travail aux exigences universitaires."
+      },
+      {
+        "title": "Pourquoi passer par LEP si l’école est déjà choisie ?",
+        "text": "Comprendre la valeur du conseil, des échanges avec l’école et du suivi local."
+      }
+    ],
+    "contact_kicker": "La prochaine étape",
+    "contact_title": "Parlons d’un parcours<br>adapté à votre enfant.",
+    "contact_intro": "Vous n’avez pas besoin d’avoir déjà choisi une école. Présentez-nous votre situation pour aborder les destinations, établissements et solutions d’hébergement possibles.",
+    "contact_items": [
+      "Âge et classe actuelle",
+      "Anglais et autres langues",
+      "Lieu de résidence des parents",
+      "Budget annuel total",
+      "Date d’entrée souhaitée"
+    ],
+    "contact_name": "Échangez directement avec James Liu",
+    "contact_languages": "En français, en anglais ou en chinois.",
+    "contact_scope": "Le périmètre et les honoraires sont précisés avant votre décision de nous confier le projet.",
+    "email_label": "Écrire à James Liu",
+    "whatsapp": "Échanger sur WhatsApp",
+    "qr_caption": "Scannez pour ouvrir une conversation WhatsApp",
+    "mobile_label": "Études en Europe · LEP"
+  }
+}
