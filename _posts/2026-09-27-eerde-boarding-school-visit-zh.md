@@ -1,4 +1,5 @@
 ---
+last_modified_at: "2026-10-06"
 layout: "node"
 lang: "zh"
 ref: "netherlands-n7"
@@ -30,7 +31,7 @@ has_topic_navigation: true
 <p>据我在2026年与校方交流了解到的情况，学校当时只有5名华人学生。对希望孩子真正走进国际环境的家庭，这一点很有吸引力，孩子日常接触的会是不同文化背景的同学。</p>
 <p>华人同学少，更需要把孩子和家长的实际需求向学校表达清楚。LEP了解中国家庭常关心的学业、语言适应和日常生活问题，也熟悉欧洲学校的沟通方式，可以把双方的需要接起来。</p>
 <figure class="article-photo"><a href="/assets/eerde/eerde-fold-modern-teaching.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-modern-teaching.jpg" width="1600" height="1200" alt="Eerde古堡与现代教学楼同处一座校园。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>Eerde古堡与现代教学楼同处一座校园。LEP实拍。</figcaption></figure><h2>马术、运动与艺术，不是课表之外可有可无的事</h2>
-<p>学校资料介绍了与当地马场De Hazelhorst合作的马术活动，从骑乘课程到赛事参与，为喜欢马术的学生提供了继续发展的空间。</p>
+<p>学校现行马术项目册与官网介绍了Galaxy International Stables、H&H Stables等合作资源，以及学业与训练的协调方向。具体教练、马匹、训练频次与比赛安排，需要结合孩子情况确认。</p>
 <p>校园有体育馆和健身空间，学校介绍这些设施用于课程，也供寄宿学生在空闲时间使用。周围的自然环境，也适合步行、跑步和骑行。</p>
 <p>音乐与艺术同样是这里的一部分。我了解到学校有音乐室；校方资料也介绍了艺术创作空间，学生可以接触绘画、设计和造型等活动。对一个住在学校里的孩子，这些空间让放学后的生活更充实，也给不同兴趣的学生留下位置。</p>
 <p>家长如果已经知道孩子特别喜欢马术、音乐或某项运动，可以直接告诉LEP，我们再与校方确认相应安排和费用。</p>
@@ -43,3 +44,6 @@ has_topic_navigation: true
 <p>我亲自到过Eerde，看过宿舍和教学环境，与校方保持深入沟通。LEP就在欧洲，与荷兰同一时区，距离也近。家长在国内遇到材料、评估或签证准备的问题，我们可以在学校办公时间沟通并跟进，让材料更符合学校的申请要求，把进展向家庭说清楚。我们每季度组织荷兰访校，也可以协助家庭安排实地了解。</p>
 <p>截至2027年9月15日，通过LEP申请Eerde，我们不额外收取申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校学费、寄宿费及政府等第三方收取的费用照常支付。</p>
 <p>联系James Liu，说明孩子的年级、英语情况和计划入学时间。我们先判断学校是否适合，再一起推进申请。</p><section class="eerde-contact" id="eerde-contact"><h2>联系修印先生，讨论孩子的申请与访校</h2><p>告诉我们孩子的年龄、年级、英语情况和计划入学时间。</p><p><a href="mailto:jamesliu@luxedupartners.lu">直接邮件联系James Liu</a> · <span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/apply-to-eerde-with-lep/">了解LEP如何协助申请 →</a></p></section><nav class="related" aria-label="继续了解荷兰留学"><h2>继续了解荷兰留学</h2><ul><li><a href="/zh/insights/netherlands-international-schools/">荷兰英文国际学校怎么选？父母不陪读，重点看什么</a></li><li><a href="/zh/insights/netherlands-boarding-without-parents/">父母不去荷兰，孩子能读哪些英文寄宿学校？</a></li><li><a href="/zh/insights/netherlands-international-school-english/">会英语、不会荷兰语，可以去荷兰读国际高中吗？</a></li><li><a href="/zh/insights/eerde-boarding-school-fees/">荷兰寄宿高中一年多少钱？以Eerde的学费和住宿费用为例</a></li><li><a href="/zh/insights/netherlands-boarding-school-application/">中国学生怎样申请荷兰寄宿高中？先看这几个条件</a></li><li><a href="/zh/insights/netherlands-ib-university-pathways/">在荷兰读IB高中，可以申请荷兰、瑞士、英国和美国哪些大学方向？</a></li></ul></nav>
+
+
+<section class="related" id="equestrian-guides"><h2>马术与中学教育专题</h2><p>孩子已经在练马术，希望出国后继续？从兴趣、持续训练、课程与全年预算开始判断。</p><ul><li><a href="/zh/insights/equestrian-boarding-schools-europe/">孩子学马术，去荷兰还是瑞士读寄宿中学？先看这三种需求</a></li><li><a href="/zh/insights/eerde-equestrian-ib-boarding/">荷兰Eerde马术留学：怎样兼顾英文IB、寄宿与持续训练？</a></li><li><a href="/zh/insights/saint-charles-horse-riding-boarding/">瑞士Saint-Charles圣查尔斯：读IB的同时，怎样继续练马术？</a></li><li><a href="/zh/insights/equestrian-boarding-school-costs/">欧洲马术寄宿留学一年多少钱？Eerde与圣查尔斯的预算怎样算</a></li><li><a href="/zh/insights/equestrian-training-ib-university/">孩子练马术还能读IB、申请大学吗？先把训练和学业放进同一张日历</a></li></ul></section>

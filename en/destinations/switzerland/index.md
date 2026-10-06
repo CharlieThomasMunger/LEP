@@ -73,3 +73,6 @@ Share your child’s age, current year group, language skills, family budget and
 [SEG fees and scholarships: comparing four schools and planning the family budget](/en/insights/seg-fees-scholarships/)
 
 [IMI or SEG’s schools? Comparing hospitality, business, culinary training and budgets](/en/insights/imi-vs-seg-schools/)
+
+
+<section class="related" id="equestrian-guides"><h2>Equestrian education guides</h2><p>Already riding and planning education abroad? Start with the training goal, academic route and full annual budget.</p><ul><li><a href="/en/insights/equestrian-boarding-schools-europe/">Equestrian boarding schools in Europe: Eerde or Saint-Charles for your child?</a></li><li><a href="/en/insights/eerde-equestrian-ib-boarding/">Eerde: combining equestrian training with the IB and boarding in the Netherlands</a></li><li><a href="/en/insights/saint-charles-horse-riding-boarding/">Saint-Charles: continuing horse riding alongside the IB and Swiss boarding life</a></li><li><a href="/en/insights/equestrian-boarding-school-costs/">How much does equestrian boarding education cost? Eerde and Saint-Charles explained</a></li><li><a href="/en/insights/equestrian-training-ib-university/">Can a young rider study the IB and prepare for university?</a></li></ul></section>

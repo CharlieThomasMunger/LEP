@@ -73,3 +73,6 @@ Indiquez-nous l’âge de votre enfant, sa classe actuelle, ses compétences lin
 [Frais et bourses du SEG : comparer les quatre écoles et préparer le budget familial](/fr/insights/seg-fees-scholarships/)
 
 [IMI ou les écoles du SEG ? Comparer hôtellerie, gestion, cuisine et budgets](/fr/insights/imi-vs-seg-schools/)
+
+
+<section class="related" id="equestrian-guides"><h2>Guides études et équitation</h2><p>Votre enfant monte déjà et envisage une scolarité à l’étranger ? Commencez par ses objectifs, le cursus et le budget annuel.</p><ul><li><a href="/fr/insights/equestrian-boarding-schools-europe/">Équitation et internat en Europe : Eerde ou Saint-Charles pour votre enfant ?</a></li><li><a href="/fr/insights/eerde-equestrian-ib-boarding/">Eerde : poursuivre l’équitation tout en préparant l’IB en internat aux Pays-Bas</a></li><li><a href="/fr/insights/saint-charles-horse-riding-boarding/">Saint-Charles : poursuivre l’équitation avec l’IB et la vie en internat suisse</a></li><li><a href="/fr/insights/equestrian-boarding-school-costs/">Quel budget pour un internat avec équitation ? Eerde et Saint-Charles en détail</a></li><li><a href="/fr/insights/equestrian-training-ib-university/">Équitation, diplôme de l’IB et université : comment préserver les possibilités ?</a></li></ul></section>
