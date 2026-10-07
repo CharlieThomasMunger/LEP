@@ -7,13 +7,15 @@ image: "/assets/swiss/tasis-visit-admissions.jpg"
 lang: "en"
 permalink: "/en/insights/tasis-switzerland-ib-ap-boarding-school/"
 title: "Is TASIS Switzerland right for your child? IB, AP, boarding and 2026/27 fees"
-description: "James Liu has visited TASIS Switzerland. Compare its IB and AP pathways, boarding entry, language support and 2026/27 costs with Europe-based guidance from LEP."
+description: "2026/27 TASIS Switzerland fees, first-year extras, IB and AP courses, boarding ages and holiday arrangements, with LEP’s firsthand school-visit guidance."
 date: "2026-09-29"
 school_article: true
 custom_lep_support: true
 translated: true
 answer: "TASIS is worth considering for families seeking an American education in Switzerland with IB and AP options and international university ambitions. Near Lugano, it offers boarding from Grade 6 through Postgraduate. Tuition and boarding for 2026/27 are CHF 106,500, with additional first-year charges. Academic readiness, language provision and holiday arrangements matter as much as the campus."
 faq: [{"q": "Is this TASIS campus in Switzerland or the United States?", "a": "This guide covers The American School in Switzerland in Montagnola, near Lugano, in Italian-speaking Switzerland. The American name describes its educational background."}, {"q": "Does a student need French or German?", "a": "Assess the actual grade and programme. TASIS publishes bilingual English–Italian instruction for Grades 1–9 and English as the main language for Grades 10–12, with EAL provision."}, {"q": "Can a child board while parents live abroad?", "a": "Boarding is offered from Grade 6 through Postgraduate, including ordinary weekends. Dormitories close during extended holidays and major Academic Travel sessions, so families need an agreed plan for those periods and applicable immigration formalities."}, {"q": "Is CHF 106,500 the complete first-year cost?", "a": "No. New students should also budget for the CHF 1,250 application fee, CHF 5,000 Campus Enhancement Fund and separate CHF 3,000 deposit, plus applicable extras, travel and personal spending."}]
+seo_title: "TASIS Switzerland: 2026/27 Fees, IB, AP & Boarding"
+last_modified_at: "2026-10-07"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/tasis-visit-admissions.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/tasis-visit-admissions.jpg" alt="James Liu visiting TASIS with an admissions representative · LEP photograph." width="1600" height="900" loading="eager" decoding="async"></a><figcaption>James Liu visiting TASIS with an admissions representative · LEP photograph.</figcaption></figure><h2 id="section-1">Why consider TASIS in a Swiss school search?</h2>

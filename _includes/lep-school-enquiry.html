@@ -1,0 +1,13 @@
+<div class="lep-school-enquiry">
+  {% case page.lang %}
+  {% when 'zh' %}
+  <p><strong>想知道这条路是否适合您的孩子？</strong> LEP扎根卢森堡，把学校申请、语言准备和寄宿家庭安排放在一起评估。</p>
+  <a href="#{{ page.enquiry_target }}">告诉我们孩子的年级、语言和入学计划 →</a>
+  {% when 'fr' %}
+  <p><strong>Ce parcours conviendrait-il à votre enfant ?</strong> Basé au Luxembourg, LEP coordonne le choix de l’école, la préparation linguistique et les besoins éventuels en famille d’accueil.</p>
+  <a href="#{{ page.enquiry_target }}">Parlez-nous de sa classe, de ses langues et de la rentrée souhaitée →</a>
+  {% else %}
+  <p><strong>Would this route suit your child?</strong> Based in Luxembourg, LEP considers the school application, language preparation and any host-family needs together.</p>
+  <a href="#{{ page.enquiry_target }}">Tell us the current grade, languages and intended start date →</a>
+  {% endcase %}
+</div>

@@ -210,3 +210,9 @@ article.node .swiss-contact .contact{display:flex;flex-wrap:wrap;gap:12px 22px}
 article.node .swiss-sources{font-size:13px;line-height:1.8;margin:32px 0;padding-top:20px;border-top:1px solid var(--line);overflow-wrap:anywhere}
 article.node .swiss-sources summary{cursor:pointer}article.node .cite{font-size:11px;margin-left:4px;white-space:nowrap}
 @media(max-width:650px){article.node .swiss-visit-pair{grid-template-columns:1fr}article.node .swiss-visit-pair .article-photo img{height:auto;max-height:480px}article.node .swiss-contact{padding:22px}}
+
+/* Local school consultation, after the opening answer. */
+article.node .lep-school-enquiry{margin:24px 0 30px;padding:18px 22px;border-left:3px solid var(--accent);background:#f1f6f8}
+article.node .lep-school-enquiry p{margin:0 0 8px!important;font-size:14px!important;line-height:1.8}
+article.node .lep-school-enquiry a{font-size:14px;font-weight:600;overflow-wrap:anywhere}
+@media(max-width:540px){article.node .lep-school-enquiry{padding:16px 18px}}

@@ -13,11 +13,15 @@ image: "/assets/fieldwork/otr-james-visit.jpg"
 has_topic_navigation: true
 faq: [{"q": "Faut-il parler français avant de candidater dans une école anglophone ?", "a": "Pas nécessairement. Il faut vérifier la langue d’enseignement et les conditions du cursus et de la classe concernés."}, {"q": "Un débutant en anglais peut-il entrer directement en IB ou en A Levels ?", "a": "Son anglais académique et ses acquis doivent être évalués. Ces cursus ne sont pas des programmes d’anglais pour débutants."}, {"q": "Les trois écoles proposent-elles trois jours d’essai gratuits ?", "a": "Cette disposition a été proposée par St George’s aux élèves accompagnés par LEP. Nous confirmons les dates avec l’école."}]
 translated: true
+enquiry_target: "lux-school-contact"
+last_modified_at: "2026-10-07"
 ---
 
 <h2>Ne pas parler français ne ferme pas la discussion</h2>
 
 <p>Le multilinguisme luxembourgeois peut inquiéter une famille : comment un enfant qui progresse encore en anglais pourrait-il également suivre en français et en allemand ?</p>
+{% include lep-school-enquiry.html %}
+
 
 <p>Les langues d’enseignement d’une école internationale anglophone diffèrent de celles du cursus national luxembourgeois. ISL, St George’s et les parcours anglophones concernés d’OTR méritent d’être étudiés. Pour OTR, nous vérifions aussi la place de l’anglais et du français dans la classe et le parcours visés, sans nous arrêter au mot « bilingue ».</p>
 

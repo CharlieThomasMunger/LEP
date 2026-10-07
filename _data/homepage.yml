@@ -23,7 +23,9 @@
     "luxembourg-international-school-fees",
     "luxembourg-school-application-midyear-entry",
     "luxembourg-ib-a-level-university-pathways",
-    "why-lep"
+    "why-lep",
+    "equestrian-boarding-schools-europe",
+    "imi-internships-careers"
   ],
   "zh": {
     "eyebrow": "LUX EDUCATION PARTNERS · 卢森堡",
@@ -208,6 +210,14 @@
       {
         "title": "已经找到学校，为什么还需要 LEP？",
         "text": "看清选校判断、校方沟通和欧洲本地执行能为家庭做什么。"
+      },
+      {
+        "title": "孩子练马术，怎样兼顾寄宿中学？",
+        "text": "结合Eerde与Saint-Charles，比较训练需求、课程和全年预算。"
+      },
+      {
+        "title": "读IMI以后，实习和就业怎样衔接？",
+        "text": "看清课程中的实习、职业准备，以及LEP在欧洲的本地网络。"
       }
     ],
     "contact_kicker": "下一步，聊聊孩子的情况",
@@ -414,6 +424,14 @@
       {
         "title": "Why work with LEP if we have found a school?",
         "text": "See how school judgment, direct communication and local follow-through help families."
+      },
+      {
+        "title": "Can school and regular riding fit together?",
+        "text": "Explore Eerde and Saint-Charles through training needs, school programmes and the annual budget."
+      },
+      {
+        "title": "How do IMI internships connect with a career?",
+        "text": "Understand course placements, career preparation and LEP’s professional network in Europe."
       }
     ],
     "contact_kicker": "Your next step",
@@ -617,6 +635,14 @@
       {
         "title": "Pourquoi passer par LEP si l’école est déjà choisie ?",
         "text": "Comprendre la valeur du conseil, des échanges avec l’école et du suivi local."
+      },
+      {
+        "title": "Comment concilier internat et équitation ?",
+        "text": "Comparer Eerde et Saint-Charles selon les besoins d’entraînement, le cursus et le budget annuel."
+      },
+      {
+        "title": "Comment les stages à IMI préparent-ils la suite ?",
+        "text": "Comprendre les stages intégrés au cursus, la préparation professionnelle et le réseau européen de LEP."
       }
     ],
     "contact_kicker": "La prochaine étape",

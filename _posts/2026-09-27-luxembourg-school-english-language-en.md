@@ -13,11 +13,15 @@ image: "/assets/fieldwork/otr-james-visit.jpg"
 has_topic_navigation: true
 faq: [{"q": "Is French required before applying to an English-medium school?", "a": "Not necessarily. Check the teaching language and the requirements of the particular course and year group."}, {"q": "Can a beginner in English go straight into the IB Diploma or A Levels?", "a": "Academic English and subject readiness need assessment. These courses should not be treated as beginner language programmes."}, {"q": "Do all three schools offer a free three-day trial?", "a": "This is an arrangement St George’s has offered students working with LEP. We confirm the dates with the school."}]
 translated: true
+enquiry_target: "lux-school-contact"
+last_modified_at: "2026-10-07"
 ---
 
 <h2>Not speaking French need not end the conversation</h2>
 
 <p>Luxembourg’s multilingual setting can sound daunting. A family may wonder how a child still developing English could also cope with French and German.</p>
+{% include lep-school-enquiry.html %}
+
 
 <p>The language arrangements of an English-medium international school differ from Luxembourg’s national curriculum. ISL, St George’s and the relevant English-medium pathways at OTR are worth exploring. At OTR, we also check how English and French are used in the particular year and pathway, rather than drawing conclusions from the word “bilingual”.</p>
 

@@ -7,10 +7,12 @@ cluster: "luxembourg-school"
 title: "OTR International School Luxembourg: a smaller bilingual school with IB and A Level options"
 date: "2026-09-26"
 reviewed: "2026-09-26"
-description: "OTR feels small, friendly and approachable. Its English–French environment and the individual attention I observed are distinctive strengths. Its compact city campus is also a real difference families should understand."
+description: "English–French teaching, IB and A Level options, language support and LEP’s school-visit observations: assess whether OTR in Luxembourg suits your child."
 image: "/assets/fieldwork/otr-james-visit.jpg"
 lep_service_page: false
 translated: true
+seo_title: "OTR International School Luxembourg: IB, A Level & Languages"
+last_modified_at: "2026-10-07"
 ---
 
 <p class="lead">OTR feels small, friendly and approachable. Its English–French environment and the individual attention I observed are distinctive strengths. Its compact city campus is also a real difference families should understand.</p>

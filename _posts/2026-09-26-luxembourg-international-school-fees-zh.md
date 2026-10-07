@@ -10,9 +10,13 @@ reviewed: "2026-09-26"
 description: "按 2026–2027 学年公布费用，三校每名学生的年度学校费用约为 €12,780–€24,226，具体取决于学校和年级。下面把学费与年度必缴基金合并列出，再单独说明新生费用，方便家庭直接比较。"
 image: "/assets/fieldwork/otr-james-visit.jpg"
 lep_service_page: false
+enquiry_target: "contact-lep"
+last_modified_at: "2026-10-07"
 ---
 
 <p class="lead">按 2026–2027 学年公布费用，三校每名学生的年度学校费用约为 €12,780–€24,226，具体取决于学校和年级。下面把学费与年度必缴基金合并列出，再单独说明新生费用，方便家庭直接比较。</p>
+{% include lep-school-enquiry.html %}
+
 <h2>先看每年交给学校的费用</h2>
 <p>表内为欧元，合计包含学费及学校列明的年度稳定基金、建设基金；不包含家庭住房、生活和 LEP 服务费。各校年级体系不同，同一行并不代表孩子可以直接对应转入。</p><div class="table-wrap"><table><thead><tr><th>学校</th><th>学段 / 年级</th><th>年度学校费用</th></tr></thead><tbody><tr><td>ISL</td><td>Foundations–Grade 1</td><td>€20,480</td></tr><tr><td>ISL</td><td>Grade 2–5</td><td>€22,118</td></tr><tr><td>ISL</td><td>Grade 6–8</td><td>€24,005</td></tr><tr><td>ISL</td><td>Grade 9–12</td><td>€24,226</td></tr><tr><td>圣乔治</td><td>Nursery、Reception</td><td>€14,750</td></tr><tr><td>圣乔治</td><td>Year 1–2</td><td>€16,100</td></tr><tr><td>圣乔治</td><td>Year 3–6</td><td>€17,330</td></tr><tr><td>圣乔治</td><td>Year 7–9</td><td>€18,400</td></tr><tr><td>圣乔治</td><td>Year 10–13</td><td>€19,695</td></tr><tr><td>OTR</td><td>Preschool 1–3</td><td>€12,780</td></tr><tr><td>OTR</td><td>G1–G5</td><td>€14,312</td></tr><tr><td>OTR</td><td>G6–G10</td><td>€16,019</td></tr><tr><td>OTR</td><td>G11–G12</td><td>€16,992</td></tr></tbody></table></div>
 <h2>第一年，还要考虑新生费用</h2><div class="table-wrap"><table><thead><tr><th>学校</th><th>一次性、不可退费用</th><th>押金</th></tr></thead><tbody><tr><td>ISL</td><td>申请费 €300 ＋ 注册费 €3,000</td><td>按最终入学账单确认</td></tr><tr><td>圣乔治</td><td>申请费 €750</td><td>€1,000，可退条件按学校约定</td></tr><tr><td>OTR</td><td>注册费 €300</td><td>€450，可退条件按学校约定</td></tr></tbody></table></div>
