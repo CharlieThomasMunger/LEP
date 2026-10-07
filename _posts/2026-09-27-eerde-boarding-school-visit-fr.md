@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-06"
+last_modified_at: "2026-10-07"
 layout: "node"
 lang: "fr"
 ref: "netherlands-n7"
@@ -13,6 +13,8 @@ answer: "Eerde mérite d’être étudié par les familles recherchant une scola
 image: "/assets/eerde/eerde-james-school-sign-lep.jpg"
 school_article: true
 has_topic_navigation: true
+
+school_key: "eerde"
 ---
 
 <aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-james-school-sign-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-james-school-sign-lep.jpg" width="2275" height="1280" alt="James Liu en visite à Eerde International Boarding School. Photo LEP." loading="eager" decoding="async"></a><figcaption>James Liu en visite à Eerde International Boarding School. Photo LEP.</figcaption></figure><h2>Pourquoi je souhaite présenter Eerde aux familles</h2>

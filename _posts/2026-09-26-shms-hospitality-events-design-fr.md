@@ -11,6 +11,10 @@ reviewed: "2026-09-26"
 description: "Découvrez les orientations SHMS en hôtellerie, événementiel et design, les masters et les frais 2027, avec le regard de James Liu et l’accompagnement de LEP."
 image: "/assets/seg/james-shms-partnership.jpg"
 translated: true
+
+school_key: "shms"
+
+last_modified_at: "2026-10-07"
 ---
 
 **Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**

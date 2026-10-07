@@ -42,6 +42,7 @@
 <meta property="og:locale" content="{{ l.locale }}">
 {%- endif -%}{%- endfor %}
 
+{% assign identity = site.data.identity[lang] %}
 {%- comment -%} ---- Organization + Person：全站固定 ---- {%- endcomment -%}
 <script type="application/ld+json">
 {
@@ -52,14 +53,28 @@
   "logo":"{{ '/assets/brand/lep-logo.jpg' | absolute_url }}",
   "url":"{{ site.url }}","identifier":"RCS {{ site.org.rcs }}",
   "address":{"@type":"PostalAddress","addressLocality":"{{ site.org.locality }}","addressCountry":"{{ site.org.country }}"},
+  "description":{{ identity.org | jsonify }},
   "founder":{"@id":"{{ '/#james' | absolute_url }}"}},
  {"@type":"Person","@id":"{{ '/#james' | absolute_url }}",
   "name":"{{ site.author.name }}","alternateName":"{{ site.author.alt_name }}",
   "jobTitle":"{{ site.author.job_title }}","url":"{{ site.author.url | absolute_url }}",
+  "description":{{ identity.summary | jsonify }},
+  "sameAs":["{{ '/authors/james-liu/' | absolute_url }}","{{ '/zh/authors/james-liu/' | absolute_url }}","{{ '/fr/authors/james-liu/' | absolute_url }}"],
   "worksFor":{"@id":"{{ '/#organization' | absolute_url }}"},
   "address":{"@type":"PostalAddress","addressCountry":"LU"}}
  ]}
 </script>
+
+
+{% if page.profile_page %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"ProfilePage","@id":"{{ page.url | absolute_url }}#profile","url":"{{ page.url | absolute_url }}","inLanguage":{{ lang | jsonify }},"name":{{ page.title | jsonify }},"mainEntity":{"@id":"{{ '/#james' | absolute_url }}"}}</script>{% endif %}
+{% if page.service_page %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","@id":"{{ page.url | absolute_url }}#service","name":{{ identity.scope | jsonify }},"description":{{ identity.service | jsonify }},"provider":{"@id":"{{ '/#organization' | absolute_url }}"},"url":"{{ page.url | absolute_url }}","areaServed":[{"@type":"Country","name":"Luxembourg"},{"@type":"Country","name":"Netherlands"},{"@type":"Country","name":"Switzerland"}]}</script>{% endif %}
+{% if page.school_key %}{% assign school = site.data.school_names[page.school_key] %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"EducationalOrganization","@id":"{{ '/en/school-guides/#' | append: page.school_key | absolute_url }}","name":{{ school.name | jsonify }},"alternateName":{{ school.aliases | jsonify }},"address":{"@type":"PostalAddress","addressCountry":{{ school.country | jsonify }}}}</script>{% endif %}
+
+{% if page.school_directory %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":{{ page.title | jsonify }},"itemListElement":[
+{% for entry in site.data.school_names %}{% assign school = entry[1] %}{"@type":"ListItem","position":{{ forloop.index }},"item":{"@type":"EducationalOrganization","@id":"{{ '/en/school-guides/#' | append: entry[0] | absolute_url }}","name":{{ school.name | jsonify }},"alternateName":{{ school.aliases | jsonify }},"address":{"@type":"PostalAddress","addressCountry":{{ school.country | jsonify }}}}}{% unless forloop.last %},{% endunless %}{% endfor %}
+]}</script>{% endif %}
 
 {%- comment -%} ---- Article + FAQ + Breadcrumb：文章页自动生成 ---- {%- endcomment -%}
 {%- if page.ref %}
@@ -77,6 +92,7 @@
   "author":{"@id":"{{ '/#james' | absolute_url }}"},
   "publisher":{"@id":"{{ '/#organization' | absolute_url }}"},
   "mainEntityOfPage":{"@type":"WebPage","@id":"{{ page.url | absolute_url }}"}
+  {% if page.school_key %},"about":{"@id":"{{ '/en/school-guides/#' | append: page.school_key | absolute_url }}"}{% endif %}
   {%- if page.sources %},"citation":[{% for s in page.sources %}{"@type":"CreativeWork","name":{{ s.name | jsonify }},"url":{{ s.url | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]{% endif -%}
  }
  {%- if page.faq %},
@@ -96,7 +112,7 @@
 {%- endif %}
 
 <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/assets/editorial.css?v=20261007' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/editorial.css?v=20261007-identity' | relative_url }}">
 <script src="{{ '/assets/editorial.js?v=20260926' | relative_url }}" defer></script>
 {% if page.home_refresh %}<link rel="stylesheet" href="{{ '/assets/homepage.css?v=20260929-1' | relative_url }}">
 <script src="{{ '/assets/homepage.js?v=20260929-1' | relative_url }}" defer></script>{% endif %}
@@ -146,8 +162,9 @@
     <p class="disclaimer">{{ t.disclaimer }}</p>
     <p><a href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ t.nav_schools }}</a></p>
     {% assign family_page = site.pages | where: "translation_key", "family-services" | where: "lang", lang | first %}
-    {% if family_page %}<p><a href="{{ family_page.url | relative_url }}">{% if lang == 'zh' %}家庭服务：选校、寄宿家庭与落地支持{% else %}Family services: school applications and local support{% endif %}</a></p>{% endif %}
-    <p class="legal">{{ site.org.legal_name }} · RCS {{ site.org.rcs }} · {{ site.org.locality }}</p>
+    {% if family_page %}<p><a href="{{ family_page.url | relative_url }}">{{ identity.scope }}</a></p>{% endif %}
+    <p><a href="{{ identity.author_path }}">{{ identity.profile }}</a> · <a href="/{{ lang }}/school-guides/">{{ identity.names }}</a></p>
+    <p class="legal">{{ identity.org }}</p>
   </div>
 </footer>
 

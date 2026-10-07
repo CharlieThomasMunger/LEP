@@ -11,6 +11,10 @@ reviewed: "2026-09-26"
 description: "Découvrez les bachelors de gestion et d’IA appliquée de César Ritz Colleges Switzerland, le MSc en leadership de 15 mois, les frais 2027 et l’accompagnement local de LEP."
 image: "/assets/seg/crcs-campus.jpg"
 translated: true
+
+school_key: "crcs"
+
+last_modified_at: "2026-10-07"
 ---
 
 **Par James Liu | Lux Education Partners | Mis à jour le 26 septembre 2026**

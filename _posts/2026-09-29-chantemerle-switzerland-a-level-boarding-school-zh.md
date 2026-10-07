@@ -13,6 +13,10 @@ school_article: true
 translated: false
 answer: "希望孩子在瑞士读英文 A Level，又更喜欢小规模、温馨的寄宿环境，可以认真了解 Chantemerle 圣特美勒。我到访后的印象很鲜明：学校虽小，相对学生人数而言，课外活动设施很齐全；风景和住宿环境都非常好。选校时，还要把英文路线和通向瑞士大学的 Maturité 路线分开比较。"
 faq: [{"q": "Chantemerle 是 IB 学校吗？", "a": "学校目前公开的主要升学路线是 Cambridge IGCSE / A Level，以及瑞士 Matura。如果希望读 IB，可以让 LEP 同时比较圣查尔斯等学校。"}, {"q": "不会法语，可以读它的英文 A Level 吗？", "a": "可以评估英文路线。是否适合直接入读，还要看英语、相关学科基础和校方评估，所在地区讲法语不等于课程必须用法语上课。"}, {"q": "学校这么小，课外活动会不会很少？", "a": "我的访校印象恰好是：相对它的学生人数，课外活动设施很齐全。具体到某个孩子的运动或艺术兴趣，我们会再与校方确认项目、时间和收费。"}, {"q": "七天寄宿 CHF 62,500 就是最后总支出吗？", "a": "不是。它是英文课程的学费加七天寄宿价，还需把附加项目、保险、考试、交通和个人消费列入计划。"}]
+
+school_key: "chantemerle"
+
+last_modified_at: "2026-10-07"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/cm02.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/cm02.jpg" alt="Chantemerle 露台望向湖面与山景" width="1600" height="900" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Chantemerle 露台望向湖面与山景。LEP实拍。</figcaption></figure>

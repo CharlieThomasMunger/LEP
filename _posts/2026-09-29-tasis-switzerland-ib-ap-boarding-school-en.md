@@ -16,6 +16,8 @@ answer: "TASIS is worth considering for families seeking an American education i
 faq: [{"q": "Is this TASIS campus in Switzerland or the United States?", "a": "This guide covers The American School in Switzerland in Montagnola, near Lugano, in Italian-speaking Switzerland. The American name describes its educational background."}, {"q": "Does a student need French or German?", "a": "Assess the actual grade and programme. TASIS publishes bilingual English–Italian instruction for Grades 1–9 and English as the main language for Grades 10–12, with EAL provision."}, {"q": "Can a child board while parents live abroad?", "a": "Boarding is offered from Grade 6 through Postgraduate, including ordinary weekends. Dormitories close during extended holidays and major Academic Travel sessions, so families need an agreed plan for those periods and applicable immigration formalities."}, {"q": "Is CHF 106,500 the complete first-year cost?", "a": "No. New students should also budget for the CHF 1,250 application fee, CHF 5,000 Campus Enhancement Fund and separate CHF 3,000 deposit, plus applicable extras, travel and personal spending."}]
 seo_title: "TASIS Switzerland: 2026/27 Fees, IB, AP & Boarding"
 last_modified_at: "2026-10-07"
+
+school_key: "tasis"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/tasis-visit-admissions.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/tasis-visit-admissions.jpg" alt="James Liu visiting TASIS with an admissions representative · LEP photograph." width="1600" height="900" loading="eager" decoding="async"></a><figcaption>James Liu visiting TASIS with an admissions representative · LEP photograph.</figcaption></figure><h2 id="section-1">Why consider TASIS in a Swiss school search?</h2>

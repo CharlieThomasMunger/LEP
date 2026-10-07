@@ -10,7 +10,11 @@ reviewed: "2026-09-26"
 description: "学校介绍可以在网上看。孩子需要转学、父母不能到场、学校提出新的安排要求时，家庭需要有人能够直接沟通、迅速响应，并到现场把事情推进。LEP 长期扎根卢森堡，这就是我们提供本地教育服务的基础。"
 image: "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 lep_service_page: true
+
+last_modified_at: "2026-10-07"
 ---
+<h2>LEP 如何帮助家庭</h2><p>LEP 直接服务学生与家庭，覆盖卢森堡学校申请与寄宿家庭协调、荷兰和瑞士国际寄宿学校申请，以及瑞士酒店管理本科与研究生规划。申请支持从入学前的材料准备、校方沟通和签证所需文件协调开始，延续至约定的行前与当地安排。</p><p><a href="/zh/families/">LEP 如何帮助家庭 →</a></p>
+
 
 <p class="lead">学校介绍可以在网上看。孩子需要转学、父母不能到场、学校提出新的安排要求时，家庭需要有人能够直接沟通、迅速响应，并到现场把事情推进。LEP 长期扎根卢森堡，这就是我们提供本地教育服务的基础。</p>
 <figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy" width="1920" height="1280" decoding="async"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure><h2>我在这里生活，也在这里经营企业</h2>

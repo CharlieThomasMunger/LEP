@@ -12,7 +12,7 @@ layout: default
     <div class="wrap">
       <p class="crumb"><a href="{{ '/' | append: lang | append: '/' | relative_url }}">LEP</a>{% if cl %} / <a href="{{ breadcrumb_path | relative_url }}">{{ cl[lang] }}</a>{% endif %}</p>
       <h1>{{ page.title }}</h1>
-      <div class="article-byline"><a href="{{ author_page.url | default: site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}James Liu{% endif %}</a><span>Lux Education Partners</span><time datetime="{{ page.reviewed | default: page.date | date: '%Y-%m-%d' }}">{{ page.reviewed | default: page.date | date: t.date_format }}</time></div>
+      <div class="article-byline"><a href="{{ author_page.url | default: site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生（James Liu）{% else %}James Liu{% endif %}</a><span>Lux Education Partners</span><time datetime="{{ page.reviewed | default: page.date | date: '%Y-%m-%d' }}">{{ page.reviewed | default: page.date | date: t.date_format }}</time></div>
     </div>
   </header>
   <div class="wrap article-layout">
@@ -27,6 +27,7 @@ layout: default
     </div>
     {%- endif %}
 
+    {% include school-name-card.html %}
     <div class="article-body">
     {{ content }}
     </div>
@@ -86,7 +87,7 @@ layout: default
     <p class="cta">{{ t.cta }} <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu →</a></p>
 
     <p class="meta">
-      {{ t.written_by }} <a href="{{ author_page.url | default: site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生{% else %}{{ site.author.name }}{% endif %}</a>
+      {{ t.written_by }} <a href="{{ author_page.url | default: site.author.url | relative_url }}">{% if lang == 'zh' %}修印先生（James Liu）{% else %}{{ site.author.name }}{% endif %}</a>
       · {{ t.reviewed_label }} {{ page.reviewed | default: page.date | date: t.date_format }}
       {%- if page.translated and t.translation_note != "" %}<br><span class="tnote">{{ t.translation_note }}</span>{% endif %}
     </p>

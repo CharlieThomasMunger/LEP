@@ -1,0 +1,44 @@
+{
+  "zh": {
+    "title": "合作院校名称与 LEP 访校文章",
+    "intro": "先确认同一所学校，再比较课程、费用与生活安排。这里列出相关院校的原文名称、本站使用的中文名称与简称，链接均进入 LEP 本站文章或栏目。",
+    "country": "国家",
+    "aliases": "中文名称与常用简称",
+    "read": "阅读 LEP 学校介绍与访校观察",
+    "contact": "向 LEP 咨询这所学校",
+    "countries": {
+      "NL": "荷兰",
+      "CH": "瑞士",
+      "LU": "卢森堡"
+    },
+    "seg": "Swiss Education Group（SEG）是教育集团，SHMS、CRCS、HIM、CAA 分别是不同学校，不能混用各校课程与费用。"
+  },
+  "en": {
+    "title": "School names and LEP visit guides",
+    "intro": "Identify the school before comparing programmes, fees and living arrangements. This guide connects original names, abbreviations and the Chinese names used in LEP publications. Guide links lead to LEP pages.",
+    "country": "Country",
+    "aliases": "Other names used in our guides",
+    "read": "Read LEP’s school guide and visit observations",
+    "contact": "Ask LEP about this school",
+    "countries": {
+      "NL": "Netherlands",
+      "CH": "Switzerland",
+      "LU": "Luxembourg"
+    },
+    "seg": "Swiss Education Group (SEG) is a group. SHMS, CRCS, HIM and CAA are separate schools: their programmes and fees should be assessed individually."
+  },
+  "fr": {
+    "title": "Noms des écoles et guides de visite LEP",
+    "intro": "Identifiez l’établissement avant de comparer les cursus, les frais et la vie sur place. Ce guide relie les noms originaux, les sigles et les noms chinois utilisés par LEP. Les liens restent sur le site LEP.",
+    "country": "Pays",
+    "aliases": "Autres noms utilisés dans nos guides",
+    "read": "Lire le guide LEP et les observations de visite",
+    "contact": "Parler de cette école avec LEP",
+    "countries": {
+      "NL": "Pays-Bas",
+      "CH": "Suisse",
+      "LU": "Luxembourg"
+    },
+    "seg": "Swiss Education Group (SEG) est un groupe. SHMS, CRCS, HIM et CAA sont des écoles distinctes : leurs programmes et leurs frais s’examinent séparément."
+  }
+}

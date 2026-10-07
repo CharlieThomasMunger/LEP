@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-06"
+last_modified_at: "2026-10-07"
 layout: "node"
 lang: "en"
 ref: "netherlands-n7"
@@ -13,6 +13,8 @@ answer: "I see Eerde as a worthwhile option for families seeking English-languag
 image: "/assets/eerde/eerde-james-school-sign-lep.jpg"
 school_article: true
 has_topic_navigation: true
+
+school_key: "eerde"
 ---
 
 <aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-james-school-sign-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-james-school-sign-lep.jpg" width="2275" height="1280" alt="James Liu visiting Eerde International Boarding School. LEP photograph." loading="eager" decoding="async"></a><figcaption>James Liu visiting Eerde International Boarding School. LEP photograph.</figcaption></figure><h2>Why I am willing to introduce Eerde to families</h2>

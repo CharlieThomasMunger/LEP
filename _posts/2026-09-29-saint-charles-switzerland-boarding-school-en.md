@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-06"
+last_modified_at: "2026-10-07"
 layout: "node"
 ref: "sc1-swiss-school"
 cluster: "switzerland-boarding"
@@ -14,6 +14,8 @@ school_article: true
 translated: true
 answer: "Saint-Charles is worth considering for an English-medium IB education in Switzerland, with a separate Swiss Maturité route for families prepared for bilingual study. Its campus, boarding houses and sports facilities made a strong impression on me during my visit. The first decision is the curriculum: these two routes have different language demands and university admission conditions."
 faq: [{"q": "Is Saint-Charles a French-only school?", "a": "No. It offers an English IB route and bilingual French-English Swiss programmes. Assess the language requirements of the specific course."}, {"q": "Can a student apply after the school year has started?", "a": "The school reviews applications throughout the year. Entry still depends on places, assessment and course progress; rolling admissions do not make every point in the two-year IB programme a suitable transfer date."}, {"q": "Can a child board if their parents live abroad?", "a": "Seven-day boarding is available. LEP checks the pupil’s age, school calendar, holiday arrangements and applicable entry procedures together."}, {"q": "Does this guide include first-hand information?", "a": "Yes. The family, community and facilities observations come from James Liu’s visit, and the photographs are LEP’s own. Course and fee information was reviewed on 28 September 2026."}]
+
+school_key: "saint-charles"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/sc16.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc16.jpg" alt="Saint-Charles campus gardens and buildings" width="1600" height="1067" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Saint-Charles campus gardens and buildings · LEP photograph.</figcaption></figure>

@@ -13,6 +13,10 @@ school_article: true
 translated: true
 answer: "Chantemerle is worth exploring for an English-medium A Level education in a small, welcoming Swiss boarding school. My visit left a clear impression: relative to the number of pupils, the extracurricular facilities were extensive, and the scenery and accommodation were excellent. Families should compare its English pathway separately from the Swiss Maturité route."
 faq: [{"q": "Does Chantemerle offer the IB?", "a": "Its currently published main pathways are Cambridge IGCSE/A Levels and Swiss Matura preparation. Families seeking the IB can ask LEP to compare schools such as Saint-Charles."}, {"q": "Can a pupil study A Levels without French?", "a": "The English route can be assessed on the pupil’s English, subject knowledge and the school’s evaluation. Being in a French-speaking region does not make it a French-taught course."}, {"q": "Does a small school mean fewer extracurricular facilities?", "a": "My impression was the opposite: provision was extensive relative to pupil numbers. We can confirm the timetable, availability and charges for a particular sporting or artistic interest."}, {"q": "Is CHF 62,500 the final annual cost?", "a": "No. It is the English tuition and seven-day boarding rate. Additional items, insurance, examinations, transport and personal spending need to be included in the plan."}]
+
+school_key: "chantemerle"
+
+last_modified_at: "2026-10-07"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/cm02.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/cm02.jpg" alt="Lake and mountain views from Chantemerle’s terrace" width="1600" height="900" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Lake and mountain views from Chantemerle’s terrace · LEP photograph.</figcaption></figure>

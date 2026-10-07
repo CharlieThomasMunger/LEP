@@ -7,6 +7,8 @@ title: "卢森堡英文私立国际学校与低龄留学｜ISL、圣乔治、OTR
 heading: "卢森堡"
 description: "比较卢森堡 ISL、圣乔治和 OTR 的课程、费用与学校特点，了解孩子单独留学的寄宿家庭安排，以及 LEP 九天入校案例与本地服务。"
 standfirst: "学校申请、家庭落地与持续本地支持。从我们长期生活和经营的地方出发。"
+
+last_modified_at: "2026-10-07"
 ---
 
 ## 先找到您最关心的问题
@@ -55,3 +57,6 @@ WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxe
 - [父母不在卢森堡，孩子单独留学，学校和寄宿家庭怎样落实？](/zh/insights/study-without-parents/)
 - [在卢森堡给孩子找学校，为什么找一家真正扎根本地的企业？](/zh/insights/luxembourg-school-support-lep/)
 <!-- /lux-school-guides -->
+
+
+<p><a href="/zh/school-guides/">学校中英文名称与访校文章 →</a></p>

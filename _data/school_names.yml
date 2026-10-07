@@ -1,0 +1,132 @@
+{
+  "eerde": {
+    "name": "Eerde International Boarding School Netherlands",
+    "aliases": [
+      "Eerde",
+      "艾登国际寄宿学校"
+    ],
+    "country": "NL",
+    "destination": "netherlands",
+    "slug": "eerde-boarding-school-visit"
+  },
+  "altdorf": {
+    "name": "International School Altdorf",
+    "aliases": [
+      "ISA",
+      "ISA Altdorf",
+      "阿尔特多夫国际学校"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": null,
+    "note": {
+      "zh": "这里的阿尔特多夫指 International School Altdorf（ISA），不是 Institut auf dem Rosenberg（罗森伯格）。两校的课程、校区和收费不能混用；阿尔特多夫的最新校区与费用请联系 LEP 按当期资料确认。",
+      "en": "Altdorf here means International School Altdorf (ISA), a different institution from Institut auf dem Rosenberg. Their campuses, programmes and fees must not be combined. Contact LEP to confirm current Altdorf campus and fee information.",
+      "fr": "Altdorf désigne ici International School Altdorf (ISA), un établissement distinct de l’Institut auf dem Rosenberg. Leurs campus, cursus et frais ne doivent pas être confondus. Contactez LEP pour les informations actuelles sur le campus et les frais d’Altdorf."
+    }
+  },
+  "saint-charles": {
+    "name": "Saint-Charles International School",
+    "aliases": [
+      "Saint-Charles",
+      "St. Charles",
+      "Collège et Lycée Saint-Charles",
+      "圣查尔斯"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": "saint-charles-switzerland-boarding-school"
+  },
+  "chantemerle": {
+    "name": "Chantemerle",
+    "aliases": [
+      "Chantemerle Private School",
+      "École privée Chantemerle",
+      "圣特美勒",
+      "圣德美拉"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": "chantemerle-switzerland-a-level-boarding-school",
+    "note": {
+      "zh": "本站文章与访校记录中的“圣特美勒”和“圣德美拉”均指 Chantemerle。",
+      "en": "LEP’s Chinese guides use 圣特美勒 and 圣德美拉 for the same school, Chantemerle.",
+      "fr": "Dans les publications chinoises de LEP, 圣特美勒 et 圣德美拉 désignent la même école, Chantemerle."
+    }
+  },
+  "tasis": {
+    "name": "TASIS The American School in Switzerland",
+    "aliases": [
+      "TASIS Switzerland",
+      "瑞士美国学校"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": "tasis-switzerland-ib-ap-boarding-school"
+  },
+  "st-georges-luxembourg": {
+    "name": "St George’s International School Luxembourg",
+    "aliases": [
+      "St George’s Luxembourg",
+      "圣乔治国际学校（卢森堡）"
+    ],
+    "country": "LU",
+    "destination": "luxembourg",
+    "slug": "st-georges-luxembourg-school",
+    "note": {
+      "zh": "本条及所链接文章介绍卢森堡的圣乔治学校；不要与瑞士同名学校的课程或费用混用。",
+      "en": "This entry concerns the Luxembourg school, not the similarly named school in Switzerland.",
+      "fr": "Cette fiche concerne l’école du Luxembourg, à distinguer de l’établissement au nom similaire en Suisse."
+    }
+  },
+  "imi": {
+    "name": "IMI International Management Institute Switzerland",
+    "aliases": [
+      "IMI",
+      "瑞士国际管理学院"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": "why-imi-switzerland"
+  },
+  "shms": {
+    "name": "Swiss Hotel Management School",
+    "aliases": [
+      "SHMS",
+      "瑞士酒店管理大学"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": "shms-hospitality-events-design"
+  },
+  "crcs": {
+    "name": "César Ritz Colleges Switzerland",
+    "aliases": [
+      "CRCS",
+      "瑞士恺撒里兹大学"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": "cesar-ritz-business-ai-leadership"
+  },
+  "him": {
+    "name": "HIM Business School",
+    "aliases": [
+      "HIM",
+      "瑞士蒙特勒工商管理大学"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": "him-business-ai-customer-experience"
+  },
+  "caa": {
+    "name": "Culinary Arts Academy Switzerland",
+    "aliases": [
+      "CAA",
+      "瑞士美食艺术管理学院"
+    ],
+    "country": "CH",
+    "destination": "switzerland",
+    "slug": "culinary-arts-academy-switzerland"
+  }
+}

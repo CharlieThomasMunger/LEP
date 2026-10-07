@@ -216,3 +216,9 @@ article.node .lep-school-enquiry{margin:24px 0 30px;padding:18px 22px;border-lef
 article.node .lep-school-enquiry p{margin:0 0 8px!important;font-size:14px!important;line-height:1.8}
 article.node .lep-school-enquiry a{font-size:14px;font-weight:600;overflow-wrap:anywhere}
 @media(max-width:540px){article.node .lep-school-enquiry{padding:16px 18px}}
+
+/* School identification stays readable on narrow screens. */
+.school-identity{margin:1.5rem 0;padding:1.2rem 1.4rem;border-left:3px solid #9b7d4a;background:#f7f5f0;overflow-wrap:anywhere}
+.school-identity h2{margin-top:0;font-size:1.25rem;line-height:1.5}
+.school-identity p{margin:.5rem 0}
+.school-identity a{display:inline-block;line-height:1.7}

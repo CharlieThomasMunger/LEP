@@ -12,6 +12,10 @@ reviewed: "2026-09-26"
 description: "IMI mérite, selon moi, d’être étudié pour ses programmes, l’expérience pratique et son rapport qualité-prix. Ses installations ne sont pas les plus luxueuses que j’aie visitées, mais ce n’est qu’une partie du choix."
 image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
+
+school_key: "imi"
+
+last_modified_at: "2026-10-07"
 ---
 
 **Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**

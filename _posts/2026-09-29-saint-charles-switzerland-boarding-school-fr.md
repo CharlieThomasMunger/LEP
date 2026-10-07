@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-06"
+last_modified_at: "2026-10-07"
 layout: "node"
 ref: "sc1-swiss-school"
 cluster: "switzerland-boarding"
@@ -14,6 +14,8 @@ school_article: true
 translated: true
 answer: "Saint-Charles mérite d’être étudié pour suivre un IB en anglais en Suisse, tout en connaissant l’alternative de la maturité suisse. Lors de ma visite, le campus, les internats et les installations sportives m’ont particulièrement marqué. Le premier choix reste celui du cursus : IB anglophone et maturité bilingue correspondent à des exigences linguistiques et à des conditions d’accès à l’université différentes."
 faq: [{"q": "Saint-Charles est-il uniquement francophone ?", "a": "Non. L’école propose un IB anglophone et des programmes suisses bilingues français-anglais. Les exigences linguistiques dépendent du cursus choisi."}, {"q": "Peut-on candidater après la rentrée ?", "a": "L’école examine les candidatures toute l’année. L’entrée dépend toutefois des places, de l’évaluation et de la progression des cours ; cela ne rend pas toute date adaptée à un transfert pendant les deux années du diplôme IB."}, {"q": "Un élève peut-il être interne si ses parents vivent à l’étranger ?", "a": "Un internat sept jours est proposé. LEP vérifie ensemble l’âge de l’élève, le calendrier scolaire, les vacances et les formalités d’entrée applicables."}, {"q": "Ce guide contient-il des observations de terrain ?", "a": "Oui. Les observations sur la famille, la communauté et les installations viennent de la visite de James Liu ; les photographies sont celles de LEP. Programmes et tarifs ont été vérifiés le 28 septembre 2026."}]
+
+school_key: "saint-charles"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/sc16.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc16.jpg" alt="Jardins et bâtiments de Saint-Charles" width="1600" height="1067" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Jardins et bâtiments de Saint-Charles · Photo LEP.</figcaption></figure>

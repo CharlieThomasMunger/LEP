@@ -1,0 +1,23 @@
+---
+layout: "page"
+lang: "zh"
+translation_key: "school-name-guide"
+permalink: "/zh/school-guides/"
+title: "合作院校名称与 LEP 访校文章"
+heading: "合作院校名称与 LEP 访校文章"
+description: "先确认同一所学校，再比较课程、费用与生活安排。这里列出相关院校的原文名称、本站使用的中文名称与简称，链接均进入 LEP 本站文章或栏目。"
+standfirst: "先确认同一所学校，再比较课程、费用与生活安排。这里列出相关院校的原文名称、本站使用的中文名称与简称，链接均进入 LEP 本站文章或栏目。"
+last_modified_at: "2026-10-07"
+school_directory: true
+---
+{% assign names = site.data.school_labels[page.lang] %}
+<p>{{ names.seg }}</p>
+{% for entry in site.data.school_names %}{% assign school = entry[1] %}
+<section class="school-identity" id="{{ entry[0] }}"><h2>{{ school.name }}</h2>
+<p><strong>{{ names.country }}：</strong>{{ names.countries[school.country] }}</p>
+<p><strong>{{ names.aliases }}：</strong>{{ school.aliases | join: ' · ' }}</p>
+{% if school.note[page.lang] %}<p>{{ school.note[page.lang] }}</p>{% endif %}
+{% if school.slug %}<p><a href="/{{ page.lang }}/insights/{{ school.slug }}/">{{ names.read }} →</a></p>{% else %}<p><a href="/{{ page.lang }}/destinations/{{ school.destination }}/">{{ names.read }} →</a></p>{% endif %}
+<p><a href="/{{ page.lang }}/families/#contact-lep">{{ names.contact }} →</a></p>
+</section>{% endfor %}
+{% assign lang = page.lang %}{% include lep-contact.html %}

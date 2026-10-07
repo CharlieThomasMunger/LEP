@@ -12,6 +12,10 @@ reviewed: "2026-09-26"
 description: "I see IMI as a school worth considering for its curriculum, practical experience and value. Its facilities are not the most luxurious I have visited, but that is only one part of an education decision."
 image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
+
+school_key: "imi"
+
+last_modified_at: "2026-10-07"
 ---
 
 **By James Liu | Lux Education Partners | Reviewed 26 September 2026**

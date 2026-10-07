@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-06"
+last_modified_at: "2026-10-07"
 layout: "node"
 ref: "sc1-swiss-school"
 cluster: "switzerland-boarding"
@@ -14,6 +14,8 @@ school_article: true
 translated: false
 answer: "想在瑞士读英文 IB，同时保留了解瑞士本国升学体系的空间，Saint-Charles 值得列入访校名单。它的优势不只有课程：我到访时看到的校园、宿舍和体育设施，也给我留下了很深的印象。不过，英文 IB 与法英双语的瑞士 Maturité 是两条不同路线，选校时必须先分清。"
 faq: [{"q": "圣查尔斯是纯法语学校吗？", "a": "不是。它有英文 IB，也有法英双语的瑞士课程。必须按拟申请的项目判断语言要求。"}, {"q": "开学后还能申请吗？", "a": "学校实行全年滚动审核，但是否能在拟定时间入学，要结合年级名额、课程进度和入学评估。尤其进入两年制 IB 后，不能把“全年接受申请”理解为随时插班都合适。"}, {"q": "父母不去瑞士，孩子可以寄宿吗？", "a": "学校有七天寄宿方案。LEP会连同实际入住年龄、学年日历、假期安排及适用的入境手续一起核对。"}, {"q": "您现在就能提供真实访校信息吗？", "a": "可以。本文的校友家庭、设施和社区见闻来自修印先生的到访经历，配图均为LEP实拍；课程和费用按2026年9月28日查阅的现行资料整理。"}]
+
+school_key: "saint-charles"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/sc16.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc16.jpg" alt="Saint-Charles 校园花园与校舍" width="1600" height="1067" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Saint-Charles 校园花园与校舍。LEP实拍。</figcaption></figure>

@@ -11,6 +11,10 @@ reviewed: "2026-09-26"
 description: "Culinary Arts Academy Switzerland : un parcours exigeant vers l’excellence culinaire. Cursus, frais, bourses et regard de James Liu, établi en Europe."
 image: "/assets/seg/caa-campus.jpg"
 translated: true
+
+school_key: "caa"
+
+last_modified_at: "2026-10-07"
 ---
 
 Par James Liu | Lux Education Partners | 26 septembre 2026

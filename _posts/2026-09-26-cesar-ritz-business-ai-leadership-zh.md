@@ -10,6 +10,10 @@ date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "瑞士恺撒里兹大学 CRCS 适合谁？了解商业管理与应用 AI 本科、15个月领导力硕士、2027费用，以及LEP校方直接合作、奖学金申请与欧洲本地访校服务。"
 image: "/assets/seg/crcs-campus.jpg"
+
+school_key: "crcs"
+
+last_modified_at: "2026-10-07"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日

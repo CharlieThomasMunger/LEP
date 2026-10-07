@@ -13,6 +13,10 @@ school_article: true
 translated: true
 answer: "Chantemerle mérite d’être considéré pour préparer des A Levels en anglais dans un petit internat suisse chaleureux. Lors de ma visite, j’ai trouvé les équipements extrascolaires très complets au regard du nombre d’élèves, et le paysage comme l’hébergement excellents. Il faut distinguer cette voie anglophone du parcours de maturité suisse."
 faq: [{"q": "Chantemerle propose-t-il l’IB ?", "a": "Les principales voies actuellement publiées sont Cambridge IGCSE/A Levels et la préparation à la maturité suisse. Pour l’IB, LEP peut comparer des écoles comme Saint-Charles."}, {"q": "Peut-on préparer les A Levels sans français ?", "a": "La voie anglophone peut être évaluée selon l’anglais, les bases disciplinaires et l’appréciation de l’école. Une région francophone n’implique pas un enseignement de ce cursus en français."}, {"q": "Une petite école signifie-t-elle peu d’équipements extrascolaires ?", "a": "Mon impression a été inverse : les équipements étaient très complets au regard du nombre d’élèves. Nous pouvons vérifier les horaires, disponibilités et frais d’une activité précise."}, {"q": "CHF 62 500 correspond-il au coût final de l’année ?", "a": "Non. C’est le tarif de scolarité anglophone avec internat sept jours. Il faut ajouter les postes supplémentaires, assurance, examens, transports et dépenses personnelles."}]
+
+school_key: "chantemerle"
+
+last_modified_at: "2026-10-07"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/cm02.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/cm02.jpg" alt="Vue sur le lac et les montagnes depuis la terrasse de Chantemerle" width="1600" height="900" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Vue sur le lac et les montagnes depuis la terrasse de Chantemerle · Photo LEP.</figcaption></figure>

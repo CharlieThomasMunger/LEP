@@ -3,7 +3,7 @@ layout: "page"
 lang: "fr"
 permalink: "/fr/destinations/switzerland/"
 translation_key: "destination-switzerland"
-last_modified_at: "2026-09-29"
+last_modified_at: "2026-10-07"
 title: "Internats en Suisse : cursus, frais et études supérieures"
 heading: "Internats suisses et parcours d’études"
 description: "Découvrez Saint-Charles, Chantemerle et TASIS à travers les visites de LEP : internat, frais, IB, A Levels et AP. Consultez aussi nos guides sur les études hôtelières en Suisse."
@@ -76,3 +76,6 @@ Indiquez-nous l’âge de votre enfant, sa classe actuelle, ses compétences lin
 
 
 <section class="related" id="equestrian-guides"><h2>Guides études et équitation</h2><p>Votre enfant monte déjà et envisage une scolarité à l’étranger ? Commencez par ses objectifs, le cursus et le budget annuel.</p><ul><li><a href="/fr/insights/equestrian-boarding-schools-europe/">Équitation et internat en Europe : Eerde ou Saint-Charles pour votre enfant ?</a></li><li><a href="/fr/insights/eerde-equestrian-ib-boarding/">Eerde : poursuivre l’équitation tout en préparant l’IB en internat aux Pays-Bas</a></li><li><a href="/fr/insights/saint-charles-horse-riding-boarding/">Saint-Charles : poursuivre l’équitation avec l’IB et la vie en internat suisse</a></li><li><a href="/fr/insights/equestrian-boarding-school-costs/">Quel budget pour un internat avec équitation ? Eerde et Saint-Charles en détail</a></li><li><a href="/fr/insights/equestrian-training-ib-university/">Équitation, diplôme de l’IB et université : comment préserver les possibilités ?</a></li></ul></section>
+
+
+<p><a href="/fr/school-guides/">Noms des écoles et guides de visite →</a></p>

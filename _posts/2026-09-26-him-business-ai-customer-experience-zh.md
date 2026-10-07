@@ -10,6 +10,10 @@ date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "HIM Business School（瑞士蒙特勒工商管理大学，原 Hotel Institute Montreux）的本科是三年商业管理路线，设金融、市场营销、管理学和款待业管理四个方向，安排三段带薪实习。 对希望读商科，又愿意通过实际工作学习的学生，HIM 值得放进比较名单。"
 image: "/assets/fieldwork/him-james-campus-visit.jpg"
+
+school_key: "him"
+
+last_modified_at: "2026-10-07"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日

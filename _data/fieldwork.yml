@@ -88,7 +88,7 @@ switzerland:
     en: From the Luxembourg base, visits to Swiss boarding schools and hotel management institutes from 2026. A formal cooperation agreement is in place with IMI.
     fr: Depuis la base luxembourgeoise, visites d'internats et d'écoles hôtelières suisses à partir de 2026. Un accord de coopération formel a été signé avec IMI.
   items:
-    - name: Chantemerle International School
+    - name: Chantemerle · 圣特美勒 / 圣德美拉
       image: /assets/fieldwork/chantemerle.jpg
       kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
@@ -97,7 +97,7 @@ switzerland:
         fr: "James Liu et le chef d’établissement de Chantemerle International School"
       alt: {"zh": "修印先生与Chantemerle 国际学校校长合影", "en": "James Liu with the Head of Chantemerle International School", "fr": "James Liu et le chef d’établissement de Chantemerle International School"}
 
-    - name: ISA International School Altdorf
+    - name: International School Altdorf (ISA) · 阿尔特多夫
       image: /assets/fieldwork/isa-altdorf.jpg
       kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
@@ -106,7 +106,7 @@ switzerland:
         fr: "James Liu et le chef d’établissement de ISA International School Altdorf"
       alt: {"zh": "修印先生与ISA International School Altdorf校长合影", "en": "James Liu with the Head of ISA International School Altdorf", "fr": "James Liu et le chef d’établissement de ISA International School Altdorf"}
 
-    - name: St. Charles
+    - name: Saint-Charles International School · 圣查尔斯
       image: /assets/fieldwork/st-charles.jpg
       kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
@@ -124,7 +124,7 @@ switzerland:
         fr: Un accord de coopération formel a été signé.
       alt: {zh: 与 IMI 签署合作, en: Cooperation with IMI International Management Institute}
 
-    - name: TASIS
+    - name: TASIS The American School in Switzerland
       image: /assets/fieldwork/tasis.jpg
       kind: {zh: 实地走访 · 2026 年 6 月, en: On-site visit — June 2026, fr: Visite sur site — juin 2026}
       note:

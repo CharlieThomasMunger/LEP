@@ -11,6 +11,10 @@ reviewed: "2026-09-26"
 description: "HIM Business School : trois stages en gestion et un master en IA appliquée à l’expérience client. Cursus, frais, bourses et regard de James Liu, établi en Europe."
 image: "/assets/fieldwork/him-james-campus-visit.jpg"
 translated: true
+
+school_key: "him"
+
+last_modified_at: "2026-10-07"
 ---
 
 Par James Liu | Lux Education Partners | 26 septembre 2026

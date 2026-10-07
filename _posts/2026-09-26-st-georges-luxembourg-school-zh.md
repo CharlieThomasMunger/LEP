@@ -10,6 +10,10 @@ reviewed: "2026-09-26"
 description: "圣乔治国际学校给我的感受，是典型的英式学校：非常抓成绩，严谨、专业，也很重视安全。我们能够直接与校长沟通；通过 LEP 对接的学生，还可以安排三天免费进校试读。这些是家庭选校时真正能用到的合作安排。"
 image: "/assets/fieldwork/st-georges-principal-conversation.jpg"
 lep_service_page: false
+
+school_key: "st-georges-luxembourg"
+
+last_modified_at: "2026-10-07"
 ---
 
 <p class="lead">圣乔治国际学校给我的感受，是典型的英式学校：非常抓成绩，严谨、专业，也很重视安全。我们能够直接与校长沟通；通过 LEP 对接的学生，还可以安排三天免费进校试读。这些是家庭选校时真正能用到的合作安排。</p>

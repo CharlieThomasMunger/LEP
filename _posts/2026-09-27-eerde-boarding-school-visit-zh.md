@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-06"
+last_modified_at: "2026-10-07"
 layout: "node"
 lang: "zh"
 ref: "netherlands-n7"
@@ -13,6 +13,8 @@ answer: "我的判断是：Eerde很适合父母不来荷兰、希望孩子在英
 image: "/assets/eerde/eerde-james-school-sign-lep.jpg"
 school_article: true
 has_topic_navigation: true
+
+school_key: "eerde"
 ---
 
 <aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-james-school-sign-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-james-school-sign-lep.jpg" width="2275" height="1280" alt="修印先生实地到访Eerde国际寄宿学校。LEP实拍。" loading="eager" decoding="async"></a><figcaption>修印先生实地到访Eerde国际寄宿学校。LEP实拍。</figcaption></figure><h2>我为什么愿意把这所学校介绍给家长？</h2>

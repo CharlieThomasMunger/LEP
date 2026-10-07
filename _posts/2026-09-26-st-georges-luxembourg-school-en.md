@@ -11,6 +11,10 @@ description: "St George’s combines a structured British curriculum with a prof
 image: "/assets/fieldwork/st-georges-principal-conversation.jpg"
 lep_service_page: false
 translated: true
+
+school_key: "st-georges-luxembourg"
+
+last_modified_at: "2026-10-07"
 ---
 
 <p class="lead">St George’s combines a structured British curriculum with a professional, practical response to individual circumstances. LEP works directly with the principal and can arrange a three-day free trial for families applying through us.</p>

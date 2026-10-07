@@ -11,6 +11,10 @@ reviewed: "2026-09-26"
 description: "Explore César Ritz Colleges Switzerland business and applied AI degrees, the 15-month MSc in Leadership, 2027 fees and LEP’s direct school partnership and local support."
 image: "/assets/seg/crcs-campus.jpg"
 translated: true
+
+school_key: "crcs"
+
+last_modified_at: "2026-10-07"
 ---
 
 **By James Liu | Lux Education Partners | Updated 26 September 2026**

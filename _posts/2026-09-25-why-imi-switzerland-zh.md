@@ -11,6 +11,10 @@ date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "IMI 不是我看过的瑞士学校中设施最豪华的一所，但它的课程安排、学术训练和带薪实习，让我认为这是一所性价比很值得看的学校。"
 image: "/assets/imi/imi-admissions-visit.webp"
+
+school_key: "imi"
+
+last_modified_at: "2026-10-07"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日

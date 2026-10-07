@@ -3,7 +3,7 @@ layout: "page"
 lang: "en"
 permalink: "/en/destinations/switzerland/"
 translation_key: "destination-switzerland"
-last_modified_at: "2026-09-29"
+last_modified_at: "2026-10-07"
 title: "Swiss boarding schools: curricula, fees and university pathways"
 heading: "Swiss boarding schools and study pathways"
 description: "Explore Saint-Charles, Chantemerle and TASIS through LEP school visits. Compare boarding, fees, IB, A Levels and AP, with separate guides to Swiss hospitality degrees."
@@ -76,3 +76,6 @@ Share your child’s age, current year group, language skills, family budget and
 
 
 <section class="related" id="equestrian-guides"><h2>Equestrian education guides</h2><p>Already riding and planning education abroad? Start with the training goal, academic route and full annual budget.</p><ul><li><a href="/en/insights/equestrian-boarding-schools-europe/">Equestrian boarding schools in Europe: Eerde or Saint-Charles for your child?</a></li><li><a href="/en/insights/eerde-equestrian-ib-boarding/">Eerde: combining equestrian training with the IB and boarding in the Netherlands</a></li><li><a href="/en/insights/saint-charles-horse-riding-boarding/">Saint-Charles: continuing horse riding alongside the IB and Swiss boarding life</a></li><li><a href="/en/insights/equestrian-boarding-school-costs/">How much does equestrian boarding education cost? Eerde and Saint-Charles explained</a></li><li><a href="/en/insights/equestrian-training-ib-university/">Can a young rider study the IB and prepare for university?</a></li></ul></section>
+
+
+<p><a href="/en/school-guides/">School names and our visit guides →</a></p>

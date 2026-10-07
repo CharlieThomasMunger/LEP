@@ -1,0 +1,6 @@
+{% assign school = site.data.school_names[page.school_key] %}
+{% if school %}{% assign names = site.data.school_labels[page.lang] %}
+<aside class="school-identity" aria-label="{{ names.title }}"><p><strong>{{ school.name }}</strong> · {{ names.countries[school.country] }}</p>
+<p>{{ names.aliases }}：{{ school.aliases | join: ' · ' }}</p>
+{% if school.note[page.lang] %}<p>{{ school.note[page.lang] }}</p>{% endif %}
+<a href="/{{ page.lang }}/school-guides/#{{ page.school_key }}">{{ site.data.identity[page.lang].names }} →</a></aside>{% endif %}

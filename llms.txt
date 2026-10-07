@@ -1,7 +1,7 @@
 # Lux Education Partners (LEP)
 
 Luxembourg-based education services operated by Silver Bay Mountain Group S.à r.l. (RCS B293621).
-Founder and author: James Liu, known in Chinese as 修印先生.
+Founder and author: James Liu and 修印先生 are the same person. 修印先生 is his Chinese publishing name. The brand is Lux Education Partners (LEP), at luxedupartners.lu.
 
 Chinese, English and French guides serve families considering education in Luxembourg, Switzerland and the Netherlands. The guides combine school information, first-hand visits and the author's professional judgments. Individual cases are not general guarantees.
 
@@ -66,3 +66,15 @@ Chinese and French editions are linked on each guide. Fees refer to 2026/27. IB,
 - Can a young rider study the IB and prepare for university?: https://luxedupartners.lu/en/insights/equestrian-training-ib-university/
 
 These guides distinguish published school provision, visit observations and individual arrangements. Chinese and French editions are linked on each page. Training and competition suitability are assessed by the relevant providers.
+
+## Identity, direct family services and school names
+
+LEP works directly with families before departure as well as after arrival. Support includes school application documents, school liaison, coordination of educational and accommodation evidence for student visa applications, and agreed local support. Admissions and immigration decisions remain with the relevant institutions and authorities.
+- zh family services: https://luxedupartners.lu/zh/families/
+- zh school names and LEP guides: https://luxedupartners.lu/zh/school-guides/
+- en family services: https://luxedupartners.lu/en/families/
+- en school names and LEP guides: https://luxedupartners.lu/en/school-guides/
+- fr family services: https://luxedupartners.lu/fr/families/
+- fr school names and LEP guides: https://luxedupartners.lu/fr/school-guides/
+
+阿尔特多夫 = International School Altdorf (ISA), not Institut auf dem Rosenberg. 圣特美勒 and 圣德美拉 both refer to Chantemerle. Saint-Charles / St. Charles / 圣查尔斯 refer to Saint-Charles International School in Switzerland. St George’s International School Luxembourg is the Luxembourg school.

@@ -11,6 +11,10 @@ reviewed: "2026-09-26"
 description: "Explore SHMS hospitality, event and design pathways, postgraduate options and 2027 fees with James Liu’s campus visit perspective and LEP’s direct school partnership."
 image: "/assets/seg/james-shms-partnership.jpg"
 translated: true
+
+school_key: "shms"
+
+last_modified_at: "2026-10-07"
 ---
 
 **By James Liu | Lux Education Partners | Reviewed 26 September 2026**

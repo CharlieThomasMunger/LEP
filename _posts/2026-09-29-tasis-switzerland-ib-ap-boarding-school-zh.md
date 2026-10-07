@@ -14,6 +14,10 @@ custom_lep_support: true
 translated: false
 answer: "TASIS适合希望在瑞士接受美式教育、考虑IB或AP并保留多国大学选择的家庭。它位于卢加诺附近，提供Grade 6至Postgraduate阶段寄宿；2026/27学年学费加寄宿为CHF 106,500，首次入学另有费用。选校时要一起看英语与学科基础、毕业资格、长假安排和家庭预算。"
 faq: [{"q": "TASIS是在美国还是瑞士？", "a": "本文介绍的是瑞士蒙塔尼奥拉、卢加诺附近的TASIS The American School in Switzerland。“美国学校”指其教育背景，学校本身在瑞士意大利语区。"}, {"q": "不会法语或德语，可以考虑TASIS吗？", "a": "可以先评估其美式课程路线，但需核对拟入年级的语言安排。学校公布Grade 1—9包含英意双语教学，Grade 10—12以英语为主要授课语言，并提供EAL支持。"}, {"q": "父母不去瑞士，孩子能寄宿吗？", "a": "学校公布寄宿面向Grade 6至Postgraduate，提供周末生活安排。长假及部分大型Academic Travel期间宿舍关闭，需提前落实假期去向、接送及适用入境居留手续。"}, {"q": "一年CHF 106,500就是全部费用吗？", "a": "不是。新生还要考虑CHF 1,250申请费、CHF 5,000校园建设基金和另列的CHF 3,000押金，以及适用的附加项目、交通与个人开支。"}]
+
+school_key: "tasis"
+
+last_modified_at: "2026-10-07"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/tasis-visit-admissions.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/tasis-visit-admissions.jpg" alt="修印先生到访TASIS，与招生人员合影 · LEP实拍。" width="1600" height="900" loading="eager" decoding="async"></a><figcaption>修印先生到访TASIS，与招生人员合影 · LEP实拍。</figcaption></figure><h2 id="section-1">TASIS为什么值得放进瑞士选校名单？</h2>

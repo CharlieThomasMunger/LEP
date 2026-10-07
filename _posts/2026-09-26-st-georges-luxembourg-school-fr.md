@@ -11,6 +11,10 @@ description: "St George’s associe un cadre scolaire britannique exigeant à un
 image: "/assets/fieldwork/st-georges-principal-conversation.jpg"
 lep_service_page: false
 translated: true
+
+school_key: "st-georges-luxembourg"
+
+last_modified_at: "2026-10-07"
 ---
 
 <p class="lead">St George’s associe un cadre scolaire britannique exigeant à une réponse concrète aux situations individuelles. LEP échange directement avec la directrice et peut organiser trois jours d’essai gratuits pour les familles accompagnées.</p>

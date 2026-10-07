@@ -10,6 +10,10 @@ date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "想把厨艺做到卓越，走向顶尖厨房、米其林餐厅，甚至创立自己的餐饮品牌，我会重点介绍瑞士美食艺术管理学院（Culinary Arts Academy Switzerland，CAA／CAAS）。在我看来，它值得作为这类学生的“黄埔军校”来认真考虑。"
 image: "/assets/seg/caa-campus.jpg"
+
+school_key: "caa"
+
+last_modified_at: "2026-10-07"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
