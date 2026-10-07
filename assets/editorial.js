@@ -59,7 +59,8 @@
       const section = button.closest('.lep-contact');
       const source = section.querySelector(button.dataset.lepCopy === 'wechat' ? '.lep-wechat-id' : '.lep-brief-text');
       const status = section.querySelector('.lep-copy-status');
-      const text = source.innerText + (button.dataset.lepCopy === 'brief' ? '\n我正在看的文章：' + document.title + '\n' + location.origin + location.pathname : '');
+      const value = Array.from(source.childNodes).map(node => node.nodeName === 'BR' ? '\n' : node.textContent).join('').trim();
+      const text = value + (button.dataset.lepCopy === 'brief' ? '\n我正在看的文章：' + document.title + '\n' + location.origin + location.pathname : '');
       try {
         await navigator.clipboard.writeText(text);
         status.textContent = button.dataset.lepCopy === 'wechat' ? '微信号已复制，请在微信添加朋友。' : '提纲已复制，补充情况后可发给修印先生。';
