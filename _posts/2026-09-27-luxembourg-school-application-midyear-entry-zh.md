@@ -12,8 +12,11 @@ answer: "有空位、课程能衔接，开学后也可以申请插班。先做�
 image: "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 has_topic_navigation: true
 faq: [{"q": "三所学校是否都有统一的申请截止日？", "a": "没有一个适用于所有学校、所有年级的统一日期，要看学年、空位和课程。"}, {"q": "一定要飞到卢森堡才能参加考试吗？", "a": "从国内申请通常先协调远程评估；需要到校体验的，再落实试读安排。"}, {"q": "LEP能保证九天入学吗？", "a": "不能。九天是已完成的欧盟内个案，普通申请必须预留充分时间。"}]
+consultation: "lux-midyear"
+last_modified_at: "2026-10-07"
 ---
 
+{% include lep-intent-contact.html %}
 <h2>开学了，不代表只能再等一年</h2>
 
 <p>家长经常问我：“现在已经开学，是不是来不及了？”</p>

@@ -17,9 +17,11 @@ faq: [{"q": "Chantemerle 是 IB 学校吗？", "a": "学校目前公开的主要
 school_key: "chantemerle"
 
 last_modified_at: "2026-10-07"
+consultation: "swiss"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/cm02.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/cm02.jpg" alt="Chantemerle 露台望向湖面与山景" width="1600" height="900" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Chantemerle 露台望向湖面与山景。LEP实拍。</figcaption></figure>
+{% include lep-intent-contact.html %}
 <h2 id="section-1">学校小，为什么仍然值得专门了解？</h2>
 <p>Chantemerle 位于瑞士法语区，寄宿校园在日内瓦湖一带的 Blonay，靠近蒙特勒；Matura 教学项目在 Vevey。学校创办于1966年，目前官网介绍约有45名寄宿生和55名走读生。<a class="cite" href="#source-1" title="Chantemerle 年龄、规模与校区">[1]</a></p>
 <p><strong>它不是靠学生多、校园大给我留下印象的学校。</strong> 我的感受是，学校规模非常小，但针对这些学生，课外活动的设施配得很全。环境非常美，生活空间又温馨，不会给人一种孩子被放进大机构里的距离感。</p>

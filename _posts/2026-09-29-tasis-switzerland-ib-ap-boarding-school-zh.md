@@ -18,12 +18,14 @@ faq: [{"q": "TASIS是在美国还是瑞士？", "a": "本文介绍的是瑞士�
 school_key: "tasis"
 
 last_modified_at: "2026-10-07"
+consultation: "swiss"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/tasis-visit-admissions.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/tasis-visit-admissions.jpg" alt="修印先生到访TASIS，与招生人员合影 · LEP实拍。" width="1600" height="900" loading="eager" decoding="async"></a><figcaption>修印先生到访TASIS，与招生人员合影 · LEP实拍。</figcaption></figure><h2 id="section-1">TASIS为什么值得放进瑞士选校名单？</h2>
 <p>我已经到访过TASIS。对家长来说，访校照片能帮助确认我们确实走进过这所学校，但做决定仍要回到孩子将来怎样学习、怎样毕业、怎样申请大学。</p>
 <p>TASIS的全称是The American School in Switzerland，位于瑞士提契诺州Montagnola，靠近卢加诺。它有美式高中毕业文凭、AP和IB课程，因此值得希望同时比较美国、英国及欧洲大学路线的家庭了解。<a class="cite" href="#source-1">[1]</a></p>
 <p>我们建议先把“在瑞士生活”和“采用哪一种毕业资格”分开看：瑞士的学习环境是一部分价值，课程是否适合孩子则决定接下来的选择。</p>
+{% include lep-intent-contact.html %}
 <h2 id="section-2">初高中怎么衔接？寄宿从哪个年级开始？</h2>
 <p>学校目前公布的寄宿范围是<strong>Grade 6至Postgraduate（高中毕业后衔接年）</strong>。Grade 6大致对应11—12岁阶段，这是常见年级参考，不是对任何同龄申请人的录取承诺；正式年级要结合出生日期、成绩单、原课程和校方评估确认。<a class="cite" href="#source-1">[1]</a></p>
 <p>Grade 6和Grade 9是校方列出的常见入学节点，其他年级也可申请，但取决于资格与空位。对于已接近高中毕业的孩子，尤其要先核对学分、英语与课程衔接，不能只按国内年级名称直接对号入座。<a class="cite" href="#source-4">[4]</a></p>

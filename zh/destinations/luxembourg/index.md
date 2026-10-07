@@ -11,6 +11,8 @@ standfirst: "学校申请、家庭落地与持续本地支持。从我们长期�
 last_modified_at: "2026-10-07"
 ---
 
+<p><strong>准备从中国送孩子来卢森堡？LEP 从申请前的材料与校方沟通开始，协调寄宿家庭及约定的本地安排。</strong> <a href="/zh/insights/luxembourg-school-support-lep/">查看怎样委托 LEP →</a></p>
+
 ## 先找到您最关心的问题
 
 - [三所学校怎么选？](/zh/insights/luxembourg-international-schools/)

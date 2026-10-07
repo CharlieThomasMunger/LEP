@@ -12,6 +12,8 @@ answer: "按Eerde 2026—2027收费，Middle School学费加全寄宿为€57,90
 image: "/assets/eerde/n4-1.webp"
 school_article: true
 has_topic_navigation: true
+consultation: "eerde"
+last_modified_at: "2026-10-07"
 ---
 
 <aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><img src="/assets/eerde/n4-1.webp" width="1600" height="1067" alt="Eerde 校园室内学习空间" loading="eager"><figcaption>Eerde 校园室内学习空间</figcaption></figure><h2>先给家长一笔可以比较的账</h2>
@@ -23,6 +25,7 @@ has_topic_navigation: true
 <tr><td>学费＋全寄宿</td><td>€57,900</td><td>€61,600</td></tr>
 </tbody></table></div>
 <p>费用可能略有变化，以最终学校申请确认的金额为准。</p>
+{% include lep-intent-contact.html %}
 <h2>第一年还要准备什么？</h2>
 <p>中学首次注册费为€3,650，包含一台MacBook；寄宿押金为€2,750，按学校条件在寄宿结束时退还。</p>
 <p>把这两项加上，Middle School首年上述基本缴付合计€64,300，IGCSE／IBDP为€68,000。其中押金与最终消耗费用不同，不能全部叫作学费。</p>

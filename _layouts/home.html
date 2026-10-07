@@ -17,6 +17,7 @@ layout: default
         <a class="btn" href="{{ prefix | append: '/destinations/luxembourg/' | relative_url }}">{{ h.primary }} <span aria-hidden="true">→</span></a>
         <a class="btn ghost" href="#contact-lep">{{ h.consult }}</a>
       </div>
+      {% if lang == "zh" %}<p class="home-text-link"><a href="/zh/families/">人在中国，也可以直接委托 LEP：查看申请与寄宿服务 →</a></p>{% endif %}
       <p class="home-byline">{{ h.byline }}</p>
     </div>
     <figure class="home-hero-photo">

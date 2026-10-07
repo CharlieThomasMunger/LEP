@@ -8,7 +8,7 @@ description: 区分兴趣骑马、持续训练与竞技发展，比较合作学�
 answer: 希望出国后继续骑马，可以从有马术资源的寄宿学校开始；已经稳定训练、参加比赛的孩子，则要把课程、教练、马匹和赛历一起评估。LEP重点介绍已合作并实地走访的荷兰Eerde和瑞士Saint-Charles，帮助家庭判断哪种安排能持续落地。
 date: '2026-10-06'
 reviewed: '2026-10-06'
-last_modified_at: '2026-10-06'
+last_modified_at: "2026-10-07"
 permalink: /zh/insights/equestrian-boarding-schools-europe/
 image: /assets/eerde/n7-4.webp
 school_article: true
@@ -21,8 +21,10 @@ faq:
   a: 不能只用一个高度判断。要分清训练还是比赛、完成整套路线的稳定性、马匹情况与骑手独立能力，再由教练评估。
 - q: LEP是否已经提供统一的竞技马术套餐？
   a: 我们从学校匹配与校方协调开始，训练内容和费用由相关提供方确认后纳入家庭方案，不用一份统一套餐替代个案判断。
+consultation: "equestrian"
 ---
 
+{% include lep-intent-contact.html %}
 <h2 id="section-1">先分清：孩子希望在海外继续怎样的马术生活？</h2>
 <p>“学校有马术”只回答了有没有这项活动。家长真正要决定的是：孩子换了学校以后，原来的兴趣能否保持，训练能否连续，学习和生活有没有人衔接。对已经练了几年、又准备读国际中学的孩子，这往往比再看一份学校排名更有用。</p><p class="meta">小屏幕可左右滑动查看完整表格。</p><div class="table-scroll" tabindex="0" role="region" aria-label="需求 / 选校时最应落实的事"><table><thead><tr><th scope="col">需求</th><th scope="col">选校时最应落实的事</th></tr></thead><tbody><tr><td>兴趣与体验</td><td>有合适的课程和马匹，时间能接入日常寄宿生活。</td></tr><tr><td>持续训练</td><td>教练、每周频次、交通和费用可以稳定安排，不因一次考试或周末改变就长期中断。</td></tr><tr><td>竞技发展</td><td>由教练评估骑手与马匹，逐项落实训练计划、比赛资格、陪同和与学业冲突的处理。</td></tr></tbody></table></div><p>三种需求没有高低之分。孩子如果只是喜欢骑马，不必为一个高强度竞技方案付费；如果已经在比赛，也不应把普通兴趣课当作原有训练的延续。</p><figure class="article-photo"><img src="/assets/eerde/n7-4.webp" width="1600" height="1000" alt="马术训练需要与孩子的实际经验相匹配。" loading="lazy" decoding="async"><figcaption>马术训练需要与孩子的实际经验相匹配。</figcaption></figure>
 

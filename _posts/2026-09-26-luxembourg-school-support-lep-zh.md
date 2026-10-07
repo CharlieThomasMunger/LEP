@@ -4,7 +4,7 @@ lang: "zh"
 ref: "lux-guide-l7"
 permalink: "/zh/insights/luxembourg-school-support-lep/"
 cluster: "luxembourg-school"
-title: "在卢森堡给孩子找学校，为什么找一家真正扎根本地的企业？"
+title: "人在中国，怎样找卢森堡本地留学机构？LEP 的申请与寄宿家庭服务"
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "学校介绍可以在网上看。孩子需要转学、父母不能到场、学校提出新的安排要求时，家庭需要有人能够直接沟通、迅速响应，并到现场把事情推进。LEP 长期扎根卢森堡，这就是我们提供本地教育服务的基础。"
@@ -13,9 +13,11 @@ lep_service_page: true
 
 last_modified_at: "2026-10-07"
 ---
-<h2>LEP 如何帮助家庭</h2><p>LEP 直接服务学生与家庭，覆盖卢森堡学校申请与寄宿家庭协调、荷兰和瑞士国际寄宿学校申请，以及瑞士酒店管理本科与研究生规划。申请支持从入学前的材料准备、校方沟通和签证所需文件协调开始，延续至约定的行前与当地安排。</p><p><a href="/zh/families/">LEP 如何帮助家庭 →</a></p>
-
-
+<div class="answer"><span class="lab">先回答家长最关心的问题</span><p><strong>人在中国，希望有人在卢森堡把中学申请、寄宿家庭和当地安排一起推进，可以直接联系 Lux Education Partners（LEP）。</strong>创始人修印先生（James Liu）长期在卢森堡生活和经营企业；我们从选校、申请材料和校方沟通开始服务，协助准备签证所需文件，并按约定协调寄宿家庭和入学后的沟通。</p></div>
+<p><a href="#contact-lep">联系修印先生，说明孩子的情况 →</a> · <a href="/zh/families/">查看服务范围与开始方式</a></p>
+<h2>选择当地机构，先看它具体能替你做什么</h2>
+<ul><li><strong>申请前就能介入：</strong>孩子还在中国，也能整理材料、协调考试和面谈，向校方说明孩子的课程与语言情况。</li><li><strong>有可以核对的本地工作：</strong>看具体访校记录、实际沟通过的事项，以及入学与住宿如何衔接，不能只看一张校园合影。</li><li><strong>把学校与生活一起落实：</strong>明确住宿、通勤、家长授权和紧急联系人，逐项说明由谁负责。</li><li><strong>服务和收费讲清楚：</strong>学校、寄宿家庭、LEP 与其他第三方各负责什么、分别收什么费用，在开始前确认。</li></ul>
+<p>下面是我们实际做过的工作，包括圣乔治的入学案例、寄宿家庭协调和本人访校观察。家长可以据此判断，LEP 是否适合承担您家的申请与本地安排。</p>
 <p class="lead">学校介绍可以在网上看。孩子需要转学、父母不能到场、学校提出新的安排要求时，家庭需要有人能够直接沟通、迅速响应，并到现场把事情推进。LEP 长期扎根卢森堡，这就是我们提供本地教育服务的基础。</p>
 <figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" alt="修印先生与圣乔治国际学校校长合影。LEP 实拍。" loading="lazy" width="1920" height="1280" decoding="async"><figcaption>修印先生与圣乔治国际学校校长合影。LEP 实拍。</figcaption></figure><h2>我在这里生活，也在这里经营企业</h2>
 <p>我是修印先生，Lux Education Partners 的创办人。我长期在卢森堡生活和经营企业，与学校、本地企业和家庭持续来往。我的判断来自这些实际关系，也来自作为家长对教育的长期关注。</p>

@@ -50,3 +50,26 @@
     if(img.complete)update();else img.addEventListener('load',update,{once:true});
   });
 })();
+
+// Copy only when requested; nothing is sent or stored by this page.
+(() => {
+  document.querySelectorAll('[data-lep-copy]').forEach(button => {
+    button.hidden = false;
+    button.addEventListener('click', async () => {
+      const section = button.closest('.lep-contact');
+      const source = section.querySelector(button.dataset.lepCopy === 'wechat' ? '.lep-wechat-id' : '.lep-brief-text');
+      const status = section.querySelector('.lep-copy-status');
+      const text = source.innerText + (button.dataset.lepCopy === 'brief' ? '\n我正在看的文章：' + document.title + '\n' + location.origin + location.pathname : '');
+      try {
+        await navigator.clipboard.writeText(text);
+        status.textContent = button.dataset.lepCopy === 'wechat' ? '微信号已复制，请在微信添加朋友。' : '提纲已复制，补充情况后可发给修印先生。';
+      } catch {
+        const details = section.querySelector('details');
+        if (button.dataset.lepCopy === 'brief') details.open = true;
+        const range = document.createRange();range.selectNodeContents(source);
+        const selection = window.getSelection();selection.removeAllRanges();selection.addRange(range);
+        status.textContent = '请长按或手动复制选中的文字。';
+      }
+    });
+  });
+})();

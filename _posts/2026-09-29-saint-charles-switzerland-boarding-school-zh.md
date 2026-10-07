@@ -16,9 +16,11 @@ answer: "想在瑞士读英文 IB，同时保留了解瑞士本国升学体系�
 faq: [{"q": "圣查尔斯是纯法语学校吗？", "a": "不是。它有英文 IB，也有法英双语的瑞士课程。必须按拟申请的项目判断语言要求。"}, {"q": "开学后还能申请吗？", "a": "学校实行全年滚动审核，但是否能在拟定时间入学，要结合年级名额、课程进度和入学评估。尤其进入两年制 IB 后，不能把“全年接受申请”理解为随时插班都合适。"}, {"q": "父母不去瑞士，孩子可以寄宿吗？", "a": "学校有七天寄宿方案。LEP会连同实际入住年龄、学年日历、假期安排及适用的入境手续一起核对。"}, {"q": "您现在就能提供真实访校信息吗？", "a": "可以。本文的校友家庭、设施和社区见闻来自修印先生的到访经历，配图均为LEP实拍；课程和费用按2026年9月28日查阅的现行资料整理。"}]
 
 school_key: "saint-charles"
+consultation: "swiss"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/sc16.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc16.jpg" alt="Saint-Charles 校园花园与校舍" width="1600" height="1067" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Saint-Charles 校园花园与校舍。LEP实拍。</figcaption></figure>
+{% include lep-intent-contact.html %}
 <h2 id="section-1">先看孩子走哪条课程，再判断学校是否适合</h2>
 <p>Saint-Charles 位于瑞士法语区侏罗州的 Porrentruy。对中国初高中家庭，最值得先了解的是英文 IB 路线和瑞士 Maturité 路线。<a class="cite" href="#source-1" title="Saint-Charles 校址">[1]</a><a class="cite" href="#source-2" title="Saint-Charles 英文 IB 路线">[2]</a><a class="cite" href="#source-3" title="Saint-Charles 瑞士课程与 Maturité">[3]</a></p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="课程与费用对照表"><table><thead><tr><th scope="col">课程方向</th><th scope="col">主要阶段</th><th scope="col">家庭需要理解的区别</th></tr></thead><tbody><tr><td>IB 前段课程 / Pre-DP</td><td>为两年制 IB 文凭课程做准备</td><td>以英文国际课程为方向，先衔接学科英语、学习方法和选科</td></tr><tr><td>IB Diploma Programme</td><td>通常约16—18岁，两年</td><td>英文授课；适合希望通过 IB 申请不同国家大学的学生</td></tr><tr><td>瑞士中学课程</td><td>9—11H，学校介绍约12—14岁</td><td>法英双语，包含德语学习；学术方向与后续职业教育方向有分流</td></tr><tr><td>瑞士 Maturité</td><td>中学后的四年制高中阶段</td><td>法英双语、学科覆盖广，通向瑞士大学体系；不能当成纯英文高中</td></tr></tbody></table></div>

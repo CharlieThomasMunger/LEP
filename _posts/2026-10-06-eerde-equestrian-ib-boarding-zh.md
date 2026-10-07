@@ -8,7 +8,7 @@ description: 了解Eerde当前马术合作资源、Pre-IB与IB方向、全寄宿
 answer: Eerde已经把马术与中学学习的协调写入专门项目资料，值得有持续训练需求的家庭重点了解。真正的选择依据，是孩子的课程阶段、具体马场与教练、每周时间表和完整预算，而不是只看学校有没有马术照片。
 date: '2026-10-06'
 reviewed: '2026-10-06'
-last_modified_at: '2026-10-06'
+last_modified_at: "2026-10-07"
 permalink: /zh/insights/eerde-equestrian-ib-boarding/
 image: /assets/eerde/n7-4.webp
 school_article: true
@@ -21,8 +21,10 @@ faq:
   a: 没有适合所有学生的统一答案。LEP会推动按实际课表、交通、自习和比赛安排核对；不要把项目介绍直接当作固定课时承诺。
 - q: 全寄宿是否包括全年所有假期？
   a: 全寄宿覆盖学校规定的寄宿时段，不能等同365天开放。学校假期内孩子和马匹的安排都需要提前落实。
+consultation: "equestrian"
 ---
 
+{% include lep-intent-contact.html %}
 <h2 id="section-1">最新项目资料介绍了什么？</h2>
 <p>Eerde International Boarding School Netherlands位于荷兰Ommen。学校提供的马术项目册与本次核对的官网均介绍：学生可在中学学习期间继续训练，课程与训练、比赛时间需要协调，并有自带马匹的选项。学校列有Pre-IB和IB Diploma Programme等教育方向。</p><p>这些资源对已经持续骑乘的孩子有意义：讨论的起点可以是一份“学习加训练”的计划，而不只是报名一项放学后的活动。具体适用年级、课表调整、训练量和费用仍须按学生确认。</p><figure class="article-photo"><img src="/assets/eerde/n7-4.webp" width="1600" height="1000" alt="马术与中学学习，需要共同安排时间。" loading="lazy" decoding="async"><figcaption>马术与中学学习，需要共同安排时间。</figcaption></figure>
 

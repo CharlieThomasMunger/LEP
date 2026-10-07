@@ -15,12 +15,14 @@ school_article: true
 has_topic_navigation: true
 
 school_key: "eerde"
+consultation: "eerde"
 ---
 
 <aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-james-school-sign-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-james-school-sign-lep.jpg" width="2275" height="1280" alt="修印先生实地到访Eerde国际寄宿学校。LEP实拍。" loading="eager" decoding="async"></a><figcaption>修印先生实地到访Eerde国际寄宿学校。LEP实拍。</figcaption></figure><h2>我为什么愿意把这所学校介绍给家长？</h2>
 <p>Eerde国际寄宿学校我去过。给我的第一印象，是古堡与现代教学建筑结合在一起，孩子不是只在一栋楼里上课，而是在一个完整的校园环境里学习、生活。</p>
 <p>住宿条件在我看来是可以的。尤其对父母不去荷兰、孩子自己过去的家庭，全寄宿连学期内周末也覆盖，这一点很重要。学校能把课堂和日常生活接起来，才真正符合这类家庭的需要。</p>
 <p>接待我们的校方人员非常热情，非常nice。我愿意把这种真实接触的感受写出来：家长把孩子送到海外，关心的不只有课程名称，也会在意以后跟学校沟通时，面对的是怎样的人。</p>
+{% include lep-intent-contact.html %}
 <h2>师生一起吃饭，生活习惯也有要求</h2>
 <p>访校时，校方特别向我介绍，孩子吃饭时是与老师一起用餐的。在这样的古堡校园里，师生接触不只发生在课堂。</p>
 <p>学校对用餐和日常生活习惯有严格规定。吃完饭要自己收拾，也有厨房管理方面的要求。对父母不在身边的孩子，这些具体的生活规矩，是寄宿教育的一部分。</p>

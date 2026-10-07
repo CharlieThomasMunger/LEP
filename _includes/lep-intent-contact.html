@@ -1,0 +1,2 @@
+{% assign invitation = site.data.consultation[page.consultation] %}
+{% if invitation and page.lang == 'zh' %}<aside class="lep-intent-contact" aria-label="LEP 申请服务"><p><strong>{{ invitation.title }}</strong></p><p>{{ invitation.text }}</p><p><a href="{{ invitation.url }}">{{ invitation.link }} →</a> · <a href="#contact-lep">联系修印先生</a></p></aside>{% endif %}

@@ -11,6 +11,8 @@ date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "IMI 有三条本科、一个 MSc 硕士，以及两种 Graduate Diploma。选课时先分清：你是要读完整本科、拿硕士学位，还是用较短时间补充酒店或厨艺训练。"
 image: "/assets/imi/hospitality-curriculum.png"
+consultation: "imi"
+last_modified_at: "2026-10-07"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
@@ -18,6 +20,8 @@ image: "/assets/imi/hospitality-curriculum.png"
 **瑞士国际酒店管理学院（IMI International Management Institute Switzerland，简称 IMI）有三条本科、一个 MSc 硕士，以及两种 Graduate Diploma。选课时先分清：你是要读完整本科、拿硕士学位，还是用较短时间补充酒店或厨艺训练。**
 
 名字都有“管理”，学的东西却不一样。对已经本科毕业的人，把 MSc 和 Graduate Diploma 选错了，拿到的学位或文凭就与原计划不同；对高中毕业生，酒店经营和专业厨房也是两种很不同的日常。
+
+{% include lep-intent-contact.html %}
 
 ## 先用一张表找到自己的方向
 
