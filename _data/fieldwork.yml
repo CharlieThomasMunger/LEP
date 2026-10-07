@@ -150,3 +150,21 @@ switzerland:
         en: James Liu visiting the HIM campus and alumni photograph wall. Photograph by LEP.
         fr: James Liu visite le campus de HIM et son mur de photographies des anciennes promotions. Photo LEP.
       alt: {zh: 修印先生实地走访 HIM, en: James Liu visiting HIM, fr: James Liu en visite à HIM}
+
+netherlands:
+  title: {zh: 荷兰 · Eerde 实地访校, en: The Netherlands — visiting Eerde, fr: Pays-Bas — visite d’Eerde}
+  intro:
+    zh: 修印先生（James Liu）亲自走访 Eerde，查看寄宿与教学环境，并与校方交流。详细观察与实拍照片已整理为 LEP 访校文章。
+    en: James Liu visited Eerde, saw its boarding and teaching environment and spoke with the school. His observations and photographs are available in LEP’s visit guide.
+    fr: James Liu a visité Eerde, découvert les espaces d’internat et d’enseignement et échangé avec l’école. Ses observations et photographies figurent dans le guide de visite de LEP.
+  items:
+    - name: Eerde International Boarding School Netherlands
+      image: /assets/eerde/eerde-james-school-sign-lep.jpg
+      kind: {zh: 实地访校 · LEP 实拍, en: Campus visit · LEP photograph, fr: Visite sur place · Photo LEP}
+      note:
+        zh: 修印先生（James Liu）在 Eerde 校门前。原文记录住宿、校园生活与教学环境，以及适合重点了解这所学校的家庭。
+        en: James Liu at the Eerde entrance. The guide covers boarding, campus life, the learning environment and family suitability.
+        fr: James Liu devant l’entrée d’Eerde. Le guide aborde l’internat, la vie sur le campus, le cadre scolaire et les profils de familles concernés.
+      alt: {zh: 修印先生 James Liu 在 Eerde 国际寄宿学校校门前, en: James Liu at Eerde International Boarding School Netherlands, fr: James Liu à Eerde International Boarding School Netherlands}
+      article: eerde-boarding-school-visit
+      article_label: {zh: 阅读 LEP 的 Eerde 实地访校记录, en: Read LEP’s Eerde visit guide, fr: Lire le guide de visite d’Eerde par LEP}

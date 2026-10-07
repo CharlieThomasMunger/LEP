@@ -8,6 +8,7 @@ layout: default
   <header class="page-head">
     <h1>{{ page.heading }}</h1>
     <p class="lede">{{ page.standfirst }}</p>
+    {% assign identity = site.data.identity[lang] %}<p>{{ identity.summary }}</p><p><a href="{{ identity.author_path | relative_url }}">{{ identity.profile }}</a> · <a href="/{{ lang }}/school-guides/">{{ identity.names }}</a></p>
   </header>
 
   <div class="prose">{{ content | markdownify }}</div>
@@ -26,6 +27,7 @@ layout: default
           <b>{{ item.name }}</b>
           {%- if item.kind %}<span>{{ item.kind[lang] }}</span>{% endif %}
           {%- if item.note %}<p>{{ item.note[lang] }}</p>{% endif %}
+          {%- if item.article %}<a href="/{{ lang }}/insights/{{ item.article }}/">{{ item.article_label[lang] }}</a>{% endif %}
         </figcaption>
       </figure>
       {%- endfor %}
