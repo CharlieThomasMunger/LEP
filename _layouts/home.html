@@ -59,6 +59,10 @@ layout: default
         <p class="home-photo-credit">{{ h.photo_label }}</p>
       </div>
     </div>
+    <article class="home-ubi-visit" aria-labelledby="ubi-visit-title">
+      <figure><img src="{{ '/assets/fieldwork/ubi-campus-leadership.jpg' | relative_url }}" alt="{{ h.ubi.caption | escape }}" width="1000" height="1500" loading="lazy" decoding="async"><figcaption>{{ h.ubi.caption }}</figcaption></figure>
+      <div><p class="home-label">{{ h.ubi.label }}</p><h3 id="ubi-visit-title">{{ h.ubi.title }}</h3><p>{{ h.ubi.text }}</p><a class="home-text-link" href="#contact-lep">{{ h.ubi.link }} <span aria-hidden="true">→</span></a></div>
+    </article>
   </div>
 </section>
 

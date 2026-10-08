@@ -174,3 +174,8 @@ html[lang=zh] .home-case blockquote p{font-family:"LEP Song","Songti SC",serif;f
 }
 @media(prefers-reduced-motion:reduce){.lep-home *{scroll-behavior:auto!important}}
 @media print{.home-mobile-contact,.home-copy{display:none!important}.home-section{padding:24px 0}.home-case{color:#172b3b;background:white}.home-case p,.home-case cite{color:#172b3b!important}.home-section figure{break-inside:avoid}}
+
+/* UBI campus visit: full portrait, genuine meeting context. */
+.home-ubi-visit{display:grid;grid-template-columns:250px minmax(0,1fr);gap:48px;align-items:center;margin-top:36px;background:#edf1ed;border:1px solid var(--line);padding:28px 40px 28px 28px}
+.home-ubi-visit figure{margin:0}.home-ubi-visit img{display:block;width:100%;height:auto;max-height:375px;object-fit:contain}.home-ubi-visit figcaption{font-size:11px;line-height:1.7;color:var(--home-muted);margin-top:12px}.home-ubi-visit h3{font-size:29px;line-height:1.35;margin:12px 0 18px}.home-ubi-visit>div>p:not(.home-label){max-width:650px;line-height:1.9;color:var(--home-muted)}
+@media(max-width:700px){.home-ubi-visit{grid-template-columns:1fr;gap:24px;padding:24px}.home-ubi-visit figure{max-width:250px;margin:auto}.home-ubi-visit h3{font-size:23px}.home-ubi-visit>div>p:not(.home-label){font-size:14px}}

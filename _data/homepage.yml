@@ -239,7 +239,14 @@
     "copy_failed": "请长按或选中微信号复制",
     "whatsapp": "WhatsApp 咨询",
     "qr_caption": "扫码打开 WhatsApp 对话",
-    "mobile_label": "欧洲学校 · LEP"
+    "mobile_label": "欧洲学校 · LEP",
+    "ubi": {
+      "label": "卢森堡 · WILTZ · 高等教育",
+      "title": "走进城堡里的UBI商学院",
+      "text": "2026年4月，修印先生到访UBI卢森堡校区，与校区负责人及招生团队当面交流。从课堂与校园，到比利时和卢森堡的学习安排，我们把实地了解带回每一次选校讨论。",
+      "caption": "修印先生与UBI卢森堡校区负责人 · 2026年4月访校实拍",
+      "link": "与LEP讨论商科学习选择"
+    }
   },
   "en": {
     "eyebrow": "LUX EDUCATION PARTNERS · LUXEMBOURG",
@@ -450,7 +457,14 @@
     "email_label": "Email James Liu",
     "whatsapp": "Chat on WhatsApp",
     "qr_caption": "Scan to open a WhatsApp conversation",
-    "mobile_label": "European education · LEP"
+    "mobile_label": "European education · LEP",
+    "ubi": {
+      "label": "LUXEMBOURG · WILTZ · HIGHER EDUCATION",
+      "title": "Inside UBI Business School at Wiltz Castle",
+      "text": "In April 2026, James Liu visited UBI’s Luxembourg campus and met its campus leadership and recruitment team. Firsthand conversations about the campus and study arrangements in Belgium and Luxembourg inform our discussions with prospective students.",
+      "caption": "James Liu with the UBI Luxembourg campus representative · April 2026 visit",
+      "link": "Discuss business study options with LEP"
+    }
   },
   "fr": {
     "eyebrow": "LUX EDUCATION PARTNERS · LUXEMBOURG",
@@ -661,6 +675,13 @@
     "email_label": "Écrire à James Liu",
     "whatsapp": "Échanger sur WhatsApp",
     "qr_caption": "Scannez pour ouvrir une conversation WhatsApp",
-    "mobile_label": "Études en Europe · LEP"
+    "mobile_label": "Études en Europe · LEP",
+    "ubi": {
+      "label": "LUXEMBOURG · WILTZ · ENSEIGNEMENT SUPÉRIEUR",
+      "title": "À la découverte d’UBI au château de Wiltz",
+      "text": "En avril 2026, James Liu a visité le campus luxembourgeois d’UBI et rencontré la responsable du campus ainsi que l’équipe de recrutement. Ces échanges sur le cadre d’études et les parcours en Belgique et au Luxembourg nourrissent notre accompagnement des étudiants.",
+      "caption": "James Liu avec la responsable du campus UBI Luxembourg · Visite d’avril 2026",
+      "link": "Échanger avec LEP sur un parcours en management"
+    }
   }
 }
