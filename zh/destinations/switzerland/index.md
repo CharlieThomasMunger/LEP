@@ -3,7 +3,7 @@ layout: "page"
 lang: "zh"
 permalink: "/zh/destinations/switzerland/"
 translation_key: "destination-switzerland"
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-11"
 title: "瑞士国际寄宿学校怎么选？课程、费用与升学路径"
 heading: "瑞士国际寄宿学校与升学规划"
 description: "比较 Saint-Charles、Chantemerle 与 TASIS 的课程、寄宿生活及费用，结合 LEP 实地访校了解 IB、A Level、AP 和瑞士升学路径；另设瑞士酒店管理本科与硕士专题。"
@@ -79,3 +79,10 @@ WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxe
 
 
 <p><a href="/zh/school-guides/">学校中英文名称与访校文章 →</a></p>
+
+
+## 查看 LEP 选校与入学专题
+
+还没确定学校？看看 LEP 怎样帮您比较选校、寄宿与入学安排。
+
+[选校、寄宿与入学：LEP 怎样帮助家庭作决定](/zh/guides/school-decisions/)

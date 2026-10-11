@@ -8,7 +8,7 @@ heading: "Luxembourg"
 description: "Comparez les écoles, les cursus et les frais. Découvrez les familles d’accueil pour les élèves dont les parents vivent à l’étranger et un cas d’entrée à l’école en neuf jours accompagné par LEP."
 standfirst: "Candidatures, arrivée des familles et accompagnement local, là où nous vivons et travaillons."
 
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-11"
 ---
 
 ## Votre première question
@@ -60,3 +60,10 @@ Pour les élèves mineurs, nous coordonnons les candidatures, les familles d’a
 
 
 <p><a href="/fr/school-guides/">Noms des écoles et guides de visite →</a></p>
+
+
+## Consulter les dossiers de choix scolaire LEP
+
+Vous hésitez entre plusieurs écoles ? Découvrez comment LEP relie sélection, hébergement et arrivée.
+
+[Choix scolaire, hébergement et arrivée avec LEP](/fr/guides/school-decisions/)

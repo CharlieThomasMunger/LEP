@@ -131,6 +131,7 @@ layout: default
       <a class="home-question" href="{{ prefix | append: '/insights/' | append: slug | append: '/' | relative_url }}"><div><h3>{{ q.title }}</h3><p>{{ q.text }}</p></div><span aria-hidden="true">↗</span></a>
       {% endfor %}
     </div>
+    {% include school-decisions-link.html %}
   </div>
 </section>
 

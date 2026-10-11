@@ -35,6 +35,10 @@ default_lang: en
 
 # ---- 主题分组 ----
 clusters:
+  family-decisions:
+    zh: LEP 选校与入学方案
+    en: School decisions with LEP
+    fr: Choix scolaire avec LEP
   lep-services:
     zh: 为什么选择 LEP
     en: Why choose LEP

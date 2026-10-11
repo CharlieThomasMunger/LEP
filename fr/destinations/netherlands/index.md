@@ -9,7 +9,7 @@ heading: "Étudier en internat anglophone aux Pays-Bas"
 description: "Découvrez Eerde à travers une visite de terrain, les études, l’internat, l’anglais, les frais et les perspectives universitaires. LEP aide les familles internationales à relier le choix scolaire aux démarches concrètes en Europe."
 standfirst: "Découvrez Eerde à travers une visite de terrain, les études, l’internat, l’anglais, les frais et les perspectives universitaires. LEP aide les familles internationales à relier le choix scolaire aux démarches concrètes en Europe."
 
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-11"
 ---
 
 <p>J’ai visité Eerde, son hébergement et son campus associant domaine historique et espaces pédagogiques modernes, et échangé directement avec l’école. LEP est basé au Luxembourg, dans le même fuseau horaire, et organise des visites aux Pays-Bas chaque trimestre pour relier cursus, internat et préparation de la candidature.</p>
@@ -20,3 +20,10 @@ last_modified_at: "2026-10-07"
 
 
 <p><a href="/fr/school-guides/">Noms des écoles et guides de visite →</a></p>
+
+
+## Consulter les dossiers de choix scolaire LEP
+
+Vous hésitez entre plusieurs écoles ? Découvrez comment LEP relie sélection, hébergement et arrivée.
+
+[Choix scolaire, hébergement et arrivée avec LEP](/fr/guides/school-decisions/)

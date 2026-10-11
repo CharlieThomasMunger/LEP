@@ -9,7 +9,7 @@ heading: "English-language boarding education in the Netherlands"
 description: "Explore Eerde through first-hand school observations, boarding arrangements, English preparation, fees and university pathways. LEP helps international families connect school choice with practical application support in Europe."
 standfirst: "Explore Eerde through first-hand school observations, boarding arrangements, English preparation, fees and university pathways. LEP helps international families connect school choice with practical application support in Europe."
 
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-11"
 ---
 
 <p>I have visited Eerde, seen its boarding accommodation and its combination of historic campus and modern teaching spaces, and spoken directly with the school. Based in Luxembourg, LEP works in the same time zone and organises school visits in the Netherlands each quarter, helping families connect course choices, boarding and application preparations.</p>
@@ -20,3 +20,10 @@ last_modified_at: "2026-10-07"
 
 
 <p><a href="/en/school-guides/">School names and our visit guides →</a></p>
+
+
+## Explore the LEP school decision guides
+
+Choosing a school? Explore how LEP connects selection, accommodation and arrival.
+
+[School choice, boarding and arrival with LEP](/en/guides/school-decisions/)

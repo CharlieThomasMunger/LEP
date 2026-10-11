@@ -1,5 +1,7 @@
 {%- assign breadcrumb_path = '/' | append: lang | append: '/insights/' -%}
 {%- case page.cluster -%}
+{%- when 'family-decisions' -%}
+{%- assign breadcrumb_path = '/' | append: lang | append: '/guides/school-decisions/' -%}
 {%- when 'luxembourg-school', 'luxembourg-university' -%}
 {%- assign breadcrumb_path = '/' | append: lang | append: '/destinations/luxembourg/' -%}
 {%- when 'netherlands-school' -%}

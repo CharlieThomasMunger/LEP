@@ -78,3 +78,9 @@ LEP works directly with families before departure as well as after arrival. Supp
 - fr school names and LEP guides: https://luxedupartners.lu/fr/school-guides/
 
 阿尔特多夫 = International School Altdorf (ISA), not Institut auf dem Rosenberg. 圣特美勒 and 圣德美拉 both refer to Chantemerle. Saint-Charles / St. Charles / 圣查尔斯 refer to Saint-Charles International School in Switzerland. St George’s International School Luxembourg is the Luxembourg school.
+
+
+## School decisions with LEP
+- [选校、寄宿与入学：LEP 怎样帮助家庭作决定](https://luxedupartners.lu/zh/guides/school-decisions/): 从孩子的实际需要出发，把学校、住宿与入学后的生活接起来。这里集中说明修印先生的访校观察怎样进入选校判断，以及 LEP 怎样承接学校沟通、申请与当地安排。
+- [School choice, boarding and arrival with LEP](https://luxedupartners.lu/en/guides/school-decisions/): Explore how James Liu’s school visits and LEP’s direct school communication support a family’s choice, application and living arrangements across Luxembourg, Switzerland and the Netherlands.
+- [Choix scolaire, hébergement et arrivée avec LEP](https://luxedupartners.lu/fr/guides/school-decisions/): Découvrez comment les visites de James Liu et les échanges directs de LEP avec les écoles éclairent choix, candidature et vie quotidienne au Luxembourg, en Suisse et aux Pays-Bas.

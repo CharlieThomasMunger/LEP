@@ -8,7 +8,7 @@ heading: "Luxembourg"
 description: "Compare private international schools in Luxembourg, fees and curricula. Explore host-family arrangements when parents live abroad, LEP’s local services and a documented nine-day school-placement case."
 standfirst: "School applications, family arrival and ongoing local support, grounded in where we live and work."
 
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-11"
 ---
 
 ## Start with your family’s question
@@ -60,3 +60,10 @@ For younger students, we coordinate applications, host families and guardianship
 
 
 <p><a href="/en/school-guides/">School names and our visit guides →</a></p>
+
+
+## Explore the LEP school decision guides
+
+Choosing a school? Explore how LEP connects selection, accommodation and arrival.
+
+[School choice, boarding and arrival with LEP](/en/guides/school-decisions/)

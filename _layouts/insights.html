@@ -9,6 +9,7 @@ layout: default
   <header class="page-head">
     <h1>{{ page.heading }}</h1>
     <p class="lede">{{ page.standfirst }}</p>
+    {% include school-decisions-link.html %}
   </header>
 
   {%- for c in site.clusters -%}

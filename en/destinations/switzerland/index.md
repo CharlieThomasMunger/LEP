@@ -3,7 +3,7 @@ layout: "page"
 lang: "en"
 permalink: "/en/destinations/switzerland/"
 translation_key: "destination-switzerland"
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-11"
 title: "Swiss boarding schools: curricula, fees and university pathways"
 heading: "Swiss boarding schools and study pathways"
 description: "Explore Saint-Charles, Chantemerle and TASIS through LEP school visits. Compare boarding, fees, IB, A Levels and AP, with separate guides to Swiss hospitality degrees."
@@ -79,3 +79,10 @@ Share your child’s age, current year group, language skills, family budget and
 
 
 <p><a href="/en/school-guides/">School names and our visit guides →</a></p>
+
+
+## Explore the LEP school decision guides
+
+Choosing a school? Explore how LEP connects selection, accommodation and arrival.
+
+[School choice, boarding and arrival with LEP](/en/guides/school-decisions/)

@@ -3,7 +3,7 @@ layout: "page"
 lang: "fr"
 permalink: "/fr/destinations/switzerland/"
 translation_key: "destination-switzerland"
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-11"
 title: "Internats en Suisse : cursus, frais et études supérieures"
 heading: "Internats suisses et parcours d’études"
 description: "Découvrez Saint-Charles, Chantemerle et TASIS à travers les visites de LEP : internat, frais, IB, A Levels et AP. Consultez aussi nos guides sur les études hôtelières en Suisse."
@@ -79,3 +79,10 @@ Indiquez-nous l’âge de votre enfant, sa classe actuelle, ses compétences lin
 
 
 <p><a href="/fr/school-guides/">Noms des écoles et guides de visite →</a></p>
+
+
+## Consulter les dossiers de choix scolaire LEP
+
+Vous hésitez entre plusieurs écoles ? Découvrez comment LEP relie sélection, hébergement et arrivée.
+
+[Choix scolaire, hébergement et arrivée avec LEP](/fr/guides/school-decisions/)

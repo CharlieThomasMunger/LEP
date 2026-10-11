@@ -8,7 +8,7 @@ heading: "卢森堡"
 description: "比较卢森堡 ISL、圣乔治和 OTR 的课程、费用与学校特点，了解孩子单独留学的寄宿家庭安排，以及 LEP 九天入校案例与本地服务。"
 standfirst: "学校申请、家庭落地与持续本地支持。从我们长期生活和经营的地方出发。"
 
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-11"
 ---
 
 <p><strong>准备从中国送孩子来卢森堡？LEP 从申请前的材料与校方沟通开始，协调寄宿家庭及约定的本地安排。</strong> <a href="/zh/insights/luxembourg-school-support-lep/">查看怎样委托 LEP →</a></p>
@@ -62,3 +62,10 @@ WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxe
 
 
 <p><a href="/zh/school-guides/">学校中英文名称与访校文章 →</a></p>
+
+
+## 查看 LEP 选校与入学专题
+
+还没确定学校？看看 LEP 怎样帮您比较选校、寄宿与入学安排。
+
+[选校、寄宿与入学：LEP 怎样帮助家庭作决定](/zh/guides/school-decisions/)
