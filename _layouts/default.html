@@ -159,7 +159,6 @@
       <p>{% case lang %}{% when 'zh' %}扎根卢森堡，连接欧洲教育与未来。{% when 'fr' %}Ancrés au Luxembourg.<br>Votre avenir en Europe.{% else %}Rooted in Luxembourg.<br>Your future in Europe.{% endcase %}</p>
     </div>
     {% unless page.home_refresh %}{% unless content contains 'id="contact-lep"' %}{% include lep-contact.html %}{% endunless %}{% endunless %}
-    <p class="disclaimer">{{ t.disclaimer }}</p>
     <p><a href="{{ '/' | append: lang | append: '/schools/' | relative_url }}">{{ t.nav_schools }}</a></p>
     {% assign family_page = site.pages | where: "translation_key", "family-services" | where: "lang", lang | first %}
     {% if family_page %}<p><a href="{{ family_page.url | relative_url }}">{{ identity.scope }}</a></p>{% endif %}

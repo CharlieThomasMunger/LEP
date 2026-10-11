@@ -1,7 +1,7 @@
 # ─────────────────────────────────────────────────────────────
 # 实地调研图库 · 加一张照片 = 在这里加一段，图片放 assets/fieldwork/
-# 规则：只写"我去过、我们谈过什么"，不写"该校认可我们"。
-# 合作状态照实写：签了写"已签署"，在谈写"合作洽谈"。
+# 图库只保留学校名称及已确认的必要照片说明。
+# 不在图库列签约、洽谈状态或泛化免责说明；未知身份先向 James 核实。
 # ─────────────────────────────────────────────────────────────
 
 luxembourg:
@@ -71,10 +71,6 @@ luxembourg:
     - name: UBI Business School
       image: /assets/fieldwork/ubi.jpg
       kind: {zh: 私立商学院, en: Private business school, fr: École de commerce privée}
-      note:
-        zh: 走访卢森堡校区，就课程路径与合作可能进行交流。
-        en: On-site visit; programme pathways and possible cooperation.
-        fr: Visite sur site ; cursus et possibilités de coopération.
       alt: {zh: 走访 UBI 商学院, en: Visit to UBI Business School Luxembourg}
 
 
@@ -83,10 +79,6 @@ switzerland:
     zh: 瑞士 · 学校走访与合作
     en: Switzerland — visits and cooperation
     fr: Suisse — visites et coopération
-  intro:
-    zh: 以卢森堡为基地，2026 年起走访瑞士寄宿学校与酒店管理院校。其中与 IMI 已签署正式合作协议。
-    en: From the Luxembourg base, visits to Swiss boarding schools and hotel management institutes from 2026. A formal cooperation agreement is in place with IMI.
-    fr: Depuis la base luxembourgeoise, visites d'internats et d'écoles hôtelières suisses à partir de 2026. Un accord de coopération formel a été signé avec IMI.
   items:
     - name: Chantemerle · 圣特美勒 / 圣德美拉
       image: /assets/fieldwork/chantemerle.jpg
@@ -117,12 +109,7 @@ switzerland:
 
     - name: IMI International Management Institute
       image: /assets/fieldwork/imi.jpg
-      kind: {zh: 已签署合作协议 · 2026 年 6 月, en: Cooperation agreement signed — June 2026, fr: Accord de coopération signé — juin 2026}
-      note:
-        zh: 双方已签署正式合作协议。
-        en: A formal cooperation agreement has been signed.
-        fr: Un accord de coopération formel a été signé.
-      alt: {zh: 与 IMI 签署合作, en: Cooperation with IMI International Management Institute}
+      alt: {zh: IMI International Management Institute, en: IMI International Management Institute, fr: IMI International Management Institute}
 
     - name: TASIS The American School in Switzerland
       image: /assets/fieldwork/tasis.jpg
@@ -135,11 +122,6 @@ switzerland:
 
     - name: Swiss Hotel Management School (SEG)
       image: /assets/fieldwork/shms.jpg
-      kind: {zh: 合作洽谈 · 2026 年 6 月, en: Cooperation discussions — June 2026, fr: Échanges de coopération — juin 2026}
-      note:
-        zh: 走访 SHMS，与 Swiss Education Group 就合作事宜当面沟通。
-        en: On-site visit to SHMS and in-person cooperation discussions with Swiss Education Group.
-        fr: Visite sur site de SHMS ; échanges directs avec Swiss Education Group sur la coopération.
       alt: {zh: 走访 SHMS 瑞士酒店管理学院, en: At Swiss Hotel Management School}
 
     - name: HIM Business School
