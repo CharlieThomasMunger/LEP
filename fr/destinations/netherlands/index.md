@@ -1,16 +1,18 @@
 ---
-layout: "page"
-lang: "fr"
-translation_key: "destination-netherlands"
-image: "/assets/eerde/eerde-historic-campus-lep.jpg"
-permalink: "/fr/destinations/netherlands/"
-title: "Étudier en internat anglophone aux Pays-Bas"
-heading: "Étudier en internat anglophone aux Pays-Bas"
-description: "Découvrez Eerde à travers une visite de terrain, les études, l’internat, l’anglais, les frais et les perspectives universitaires. LEP aide les familles internationales à relier le choix scolaire aux démarches concrètes en Europe."
-standfirst: "Découvrez Eerde à travers une visite de terrain, les études, l’internat, l’anglais, les frais et les perspectives universitaires. LEP aide les familles internationales à relier le choix scolaire aux démarches concrètes en Europe."
-
-last_modified_at: "2026-10-11"
+{
+  "layout": "page",
+  "lang": "fr",
+  "translation_key": "destination-netherlands",
+  "image": "/assets/eerde/eerde-historic-campus-lep.jpg",
+  "permalink": "/fr/destinations/netherlands/",
+  "title": "Étudier en internat anglophone aux Pays-Bas",
+  "heading": "Étudier en internat anglophone aux Pays-Bas",
+  "description": "Découvrez Eerde à travers une visite de terrain, les études, l’internat, l’anglais, les frais et les perspectives universitaires. LEP aide les familles internationales à relier le choix scolaire aux démarches concrètes en Europe.",
+  "standfirst": "Découvrez Eerde à travers une visite de terrain, les études, l’internat, l’anglais, les frais et les perspectives universitaires. LEP aide les familles internationales à relier le choix scolaire aux démarches concrètes en Europe.",
+  "last_modified_at": "2026-10-12"
+}
 ---
+
 
 <p>J’ai visité Eerde, son hébergement et son campus associant domaine historique et espaces pédagogiques modernes, et échangé directement avec l’école. LEP est basé au Luxembourg, dans le même fuseau horaire, et organise des visites aux Pays-Bas chaque trimestre pour relier cursus, internat et préparation de la candidature.</p>
 <figure class="article-photo" style="margin:32px 0"><a href="/assets/eerde/eerde-historic-campus-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-historic-campus-lep.jpg" width="2275" height="1280" alt="Les bâtiments historiques et les abords du campus d’Eerde. Photo LEP." loading="eager" decoding="async" style="display:block;width:100%;max-width:100%;height:auto"></a><figcaption style="font-size:12px;line-height:1.75;color:#62717b;padding-top:10px">Les bâtiments historiques et les abords du campus d’Eerde. Photo LEP.</figcaption></figure>
@@ -27,3 +29,9 @@ last_modified_at: "2026-10-11"
 Vous hésitez entre plusieurs écoles ? Découvrez comment LEP relie sélection, hébergement et arrivée.
 
 [Choix scolaire, hébergement et arrivée avec LEP](/fr/guides/school-decisions/)
+
+
+<!-- lep-materials-20261012 -->
+## Poursuivre la comparaison avec LEP
+
+- [Coût de l’internat Eerde : scolarité, entrée et organisation des vacances](/fr/insights/eerde-boarding-school-fees/)

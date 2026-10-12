@@ -1,16 +1,18 @@
 ---
-layout: "page"
-lang: "en"
-translation_key: "destination-netherlands"
-image: "/assets/eerde/eerde-historic-campus-lep.jpg"
-permalink: "/en/destinations/netherlands/"
-title: "English-language boarding education in the Netherlands"
-heading: "English-language boarding education in the Netherlands"
-description: "Explore Eerde through first-hand school observations, boarding arrangements, English preparation, fees and university pathways. LEP helps international families connect school choice with practical application support in Europe."
-standfirst: "Explore Eerde through first-hand school observations, boarding arrangements, English preparation, fees and university pathways. LEP helps international families connect school choice with practical application support in Europe."
-
-last_modified_at: "2026-10-11"
+{
+  "layout": "page",
+  "lang": "en",
+  "translation_key": "destination-netherlands",
+  "image": "/assets/eerde/eerde-historic-campus-lep.jpg",
+  "permalink": "/en/destinations/netherlands/",
+  "title": "English-language boarding education in the Netherlands",
+  "heading": "English-language boarding education in the Netherlands",
+  "description": "Explore Eerde through first-hand school observations, boarding arrangements, English preparation, fees and university pathways. LEP helps international families connect school choice with practical application support in Europe.",
+  "standfirst": "Explore Eerde through first-hand school observations, boarding arrangements, English preparation, fees and university pathways. LEP helps international families connect school choice with practical application support in Europe.",
+  "last_modified_at": "2026-10-12"
+}
 ---
+
 
 <p>I have visited Eerde, seen its boarding accommodation and its combination of historic campus and modern teaching spaces, and spoken directly with the school. Based in Luxembourg, LEP works in the same time zone and organises school visits in the Netherlands each quarter, helping families connect course choices, boarding and application preparations.</p>
 <figure class="article-photo" style="margin:32px 0"><a href="/assets/eerde/eerde-historic-campus-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-historic-campus-lep.jpg" width="2275" height="1280" alt="Historic buildings and surroundings on the Eerde campus. LEP photograph." loading="eager" decoding="async" style="display:block;width:100%;max-width:100%;height:auto"></a><figcaption style="font-size:12px;line-height:1.75;color:#62717b;padding-top:10px">Historic buildings and surroundings on the Eerde campus. LEP photograph.</figcaption></figure>
@@ -27,3 +29,9 @@ last_modified_at: "2026-10-11"
 Choosing a school? Explore how LEP connects selection, accommodation and arrival.
 
 [School choice, boarding and arrival with LEP](/en/guides/school-decisions/)
+
+
+<!-- lep-materials-20261012 -->
+## Continue the comparison with LEP
+
+- [Eerde boarding-school costs: tuition, first-year cash and holiday arrangements](/en/insights/eerde-boarding-school-fees/)

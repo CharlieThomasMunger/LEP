@@ -1,50 +1,67 @@
 ---
-layout: "node"
-lang: "zh"
-ref: "netherlands-n4"
-permalink: "/zh/insights/eerde-boarding-school-fees/"
-cluster: "netherlands-school"
-title: "荷兰寄宿高中一年多少钱？以Eerde的学费和住宿费用为例"
-date: "2026-09-27"
-reviewed: "2026-09-27"
-description: "按Eerde 2026—2027收费，Middle School学费加全寄宿为€57,900，IGCSE／IBDP为€61,600。"
-answer: "按Eerde 2026—2027收费，Middle School学费加全寄宿为€57,900，IGCSE／IBDP为€61,600。"
-image: "/assets/eerde/n4-1.webp"
-school_article: true
-has_topic_navigation: true
-consultation: "eerde"
-last_modified_at: "2026-10-07"
+{
+  "school_article": true,
+  "consultation": "eerde",
+  "layout": "node",
+  "lang": "zh",
+  "ref": "netherlands-n4",
+  "cluster": "netherlands-school",
+  "title": "荷兰Eerde寄宿一年多少钱？学费、首次费用与假期怎样安排",
+  "description": "Eerde International Boarding School 2026/27学年，IGCSE及IB DP的学费加寄宿为61,600欧元，Middle Years为57,900欧元。父母不陪读的家庭，还要加入首次费用，并明确学校假期关闭宿舍时孩子在哪里生活。LEP与Eerde合作，可以把课程、寄宿和假期计划一起推进。",
+  "answer": "Eerde International Boarding School 2026/27学年，IGCSE及IB DP的学费加寄宿为61,600欧元，Middle Years为57,900欧元。父母不陪读的家庭，还要加入首次费用，并明确学校假期关闭宿舍时孩子在哪里生活。LEP与Eerde合作，可以把课程、寄宿和假期计划一起推进。",
+  "date": "2026-09-27",
+  "reviewed": "2026-10-12",
+  "last_modified_at": "2026-10-12",
+  "permalink": "/zh/insights/eerde-boarding-school-fees/",
+  "image": "/assets/eerde/eerde-castle-front-lep.jpg",
+  "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "faq": [
+    {
+      "q": "61,600欧元是什么范围？",
+      "a": "IGCSE或DP学费加学期寄宿；首次与假期等另列。"
+    },
+    {
+      "q": "假期孩子仍能住学校吗？",
+      "a": "公布的主要假期宿舍关闭，需提前安排住处与旅行。"
+    },
+    {
+      "q": "第一年68,000都是消费吗？",
+      "a": "包含2,750欧元押金，现金准备与最终消费不同。"
+    }
+  ],
+  "school_key": "eerde"
+}
 ---
 
-<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><img src="/assets/eerde/n4-1.webp" width="1600" height="1067" alt="Eerde 校园室内学习空间" loading="eager"><figcaption>Eerde 校园室内学习空间</figcaption></figure><h2>先给家长一笔可以比较的账</h2>
-<p>荷兰国际学校的收费差别很大。走读学校的学费，与独自出国孩子需要的学费加寄宿，不能直接放在同一列比较。</p>
-<p>下面使用Eerde国际寄宿学校提供的2026—2027收费，回答一个具体问题：选择这所学校、以全寄宿方式就读，需要准备多少学校基本费用。这个数字不是荷兰所有学校的平均价。</p>
-<div class="table-scroll"><table><thead><tr><th scope="col">项目</th><th scope="col">Middle School</th><th scope="col">IGCSE／IBDP</th></tr></thead><tbody>
-<tr><td>一学年学费</td><td>€23,400</td><td>€27,100</td></tr>
-<tr><td>一学年全寄宿</td><td>€34,500</td><td>€34,500</td></tr>
-<tr><td>学费＋全寄宿</td><td>€57,900</td><td>€61,600</td></tr>
+<figure class="article-photo"><img src="/assets/eerde/eerde-castle-front-lep.jpg" width="2275" height="1280" alt="Eerde城堡校园。LEP实拍。" loading="eager" decoding="async"><figcaption>Eerde城堡校园。LEP实拍。</figcaption></figure>
+<p>我是修印先生，已经到校走访。学校的城堡与环境有辨识度，但对独自留学的孩子，家长需要更具体的答案：每天怎样生活，整个学年还有哪些费用和日期要安排。</p>
+<h2>学费与学期寄宿，2026/27怎样拆开？</h2>
+<div class="table-scroll"><table><thead><tr><th>学段</th><th>学费 EUR/学年</th><th>寄宿 EUR/学年</th><th>两项合计</th></tr></thead><tbody>
+<tr><td>Middle Years</td><td>23,400</td><td>34,500</td><td>57,900欧元</td></tr>
+<tr><td>IGCSE</td><td>27,100</td><td>34,500</td><td>61,600欧元</td></tr>
+<tr><td>IB Diploma Programme</td><td>27,100</td><td>34,500</td><td>61,600欧元</td></tr>
 </tbody></table></div>
-<p>费用可能略有变化，以最终学校申请确认的金额为准。</p>
-{% include lep-intent-contact.html %}
-<h2>第一年还要准备什么？</h2>
-<p>中学首次注册费为€3,650，包含一台MacBook；寄宿押金为€2,750，按学校条件在寄宿结束时退还。</p>
-<p>把这两项加上，Middle School首年上述基本缴付合计€64,300，IGCSE／IBDP为€68,000。其中押金与最终消耗费用不同，不能全部叫作学费。</p>
-<p>家庭比较预算时，先记住两组数字即可：正常学年学费与全寄宿，以及首年需要缴付的基本金额。</p>
-<figure class="article-photo"><img src="/assets/eerde/n4-2.webp" width="1600" height="1067" alt="Eerde 校园餐食空间" loading="lazy"><figcaption>Eerde 校园餐食空间</figcaption></figure><h2>全寄宿包含周末，日常生活怎么安排？</h2>
-<p>学费包括课堂教学及学校列明的学习资源、午餐等。全寄宿覆盖学期内周末，包括住宿、相应餐食、洗衣、住校管理、活动及晚间自习安排。</p>
-<p>考试、私人辅导和部分额外活动另计。需要个别语言或学科支持的孩子，应在入学前确认相应费用，而不是等开学后才知道支持方案。</p>
-<p>另一个应提前安排的是假期：学校列明的秋假、圣诞假、春假、复活节假及暑假，宿舍不开放。这些时段的行程与住宿，不能直接视为已经包含在全寄宿费里。</p>
-<h2>荷兰一定比瑞士便宜吗？</h2>
-<p>不能仅凭国家名称下结论。Eerde的费用应与具体瑞士学校同年级、同住宿范围的报价比较。拿荷兰走读学费，对比瑞士寄宿总费，看上去会差很多，却并不能帮助一个需要寄宿的家庭做决定。</p>
-<p>同样重要的是孩子能否顺利衔接。便宜一点，但课程不合适、需要重新调整学习安排，未必是家庭真正想要的性价比。</p>
-<figure class="article-photo"><img src="/assets/eerde/n4-3.webp" width="1600" height="1066" alt="Eerde 学生休闲活动" loading="lazy"><figcaption>Eerde 学生休闲活动</figcaption></figure><h2>通过LEP申请，是否多付一笔服务费？</h2>
-<p>通过LEP申请Eerde，家长可以得到课程与费用确认、申请材料整理、校方沟通及签证申请协助。我们已经到访学校，并与校方直接对接，帮助家庭拿到对应孩子实际课程和住宿安排的费用方案。</p>
-<p>截至2027年9月15日，通过LEP申请Eerde，我们不额外收取申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校学费、寄宿费及政府等第三方收取的费用照常支付。</p>
-<p>联系James Liu，说明孩子的年级、英语情况和计划入学时间。我们先判断学校是否适合，再一起推进申请。</p>
-<h2>家长还会问</h2>
-<h3>€61,600是第一年全部费用吗？</h3>
-<p>不是，是IGCSE／IBDP一学年学费加全寄宿。</p>
-<h3>押金算不算学费？</h3>
-<p>不算；它是按学校条件可退的寄宿押金。</p>
-<h3>奖学金可以先从预算里扣掉吗？</h3>
-<p>应先取得校方对该学生的明确确认。</p><section class="eerde-contact" id="eerde-contact"><h2>联系修印先生，讨论孩子的申请与访校</h2><p>告诉我们孩子的年龄、年级、英语情况和计划入学时间。</p><p><a href="mailto:jamesliu@luxedupartners.lu">直接邮件联系James Liu</a> · <span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/apply-to-eerde-with-lep/">了解LEP如何协助申请 →</a></p></section><nav class="related" aria-label="继续了解荷兰留学"><h2>继续了解荷兰留学</h2><ul><li><a href="/zh/insights/netherlands-international-schools/">荷兰英文国际学校怎么选？父母不陪读，重点看什么</a></li><li><a href="/zh/insights/netherlands-boarding-without-parents/">父母不去荷兰，孩子能读哪些英文寄宿学校？</a></li><li><a href="/zh/insights/netherlands-international-school-english/">会英语、不会荷兰语，可以去荷兰读国际高中吗？</a></li><li><a href="/zh/insights/netherlands-boarding-school-application/">中国学生怎样申请荷兰寄宿高中？先看这几个条件</a></li><li><a href="/zh/insights/netherlands-ib-university-pathways/">在荷兰读IB高中，可以申请荷兰、瑞士、英国和美国哪些大学方向？</a></li><li><a href="/zh/insights/eerde-boarding-school-visit/">实地看过Eerde：这所荷兰国际寄宿学校，适合什么孩子？</a></li></ul></nav>
+<p>寄宿包含学期中的周末安排。考试、私人辅导与额外活动等，需要结合学生选择另列。申请年级先根据原课程、英语与校方评估确认，再使用对应费用。</p>
+<h2>第一年还需准备哪些现金？</h2>
+<p>新生注册费<strong>3,650欧元</strong>，表列包含MacBook等安排；可退押金<strong>2,750欧元</strong>。因此，Middle Years的已列首年现金为<strong>64,300欧元</strong>，IGCSE或IB DP为<strong>68,000欧元</strong>。</p>
+<p>以1欧元兑8.5元人民币作预算演算，IGCSE或DP的61,600欧元约为52.4万元，68,000欧元约为57.8万元。两者的差别包含首次费用和押金；人民币用于比较量级，实际换汇按付款时汇价。</p>
+<h2>哪些假期宿舍关闭？为什么必须提前安排？</h2>
+<p><strong>学校说明秋假、圣诞假、春假、复活节假与暑假期间宿舍关闭。</strong>家长需要把这些日期放进一整年的居住与交通计划。学期内每周七天寄宿，和全年每一天都在校，是不同的安排。</p>
+<div class="table-scroll"><table><thead><tr><th>假期选择</th><th>计划中要计入什么</th></tr></thead><tbody>
+<tr><td>回中国与父母团聚</td><td>往返机票、接送和航班日期与校历的衔接</td></tr>
+<tr><td>父母到欧洲陪伴</td><td>父母行程、临时住宿与当地生活</td></tr>
+<tr><td>其他合适安排</td><td>具体住处、负责成年人、学校要求与相关费用</td></tr>
+</tbody></table></div>
+<p>LEP会协助家庭把校历、寄宿与旅行衔接，向校方落实对应要求。哪一种安排适合，要看孩子的年龄、生活能力以及家长自己的计划。</p>
+<h2>读几年，整个学段怎样计算？</h2>
+<p>如果孩子需要先读IGCSE或高中准备，再进入IB，两年DP的费用就不能代表全部高中投入。我们会从实际入读阶段开始，将每个学年费用、首次支出和假期生活列出来。</p>
+<p>英语支持、考试费用与兴趣活动也要一起讨论。马术等持续训练有自己的时间与预算，家长可以在第一次联系时就说明，不用等入学以后再临时安排。</p>
+<h2>为什么通过LEP比较与申请Eerde？</h2>
+<p>我到校看过校园，也与学校直接沟通。LEP会把课程起点、寄宿生活、假期与家庭预算放在同一方案中，再协助材料、评估和申请。</p>
+<p>家长若希望先看学校，我们会把问题与孩子的具体需要对上：课堂、宿舍、日常生活和通勤，哪些最影响你家的决定。可以先阅读<a href="https://luxedupartners.lu/zh/insights/eerde-boarding-school-visit/">Eerde访校记录</a>与<a href="https://luxedupartners.lu/zh/insights/apply-to-eerde-with-lep/">通过LEP申请</a>。</p>
+<p>按LEP现行安排，至2027年9月15日前，所承接Eerde学校申请免申请服务费；学校与其他专项服务费用分别说明。告诉我们孩子的年龄、课程、英语、入学时间与全年预算，我们先给可以推进的建议。</p>
+
+<section class="lep-intent-contact"><h2>把孩子的实际情况交给LEP讨论</h2><p>请说明年龄或已有学历、现读课程、语言、入学时间和完整预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p><p><a href="/zh/insights/why-lep/">了解LEP的学校申请与本地服务 →</a></p></section>
+<section class="source-note"><h2>资料与更新时间</h2><p>Eerde 2026/27学校收费资料及寄宿关闭日期说明；本次费用拆分与整理：2026年10月12日。</p></section>
+<nav class="related" aria-label="继续比较与安排申请"><h2>继续比较与安排申请</h2><ul><li><a href="/zh/insights/europe-secondary-school-total-budget/">预算50万元一年，卢森堡、瑞士和荷兰中学怎样选？</a></li><li><a href="/zh/insights/china-secondary-to-swiss-ib-a-level/">国内初中、高一或高二转学瑞士，IB和A Level怎样衔接？</a></li></ul></nav>

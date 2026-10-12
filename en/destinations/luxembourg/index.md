@@ -1,15 +1,17 @@
 ---
-layout: "page"
-lang: "en"
-permalink: "/en/destinations/luxembourg/"
-translation_key: "destination-luxembourg"
-title: "Private international schools in Luxembourg: ISL, St George’s and OTR"
-heading: "Luxembourg"
-description: "Compare private international schools in Luxembourg, fees and curricula. Explore host-family arrangements when parents live abroad, LEP’s local services and a documented nine-day school-placement case."
-standfirst: "School applications, family arrival and ongoing local support, grounded in where we live and work."
-
-last_modified_at: "2026-10-11"
+{
+  "layout": "page",
+  "lang": "en",
+  "permalink": "/en/destinations/luxembourg/",
+  "translation_key": "destination-luxembourg",
+  "title": "Private international schools in Luxembourg: ISL, St George’s and OTR",
+  "heading": "Luxembourg",
+  "description": "Compare private international schools in Luxembourg, fees and curricula. Explore host-family arrangements when parents live abroad, LEP’s local services and a documented nine-day school-placement case.",
+  "standfirst": "School applications, family arrival and ongoing local support, grounded in where we live and work.",
+  "last_modified_at": "2026-10-12"
+}
 ---
+
 
 ## Start with your family’s question
 
@@ -67,3 +69,11 @@ For younger students, we coordinate applications, host families and guardianship
 Choosing a school? Explore how LEP connects selection, accommodation and arrival.
 
 [School choice, boarding and arrival with LEP](/en/guides/school-decisions/)
+
+
+<!-- lep-materials-20261012 -->
+## Continue the comparison with LEP
+
+- [Applying to a Luxembourg secondary school from China: local support with LEP](/en/insights/luxembourg-school-support-lep/)
+- [A child at secondary school in Luxembourg: who arranges the host family, commute and everyday support?](/en/insights/luxembourg-student-host-family/)
+- [Luxembourg secondary-school costs without accompanying parents: tuition, host family and first-year cash](/en/insights/luxembourg-international-school-fees/)

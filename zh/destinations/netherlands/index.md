@@ -1,16 +1,18 @@
 ---
-layout: "page"
-lang: "zh"
-translation_key: "destination-netherlands"
-image: "/assets/eerde/eerde-historic-campus-lep.jpg"
-permalink: "/zh/destinations/netherlands/"
-title: "荷兰英文寄宿学校与Eerde申请"
-heading: "荷兰英文寄宿学校与Eerde申请"
-description: "父母不陪读，孩子怎样在荷兰学习与生活？从亲身访校、课程、寄宿和预算，到申请与欧洲后续升学，找到适合家庭的方向。"
-standfirst: "父母不陪读，孩子怎样在荷兰学习与生活？从亲身访校、课程、寄宿和预算，到申请与欧洲后续升学，找到适合家庭的方向。"
-
-last_modified_at: "2026-10-11"
+{
+  "layout": "page",
+  "lang": "zh",
+  "translation_key": "destination-netherlands",
+  "image": "/assets/eerde/eerde-historic-campus-lep.jpg",
+  "permalink": "/zh/destinations/netherlands/",
+  "title": "荷兰英文寄宿学校与Eerde申请",
+  "heading": "荷兰英文寄宿学校与Eerde申请",
+  "description": "父母不陪读，孩子怎样在荷兰学习与生活？从亲身访校、课程、寄宿和预算，到申请与欧洲后续升学，找到适合家庭的方向。",
+  "standfirst": "父母不陪读，孩子怎样在荷兰学习与生活？从亲身访校、课程、寄宿和预算，到申请与欧洲后续升学，找到适合家庭的方向。",
+  "last_modified_at": "2026-10-12"
+}
 ---
+
 
 <p>我已经实地到访Eerde国际寄宿学校，看过宿舍、古堡校园和现代教学环境，也与校方深入沟通。LEP位于卢森堡，与荷兰同一时区，每季度组织荷兰访校，协助家庭把课程、寄宿、申请材料和入学安排衔接起来。</p>
 <figure class="article-photo" style="margin:32px 0"><a href="/assets/eerde/eerde-historic-campus-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-historic-campus-lep.jpg" width="2275" height="1280" alt="Eerde校园历史建筑与周边环境。LEP实拍。" loading="eager" decoding="async" style="display:block;width:100%;max-width:100%;height:auto"></a><figcaption style="font-size:12px;line-height:1.75;color:#62717b;padding-top:10px">Eerde校园历史建筑与周边环境。LEP实拍。</figcaption></figure>
@@ -27,3 +29,9 @@ last_modified_at: "2026-10-11"
 还没确定学校？看看 LEP 怎样帮您比较选校、寄宿与入学安排。
 
 [选校、寄宿与入学：LEP 怎样帮助家庭作决定](/zh/guides/school-decisions/)
+
+
+<!-- lep-materials-20261012 -->
+## 继续比较与安排申请
+
+- [荷兰Eerde寄宿一年多少钱？学费、首次费用与假期怎样安排](/zh/insights/eerde-boarding-school-fees/)

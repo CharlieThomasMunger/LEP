@@ -1,14 +1,17 @@
 ---
-layout: "page"
-lang: "fr"
-permalink: "/fr/destinations/switzerland/"
-translation_key: "destination-switzerland"
-last_modified_at: "2026-10-11"
-title: "Internats en Suisse : cursus, frais et études supérieures"
-heading: "Internats suisses et parcours d’études"
-description: "Découvrez Saint-Charles, Chantemerle et TASIS à travers les visites de LEP : internat, frais, IB, A Levels et AP. Consultez aussi nos guides sur les études hôtelières en Suisse."
-standfirst: "Étudier en Suisse dès le plus jeune âge, dans le primaire et le secondaire international, avec des possibilités d’internat, puis en management hôtelier au niveau bachelor et postgrade."
+{
+  "layout": "page",
+  "lang": "fr",
+  "permalink": "/fr/destinations/switzerland/",
+  "translation_key": "destination-switzerland",
+  "last_modified_at": "2026-10-12",
+  "title": "Internats en Suisse : cursus, frais et études supérieures",
+  "heading": "Internats suisses et parcours d’études",
+  "description": "Découvrez Saint-Charles, Chantemerle et TASIS à travers les visites de LEP : internat, frais, IB, A Levels et AP. Consultez aussi nos guides sur les études hôtelières en Suisse.",
+  "standfirst": "Étudier en Suisse dès le plus jeune âge, dans le primaire et le secondaire international, avec des possibilités d’internat, puis en management hôtelier au niveau bachelor et postgrade."
+}
 ---
+
 
 ## Écoles internationales privées et internats : du plus jeune âge au secondaire
 
@@ -86,3 +89,15 @@ Indiquez-nous l’âge de votre enfant, sa classe actuelle, ses compétences lin
 Vous hésitez entre plusieurs écoles ? Découvrez comment LEP relie sélection, hébergement et arrivée.
 
 [Choix scolaire, hébergement et arrivée avec LEP](/fr/guides/school-decisions/)
+
+
+<!-- lep-materials-20261012 -->
+## Poursuivre la comparaison avec LEP
+
+- [Choisir un internat IB suisse : International School Altdorf ou Saint-Charles ?](/fr/insights/altdorf-saint-charles-ib-boarding-comparison/)
+- [Passer du secondaire chinois à un internat suisse : quand commencer IB ou A Levels ?](/fr/insights/china-secondary-to-swiss-ib-a-level/)
+- [Bachelier chinois sans IB ni A Levels : candidater en hôtellerie suisse](/fr/insights/china-high-school-swiss-hospitality-bachelor/)
+- [International School Altdorf : IB, internat et candidature pour un élève chinois](/fr/insights/international-school-altdorf-boarding-ib/)
+- [Changer de domaine avec le MSc hôtelier d’IMI : admission, pratique et budget](/fr/insights/imi-masters-career-change/)
+- [Quels métiers après IMI ? Stages, marchés et recommandations locales de LEP](/fr/insights/imi-internships-careers/)
+- [Diplômes hôteliers en Suisse : comprendre IMI, SHMS, HIM, CRCS et CAA](/fr/insights/swiss-hospitality-degrees-recognition/)

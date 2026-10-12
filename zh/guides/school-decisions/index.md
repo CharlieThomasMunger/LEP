@@ -7,9 +7,10 @@
   "title": "选校、寄宿与入学：LEP 怎样帮助家庭作决定",
   "description": "从孩子的实际需要出发，把学校、住宿与入学后的生活接起来。这里集中说明修印先生的访校观察怎样进入选校判断，以及 LEP 怎样承接学校沟通、申请与当地安排。",
   "standfirst": "从孩子的实际需要出发，把学校、住宿与入学后的生活接起来。这里集中说明修印先生的访校观察怎样进入选校判断，以及 LEP 怎样承接学校沟通、申请与当地安排。",
-  "last_modified_at": "2026-10-11"
+  "last_modified_at": "2026-10-12"
 }
 ---
+
 
 ## [孩子内向、自理一般，LEP怎样匹配欧洲寄宿学校？](/zh/insights/boarding-school-readiness/)
 
@@ -19,9 +20,10 @@ LEP 不凭“内向”或“独立”一个标签选校，而是把孩子的语�
 
 LEP 根据孩子情况筛选访校对象、与校方准备交流重点，再将课程、住宿和费用反馈放在一起比较。我们的实地经历与直接学校沟通，帮助家庭把一次参观继续推进到合适的申请方案。
 
-## [卢森堡、瑞士、荷兰中学留学：LEP怎样帮家庭比较完整预算？](/zh/insights/europe-secondary-school-total-budget/)
+## [预算50万元一年，卢森堡、瑞士和荷兰中学怎样选？](/zh/insights/europe-secondary-school-total-budget/)
 
-LEP 将孩子的年级、课程与住宿需要对应到具体学校，再核对学费、食宿、假期、学习支持和当地服务。家长得到的是能持续读完的方案比较，而不是只按国家或宣传学费排序。
+每年约50万元人民币的中学留学预算，可以先讨论卢森堡部分私立英文学校加寄宿家庭，以及瑞士阿尔特多夫的具体方案；荷兰Eerde和瑞士Chantemerle则需要认真计算是否有额外空间。LEP会先确定孩子能进入的课程，再把学校、居住、假期与服务放到同一份预算里。
+
 
 ## [父母留在国内：LEP怎样衔接孩子在欧洲的第一个学期？](/zh/insights/first-term-overseas-school/)
 
@@ -40,3 +42,12 @@ LEP 可以围绕孩子的长期选校目标，了解 Chantemerle、Saint-Charles
 请提供年龄、现读课程、英语、父母是否同行、入学时间与全年预算。微信：<strong>xiuyinxiansheng</strong>。
 
 [查看学校申请与当地服务](/zh/families/)
+
+
+<!-- lep-materials-20261012 -->
+## 继续比较与安排申请
+
+- [孩子去卢森堡读中学，寄宿家庭、通勤和日常生活由谁安排？](/zh/insights/luxembourg-student-host-family/)
+- [瑞士IB寄宿高中怎么选？阿尔特多夫与圣查尔斯的预算和学习环境](/zh/insights/altdorf-saint-charles-ib-boarding-comparison/)
+- [国内初中、高一或高二转学瑞士，IB和A Level怎样衔接？](/zh/insights/china-secondary-to-swiss-ib-a-level/)
+- [阿尔特多夫国际学校适合中国学生吗？IB、寄宿生活与申请安排](/zh/insights/international-school-altdorf-boarding-ib/)

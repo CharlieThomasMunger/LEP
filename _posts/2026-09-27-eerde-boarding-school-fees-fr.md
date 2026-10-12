@@ -1,46 +1,46 @@
 ---
-layout: "node"
-lang: "fr"
-ref: "netherlands-n4"
-permalink: "/fr/insights/eerde-boarding-school-fees/"
-cluster: "netherlands-school"
-title: "Quel budget prévoir pour un internat aux Pays-Bas ? Les frais d’Eerde expliqués"
-date: "2026-09-27"
-reviewed: "2026-09-27"
-description: "En 2026–2027, scolarité et internat complet à Eerde représentent 57 900 € en Middle School et 61 600 € en IGCSE ou IBDP. L’inscription initiale et le dépôt d’internat s’ajoutent la première année."
-answer: "En 2026–2027, scolarité et internat complet à Eerde représentent 57 900 € en Middle School et 61 600 € en IGCSE ou IBDP. L’inscription initiale et le dépôt d’internat s’ajoutent la première année."
-image: "/assets/eerde/n4-1.webp"
-school_article: true
-has_topic_navigation: true
+{
+  "school_article": true,
+  "layout": "node",
+  "lang": "fr",
+  "ref": "netherlands-n4",
+  "cluster": "netherlands-school",
+  "title": "Coût de l’internat Eerde : scolarité, entrée et organisation des vacances",
+  "description": "Pour 2026/27, scolarité et internat Eerde représentent 61 600 euros en IGCSE ou DP et 57 900 euros en Middle Years. Sans parents sur place, il faut prévoir trésorerie initiale et vacances lorsque l’internat ferme. LEP travaille avec Eerde et relie ces éléments à la candidature.",
+  "answer": "Pour 2026/27, scolarité et internat Eerde représentent 61 600 euros en IGCSE ou DP et 57 900 euros en Middle Years. Sans parents sur place, il faut prévoir trésorerie initiale et vacances lorsque l’internat ferme. LEP travaille avec Eerde et relie ces éléments à la candidature.",
+  "date": "2026-09-27",
+  "reviewed": "2026-10-12",
+  "last_modified_at": "2026-10-12",
+  "permalink": "/fr/insights/eerde-boarding-school-fees/",
+  "image": "/assets/eerde/eerde-castle-front-lep.jpg",
+  "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "faq": [
+    {
+      "q": "Que couvrent les 61 600 euros ?",
+      "a": "Scolarité IGCSE/DP et internat scolaire ; entrée et vacances s’ajoutent."
+    },
+    {
+      "q": "Peut-on rester pendant toutes les vacances ?",
+      "a": "Les grandes vacances publiées ferment l’internat ; logement et voyage se préparent tôt."
+    },
+    {
+      "q": "68 000 euros sont-ils une consommation finale ?",
+      "a": "Le total comprend un dépôt de 2 750 euros : trésorerie et dépenses finales diffèrent."
+    }
+  ],
+  "school_key": "eerde",
+  "consultation": "eerde"
+}
 ---
 
-<aside class="eerde-offer"><strong>Candidater à Eerde sans frais de service LEP supplémentaires</strong><p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais supplémentaires pour l’évaluation du projet Eerde, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de l’école, de l’administration et des tiers restent à régler.</p><a href="#eerde-contact">Parlez de la candidature de votre enfant et d’une visite avec James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n4-1.webp" width="1600" height="1067" alt="Eerde · Espace pédagogique intérieur" loading="eager"><figcaption>Eerde · Espace pédagogique intérieur</figcaption></figure><h2>Un budget correspondant à une solution précise</h2>
-<p>Les frais varient entre les écoles néerlandaises. Comparer la seule scolarité d’un externe au coût de scolarité et d’hébergement d’un enfant venant sans ses parents ne donne pas une image utile.</p>
-<p>Les chiffres ci-dessous proviennent de la brochure tarifaire 2026–2027 d’Eerde. Ils concernent cet établissement et ne constituent pas une moyenne nationale.</p>
-<div class="table-scroll"><table><thead><tr><th scope="col">Poste</th><th scope="col">Middle School</th><th scope="col">IGCSE / IBDP</th></tr></thead><tbody>
-<tr><td>Scolarité annuelle</td><td>23 400 €</td><td>27 100 €</td></tr>
-<tr><td>Internat complet annuel</td><td>34 500 €</td><td>34 500 €</td></tr>
-<tr><td>Scolarité et internat</td><td>57 900 €</td><td>61 600 €</td></tr>
-</tbody></table></div>
-<p>Les frais peuvent légèrement évoluer ; le montant final confirmé par l’école pour la candidature fait foi.</p>
-<h2>Que faut-il régler la première année ?</h2>
-<p>Les frais de première inscription dans le secondaire sont de 3 650 € et comprennent un MacBook. Le dépôt d’internat est de 2 750 €, remboursable à la fin de l’internat selon les conditions de l’école.</p>
-<p>Avec ces deux postes, le versement de base de première année atteint 64 300 € en Middle School ou 68 000 € en IGCSE / IBDP. Un dépôt remboursable ne doit pas être confondu avec une dépense définitivement engagée.</p>
-<p>Il est utile de distinguer le montant annuel récurrent de scolarité et d’internat du paiement de base nécessaire au démarrage.</p>
-<figure class="article-photo"><img src="/assets/eerde/n4-2.webp" width="1600" height="1067" alt="Eerde · Espace de restauration du campus" loading="lazy"><figcaption>Eerde · Espace de restauration du campus</figcaption></figure><h2>Que comprend l’internat complet ?</h2>
-<p>La scolarité couvre les cours et les ressources pédagogiques, déjeuners et autres éléments indiqués par l’école. L’internat complet comprend les week-ends en période scolaire, l’hébergement, les repas prévus, la lessive, l’encadrement, les activités et les études du soir.</p>
-<p>Les examens, cours particuliers et certaines activités supplémentaires sont facturés à part. Un besoin individuel de soutien linguistique ou scolaire doit être discuté avant l’inscription, avec ses éventuels frais.</p>
-<p>Les internats ferment pendant les vacances d’automne, de Noël, de printemps, de Pâques et d’été. Les déplacements et l’hébergement sur ces périodes ne doivent pas être considérés comme inclus.</p>
-<h2>Les Pays-Bas sont-ils nécessairement moins chers que la Suisse ?</h2>
-<p>La comparaison utile porte sur une école suisse précise, pour une classe et un hébergement comparables. Mettre en regard une scolarité d’externe aux Pays-Bas et un internat en Suisse n’aide pas une famille ayant besoin de logement.</p>
-<p>L’adéquation du cursus compte également. Un prix légèrement inférieur n’est pas forcément avantageux si l’enfant ne peut pas faire une transition scolaire satisfaisante.</p>
-<figure class="article-photo"><img src="/assets/eerde/n4-3.webp" width="1600" height="1066" alt="Eerde · Loisirs des élèves" loading="lazy"><figcaption>Eerde · Loisirs des élèves</figcaption></figure><h2>Questions fréquentes</h2>
-<h3>Les 61 600 € représentent-ils tout le coût de la première année ?</h3>
-<p>Non. Ils correspondent à une année de scolarité IGCSE / IBDP et d’internat complet.</p>
-<h3>Le dépôt fait-il partie des frais de scolarité ?</h3>
-<p>Non. Il s’agit d’un dépôt d’internat distinct, remboursable selon les conditions prévues.</p>
-<h3>Peut-on déduire une bourse espérée du budget ?</h3>
-<p>Il faut d’abord obtenir la confirmation de l’école pour l’élève concerné.</p>
-<h2>Pourquoi préparer cette candidature avec LEP ?</h2>
-<p>LEP aide à confirmer les frais du cursus et de l’internat envisagés, prépare le dossier avec la famille et assure le suivi auprès d’Eerde. Vous pouvez ainsi examiner le budget scolaire tout en connaissant précisément notre accompagnement.</p>
-<p>Jusqu’au 15 septembre 2027, LEP ne facture pas de frais de service supplémentaires pour l’accompagnement d’une candidature à Eerde. Cet accompagnement comprend l’évaluation du projet, les échanges avec l’école, la préparation du dossier et l’aide à la demande de visa. Les frais de scolarité, d’internat et les frais administratifs ou facturés par des tiers restent à régler.</p><section class="eerde-contact" id="eerde-contact"><h2>Parlez de la candidature de votre enfant et d’une visite avec James Liu</h2><p>Indiquez l’âge, la classe, le niveau d’anglais et la rentrée souhaitée de votre enfant.</p><p><a href="mailto:jamesliu@luxedupartners.lu">Écrire directement à James Liu</a> · <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a></p><p><a href="/fr/insights/apply-to-eerde-with-lep/">Comment LEP accompagne votre candidature →</a></p></section><nav class="related" aria-label="Découvrir les guides sur les Pays-Bas"><h2>Découvrir les guides sur les Pays-Bas</h2><ul><li><a href="/fr/insights/netherlands-international-schools/">Comment choisir une école internationale anglophone aux Pays-Bas si les parents ne déménagent pas ?</a></li><li><a href="/fr/insights/netherlands-boarding-without-parents/">Un enfant peut-il étudier en internat aux Pays-Bas sans que ses parents s’y installent ?</a></li><li><a href="/fr/insights/netherlands-international-school-english/">Peut-on étudier dans un lycée international aux Pays-Bas sans parler néerlandais ?</a></li><li><a href="/fr/insights/netherlands-boarding-school-application/">Candidater à un internat aux Pays-Bas depuis l’étranger : par où commencer ?</a></li><li><a href="/fr/insights/netherlands-ib-university-pathways/">Après un lycée IB aux Pays-Bas, vers quelles universités peut-on se diriger ?</a></li><li><a href="/fr/insights/eerde-boarding-school-visit/">Après ma visite d’Eerde : à quelles familles cet internat néerlandais peut-il convenir ?</a></li></ul></nav>
+<figure class="article-photo"><img src="/assets/eerde/eerde-castle-front-lep.jpg" width="2275" height="1280" alt="Campus du château d’Eerde · Photo LEP." loading="eager" decoding="async"><figcaption>Campus du château d’Eerde · Photo LEP.</figcaption></figure>
+<h2>Distinguer scolarité et internat en période scolaire</h2><div class="table-scroll"><table><thead><tr><th>Niveau</th><th>Scolarité annuelle EUR</th><th>Internat annuel EUR</th><th>Total EUR</th></tr></thead><tbody><tr><td>Middle Years</td><td>23 400</td><td>34 500</td><td>57 900</td></tr><tr><td>IGCSE</td><td>27 100</td><td>34 500</td><td>61 600</td></tr><tr><td>IB DP</td><td>27 100</td><td>34 500</td><td>61 600</td></tr></tbody></table></div><p>L’internat comprend les week-ends pendant les périodes scolaires. Examens, cours individuels et activités supplémentaires dépendent du choix du jeune. Cursus, anglais et évaluation déterminent d’abord le niveau d’entrée.</p>
+<h2>Préparer la trésorerie initiale</h2><p>L’inscription du nouvel élève est de <strong>3 650 euros</strong>, avec les éléments MacBook prévus, et le dépôt remboursable de <strong>2 750 euros</strong>. Les postes indiqués donnent donc <strong>64 300 euros en Middle Years ou 68 000 euros en IGCSE/DP</strong> à prévoir la première année.</p><p>Avec une hypothèse de 1 euro = 8,5 yuans, 61 600 euros représentent environ 524 000 yuans et 68 000 environ 578 000. Ce calcul distingue récurrence, entrée et dépôt ; le versement utilise son taux de change applicable.</p>
+<h2>Préparer les vacances séparément</h2><p><strong>L’école annonce la fermeture de l’internat pendant les vacances d’automne, de Noël, de printemps, de Pâques et d’été.</strong> Sept jours par semaine en période scolaire ne signifie pas chaque jour de l’année.</p><div class="table-scroll"><table><thead><tr><th>Choix</th><th>Éléments à préparer</th></tr></thead><tbody><tr><td>Retour auprès des parents en Chine</td><td>Vols, transferts et dates reliées au calendrier</td></tr><tr><td>Parents en visite en Europe</td><td>Voyage parental, logement temporaire et vie locale</td></tr><tr><td>Autre organisation adaptée</td><td>Lieu concret, adulte responsable, exigences scolaires et frais</td></tr></tbody></table></div><p>LEP rapproche calendrier, internat et voyage avec les exigences de l’école. Âge, autonomie et projets des parents orientent la solution.</p>
+<h2>Calculer tout le parcours</h2><p>Si IGCSE ou une préparation précèdent le DP, deux années de DP ne représentent pas tout l’investissement. Nous partons de l’entrée réelle pour lister années, frais initiaux et vacances. Soutien en anglais, examens et entraînement équestre éventuel entrent dans la même discussion.</p>
+<h2>Pourquoi en discuter avec LEP ?</h2><p>Je suis James Liu et j’ai visité l’école. Le château marque les esprits ; cursus, hébergement et calendrier complet déterminent si le projet convient au jeune. LEP échange directement avec l’école et coordonne dossier et évaluation.</p><p>Découvrez la <a href="/fr/insights/eerde-boarding-school-visit/">visite</a> et le <a href="/fr/insights/apply-to-eerde-with-lep/">service de candidature</a>. L’offre actuelle de LEP ne facture pas d’honoraires de candidature Eerde jusqu’au <strong>15 septembre 2027</strong> ; frais scolaires et services spécialisés sont précisés séparément. Indiquez âge, cursus, anglais, rentrée et budget annuel complet.</p>
+
+<section class="lep-intent-contact"><h2>Présenter votre situation à LEP</h2><p>Indiquez âge ou diplômes, cursus, langues, rentrée envisagée et budget complet. WeChat : <strong>xiuyinxiansheng</strong> ; courriel : <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>.</p><p><a href="/fr/insights/why-lep/">Découvrir candidatures et soutien local LEP →</a></p></section>
+<section class="source-note"><h2>Sources et mise à jour</h2><p>Barème Eerde 2026/27 et fermetures de l’internat. Budget détaillé actualisé le 12 octobre 2026.</p></section>
+<nav class="related" aria-label="Poursuivre la comparaison avec LEP"><h2>Poursuivre la comparaison avec LEP</h2><ul><li><a href="/fr/insights/europe-secondary-school-total-budget/">Budget annuel de 500 000 yuans au secondaire : Luxembourg, Suisse ou Pays-Bas ?</a></li><li><a href="/fr/insights/china-secondary-to-swiss-ib-a-level/">Passer du secondaire chinois à un internat suisse : quand commencer IB ou A Levels ?</a></li></ul></nav>

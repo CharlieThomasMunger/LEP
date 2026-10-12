@@ -1,96 +1,47 @@
 ---
-layout: "node"
-lang: "en"
-ref: "imi-guide-w4"
-permalink: "/en/insights/imi-internships-careers/"
-cluster: "switzerland-hotel"
-school_article: true
-has_topic_navigation: true
-title: "IMI internships and graduate careers: experience matters, and so does the person willing to recommend you"
-date: "2026-09-25"
-reviewed: "2026-09-25"
-description: "One reason I take IMI seriously is the place of internships in its bachelor’s programmes. Graduates can leave with work experience and the beginnings of an employer network, rather than a qualification alone."
-image: "/assets/imi/hospitality-curriculum.png"
-translated: true
+{
+  "school_article": true,
+  "layout": "node",
+  "lang": "en",
+  "ref": "imi-guide-w4",
+  "cluster": "switzerland-hotel",
+  "title": "What work can IMI graduates pursue? Internships, target markets and LEP’s local recommendations",
+  "description": "IMI’s hospitality, business and culinary routes can prepare students for hotel operations, events, sales, revenue work, food businesses and other service roles. LEP starts with the intended market, then connects language, projects, internships and suitable local recommendations. ",
+  "answer": "IMI’s hospitality, business and culinary routes can prepare students for hotel operations, events, sales, revenue work, food businesses and other service roles. LEP starts with the intended market, then connects language, projects, internships and suitable local recommendations. I am James Liu: the value of study should be reflected in what the student becomes able to do.",
+  "date": "2026-09-25",
+  "reviewed": "2026-10-12",
+  "last_modified_at": "2026-10-12",
+  "permalink": "/en/insights/imi-internships-careers/",
+  "image": "/assets/imi/hospitality-curriculum.png",
+  "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "faq": [
+    {
+      "q": "Are hotel jobs the only option?",
+      "a": "Relevant experience can also serve events, business operations and other services."
+    },
+    {
+      "q": "How can LEP’s recommendations help?",
+      "a": "Discuss goals early and develop the language and practice evidence suited to a role."
+    },
+    {
+      "q": "Can internship wages cover all tuition?",
+      "a": "Budget net income after living costs separately from required tuition payments."
+    }
+  ],
+  "school_key": "imi",
+  "consultation": "imi"
+}
 ---
 
-**By James Liu | Lux Education Partners | Reviewed 25 September 2026**
+<figure class="article-photo"><img src="/assets/imi/hospitality-curriculum.png" width="1273" height="1800" alt="IMI hospitality bachelor course and internship structure." loading="eager" decoding="async"><figcaption>IMI hospitality bachelor course and internship structure.</figcaption></figure>
+<h2>Connect the course to a professional starting point</h2><div class="table-scroll"><table><thead><tr><th>Course</th><th>Roles to prepare for</th><th>Abilities to demonstrate</th></tr></thead><tbody><tr><td>Hospitality business</td><td>Front-office or food operations, guest experience, events, sales and revenue</td><td>Standards, operating figures and cross-team communication</td></tr><tr><td>International business</td><td>Business operations, marketing, projects and business support</td><td>Finance, research and implementation</td></tr><tr><td>Culinary management</td><td>Professional kitchens and food-business operations</td><td>Consistent production, safety, cost and teamwork</td></tr><tr><td>Hospitality MSc</td><td>Analysis, projects or operations alongside previous experience</td><td>Business analysis and research</td></tr></tbody></table></div><p>A new graduate and an experienced applicant need different starting roles. We begin with the person’s real experience.</p>
+<h2>Make each internship useful for the next step</h2><p>IMI’s archived undergraduate course charts show two required paid internships of 22 weeks each and an optional third 22-week practice period. Locations can be in Switzerland or other countries. MSc and Graduate Diploma arrangements are considered separately.</p><p>The school supports CVs, applications, interviews and employer contact. Students should also collect evidence of tasks, useful feedback and relationships with supervisors. Maintaining standards during busy service, resolving a complaint or recording operational figures shows abilities an employer can recognise.</p>
+<h2>Choose the market before deciding how to use the experience</h2><div class="table-scroll"><table><thead><tr><th>Aim</th><th>Early preparation</th></tr></thead><tbody><tr><td>European work</td><td>Country, role, language, employer contacts and applicable work arrangements</td></tr><tr><td>Return to China</td><td>Relevant companies, demonstrable projects and internship outcomes</td></tr><tr><td>Family business</td><td>Real questions from hospitality, food, retail or services</td></tr><tr><td>Other international markets</td><td>Roles, language and recruitment channels guiding practice location</td></tr></tbody></table></div><p>The same learning can have a different use in each market. Clarifying the destination helps us choose practice and budget.</p>
+<h2>Real alumni illustrate possible directions</h2><div class="table-scroll"><table><thead><tr><th>Alumnus / course</th><th>Experience recorded in IMI’s 2026 presentation</th></tr></thead><tbody><tr><td>Sarvesh Mehrotra / hospitality bachelor</td><td>Environmental-services management, Vancouver Coastal Health</td></tr><tr><td>Sean Dunne / business bachelor</td><td>Global digital-product management, Curaden, Switzerland</td></tr><tr><td>Pranav Yogesh / culinary bachelor</td><td>Nimaya restaurant business, Zurich</td></tr><tr><td>Antoine Golinvaux / MSc</td><td>Event-project coordination, MCI, Geneva</td></tr></tbody></table></div><p>These are alumni experiences at the time of the school’s material. LEP uses them to discuss role requirements and the course or practice evidence the applicant should build.</p>
+<h2>How LEP’s local network creates value</h2><p>I operate businesses in Europe and maintain ongoing relationships with local entrepreneurs, hospitality groups and other business contacts. Partner families can draw on this network, and we value suitable work recommendations after study.</p><p>A useful recommendation requires knowing both student and employer. Language, practice performance and genuine interests guide who should be introduced to whom. Sustained reputation matters in Luxembourg, Switzerland and the Netherlands; I take responsibility for understanding the person I recommend.</p>
+<h2>Begin that discussion at application</h2><p>Tell LEP if European work is the aim. Share education, English and other languages, desired roles and budget. We compare hospitality, business, culinary or postgraduate routes against a workable practice plan.</p><p>Explore <a href="/en/insights/imi-programmes-degrees/">IMI programmes</a> and <a href="/en/insights/imi-fees-scholarships/">fees and benefits</a>. My view is that real-world connection, reliability and trust will become increasingly valuable: study and practice should help the student build them.</p>
 
-**One reason I take IMI seriously is the place of internships in its bachelor’s programmes. Graduates can leave with work experience and the beginnings of an employer network, rather than a qualification alone.**
-
-Planning should go further than “the school offers internships”. What should the first job teach? How should the second placement differ? Who will know the student’s work well enough to recommend them at graduation?
-
-## The undergraduate placement structure
-
-<figure class="article-photo">
-<a href="/assets/imi/hospitality-curriculum.png" target="_blank" rel="noopener"><img src="/assets/imi/hospitality-curriculum.png" alt="IMI official bachelor’s curriculum showing study and paid internships" loading="eager" width="1273" height="1800" decoding="async"></a>
-<figcaption>IMI’s bachelor’s structure includes two compulsory paid internships of 22 weeks each and an optional third 22-week placement. Placements may be in Switzerland or other countries.</figcaption>
-</figure>
-
-Alternating study and work creates opportunities to adjust. After the first placement, students understand more about their language skills and working habits. They can choose the next placement with a clearer purpose.
-
-Postgraduate structures differ. The specific MSc brochure lists up to 44 weeks of optional professional practice; Graduate Diplomas list an optional 22-week internship. The bachelor’s timetable should not be applied to every programme.
-
-## What does the school’s careers team contribute?
-
-IMI describes support with CV preparation, applications, interviews and employer connections. Students still participate in recruitment, attend interviews and meet workplace expectations.
-
-That support is useful for a first professional experience. English communication, service awareness and reliability become visible in interviews and at work. I encourage students to prepare early enough to develop these abilities.
-
-## Three things I want a student to bring back from a first placement
-
-| What to gain | What it means in practice |
-|---|---|
-| Evidence of work completed | Tasks handled, problems solved and contribution to the team |
-| Feedback they can use | What a supervisor valued and what needs improvement |
-| Professional relationships | Supervisors and colleagues who know how they work |
-
-Operational work can be repetitive and demanding. Resolving a complaint, maintaining standards under pressure and becoming dependable give other people reasons to recommend a student.
-
-My view is that real-world trust will become increasingly valuable. Before someone entrusts a client, project or job to you, they need to know how you work.
-
-## Career possibilities beyond hotels
-
-IMI teaches operations, marketing, finance, people and project management. Its 2026 presentation records these alumni examples:
-
-| Alumnus and study route | Experience recorded by IMI |
-|---|---|
-| Sarvesh Mehrotra, hospitality business bachelor’s | Environmental services management at Vancouver Coastal Health, Canada |
-| Sean Dunne, international business bachelor’s | Global digital product management at Curaden, Switzerland |
-| Pranav Yogesh, culinary management bachelor’s | Restaurant entrepreneurship at Nimaya, Zurich |
-| Antoine Golinvaux, MSc | Event project coordination at MCI, Geneva |
-
-These are experiences recorded in the school’s materials, not a claim that each person holds the same role today. They help identify possible directions. The next question is what a particular employer requires and how the student can build the relevant experience.
-
-Further study at IMI or another university is another route. Strong grades, languages and projects can keep both work and postgraduate options open.
-
-## Why employment recommendations are central to LEP
-
-**I operate businesses in Europe and maintain relationships with local entrepreneurs, hotel groups, family offices and other business contacts. We open that established network to families who work with LEP.**
-
-In markets such as Luxembourg, Switzerland and the Netherlands, reputation and repeated cooperation matter. An employer listens to a recommendation because they know the person making it and trust their judgment. That relationship takes time to build locally.
-
-A student contacting an unfamiliar company alone and a student introduced by a trusted business contact begin the conversation differently. This is part of the practical value we bring.
-
-We also need to know the student: interests, language ability, placement performance and fit for the employer. Schools need good students; businesses need suitable staff; we need students whom both can value. **We first select students and match countries and schools, help them develop, and then introduce suitable people to suitable employers.**
-
-## Planning to work in Europe? Consider your actual work rights
-
-For some students, finding a role is only part of the challenge; the ability to take that job is another. A Swiss study experience does not automatically confer permission to work in Switzerland or elsewhere in Europe.
-
-An EU/EFTA citizen and a citizen of another country may face different conditions. Existing residence status also matters, and each target country has its own rules. Speaking English or French tells us nothing conclusive about a person’s work rights.
-
-We discuss the intended market, languages, current status and possible transitions early. Broader family residence planning can connect with relevant SBMG services. My base is Luxembourg, with commercial and employer relationships in Switzerland, the Netherlands, Ireland and Austria; the discussion can therefore look beyond remaining in Switzerland alone.
-
-**Develop ability during study, earn recognition during placements, build relationships that support recommendations and prepare the necessary residence and work arrangements.** That is the longer-term route I want LEP to help families build from the application stage.
-
-## Explore IMI programmes, costs and applications
-
-- [Why study hospitality management in Switzerland? Start with what you want to do afterwards](/en/insights/why-study-hospitality-switzerland/)
-- [Why choose IMI Switzerland? Curriculum, internships and value matter more to me than luxury facilities](/en/insights/why-imi-switzerland/)
-- [IMI bachelor’s, MSc or Graduate Diploma: which programme fits your next step?](/en/insights/imi-programmes-degrees/)
-- [What does IMI Switzerland cost? Tuition, scholarships, living costs and internship income](/en/insights/imi-fees-scholarships/)
-- [Applying to IMI Switzerland? LEP can handle programme selection, scholarships and the application with you](/en/insights/apply-to-imi-with-lep/)
-- [What I look for when visiting IMI: the student’s future beyond the campus](/en/insights/imi-campus-visit/)
-- [IMI Winter Programme 2027: CHF 1,800 early fee and a possible credit towards later tuition](/en/insights/imi-winter-summer-programmes/)
-
+<section class="lep-intent-contact"><h2>Discuss your situation with LEP</h2><p>Share age or qualifications, curriculum, languages, intended start and complete budget. WeChat: <strong>xiuyinxiansheng</strong>; email: <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>.</p><p><a href="/en/insights/why-lep/">Explore LEP school applications and local support →</a></p></section>
+<section class="source-note"><h2>Sources and update</h2><p>IMI course and internship charts, career support and alumni in Presentation 2026; LEP’s local-network information. Updated 12 October 2026.</p></section>
+<nav class="related" aria-label="Continue the comparison with LEP"><h2>Continue the comparison with LEP</h2><ul><li><a href="/en/insights/china-high-school-swiss-hospitality-bachelor/">A Chinese high-school graduate without IB or A Levels: applying for a Swiss hospitality bachelor</a></li><li><a href="/en/insights/imi-masters-career-change/">Changing career with IMI’s Swiss hospitality MSc: entry, practice and costs</a></li></ul></nav>

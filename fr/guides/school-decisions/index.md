@@ -7,9 +7,10 @@
   "title": "Choix scolaire, hébergement et arrivée avec LEP",
   "description": "Découvrez comment les visites de James Liu et les échanges directs de LEP avec les écoles éclairent choix, candidature et vie quotidienne au Luxembourg, en Suisse et aux Pays-Bas.",
   "standfirst": "Découvrez comment les visites de James Liu et les échanges directs de LEP avec les écoles éclairent choix, candidature et vie quotidienne au Luxembourg, en Suisse et aux Pays-Bas.",
-  "last_modified_at": "2026-10-11"
+  "last_modified_at": "2026-10-12"
 }
 ---
+
 
 ## [Comment LEP choisit un cadre scolaire pour un adolescent réservé](/fr/insights/boarding-school-readiness/)
 
@@ -19,9 +20,10 @@ LEP transforme les besoins de langue, d’apprentissage et de vie quotidienne en
 
 LEP part du profil de l’élève pour sélectionner les visites, préparer les échanges et comparer cursus, logement et coûts. Nos observations et contacts directs relient la visite à un projet de candidature.
 
-## [Comparer le budget d’une scolarité européenne avec LEP](/fr/insights/europe-secondary-school-total-budget/)
+## [Budget annuel de 500 000 yuans au secondaire : Luxembourg, Suisse ou Pays-Bas ?](/fr/insights/europe-secondary-school-total-budget/)
 
-LEP relie niveau, cursus et hébergement aux frais scolaires, vacances, soutiens supplémentaires et services locaux pour construire un parcours durable.
+Une famille chinoise prévoyant environ 500 000 yuans par an peut commencer par les écoles privées luxembourgeoises avec foyer et le projet d’internat précis d’Altdorf. Eerde et Chantemerle demandent d’étudier une marge supplémentaire. LEP relie d’abord cursus, puis école, hébergement, vacances et services.
+
 
 ## [Parents à l’étranger : comment LEP prépare le premier trimestre](/fr/insights/first-term-overseas-school/)
 
@@ -40,3 +42,12 @@ LEP peut examiner les séjours de Chantemerle et Saint-Charles selon le projet s
 Indiquez âge, cursus, anglais, présence des parents, rentrée envisagée et budget annuel.
 
 [Découvrir candidatures et soutien local](/fr/families/)
+
+
+<!-- lep-materials-20261012 -->
+## Poursuivre la comparaison avec LEP
+
+- [Secondaire au Luxembourg : qui organise famille d’accueil, trajets et quotidien ?](/fr/insights/luxembourg-student-host-family/)
+- [Choisir un internat IB suisse : International School Altdorf ou Saint-Charles ?](/fr/insights/altdorf-saint-charles-ib-boarding-comparison/)
+- [Passer du secondaire chinois à un internat suisse : quand commencer IB ou A Levels ?](/fr/insights/china-secondary-to-swiss-ib-a-level/)
+- [International School Altdorf : IB, internat et candidature pour un élève chinois](/fr/insights/international-school-altdorf-boarding-ib/)

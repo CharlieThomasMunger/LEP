@@ -1,46 +1,46 @@
 ---
-layout: "node"
-lang: "en"
-ref: "netherlands-n4"
-permalink: "/en/insights/eerde-boarding-school-fees/"
-cluster: "netherlands-school"
-title: "How much does boarding school in the Netherlands cost? Eerde’s tuition and boarding explained"
-date: "2026-09-27"
-reviewed: "2026-09-27"
-description: "For 2026–2027, Eerde’s tuition plus full boarding is €57,900 for Middle School and €61,600 for IGCSE or IBDP. First-year registration and a boarding deposit are additional."
-answer: "For 2026–2027, Eerde’s tuition plus full boarding is €57,900 for Middle School and €61,600 for IGCSE or IBDP. First-year registration and a boarding deposit are additional."
-image: "/assets/eerde/n4-1.webp"
-school_article: true
-has_topic_navigation: true
+{
+  "school_article": true,
+  "layout": "node",
+  "lang": "en",
+  "ref": "netherlands-n4",
+  "cluster": "netherlands-school",
+  "title": "Eerde boarding-school costs: tuition, first-year cash and holiday arrangements",
+  "description": "Eerde’s 2026/27 tuition and boarding total is EUR 61,600 for IGCSE or IB DP and EUR 57,900 for Middle Years. Families without accompanying parents also need first-entry cash and a plan for holidays when the boarding house closes. LEP works with Eerde and connects these details to",
+  "answer": "Eerde’s 2026/27 tuition and boarding total is EUR 61,600 for IGCSE or IB DP and EUR 57,900 for Middle Years. Families without accompanying parents also need first-entry cash and a plan for holidays when the boarding house closes. LEP works with Eerde and connects these details to the application.",
+  "date": "2026-09-27",
+  "reviewed": "2026-10-12",
+  "last_modified_at": "2026-10-12",
+  "permalink": "/en/insights/eerde-boarding-school-fees/",
+  "image": "/assets/eerde/eerde-castle-front-lep.jpg",
+  "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "faq": [
+    {
+      "q": "What does EUR 61,600 cover?",
+      "a": "IGCSE/DP tuition and term boarding; first-entry and holiday items are added."
+    },
+    {
+      "q": "Can the child stay at school for every holiday?",
+      "a": "The published major holidays close boarding; plan accommodation and travel early."
+    },
+    {
+      "q": "Is EUR 68,000 all consumption?",
+      "a": "It includes a EUR 2,750 deposit; cash and final spending differ."
+    }
+  ],
+  "school_key": "eerde",
+  "consultation": "eerde"
+}
 ---
 
-<aside class="eerde-offer"><strong>Apply to Eerde with no additional LEP application service fee</strong><p>Until 15 September 2027, LEP charges no additional fee for Eerde application assessment, school liaison, document preparation and visa application support. School and government or other third-party charges remain payable.</p><a href="#eerde-contact">Discuss your child’s application and a school visit with James Liu →</a></aside><figure class="article-photo"><img src="/assets/eerde/n4-1.webp" width="1600" height="1067" alt="Eerde · Indoor learning space" loading="eager"><figcaption>Eerde · Indoor learning space</figcaption></figure><h2>A budget for a specific boarding option</h2>
-<p>Dutch school fees vary. Day-school tuition alone should not be compared directly with tuition and accommodation for a child moving without their parents.</p>
-<p>The following figures use Eerde’s 2026–2027 fee booklet. They describe this school’s basic full-boarding costs, not a national average.</p>
-<div class="table-scroll"><table><thead><tr><th scope="col">Item</th><th scope="col">Middle School</th><th scope="col">IGCSE / IBDP</th></tr></thead><tbody>
-<tr><td>Annual tuition</td><td>€23,400</td><td>€27,100</td></tr>
-<tr><td>Annual full boarding</td><td>€34,500</td><td>€34,500</td></tr>
-<tr><td>Tuition plus full boarding</td><td>€57,900</td><td>€61,600</td></tr>
-</tbody></table></div>
-<p>Fees may change slightly; the final amount confirmed by the school for the application applies.</p>
-<h2>What is payable in the first year?</h2>
-<p>The one-time secondary registration fee is €3,650 and includes a MacBook. The boarding deposit is €2,750, refundable at the end of boarding under the school’s conditions.</p>
-<p>Adding those two items gives a first-year basic payment of €64,300 for Middle School or €68,000 for IGCSE / IBDP. A refundable deposit is distinct from an expense that is permanently incurred.</p>
-<p>The useful comparison is between the recurring annual tuition and boarding amount, and the basic cash payment required in the first year.</p>
-<figure class="article-photo"><img src="/assets/eerde/n4-2.webp" width="1600" height="1067" alt="Eerde · Campus dining facilities" loading="lazy"><figcaption>Eerde · Campus dining facilities</figcaption></figure><h2>What does full boarding include?</h2>
-<p>Tuition covers lessons and the learning resources, lunches and other items listed by the school. Full boarding includes term-time weekends, accommodation, applicable meals, laundry, boarding supervision, activities and evening study arrangements.</p>
-<p>Examinations, private tuition and some additional activities are charged separately. Where a student needs individual language or academic support, establish the charges before enrolment.</p>
-<p>The school lists autumn, Christmas, spring, Easter and summer holidays as boarding closures. Travel and accommodation during those periods should not be assumed to fall within the boarding fee.</p>
-<h2>Is the Netherlands necessarily cheaper than Switzerland?</h2>
-<p>The meaningful comparison is with a particular Swiss school offering a similar year group and boarding arrangement. Comparing Dutch day tuition with Swiss boarding costs does not help a family needing accommodation.</p>
-<p>Course fit also matters. A slightly lower price may not be good value if the child cannot make a workable transition into the programme.</p>
-<figure class="article-photo"><img src="/assets/eerde/n4-3.webp" width="1600" height="1066" alt="Eerde · Student recreation" loading="lazy"><figcaption>Eerde · Student recreation</figcaption></figure><h2>Common questions</h2>
-<h3>Is €61,600 the entire first-year cost?</h3>
-<p>No. It is one year’s IGCSE / IBDP tuition plus full boarding.</p>
-<h3>Is the deposit part of tuition?</h3>
-<p>No. It is a separate boarding deposit, refundable under the school’s conditions.</p>
-<h3>Should an expected scholarship be deducted from the budget?</h3>
-<p>Only after the school has confirmed it for the individual student.</p>
-<h2>Why work with LEP on this application?</h2>
-<p>LEP helps clarify fees for the student&#x27;s proposed course and boarding arrangement, prepares the application with the family and follows up directly with Eerde. You can compare the school budget with a clear understanding of our application support.</p>
-<p>Until 15 September 2027, LEP charges no additional service fee for assistance with an Eerde application. This includes application assessment, school liaison, document preparation and visa application support. School tuition, boarding and government or other third-party charges remain payable.</p><section class="eerde-contact" id="eerde-contact"><h2>Discuss your child’s application and a school visit with James Liu</h2><p>Tell us your child’s age, current year, English level and intended starting date.</p><p><a href="mailto:jamesliu@luxedupartners.lu">Email James Liu directly</a> · <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a></p><p><a href="/en/insights/apply-to-eerde-with-lep/">How LEP can help with your application →</a></p></section><nav class="related" aria-label="Explore the Netherlands guides"><h2>Explore the Netherlands guides</h2><ul><li><a href="/en/insights/netherlands-international-schools/">Choosing an English-language international school in the Netherlands: what if parents are not moving?</a></li><li><a href="/en/insights/netherlands-boarding-without-parents/">Can a child attend boarding school in the Netherlands without their parents moving?</a></li><li><a href="/en/insights/netherlands-international-school-english/">Can a student study at an international high school in the Netherlands without speaking Dutch?</a></li><li><a href="/en/insights/netherlands-boarding-school-application/">Applying to a Dutch boarding school from abroad: where should families start?</a></li><li><a href="/en/insights/netherlands-ib-university-pathways/">After an IB education in the Netherlands, where can students apply to university?</a></li><li><a href="/en/insights/eerde-boarding-school-visit/">After visiting Eerde: which families should consider this Dutch boarding school?</a></li></ul></nav>
+<figure class="article-photo"><img src="/assets/eerde/eerde-castle-front-lep.jpg" width="2275" height="1280" alt="Eerde’s castle campus · LEP photograph." loading="eager" decoding="async"><figcaption>Eerde’s castle campus · LEP photograph.</figcaption></figure>
+<h2>Separate tuition from term-time boarding</h2><div class="table-scroll"><table><thead><tr><th>Stage</th><th>Annual tuition EUR</th><th>Annual boarding EUR</th><th>Combined EUR</th></tr></thead><tbody><tr><td>Middle Years</td><td>23,400</td><td>34,500</td><td>57,900</td></tr><tr><td>IGCSE</td><td>27,100</td><td>34,500</td><td>61,600</td></tr><tr><td>IB DP</td><td>27,100</td><td>34,500</td><td>61,600</td></tr></tbody></table></div><p>Boarding includes term-time weekends. Exams, private tuition and extra activities are considered against the student’s choices. Course and year come from curriculum, English and school assessment before the fee row is selected.</p>
+<h2>Prepare first-year cash</h2><p>The new-student registration fee is <strong>EUR 3,650</strong>, including listed MacBook arrangements, and the refundable deposit is <strong>EUR 2,750</strong>. The listed first-year cash is therefore <strong>EUR 64,300 for Middle Years or EUR 68,000 for IGCSE/DP</strong>.</p><p>At an illustrative EUR 1 = RMB 8.5, EUR 61,600 is about RMB 524,000 and EUR 68,000 about RMB 578,000. This comparison separates recurring cost from entry charges and deposits; actual exchange follows the payment.</p>
+<h2>The boarding calendar needs a separate holiday plan</h2><p><strong>The school states that boarding closes during autumn, Christmas, spring, Easter and summer holidays.</strong> Seven-day boarding in term is different from residence on every day of the year.</p><div class="table-scroll"><table><thead><tr><th>Choice</th><th>What to plan</th></tr></thead><tbody><tr><td>Return to parents in China</td><td>Flights, transfers and dates aligned with term</td></tr><tr><td>Parents visit Europe</td><td>Parental travel, temporary accommodation and living</td></tr><tr><td>Another suitable arrangement</td><td>A specific place, responsible adult, school requirements and costs</td></tr></tbody></table></div><p>LEP helps connect calendar, boarding and travel with school requirements. The arrangement depends on age, independence and the parents’ plans.</p>
+<h2>Budget the whole school stage</h2><p>If the student needs IGCSE or preparation before DP, two DP years are not the complete secondary investment. We start from actual entry and list school years, initial costs and holiday life. English support, exams and continuing activities such as riding belong in the same discussion.</p>
+<h2>Why discuss Eerde with LEP?</h2><p>I am James Liu and have visited the school. Its castle setting is memorable, while course entry, accommodation and the full calendar decide whether the plan works for the child. LEP communicates directly with the school and coordinates materials and assessment.</p><p>Read our <a href="/en/insights/eerde-boarding-school-visit/">visit record</a> and <a href="/en/insights/apply-to-eerde-with-lep/">application service</a>. LEP’s current Eerde application support is free of application-service charges through <strong>15 September 2027</strong>; school and other specialist costs are specified separately. Send age, curriculum, English, entry date and full annual budget.</p>
+
+<section class="lep-intent-contact"><h2>Discuss your situation with LEP</h2><p>Share age or qualifications, curriculum, languages, intended start and complete budget. WeChat: <strong>xiuyinxiansheng</strong>; email: <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>.</p><p><a href="/en/insights/why-lep/">Explore LEP school applications and local support →</a></p></section>
+<section class="source-note"><h2>Sources and update</h2><p>Eerde 2026/27 fee information and boarding-closure guidance. Budget breakdown updated 12 October 2026.</p></section>
+<nav class="related" aria-label="Continue the comparison with LEP"><h2>Continue the comparison with LEP</h2><ul><li><a href="/en/insights/europe-secondary-school-total-budget/">An annual RMB 500,000 secondary-school budget: compare Luxembourg, Switzerland and the Netherlands</a></li><li><a href="/en/insights/china-secondary-to-swiss-ib-a-level/">Moving from Chinese secondary school to Switzerland: when to start IB or A Levels?</a></li></ul></nav>

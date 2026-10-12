@@ -1,22 +1,44 @@
 ---
-layout: "node"
-lang: "fr"
-ref: "lux-guide-l4"
-permalink: "/fr/insights/luxembourg-international-school-fees/"
-cluster: "luxembourg-school"
-title: "Combien coûtent ISL, St George’s et OTR ? Comparer les écoles internationales privées au Luxembourg"
-date: "2026-09-26"
-reviewed: "2026-09-26"
-description: "Pour 2026–2027, les frais scolaires annuels publiés vont de 12 780 € à 24 226 € selon l’école et le niveau. Le budget familial doit aussi intégrer les frais d’entrée, le logement et les éventuels services locaux."
-image: "/assets/fieldwork/otr-james-visit.jpg"
-lep_service_page: false
-translated: true
-enquiry_target: "contact-lep"
-last_modified_at: "2026-10-07"
+{
+  "lep_service_page": false,
+  "layout": "node",
+  "lang": "fr",
+  "ref": "lux-guide-l4",
+  "cluster": "luxembourg-school",
+  "title": "Secondaire au Luxembourg sans les parents : frais scolaires, famille d’accueil et trésorerie",
+  "description": "Pour un enfant inscrit dans une école privée anglophone au Luxembourg tandis que ses parents restent à l’étranger, les exemples du secondaire supérieur ci-dessous donnent 41 992 à 49 226 euros par an pour école et famille d’accueil. S’ajoutent frais d’entrée, services locaux de L",
+  "answer": "Pour un enfant inscrit dans une école privée anglophone au Luxembourg tandis que ses parents restent à l’étranger, les exemples du secondaire supérieur ci-dessous donnent 41 992 à 49 226 euros par an pour école et famille d’accueil. S’ajoutent frais d’entrée, services locaux de LEP et dépenses personnelles. Nous construisons ensemble le budget scolaire et de vie.",
+  "date": "2026-09-26",
+  "reviewed": "2026-10-12",
+  "last_modified_at": "2026-10-12",
+  "permalink": "/fr/insights/luxembourg-international-school-fees/",
+  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+  "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "faq": [
+    {
+      "q": "Le montant du foyer est-il un tarif scolaire fixe ?",
+      "a": "Non : c’est une référence, à préciser selon dates et prestations du foyer choisi."
+    },
+    {
+      "q": "Le dépôt est-il un frais de scolarité ?",
+      "a": "Non, mais il faut prévoir cette trésorerie à l’entrée."
+    },
+    {
+      "q": "Et si les parents vivent sur place ?",
+      "a": "Nous recalculons le logement sans appliquer automatiquement l’exemple de famille d’accueil."
+    }
+  ]
+}
 ---
 
-<p class="lead">Pour 2026–2027, les frais scolaires annuels publiés vont de 12 780 € à 24 226 € selon l’école et le niveau. Le budget familial doit aussi intégrer les frais d’entrée, le logement et les éventuels services locaux.</p>
-{% include lep-school-enquiry.html %}
+<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="Visite de James Liu · Photo LEP" loading="eager" decoding="async"><figcaption>Visite de James Liu · Photo LEP</figcaption></figure>
+<h2>Comparer les montants annuels 2026/27</h2><div class="table-scroll"><table><thead><tr><th>École / niveau</th><th>Frais scolaires annuels EUR</th><th>Famille d’accueil : référence EUR</th><th>Total EUR/an</th></tr></thead><tbody><tr><td>OTR Grade 6–10</td><td>16 019</td><td>25 000</td><td>41 019</td></tr><tr><td>OTR Grade 11–12</td><td>16 992</td><td>25 000</td><td>41 992</td></tr><tr><td>St George’s Year 7–9</td><td>18 400</td><td>25 000</td><td>43 400</td></tr><tr><td>St George’s Year 10–13</td><td>19 695</td><td>25 000</td><td>44 695</td></tr><tr><td>ISL Grade 6–8</td><td>24 005</td><td>25 000</td><td>49 005</td></tr><tr><td>ISL Grade 9–12</td><td>24 226</td><td>25 000</td><td>49 226</td></tr></tbody></table></div><p>Les montants scolaires comprennent les postes annuels fixes des barèmes concernés. Les 25 000 euros correspondent à la référence antérieure de James Liu pour nourriture et hébergement en foyer ; dates et contenu se précisent pour la famille choisie. Un niveau chinois ne correspond pas automatiquement à un Year britannique ou à un Grade.</p><p>Pour les familles chinoises, une hypothèse de 1 euro = 8,5 yuans donne environ 357 000, 380 000 et 418 000 yuans pour les trois exemples du secondaire supérieur. Il s’agit d’un calcul de budget ; le paiement dépend du cours de change applicable.</p>
+<h2>Trésorerie initiale et dépenses récurrentes</h2><div class="table-scroll"><table><thead><tr><th>Exemple au secondaire supérieur</th><th>École + foyer</th><th>À l’entrée</th><th>Trésorerie de première année EUR</th></tr></thead><tbody><tr><td>OTR Grade 11–12</td><td>41 992</td><td>Inscription 300 + dépôt 450</td><td>42 742</td></tr><tr><td>St George’s Year 10–13</td><td>44 695</td><td>Candidature 750 + dépôt 1 000</td><td>46 445</td></tr><tr><td>ISL Grade 9–12</td><td>49 226</td><td>Candidature 300 + inscription 3 000</td><td>52 526</td></tr></tbody></table></div><p>Un dépôt exige des fonds à l’entrée mais se distingue de la consommation finale. Ces totaux comprennent les postes indiqués. Toute autre avance demandée dans l’admission ISL est ajoutée au calendrier, avec services LEP, assurance, vols, vacances et dépenses personnelles.</p>
+<h2>Relier foyer et école</h2><p>Transport, repas scolaires, dates d’hébergement et vacances modifient le budget. Une école moins chère mais mal desservie depuis le foyer peut créer des dépenses et des ajustements. LEP étudie localisation et rythme quotidien pendant le choix scolaire.</p>
+<h2>Les honoraires locaux de LEP</h2><p>Candidatures scolaires et coordination des familles d’accueil au Luxembourg sont des services payants. Une candidature seule demande un travail différent d’une recherche de foyer, des documents, de l’arrivée et du suivi. Nous précisons périmètre et honoraires selon la mission.</p><p>Indiquez âge, cursus, langues, rentrée et présence des parents. Nous formons une proposition école-hébergement, puis présentons travail et budget correspondants.</p>
+<h2>Préparer l’ensemble du parcours</h2><p>Penser plusieurs années est utile, mais multiplier la première année par cinq ne suffit pas. Niveau, frais annuels, soutien linguistique et hébergement évoluent ; certains frais d’entrée ne se répètent pas.</p><p>Je recherche une voie que la famille pourra poursuivre. Consultez les <a href="/fr/insights/luxembourg-school-support-lep/">services luxembourgeois de LEP</a>, puis discutons cursus, soutien et durée complète avec les conditions de votre enfant.</p>
 
-<h2>Frais annuels en euros</h2><p>Le tableau additionne la scolarité et les contributions annuelles de stabilisation ou de développement annoncées. Il exclut le logement, la vie quotidienne et les honoraires LEP. Les lignes ne constituent pas des équivalences de classes entre systèmes.</p><div class="table-wrap"><table><thead><tr><th>École</th><th>Niveau</th><th>Frais annuels</th></tr></thead><tbody><tr><td>ISL</td><td>Foundations–Grade 1</td><td>€20,480</td></tr><tr><td>ISL</td><td>Grade 2–5</td><td>€22,118</td></tr><tr><td>ISL</td><td>Grade 6–8</td><td>€24,005</td></tr><tr><td>ISL</td><td>Grade 9–12</td><td>€24,226</td></tr><tr><td>St George’s</td><td>Nursery / Reception</td><td>€14,750</td></tr><tr><td>St George’s</td><td>Year 1–2</td><td>€16,100</td></tr><tr><td>St George’s</td><td>Year 3–6</td><td>€17,330</td></tr><tr><td>St George’s</td><td>Year 7–9</td><td>€18,400</td></tr><tr><td>St George’s</td><td>Year 10–13</td><td>€19,695</td></tr><tr><td>OTR</td><td>Preschool 1–3</td><td>€12,780</td></tr><tr><td>OTR</td><td>G1–G5</td><td>€14,312</td></tr><tr><td>OTR</td><td>G6–G10</td><td>€16,019</td></tr><tr><td>OTR</td><td>G11–G12</td><td>€16,992</td></tr></tbody></table></div><h2>La première année</h2><div class="table-wrap"><table><thead><tr><th>École</th><th>Frais initiaux non remboursables</th><th>Dépôt</th></tr></thead><tbody><tr><td>ISL</td><td>300 € de candidature + 3 000 € d’inscription</td><td>Selon la facture de l’école</td></tr><tr><td>St George’s</td><td>750 € de candidature</td><td>1 000 €, remboursables sous conditions</td></tr><tr><td>OTR</td><td>300 € d’inscription</td><td>450 €, remboursables sous conditions</td></tr></tbody></table></div><p>Les frais peuvent légèrement évoluer ; le montant confirmé par l’école lors de la candidature fait foi.</p><h2>Financer un parcours, pas seulement une année</h2><p>Je regarde la durée prévue de scolarisation et les ressources à conserver pour les études supérieures. Deux enfants, un parent qui déménage ou un élève en famille d’accueil correspondent à des budgets différents. Un prix supérieur doit apporter le cursus et le soutien dont l’enfant a réellement besoin.</p><p>Dans cette comparaison, ISL est globalement la plus chère et OTR la moins coûteuse. Le choix dépend aussi des langues, des attentes scolaires et de la capacité de l’enfant à profiter des ressources proposées.</p><h2>Famille d’accueil et services locaux</h2><p>Ces trois établissements sont des externats. Si les parents ne vivent pas au Luxembourg, la famille d’accueil et les prestations locales doivent être prévues séparément. LEP relie ces dépenses au choix de l’école dès le départ.</p><h2>Aides et honoraires</h2><p>Les dispositifs de bourses associés aux écoles hôtelières suisses ne se transposent pas automatiquement au secondaire luxembourgeois. St George’s publie un dispositif limité d’Assisted Places, dont les conditions doivent être étudiées individuellement.</p><p>Les services LEP au Luxembourg sont payants : ils impliquent des échanges avec l’école et un travail local important. Nous distinguons nos honoraires des frais scolaires et des prestations de tiers. Indiquez-nous le niveau de l’enfant, la rentrée souhaitée, le budget et la présence éventuelle des parents pour établir une comparaison utile.</p><h2>Pour aller plus loin</h2><ul><li><a href="/fr/insights/luxembourg-international-schools/">Choisir une école internationale privée anglophone au Luxembourg : ISL, St George’s ou OTR ?</a></li><li><a href="/fr/insights/isl-luxembourg-school/">ISL, International School of Luxembourg : pour quels enfants et quelles familles ?</a></li><li><a href="/fr/insights/st-georges-luxembourg-school/">St George’s International School Luxembourg : cursus britannique et accompagnement local</a></li><li><a href="/fr/insights/otr-luxembourg-school/">OTR International School : petite structure bilingue, IB et A Levels au Luxembourg</a></li><li><a href="/fr/insights/luxembourg-school-support-lep/">Pourquoi choisir LEP au Luxembourg ? Des relations locales qui permettent d’agir</a></li></ul><p><strong>Les services scolaires et de famille d’accueil au Luxembourg sont payants. Le périmètre et les honoraires sont convenus au préalable.</strong></p>
-{% assign lang = page.lang %}{% include lep-contact.html %}
+<section class="lep-intent-contact"><h2>Présenter votre situation à LEP</h2><p>Indiquez âge ou diplômes, cursus, langues, rentrée envisagée et budget complet. WeChat : <strong>xiuyinxiansheng</strong> ; courriel : <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>.</p><p><a href="/fr/insights/why-lep/">Découvrir candidatures et soutien local LEP →</a></p></section>
+<section class="source-note"><h2>Sources et mise à jour</h2><p>Barèmes ISL, St George’s et OTR 2026/27 vérifiés le 26 septembre 2026 ; foyer selon la référence antérieure de James Liu. Calculs actualisés le 12 octobre 2026.</p></section>
+<nav class="related" aria-label="Poursuivre la comparaison avec LEP"><h2>Poursuivre la comparaison avec LEP</h2><ul><li><a href="/fr/insights/luxembourg-student-host-family/">Secondaire au Luxembourg : qui organise famille d’accueil, trajets et quotidien ?</a></li><li><a href="/fr/insights/europe-secondary-school-total-budget/">Budget annuel de 500 000 yuans au secondaire : Luxembourg, Suisse ou Pays-Bas ?</a></li></ul></nav>

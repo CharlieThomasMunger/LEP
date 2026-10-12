@@ -1,14 +1,17 @@
 ---
-layout: "page"
-lang: "en"
-permalink: "/en/destinations/switzerland/"
-translation_key: "destination-switzerland"
-last_modified_at: "2026-10-11"
-title: "Swiss boarding schools: curricula, fees and university pathways"
-heading: "Swiss boarding schools and study pathways"
-description: "Explore Saint-Charles, Chantemerle and TASIS through LEP school visits. Compare boarding, fees, IB, A Levels and AP, with separate guides to Swiss hospitality degrees."
-standfirst: "Swiss education from early years, primary and secondary international schools and boarding options to undergraduate and postgraduate hospitality studies."
+{
+  "layout": "page",
+  "lang": "en",
+  "permalink": "/en/destinations/switzerland/",
+  "translation_key": "destination-switzerland",
+  "last_modified_at": "2026-10-12",
+  "title": "Swiss boarding schools: curricula, fees and university pathways",
+  "heading": "Swiss boarding schools and study pathways",
+  "description": "Explore Saint-Charles, Chantemerle and TASIS through LEP school visits. Compare boarding, fees, IB, A Levels and AP, with separate guides to Swiss hospitality degrees.",
+  "standfirst": "Swiss education from early years, primary and secondary international schools and boarding options to undergraduate and postgraduate hospitality studies."
+}
 ---
+
 
 ## Private international schools and boarding: early years through secondary school
 
@@ -86,3 +89,15 @@ Share your child’s age, current year group, language skills, family budget and
 Choosing a school? Explore how LEP connects selection, accommodation and arrival.
 
 [School choice, boarding and arrival with LEP](/en/guides/school-decisions/)
+
+
+<!-- lep-materials-20261012 -->
+## Continue the comparison with LEP
+
+- [Choosing a Swiss IB boarding school: International School Altdorf or Saint-Charles?](/en/insights/altdorf-saint-charles-ib-boarding-comparison/)
+- [Moving from Chinese secondary school to Switzerland: when to start IB or A Levels?](/en/insights/china-secondary-to-swiss-ib-a-level/)
+- [A Chinese high-school graduate without IB or A Levels: applying for a Swiss hospitality bachelor](/en/insights/china-high-school-swiss-hospitality-bachelor/)
+- [International School Altdorf: IB boarding, entry and budget for Chinese students](/en/insights/international-school-altdorf-boarding-ib/)
+- [Changing career with IMI’s Swiss hospitality MSc: entry, practice and costs](/en/insights/imi-masters-career-change/)
+- [What work can IMI graduates pursue? Internships, target markets and LEP’s local recommendations](/en/insights/imi-internships-careers/)
+- [Swiss hospitality qualifications: what do IMI, SHMS, HIM, CRCS and CAA award?](/en/insights/swiss-hospitality-degrees-recognition/)

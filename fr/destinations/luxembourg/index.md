@@ -1,15 +1,17 @@
 ---
-layout: "page"
-lang: "fr"
-permalink: "/fr/destinations/luxembourg/"
-translation_key: "destination-luxembourg"
-title: "Écoles internationales privées au Luxembourg : ISL, St George’s et OTR"
-heading: "Luxembourg"
-description: "Comparez les écoles, les cursus et les frais. Découvrez les familles d’accueil pour les élèves dont les parents vivent à l’étranger et un cas d’entrée à l’école en neuf jours accompagné par LEP."
-standfirst: "Candidatures, arrivée des familles et accompagnement local, là où nous vivons et travaillons."
-
-last_modified_at: "2026-10-11"
+{
+  "layout": "page",
+  "lang": "fr",
+  "permalink": "/fr/destinations/luxembourg/",
+  "translation_key": "destination-luxembourg",
+  "title": "Écoles internationales privées au Luxembourg : ISL, St George’s et OTR",
+  "heading": "Luxembourg",
+  "description": "Comparez les écoles, les cursus et les frais. Découvrez les familles d’accueil pour les élèves dont les parents vivent à l’étranger et un cas d’entrée à l’école en neuf jours accompagné par LEP.",
+  "standfirst": "Candidatures, arrivée des familles et accompagnement local, là où nous vivons et travaillons.",
+  "last_modified_at": "2026-10-12"
+}
 ---
+
 
 ## Votre première question
 
@@ -67,3 +69,11 @@ Pour les élèves mineurs, nous coordonnons les candidatures, les familles d’a
 Vous hésitez entre plusieurs écoles ? Découvrez comment LEP relie sélection, hébergement et arrivée.
 
 [Choix scolaire, hébergement et arrivée avec LEP](/fr/guides/school-decisions/)
+
+
+<!-- lep-materials-20261012 -->
+## Poursuivre la comparaison avec LEP
+
+- [Candidature au secondaire luxembourgeois depuis la Chine : l’accompagnement local de LEP](/fr/insights/luxembourg-school-support-lep/)
+- [Secondaire au Luxembourg : qui organise famille d’accueil, trajets et quotidien ?](/fr/insights/luxembourg-student-host-family/)
+- [Secondaire au Luxembourg sans les parents : frais scolaires, famille d’accueil et trésorerie](/fr/insights/luxembourg-international-school-fees/)

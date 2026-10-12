@@ -1,32 +1,68 @@
 ---
-layout: "node"
-lang: "zh"
-ref: "lux-guide-l4"
-permalink: "/zh/insights/luxembourg-international-school-fees/"
-cluster: "luxembourg-school"
-title: "卢森堡英文私立国际学校一年多少钱？ISL、圣乔治、OTR 费用对比"
-date: "2026-09-26"
-reviewed: "2026-09-26"
-description: "按 2026–2027 学年公布费用，三校每名学生的年度学校费用约为 €12,780–€24,226，具体取决于学校和年级。下面把学费与年度必缴基金合并列出，再单独说明新生费用，方便家庭直接比较。"
-image: "/assets/fieldwork/otr-james-visit.jpg"
-lep_service_page: false
-enquiry_target: "contact-lep"
-last_modified_at: "2026-10-07"
+{
+  "lep_service_page": false,
+  "layout": "node",
+  "lang": "zh",
+  "ref": "lux-guide-l4",
+  "cluster": "luxembourg-school",
+  "title": "父母不陪读，卢森堡读中学一年多少钱？学费、寄宿家庭与首年现金",
+  "description": "父母留在中国、孩子去卢森堡读私立英文中学，可以先按学校年费加寄宿家庭食宿计算：以下高中阶段算例约为每年41,992—49,226欧元，再加首次费用、LEP本地服务与其他个人支出。这个数字帮助家庭理解路线的量级，具体选择还要对应孩子的年级、课程和生活需要。",
+  "answer": "父母留在中国、孩子去卢森堡读私立英文中学，可以先按学校年费加寄宿家庭食宿计算：以下高中阶段算例约为每年41,992—49,226欧元，再加首次费用、LEP本地服务与其他个人支出。这个数字帮助家庭理解路线的量级，具体选择还要对应孩子的年级、课程和生活需要。",
+  "date": "2026-09-26",
+  "reviewed": "2026-10-12",
+  "last_modified_at": "2026-10-12",
+  "permalink": "/zh/insights/luxembourg-international-school-fees/",
+  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+  "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "faq": [
+    {
+      "q": "一年40万元人民币够吗？",
+      "a": "按上述汇率算例，可讨论部分路线；服务与额外支出还需计入。"
+    },
+    {
+      "q": "押金算不算学费？",
+      "a": "不是同一项，但首次缴费时需要准备相应现金。"
+    },
+    {
+      "q": "父母在当地，预算会怎样变化？",
+      "a": "住宿与家庭生活重新计算，不直接套用寄宿家庭算例。"
+    }
+  ]
+}
 ---
 
-<p class="lead">按 2026–2027 学年公布费用，三校每名学生的年度学校费用约为 €12,780–€24,226，具体取决于学校和年级。下面把学费与年度必缴基金合并列出，再单独说明新生费用，方便家庭直接比较。</p>
-{% include lep-school-enquiry.html %}
+<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="修印先生与卢森堡圣乔治国际学校校长合影。" loading="eager" decoding="async"><figcaption>修印先生与卢森堡圣乔治国际学校校长合影。</figcaption></figure>
+<p>我是修印先生，LEP以卢森堡为基地，协助家庭办理学校申请、寄宿家庭及当地协调。我会在选校阶段同时算学校和生活，家长得到的是可以持续读下去的安排。</p>
+<h2>2026/27三所学校的年费怎样比较？</h2>
+<p>下面的学校金额按2026/27公开表中的对应年级计算，已计入该表的年度固定基金等费用；寄宿家庭暂采用25,000欧元/年的食宿参考。中国年级不能只按名称机械对应到英国Year或其他Grade，实际入读年级先由学校评估。</p>
+<div class="table-scroll"><table><thead><tr><th>学校与学段</th><th>学校年度固定费 EUR</th><th>寄宿家庭参考 EUR</th><th>两项合计 EUR/年</th></tr></thead><tbody>
+<tr><td>OTR Grade 6—10</td><td>16,019</td><td>25,000</td><td>41,019</td></tr>
+<tr><td>OTR Grade 11—12</td><td>16,992</td><td>25,000</td><td>41,992</td></tr>
+<tr><td>圣乔治 Year 7—9</td><td>18,400</td><td>25,000</td><td>43,400</td></tr>
+<tr><td>圣乔治 Year 10—13</td><td>19,695</td><td>25,000</td><td>44,695</td></tr>
+<tr><td>ISL Grade 6—8</td><td>24,005</td><td>25,000</td><td>49,005</td></tr>
+<tr><td>ISL Grade 9—12</td><td>24,226</td><td>25,000</td><td>49,226</td></tr>
+</tbody></table></div>
+<p>例如，以1欧元兑8.5元人民币作预算演算，三所学校高中阶段的上述两项合计约为<strong>35.7万、38.0万和41.8万元/年</strong>。这里使用的是比较量级的假设汇率，家庭实际换汇按付款时汇价计算。</p>
+<h2>首年要准备的现金，比每年重复支出多多少？</h2>
+<p>新生费用分为真正的新增支出和符合条件可以退还的押金。押金虽不等于每年消费，但第一年仍需准备这笔现金。</p>
+<div class="table-scroll"><table><thead><tr><th>高中阶段算例</th><th>学费＋家庭食宿</th><th>新生费用及押金</th><th>已列项目首年现金</th></tr></thead><tbody>
+<tr><td>OTR Grade 11—12</td><td>41,992</td><td>注册300＋押金450</td><td>42,742欧元</td></tr>
+<tr><td>圣乔治 Year 10—13</td><td>44,695</td><td>申请750＋押金1,000</td><td>46,445欧元</td></tr>
+<tr><td>ISL Grade 9—12</td><td>49,226</td><td>申请300＋注册3,000</td><td>52,526欧元</td></tr>
+</tbody></table></div>
+<p>这三行列明的是已经计入的项目。ISL若有录取文件列示的其他预付款，另放入缴费计划；LEP服务、保险、机票、假期及个人消费也在下一步单列。把口径写清，才能比较实际需要准备的资金。</p>
+<h2>哪些生活费用要与寄宿家庭一起谈？</h2>
+<p>每天通勤是否需要接送、学校午餐怎样安排、家庭食宿覆盖哪些日期、孩子假期是否回中国，都要落到具体方案。两位同龄学生，如果学校位置、假期和接送需要不同，生活预算也会不同。</p>
+<p>LEP匹配家庭时，会把这些条件与学校放在一起看。先选一所学费较低的学校，却没有合适的通勤和居住安排，省下的学费可能被额外交通和反复调整消耗掉。</p>
+<h2>LEP本地服务费怎样计算？</h2>
+<p><strong>卢森堡学校申请与寄宿家庭协调属于收费服务。</strong>我们按照家庭委托的工作说明费用：只推进学校申请，与同时匹配家庭、衔接文件和入学后持续沟通，投入并不一样。</p>
+<p>家长第一次联系时，告诉我们年龄、课程、语言、入学时间和是否陪读。我们先形成学校与住宿组合，再给清楚的工作与费用安排，让你知道钱对应哪些具体工作。</p>
+<h2>五年的账，不能只把第一年乘五</h2>
+<p>我的旧文章谈过“把几年预算一起看”。这个判断仍然重要，但学费会随年级与学年变化，一次性费用也不会每年重复。孩子以后进入考试年级、增加语言支持或者改变居住安排，预算也要调整。</p>
+<p>我更重视一条家庭可以完成的路线：现在付得起，后续几年也有持续能力。LEP比较ISL、圣乔治与OTR时，会将课程起点、所需支持和完整学段放在一起讨论。可以先阅读<a href="https://luxedupartners.lu/zh/insights/luxembourg-school-support-lep/">LEP卢森堡服务</a>，再把你家的条件发给我们。</p>
 
-<h2>先看每年交给学校的费用</h2>
-<p>表内为欧元，合计包含学费及学校列明的年度稳定基金、建设基金；不包含家庭住房、生活和 LEP 服务费。各校年级体系不同，同一行并不代表孩子可以直接对应转入。</p><div class="table-wrap"><table><thead><tr><th>学校</th><th>学段 / 年级</th><th>年度学校费用</th></tr></thead><tbody><tr><td>ISL</td><td>Foundations–Grade 1</td><td>€20,480</td></tr><tr><td>ISL</td><td>Grade 2–5</td><td>€22,118</td></tr><tr><td>ISL</td><td>Grade 6–8</td><td>€24,005</td></tr><tr><td>ISL</td><td>Grade 9–12</td><td>€24,226</td></tr><tr><td>圣乔治</td><td>Nursery、Reception</td><td>€14,750</td></tr><tr><td>圣乔治</td><td>Year 1–2</td><td>€16,100</td></tr><tr><td>圣乔治</td><td>Year 3–6</td><td>€17,330</td></tr><tr><td>圣乔治</td><td>Year 7–9</td><td>€18,400</td></tr><tr><td>圣乔治</td><td>Year 10–13</td><td>€19,695</td></tr><tr><td>OTR</td><td>Preschool 1–3</td><td>€12,780</td></tr><tr><td>OTR</td><td>G1–G5</td><td>€14,312</td></tr><tr><td>OTR</td><td>G6–G10</td><td>€16,019</td></tr><tr><td>OTR</td><td>G11–G12</td><td>€16,992</td></tr></tbody></table></div>
-<h2>第一年，还要考虑新生费用</h2><div class="table-wrap"><table><thead><tr><th>学校</th><th>一次性、不可退费用</th><th>押金</th></tr></thead><tbody><tr><td>ISL</td><td>申请费 €300 ＋ 注册费 €3,000</td><td>按最终入学账单确认</td></tr><tr><td>圣乔治</td><td>申请费 €750</td><td>€1,000，可退条件按学校约定</td></tr><tr><td>OTR</td><td>注册费 €300</td><td>€450，可退条件按学校约定</td></tr></tbody></table></div>
-<p class="note">费用会略有变化，以最终学校申请确认的金额为准。</p>
-<h2>我更关心：这个预算能不能支撑孩子继续往前走</h2>
-<p>如果只是看一年的学费，家庭很容易低估长期投入。两个孩子同时就读、父母一方搬来陪伴、住房和日常生活照顾，再加上未来本科预算，都会影响哪条路更合适。</p>
-<p>我的建议是，把准备在卢森堡读几年的计划说清楚，再比较学校。较低的学费可以给语言学习、家庭生活和未来升学留下余地；较高的学费，也应该对应你真正需要的课程和学校支持。</p>
-<p><strong>选贵的学校并不自动代表选得好。把预算花在孩子能够利用、家庭能够持续承担的教育安排上，才是值得做的决定。</strong></p>
-<h2>奖学金和服务费，按卢森堡项目单独讨论</h2>
-<p>不能把瑞士酒店管理学院的合作奖学金安排，直接套在卢森堡中小学上。圣乔治公布有数量有限的 Assisted Places 助学安排；是否适用，需要根据学校条件单独确认。</p>
-<p>LEP 的卢森堡私立国际学校服务需要持续的校方沟通及本地协调，属于收费服务。我们会在开始前讲清楚工作范围、服务费，以及哪些费用由学校或其他机构收取。</p>
-<p>把孩子的学习阶段、入学时间、父母是否同行和预算范围告诉我们，就可以开始有针对性的学校比较。</p><h2>孩子独自来，预算还要包括本地生活安置</h2><p>学校费用之外，还需要安排寄宿家庭及本地服务。这部分应当与学费一起纳入家庭预算。LEP 会根据实际需要明确费用与工作范围。</p><p><strong>父母不在卢森堡长期居住，孩子独自来这三所走读学校留学，学校申请和寄宿家庭必须一起安排。</strong>LEP 提供本地寄宿家庭匹配与后续协调，把学校与孩子在当地的生活安置一起落实。<a href="/zh/insights/study-without-parents/">了解孩子独自留学的本地安排 →</a></p><h2>继续了解</h2><ul><li><a href="/zh/insights/luxembourg-international-schools/">卢森堡英文私立国际学校怎么选？ISL、圣乔治与 OTR 的区别</a></li><li><a href="/zh/insights/isl-luxembourg-school/">ISL 卢森堡国际学校：适合什么样的孩子和家庭？</a></li><li><a href="/zh/insights/st-georges-luxembourg-school/">圣乔治国际学校：在卢森堡读英式课程，为什么值得认真了解？</a></li><li><a href="/zh/insights/otr-luxembourg-school/">OTR 国际学校：小班、英法双语，以及 IB 与 A Level 选择</a></li><li><a href="/zh/insights/luxembourg-school-support-lep/">在卢森堡给孩子找学校，为什么找一家真正扎根本地的企业？</a></li></ul><p><strong>卢森堡私立国际学校及本地寄宿家庭服务属于收费项目，开始前明确工作范围与费用。</strong></p>
-{% assign lang = page.lang %}{% include lep-contact.html %}<details><summary>资料核对 · 2026 年 9 月</summary><p><a href="https://www.islux.lu/fs/resource-manager/view/cd9ea705-9c2b-4eae-90e0-0353798b059a" target="_blank" rel="noopener">ISL 2026–2027 费用</a></p><p><a href="https://www.st-georges.lu/ams/20262027_school_fees_and_information__without_bills_dates__for_website_11_-2786.pdf?version=639102049191070000" target="_blank" rel="noopener">圣乔治 2026–2027 费用表</a></p><p><a href="https://www.st-georges.lu/school-fees" target="_blank" rel="noopener">圣乔治学校费用</a></p><p><a href="https://otrschool.lu/enrolment-and-fees/" target="_blank" rel="noopener">OTR 2026–2027 费用</a></p></details>
+<section class="lep-intent-contact"><h2>把孩子的实际情况交给LEP讨论</h2><p>请说明年龄或已有学历、现读课程、语言、入学时间和完整预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p><p><a href="/zh/insights/why-lep/">了解LEP的学校申请与本地服务 →</a></p></section>
+<section class="source-note"><h2>资料与更新时间</h2><p>ISL、St George’s、OTR 2026/27收费资料，2026年9月26日核验；寄宿家庭为修印先生此前参考。本次费用拆分与算术更新：2026年10月12日。</p></section>
+<nav class="related" aria-label="继续比较与安排申请"><h2>继续比较与安排申请</h2><ul><li><a href="/zh/insights/luxembourg-student-host-family/">孩子去卢森堡读中学，寄宿家庭、通勤和日常生活由谁安排？</a></li><li><a href="/zh/insights/europe-secondary-school-total-budget/">预算50万元一年，卢森堡、瑞士和荷兰中学怎样选？</a></li></ul></nav>

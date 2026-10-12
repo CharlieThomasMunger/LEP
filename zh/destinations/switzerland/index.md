@@ -1,14 +1,17 @@
 ---
-layout: "page"
-lang: "zh"
-permalink: "/zh/destinations/switzerland/"
-translation_key: "destination-switzerland"
-last_modified_at: "2026-10-11"
-title: "瑞士国际寄宿学校怎么选？课程、费用与升学路径"
-heading: "瑞士国际寄宿学校与升学规划"
-description: "比较 Saint-Charles、Chantemerle 与 TASIS 的课程、寄宿生活及费用，结合 LEP 实地访校了解 IB、A Level、AP 和瑞士升学路径；另设瑞士酒店管理本科与硕士专题。"
-standfirst: "从低龄、小学、初高中私立国际学校与寄宿教育，到酒店管理本科及研究生，结合家庭预算与长期发展规划瑞士留学。"
+{
+  "layout": "page",
+  "lang": "zh",
+  "permalink": "/zh/destinations/switzerland/",
+  "translation_key": "destination-switzerland",
+  "last_modified_at": "2026-10-12",
+  "title": "瑞士国际寄宿学校怎么选？课程、费用与升学路径",
+  "heading": "瑞士国际寄宿学校与升学规划",
+  "description": "比较 Saint-Charles、Chantemerle 与 TASIS 的课程、寄宿生活及费用，结合 LEP 实地访校了解 IB、A Level、AP 和瑞士升学路径；另设瑞士酒店管理本科与硕士专题。",
+  "standfirst": "从低龄、小学、初高中私立国际学校与寄宿教育，到酒店管理本科及研究生，结合家庭预算与长期发展规划瑞士留学。"
+}
 ---
+
 
 ## 私立国际学校与寄宿教育：从低龄、小学到初高中
 
@@ -86,3 +89,15 @@ WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxe
 还没确定学校？看看 LEP 怎样帮您比较选校、寄宿与入学安排。
 
 [选校、寄宿与入学：LEP 怎样帮助家庭作决定](/zh/guides/school-decisions/)
+
+
+<!-- lep-materials-20261012 -->
+## 继续比较与安排申请
+
+- [瑞士IB寄宿高中怎么选？阿尔特多夫与圣查尔斯的预算和学习环境](/zh/insights/altdorf-saint-charles-ib-boarding-comparison/)
+- [国内初中、高一或高二转学瑞士，IB和A Level怎样衔接？](/zh/insights/china-secondary-to-swiss-ib-a-level/)
+- [普通高中毕业，没有IB或A Level，怎样申请瑞士酒店管理本科？](/zh/insights/china-high-school-swiss-hospitality-bachelor/)
+- [阿尔特多夫国际学校适合中国学生吗？IB、寄宿生活与申请安排](/zh/insights/international-school-altdorf-boarding-ib/)
+- [本科不是酒店管理，能申请瑞士IMI硕士吗？转专业、实习与费用](/zh/insights/imi-masters-career-change/)
+- [瑞士IMI毕业能做什么工作？实习、目标市场与LEP本地推荐](/zh/insights/imi-internships-careers/)
+- [瑞士酒店管理毕业拿什么文凭？IMI、SHMS、HIM、CRCS与CAA怎样看](/zh/insights/swiss-hospitality-degrees-recognition/)
