@@ -8,8 +8,8 @@
   "description": "ISL, St George’s et OTR sont des écoles de jour. Pour un enfant dont les parents restent à l’étranger, le logement doit avancer avec l’admission. LEP, basé au Luxembourg, accompagne candidature, recherche de famille d’accueil et coordination ultérieure. Je suis James Liu : le quo",
   "answer": "ISL, St George’s et OTR sont des écoles de jour. Pour un enfant dont les parents restent à l’étranger, le logement doit avancer avec l’admission. LEP, basé au Luxembourg, accompagne candidature, recherche de famille d’accueil et coordination ultérieure. Je suis James Liu : le quotidien mérite d’être étudié avant le départ.",
   "date": "2026-10-12",
-  "reviewed": "2026-10-12",
-  "last_modified_at": "2026-10-12",
+  "reviewed": "2026-10-13",
+  "last_modified_at": "2026-10-13",
   "permalink": "/fr/insights/luxembourg-student-host-family/",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
   "custom_lep_support": true,
@@ -31,7 +31,9 @@
 }
 ---
 
+
 <figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="Visite de James Liu · Photo LEP" loading="eager" decoding="async"><figcaption>Visite de James Liu · Photo LEP</figcaption></figure>
+{% include luxembourg-service-card.html %}
 <h2>Partir des besoins de l’enfant</h2><p>Âge, autonomie, alimentation, allergies, santé, langues, rythme et besoin de présence influencent la recherche. Signalez tôt besoins religieux, entraînement sportif ou régime particulier.</p><div class="table-scroll"><table><thead><tr><th>Domaine</th><th>Points précisés avec LEP</th></tr></thead><tbody><tr><td>Logement</td><td>Chambre, espace de travail, membres du foyer et règles communes</td></tr><tr><td>Quotidien</td><td>Repas, régime, linge, rythme et week-ends</td></tr><tr><td>Trajet scolaire</td><td>Itinéraire, durée et transport nécessaire</td></tr><tr><td>Échanges</td><td>Interlocuteurs locaux, fréquence des retours et urgences</td></tr><tr><td>Vacances</td><td>Dates au foyer, voyages et frais correspondants</td></tr></tbody></table></div><p>Un foyer agréable mais trop éloigné peut ne pas convenir. École et logement doivent fonctionner ensemble.</p>
 <h2>Relier les rôles du foyer, de l’école et de LEP</h2><p>Le foyer assure le quotidien convenu ; l’école les apprentissages et la vie scolaire. LEP rapproche les questions parentales des interlocuteurs locaux, en écoutant le jeune et les retours de l’école et du foyer.</p><p>Le soutien quotidien, les contacts d’urgence et les autorisations écrites se précisent pendant l’inscription et l’arrivée. L’enfant sait à qui parler et le parent qui traite chaque point.</p>
 <h2>Des retours vraiment utiles aux parents</h2><p>Dans notre suivi continu, un retour est préparé toutes les deux semaines au premier mois, puis un bilan combiné tous les deux mois. Il concerne apprentissages, habitudes et adaptation.</p><p>Devoirs, activités, relations dans le foyer, repas et sommeil renseignent davantage qu’un simple « tout va bien ». Nous rapprochons ces observations pour décider d’actions concrètes.</p>

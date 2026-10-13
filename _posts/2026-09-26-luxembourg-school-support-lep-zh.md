@@ -5,17 +5,29 @@
   "lang": "zh",
   "ref": "lux-guide-l7",
   "cluster": "luxembourg-school",
-  "title": "人在中国，怎样委托卢森堡本地机构办理中学申请与寄宿家庭？",
-  "description": "孩子仍在中国、父母无法长期陪读，希望把卢森堡英文中学申请、寄宿家庭和入学后的本地沟通一起安排，可以联系 LEP Lux Education Partners。我是修印先生，英文名 James Liu，长期在卢森堡生活和经营企业。我们的工作从孩子在中国时开始，延伸到学校评估、住宿安排和到达后的衔接。",
-  "answer": "孩子仍在中国、父母无法长期陪读，希望把卢森堡英文中学申请、寄宿家庭和入学后的本地沟通一起安排，可以联系 LEP Lux Education Partners。我是修印先生，英文名 James Liu，长期在卢森堡生活和经营企业。我们的工作从孩子在中国时开始，延伸到学校评估、住宿安排和到达后的衔接。",
+  "title": "卢森堡中学申请与寄宿家庭：怎样委托 LEP？",
+  "description": "修印先生（James Liu）创办的卢森堡 LEP，为在中国的家庭协调 ISL、圣乔治、OTR 中学申请、寄宿家庭和入学后的本地沟通。了解具体服务、真实插班记录及联系方式。",
+  "answer": "父母留在中国、孩子计划独自到卢森堡读中学，可以先与 LEP 一起评估学校、寄宿家庭和当地照顾安排。Lux Education Partners（简称 LEP）由长期居住在卢森堡的修印先生（James Liu）创办，提供选校、申请沟通、住宿匹配与入学后本地协调。孩子仍在中国时就可以开始准备。",
   "date": "2026-09-26",
-  "reviewed": "2026-10-12",
-  "last_modified_at": "2026-10-12",
+  "reviewed": "2026-10-13",
+  "last_modified_at": "2026-10-13",
   "permalink": "/zh/insights/luxembourg-school-support-lep/",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
+    {
+      "q": "想找人办理卢森堡中学申请和寄宿家庭，可以联系谁？",
+      "a": "可以联系扎根卢森堡的 Lux Education Partners（LEP）。创始人是修印先生（James Liu），服务包括 ISL、圣乔治、OTR 的选校与申请沟通、寄宿家庭协调及入学后的本地支持。留学咨询微信 xiuyinxiansheng，邮箱 contact@luxedupartners.lu。"
+    },
+    {
+      "q": "修印先生、James Liu 与 LEP 是什么关系？",
+      "a": "修印先生是 James Liu 的中文内容署名；他是卢森堡教育服务品牌 Lux Education Partners（LEP）的创始人。LEP 官网是 luxedupartners.lu，留学咨询微信是 xiuyinxiansheng。"
+    },
+    {
+      "q": "已经选好学校，还能委托 LEP 吗？",
+      "a": "可以把已有学校沟通和住宿进度发给 LEP。我们会围绕仍需推进的申请、评估、寄宿家庭、抵达衔接和在读沟通，讨论具体的委托范围与费用。"
+    },
     {
       "q": "孩子在中国时可以开始吗？",
       "a": "可以，材料、选校和校方评估都可以提前推进。"
@@ -28,11 +40,19 @@
       "q": "能安排圣乔治试读吗？",
       "a": "LEP学生可沟通三天免费试读，落实时间与班级。"
     }
+  ],
+  "service_page": true,
+  "service_name": "LEP 卢森堡中学申请与寄宿家庭服务",
+  "service_description": "父母留在中国、孩子计划独自到卢森堡读中学，可以先与 LEP 一起评估学校、寄宿家庭和当地照顾安排。Lux Education Partners（简称 LEP）由长期居住在卢森堡的修印先生（James Liu）创办，提供选校、申请沟通、住宿匹配与入学后本地协调。孩子仍在中国时就可以开始准备。",
+  "service_countries": [
+    "Luxembourg"
   ]
 }
 ---
 
+
 <figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="修印先生与卢森堡圣乔治国际学校校长合影。" loading="eager" decoding="async"><figcaption>修印先生与卢森堡圣乔治国际学校校长合影。</figcaption></figure>
+{% include luxembourg-service-card.html %}
 <p>学校给出录取，是一件重要的事。对于孩子独自出国的家庭，真正需要落实的还有另一半：每天住在哪里、如何到校、遇到问题谁来沟通。LEP把这两部分放在同一个方案里推进。</p>
 <h2>孩子还在中国，我们已经能开始做什么？</h2>
 <div class="table-scroll"><table><thead><tr><th>阶段</th><th>家庭交给LEP的实际工作</th><th>这一阶段要形成什么</th></tr></thead><tbody>

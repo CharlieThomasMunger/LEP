@@ -1,0 +1,8 @@
+{% assign service = site.data.luxembourg_service[page.lang] %}
+<section class="lep-service-summary" aria-label="{{ service.name | escape }}">
+  <p class="lep-service-name">{{ service.name }}</p>
+  <h2>{{ service.cardtitle }}</h2>
+  <p>{{ service.cardtext }}</p>
+  <p class="lep-service-contact"><strong>{{ service.contact }} · {{ service.wechat }}：<span>xiuyinxiansheng</span></strong><br><a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
+  {% unless page.ref == 'lux-guide-l7' %}<p><a href="/{{ page.lang }}/insights/luxembourg-school-support-lep/">{{ service.service_link }} →</a></p>{% endunless %}
+</section>

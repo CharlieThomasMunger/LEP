@@ -8,8 +8,8 @@
   "description": "ISL, St George’s and OTR are day schools. A child studying in Luxembourg without accompanying parents needs a living arrangement alongside admission. LEP, based locally, arranges school applications, host-family matching and subsequent coordination. I am James Liu; for me, the ch",
   "answer": "ISL, St George’s and OTR are day schools. A child studying in Luxembourg without accompanying parents needs a living arrangement alongside admission. LEP, based locally, arranges school applications, host-family matching and subsequent coordination. I am James Liu; for me, the child’s ordinary school day deserves attention before departure.",
   "date": "2026-10-12",
-  "reviewed": "2026-10-12",
-  "last_modified_at": "2026-10-12",
+  "reviewed": "2026-10-13",
+  "last_modified_at": "2026-10-13",
   "permalink": "/en/insights/luxembourg-student-host-family/",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
   "custom_lep_support": true,
@@ -31,7 +31,9 @@
 }
 ---
 
+
 <figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="James Liu’s school visit · LEP photograph" loading="eager" decoding="async"><figcaption>James Liu’s school visit · LEP photograph</figcaption></figure>
+{% include luxembourg-service-card.html %}
 <h2>Matching begins with the child</h2><p>Age, independence, diet, allergies, health needs, languages, routine and preferred level of companionship affect the match. Explain religious needs, sports training or special food requirements early.</p><div class="table-scroll"><table><thead><tr><th>Area</th><th>What LEP helps clarify</th></tr></thead><tbody><tr><td>Living space</td><td>Room, study area, household members and shared rules</td></tr><tr><td>Daily life</td><td>Meals, dietary needs, laundry, routine and weekends</td></tr><tr><td>School journey</td><td>Route, travel time and any required transport</td></tr><tr><td>Communication</td><td>Local contacts, update frequency and emergency contact</td></tr><tr><td>Holidays</td><td>Dates at the household, travel to parents and associated charges</td></tr></tbody></table></div><p>A pleasant home with a tiring commute may be wrong for this student. School and household choices need to work together.</p>
 <h2>The household, school and LEP have connected roles</h2><p>The family provides agreed everyday living arrangements; the school handles teaching and school life. LEP connects the parents’ questions with the people on the ground, listening both to the child and to school and household feedback.</p><p>Daily support, emergency contacts and written parental authorisations are clarified during arrival and admission. The child should know whom to contact and the parent should know who handles each issue.</p>
 <h2>Updates that tell parents something useful</h2><p>In our continuing follow-up arrangement, we prepare feedback every two weeks during the first month and a combined update every two months afterwards. We look at learning, everyday habits and adjustment.</p><p>Homework, activity participation, household relationships, meals and sleep provide more information than a general “everything is fine”. We bring together different observations and agree practical next actions.</p>

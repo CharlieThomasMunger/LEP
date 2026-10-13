@@ -7,73 +7,40 @@
   "title": "Private international schools in Luxembourg: ISL, St George’s and OTR",
   "heading": "Luxembourg",
   "description": "Compare private international schools in Luxembourg, fees and curricula. Explore host-family arrangements when parents live abroad, LEP’s local services and a documented nine-day school-placement case.",
-  "standfirst": "School applications, family arrival and ongoing local support, grounded in where we live and work.",
-  "last_modified_at": "2026-10-12"
+  "standfirst": "James Liu (修印先生) and Lux Education Partners (LEP) are based in Luxembourg. We connect ISL, St George’s and OTR applications with accommodation, travel to school and communication with parents.",
+  "last_modified_at": "2026-10-13"
 }
 ---
 
+## From choosing a school to everyday life in Luxembourg
 
-## Start with your family’s question
+{% include luxembourg-service-card.html %}
 
-- [Which school fits my child: ISL, St George’s or OTR?](/en/insights/luxembourg-international-schools/)
-- [What should we budget for private school?](/en/insights/luxembourg-international-school-fees/)
-- [Can my child study in Luxembourg while we live abroad?](/en/insights/study-without-parents/)
-- [Can a child join during the school year? A nine-day case](/en/insights/st-georges-rapid-school-placement/)
-- [How can a Luxembourg-based adviser help us?](/en/insights/luxembourg-school-support-lep/)
+## Schools and a complete annual budget
 
+- [Compare ISL, St George’s and OTR](/en/insights/luxembourg-international-schools/)
+- [Tuition, host-family costs and first-year cash](/en/insights/luxembourg-international-school-fees/)
+- [English, French and readiness for entry](/en/insights/luxembourg-school-english-language/)
 
-<!-- lux-four-family-questions -->
-## Language, timing, university pathways and family fit
+## When parents stay abroad
 
-- [Can a child with limited English and no French attend secondary school in Luxembourg?](/en/insights/luxembourg-school-english-language/)
-- [When should you apply to an international school in Luxembourg? Is mid-year entry possible?](/en/insights/luxembourg-school-application-midyear-entry/)
-- [IB or A Levels in Luxembourg: which route, and which university destinations?](/en/insights/luxembourg-ib-a-level-university-pathways/)
-- [Why consider secondary school in Luxembourg—and which families does it suit?](/en/insights/why-study-luxembourg-secondary-school/)
-<!-- /lux-four-family-questions -->
+- [Working with LEP on applications and local support](/en/insights/luxembourg-school-support-lep/)
+- [Host families, the school journey and daily communication](/en/insights/luxembourg-student-host-family/)
+- [Connecting school and accommodation without accompanying parents](/en/insights/study-without-parents/)
 
-## Local support for schools and families
+## Timing and a real placement
 
-We live and operate businesses in Luxembourg. Choosing a school is only one part of a family’s plans: accommodation, communication, arrival and support during study also need to fit together.
+- [Applications and mid-year entry](/en/insights/luxembourg-school-application-midyear-entry/)
+- [LEP’s nine-day school-placement record](/en/insights/st-georges-rapid-school-placement/)
+- [IB and A Levels for the next university stage](/en/insights/luxembourg-ib-a-level-university-pathways/)
+- [Which families should consider Luxembourg secondary school?](/en/insights/why-study-luxembourg-secondary-school/)
 
-For younger students, we coordinate applications, host families and guardianship arrangements in line with school requirements. For other study stages, we first establish the educational goals and the scope of available programmes.
+## Inside three schools
 
-[Visits and local observations](/en/fieldwork/)
+- [International School of Luxembourg (ISL)](/en/insights/isl-luxembourg-school/)
+- [St George’s International School](/en/insights/st-georges-luxembourg-school/)
+- [OTR International School](/en/insights/otr-luxembourg-school/)
 
-## Why LEP
+## About James Liu and LEP
 
-[Why LEP](/en/insights/why-lep/)
-
-## Contact us
-
-[WhatsApp](https://wa.me/352661221289)  ·  [contact@luxedupartners.lu](mailto:contact@luxedupartners.lu)
-
-<!-- lux-school-guides -->
-## Private international schools: choices, costs and a real case
-
-- [Choosing an English-medium private international school in Luxembourg: ISL, St George’s and OTR](/en/insights/luxembourg-international-schools/)
-- [International School of Luxembourg: which children and families is ISL a good fit for?](/en/insights/isl-luxembourg-school/)
-- [St George’s International School Luxembourg: British education, academic expectations and local support](/en/insights/st-georges-luxembourg-school/)
-- [OTR International School Luxembourg: a smaller bilingual school with IB and A Level options](/en/insights/otr-luxembourg-school/)
-- [Private international school fees in Luxembourg: comparing ISL, St George’s and OTR](/en/insights/luxembourg-international-school-fees/)
-- [Nine days from paid engagement to a school start: a Luxembourg placement and host-family case](/en/insights/st-georges-rapid-school-placement/)
-- [Studying in Luxembourg without parents: arranging the school and a host family](/en/insights/study-without-parents/)
-- [Why choose LEP for a Luxembourg school application? Local relationships that lead to action](/en/insights/luxembourg-school-support-lep/)
-<!-- /lux-school-guides -->
-
-
-<p><a href="/en/school-guides/">School names and our visit guides →</a></p>
-
-
-## Explore the LEP school decision guides
-
-Choosing a school? Explore how LEP connects selection, accommodation and arrival.
-
-[School choice, boarding and arrival with LEP](/en/guides/school-decisions/)
-
-
-<!-- lep-materials-20261012 -->
-## Continue the comparison with LEP
-
-- [Applying to a Luxembourg secondary school from China: local support with LEP](/en/insights/luxembourg-school-support-lep/)
-- [A child at secondary school in Luxembourg: who arranges the host family, commute and everyday support?](/en/insights/luxembourg-student-host-family/)
-- [Luxembourg secondary-school costs without accompanying parents: tuition, host family and first-year cash](/en/insights/luxembourg-international-school-fees/)
+[About James Liu and LEP](/authors/james-liu/) · [School visits](/en/fieldwork/) · [School decisions](/en/guides/school-decisions/) · [School names and profiles](/en/school-guides/)

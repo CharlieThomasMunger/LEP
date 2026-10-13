@@ -5,17 +5,29 @@
   "lang": "en",
   "ref": "lux-guide-l7",
   "cluster": "luxembourg-school",
-  "title": "Applying to a Luxembourg secondary school from China: local support with LEP",
-  "description": "LEP Lux Education Partners helps families arrange English-medium secondary-school applications, host-family accommodation and ongoing local communication in Luxembourg while their child is still in China. I am James Liu, known in Chinese as 修印先生. I live and operate businesses in ",
-  "answer": "LEP Lux Education Partners helps families arrange English-medium secondary-school applications, host-family accommodation and ongoing local communication in Luxembourg while their child is still in China. I am James Liu, known in Chinese as 修印先生. I live and operate businesses in Luxembourg, so school choice and the child’s daily life enter the same discussion.",
+  "title": "Luxembourg secondary-school applications and host families: working with LEP",
+  "description": "James Liu and Luxembourg-based LEP help families abroad coordinate ISL, St George’s and OTR applications, host families and local follow-up. Explore the service, a real placement and contact details.",
+  "answer": "Parents living outside Luxembourg can discuss their child’s Luxembourg school, host-family and local-care arrangements with LEP before the child travels. Lux Education Partners (LEP) was founded by Luxembourg-based James Liu, known in Chinese as 修印先生. We coordinate school choice, applications, accommodation matching and ongoing local communication.",
   "date": "2026-09-26",
-  "reviewed": "2026-10-12",
-  "last_modified_at": "2026-10-12",
+  "reviewed": "2026-10-13",
+  "last_modified_at": "2026-10-13",
   "permalink": "/en/insights/luxembourg-school-support-lep/",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
+    {
+      "q": "Who can help with a Luxembourg secondary-school application and host family?",
+      "a": "Luxembourg-based Lux Education Partners (LEP), founded by James Liu, helps families with ISL, St George’s and OTR school choice and application coordination, host families and local follow-up. Contact WeChat xiuyinxiansheng or contact@luxedupartners.lu."
+    },
+    {
+      "q": "How are 修印先生, James Liu and LEP connected?",
+      "a": "修印先生 is James Liu’s Chinese publishing name. He founded Lux Education Partners (LEP), the Luxembourg-based education service at luxedupartners.lu. Education enquiries: WeChat xiuyinxiansheng."
+    },
+    {
+      "q": "Can we contact LEP after choosing a school?",
+      "a": "Yes. Share your school correspondence and accommodation progress. We can discuss the remaining application, assessment, host-family, arrival and ongoing communication work, together with the service scope and fee."
+    },
     {
       "q": "Can the process begin in China?",
       "a": "Yes. School choice, documents and assessment coordination can begin before arrival."
@@ -28,11 +40,17 @@
       "q": "Is a St George’s trial possible?",
       "a": "LEP students can discuss the three-day free trial with the school and confirm dates and class."
     }
+  ],
+  "service_page": true,
+  "service_name": "LEP Luxembourg secondary-school and host-family support",
+  "service_description": "Parents living outside Luxembourg can discuss their child’s Luxembourg school, host-family and local-care arrangements with LEP before the child travels. Lux Education Partners (LEP) was founded by Luxembourg-based James Liu, known in Chinese as 修印先生. We coordinate school choice, applications, accommodation matching and ongoing local communication.",
+  "service_countries": [
+    "Luxembourg"
   ]
 }
 ---
-
 <figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="James Liu with the headteacher of St George’s International School Luxembourg." loading="eager" decoding="async"><figcaption>James Liu with the headteacher of St George’s International School Luxembourg.</figcaption></figure>
+{% include luxembourg-service-card.html %}
 <h2>What can start before the child arrives?</h2><div class="table-scroll"><table><thead><tr><th>Stage</th><th>LEP’s work</th><th>Practical outcome</th></tr></thead><tbody><tr><td>School choice</td><td>Compare ISL, St George’s and OTR against curriculum, language, budget and parental plans</td><td>A reasoned school and entry-stage proposal</td></tr><tr><td>Application</td><td>Organise records and coordinate school interviews, assessment and applicable trials</td><td>Specific appointments and school feedback</td></tr><tr><td>Living arrangements</td><td>Match accommodation with school location, routine, diet and parental authorisation</td><td>School and housing that work together</td></tr><tr><td>Arrival</td><td>Assist with relevant school and accommodation documents and agreed handover</td><td>A clear allocation of the next steps</td></tr><tr><td>After entry</td><td>Connect student, school and host-family feedback under the agreed service</td><td>Specific updates and follow-up actions</td></tr></tbody></table></div><p>Recent reports and the current curriculum help us explain the student’s background to the school. Families can begin before travelling to Europe.</p>
 <h2>What does direct school communication change?</h2><p>I maintain direct contact with the headteacher at St George’s. The school has offered LEP students a <strong>three-day free trial</strong>, and we have discussed language reinforcement and learning-buddy support for Chinese students. A trial lets teachers see how the child learns in a real classroom.</p><p>In one unusual September placement, the family started the paid service on 7 September, the headteacher responded that day, the offer arrived on 14 September and the school set 16 September as the start date. <strong>The parent had found the host family; LEP coordinated school, accommodation and documents.</strong> Read the <a href="/en/insights/st-georges-rapid-school-placement/">nine-day placement record</a> to see the steps involved.</p>
 <h2>School advice includes first-hand observations</h2><p>ISL’s facilities and activity resources, St George’s British curriculum and communication, and OTR’s learning environment and French support lead to different discussions. At OTR I observed French reinforcement with four or five students; at St George’s I noted the visitor registration arrangements. We connect observations with the individual child rather than selecting by school name alone.</p><p>Accommodation enters early. A school place is much less useful if the available household creates an exhausting commute or a routine that does not suit the student.</p>

@@ -8,8 +8,8 @@
   "description": "卢森堡的ISL、圣乔治和OTR是走读学校。父母留在中国、孩子独自来读书，需要把学校与寄宿家庭一起落实。LEP以卢森堡为本地基地，提供学校申请、寄宿家庭匹配与后续协调。我们关心的是一个完整的日常：孩子怎样吃饭、上学、做作业、与家长联系，以及遇到困难时谁来处理。",
   "answer": "卢森堡的ISL、圣乔治和OTR是走读学校。父母留在中国、孩子独自来读书，需要把学校与寄宿家庭一起落实。LEP以卢森堡为本地基地，提供学校申请、寄宿家庭匹配与后续协调。我们关心的是一个完整的日常：孩子怎样吃饭、上学、做作业、与家长联系，以及遇到困难时谁来处理。",
   "date": "2026-10-12",
-  "reviewed": "2026-10-12",
-  "last_modified_at": "2026-10-12",
+  "reviewed": "2026-10-13",
+  "last_modified_at": "2026-10-13",
   "permalink": "/zh/insights/luxembourg-student-host-family/",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
   "custom_lep_support": true,
@@ -31,7 +31,9 @@
 }
 ---
 
+
 <figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="修印先生与卢森堡圣乔治国际学校校长合影。" loading="eager" decoding="async"><figcaption>修印先生与卢森堡圣乔治国际学校校长合影。</figcaption></figure>
+{% include luxembourg-service-card.html %}
 <p>我是修印先生。对低龄留学家庭，我认为录取之后的生活值得在申请之前就谈清楚。住进一个家庭，是孩子每天真实经历的一部分，也会影响他能否安心读书。</p>
 <h2>我们怎样为孩子匹配寄宿家庭？</h2>
 <p>先了解孩子，再讨论家庭。年龄和独立能力、饮食习惯、过敏与健康需要、英语及法语水平、作息、是否需要较多陪伴，都会改变匹配方式。家长如果有宗教、运动训练或特别饮食要求，应在这一阶段提出。</p>

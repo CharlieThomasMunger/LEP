@@ -86,15 +86,15 @@
         "slug": "luxembourg",
         "name": "卢森堡",
         "label": "LEP 的本土根基",
-        "text": "适合计划在卢森堡生活的家庭，也为考虑让孩子独自就读的家庭评估学校、寄宿家庭与当地安排。",
+        "text": "父母留在中国，也可以从孩子的实际情况开始，与 LEP 一起评估卢森堡学校申请、寄宿家庭及入学后的本地沟通。",
         "links": [
           {
-            "text": "比较 ISL、圣乔治与 OTR",
-            "slug": "luxembourg-international-schools"
+            "text": "了解 LEP 的申请与本地服务",
+            "slug": "luxembourg-school-support-lep"
           },
           {
-            "text": "父母不在当地，怎样安排？",
-            "slug": "study-without-parents"
+            "text": "寄宿家庭、通勤、周末与日常沟通",
+            "slug": "luxembourg-student-host-family"
           }
         ],
         "action": "了解卢森堡学校与服务"
@@ -307,15 +307,15 @@
         "slug": "luxembourg",
         "name": "Luxembourg",
         "label": "Our home base",
-        "text": "For families living in or moving to Luxembourg, and those exploring a school place with a host family while parents remain abroad.",
+        "text": "Families whose parents remain abroad can discuss Luxembourg school applications, host-family arrangements and ongoing local communication with LEP, starting from the child’s individual situation.",
         "links": [
           {
-            "text": "Compare ISL, St George’s and OTR",
-            "slug": "luxembourg-international-schools"
+            "text": "Explore LEP applications and local support",
+            "slug": "luxembourg-school-support-lep"
           },
           {
-            "text": "Studying without parents locally",
-            "slug": "study-without-parents"
+            "text": "Host families, the school journey and daily communication",
+            "slug": "luxembourg-student-host-family"
           }
         ],
         "action": "Explore schools and local support"
@@ -525,15 +525,15 @@
         "slug": "luxembourg",
         "name": "Luxembourg",
         "label": "Notre ancrage local",
-        "text": "Pour les familles installées ou arrivant au Luxembourg, et celles qui envisagent une scolarité avec une famille d’accueil tandis que les parents restent à l’étranger.",
+        "text": "Les familles dont les parents restent à l’étranger peuvent préparer avec LEP la candidature scolaire au Luxembourg, l’hébergement en famille et le suivi local, à partir de la situation de leur enfant.",
         "links": [
           {
-            "text": "Comparer ISL, St George’s et OTR",
-            "slug": "luxembourg-international-schools"
+            "text": "Découvrir les candidatures et le soutien local LEP",
+            "slug": "luxembourg-school-support-lep"
           },
           {
-            "text": "Étudier sans ses parents sur place",
-            "slug": "study-without-parents"
+            "text": "Famille d’accueil, trajets et échanges au quotidien",
+            "slug": "luxembourg-student-host-family"
           }
         ],
         "action": "Découvrir les écoles et nos services"
