@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-13"
 layout: "node"
 ref: "sc1-swiss-school"
 cluster: "switzerland-boarding"
@@ -19,6 +19,7 @@ school_key: "saint-charles"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/sc16.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc16.jpg" alt="Saint-Charles campus gardens and buildings" width="1600" height="1067" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Saint-Charles campus gardens and buildings · LEP photograph.</figcaption></figure>
+{% include fieldwork-video.html %}
 <h2 id="section-1">Which curriculum would your child follow?</h2>
 <p>Saint-Charles is in Porrentruy, in the French-speaking canton of Jura. Families considering secondary education should distinguish its English-medium IB pathway from its Swiss curriculum. <a class="cite" href="#source-1">[1]</a><a class="cite" href="#source-2">[2]</a><a class="cite" href="#source-3">[3]</a></p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Programme and fee comparison"><table><thead><tr><th scope="col">Route</th><th scope="col">Stage</th><th scope="col">What families should understand</th></tr></thead><tbody><tr><td>IB preparation / Pre-DP</td><td>Preparation for the two-year IB Diploma</td><td>English international pathway, academic language, study skills and subject preparation</td></tr><tr><td>IB Diploma Programme</td><td>Usually ages 16–18; two years</td><td>English-medium programme for applications in several countries</td></tr><tr><td>Swiss lower secondary</td><td>9–11H; approximately ages 12–14 according to the school</td><td>French-English bilingual study including German; academic and later vocational directions</td></tr><tr><td>Swiss Maturité</td><td>Four years after lower secondary</td><td>Broad French-English bilingual curriculum; a Swiss university route, not a wholly English course</td></tr></tbody></table></div>

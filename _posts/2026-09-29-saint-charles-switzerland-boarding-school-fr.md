@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-13"
 layout: "node"
 ref: "sc1-swiss-school"
 cluster: "switzerland-boarding"
@@ -19,6 +19,7 @@ school_key: "saint-charles"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/sc16.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc16.jpg" alt="Jardins et bâtiments de Saint-Charles" width="1600" height="1067" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Jardins et bâtiments de Saint-Charles · Photo LEP.</figcaption></figure>
+{% include fieldwork-video.html %}
 <h2 id="section-1">Quel cursus choisir pour votre enfant ?</h2>
 <p>Saint-Charles se trouve à Porrentruy, dans le canton francophone du Jura. Pour une scolarité secondaire, il faut distinguer la voie IB en anglais des programmes suisses. <a class="cite" href="#source-1">[1]</a><a class="cite" href="#source-2">[2]</a><a class="cite" href="#source-3">[3]</a></p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Comparaison des programmes et tarifs"><table><thead><tr><th scope="col">Voie</th><th scope="col">Étape</th><th scope="col">Ce que la famille doit comprendre</th></tr></thead><tbody><tr><td>Préparation IB / Pre-DP</td><td>Préparation au diplôme IB en deux ans</td><td>Voie internationale anglophone : langue académique, méthodes et choix de matières</td></tr><tr><td>Programme du diplôme IB</td><td>Habituellement 16–18 ans ; deux ans</td><td>En anglais, pour des candidatures dans plusieurs pays</td></tr><tr><td>Secondaire suisse</td><td>9–11H ; environ 12–14 ans selon l’école</td><td>Bilingue français-anglais avec allemand ; orientations académique et professionnelle ultérieure</td></tr><tr><td>Maturité suisse</td><td>Quatre ans après le secondaire inférieur</td><td>Programme large bilingue français-anglais ; voie vers l’université suisse, pas un cursus entièrement anglophone</td></tr></tbody></table></div>

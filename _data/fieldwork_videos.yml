@@ -1,0 +1,108 @@
+{
+  "source": {
+    "id": "fs49niLtUBs",
+    "title": "带孩子试水瑞士——两所夏令营和我的一手观察！",
+    "description": "修印先生（James Liu）分享对瑞士 Chantemerle 和 Saint-Charles 的访校观察，以及家庭如何通过短期体验判断孩子是否适合寄宿学习。",
+    "watch_url": "https://www.youtube.com/watch?v=fs49niLtUBs",
+    "thumbnail": "https://i.ytimg.com/vi/fs49niLtUBs/maxresdefault.jpg",
+    "upload_date": "2026-07-10T18:30:03-07:00",
+    "duration": "PT9M51S",
+    "published_display": "2026-07-11",
+    "added": "2026-10-13"
+  },
+  "labels": {
+    "zh": {
+      "excerpt": "访校观察片段",
+      "points": "片段要点",
+      "published": "原视频发布",
+      "original": "原视频",
+      "cta": "与 LEP 讨论孩子的情况"
+    },
+    "en": {
+      "excerpt": "Visit excerpt",
+      "points": "Key observations",
+      "published": "Original video published",
+      "original": "Original video",
+      "cta": "Discuss your child’s plans with LEP"
+    },
+    "fr": {
+      "excerpt": "Extrait de visite",
+      "points": "Points clés",
+      "published": "Publication de la vidéo",
+      "original": "Vidéo originale",
+      "cta": "Parler du projet de votre enfant avec LEP"
+    }
+  },
+  "schools": {
+    "chantemerle": {
+      "start": 127,
+      "end": 166,
+      "range": "02:07–02:46",
+      "name": "Chantemerle",
+      "copy": {
+        "zh": {
+          "heading": "我的访校视频：Chantemerle 的小规模与生活环境",
+          "intro": "我是修印先生（James Liu），LEP 创始人。这段视频记录了我到访 Chantemerle 后，对住宿、活动设施和校园氛围的具体感受。",
+          "points": [
+            "学校规模小，但相对学生人数，运动和活动设施配备很齐全。",
+            "湖景与住宿给我留下很深的印象，校园氛围温暖、个性化。"
+          ],
+          "value": "喜欢这样的环境，还要把孩子的性格、课程组合和语言准备一起考虑。LEP 会结合访校了解，与校长和招生团队具体讨论孩子的入读安排。"
+        },
+        "en": {
+          "heading": "My visit on video: Chantemerle’s scale and boarding environment",
+          "intro": "I am James Liu, founder of LEP. In this excerpt I share what stood out during my visit to Chantemerle: accommodation, activity facilities and the atmosphere of the campus.",
+          "points": [
+            "The school is small, yet its sports and activity facilities are extensive relative to the number of students.",
+            "The lake views and accommodation made a strong impression on me, alongside the warm, personal atmosphere."
+          ],
+          "value": "LEP connects these observations with your child’s personality, subject choices and language preparation. We can then discuss a suitable entry plan directly with the principal and admissions team."
+        },
+        "fr": {
+          "heading": "Ma visite en vidéo : la taille et le cadre de vie de Chantemerle",
+          "intro": "Je suis James Liu, fondateur de LEP. Cet extrait reprend mes impressions sur l’hébergement, les équipements et l’atmosphère du campus de Chantemerle.",
+          "points": [
+            "L’école est petite, mais ses équipements sportifs et ses activités sont très complets par rapport au nombre d’élèves.",
+            "La vue sur le lac et l’hébergement m’ont marqué, tout comme l’atmosphère chaleureuse et personnelle."
+          ],
+          "value": "LEP met ces observations en perspective avec la personnalité de votre enfant, ses choix de matières et sa préparation linguistique. Nous pouvons ensuite discuter des modalités d’entrée avec la direction et l’équipe des admissions."
+        }
+      }
+    },
+    "saint-charles": {
+      "start": 243,
+      "end": 355,
+      "range": "04:03–05:55",
+      "name": "Saint-Charles",
+      "copy": {
+        "zh": {
+          "heading": "我的访校视频：Saint-Charles 的校园与寄宿设施",
+          "intro": "我是修印先生（James Liu），LEP 创始人。走访 Saint-Charles 时，学校的历史氛围和具体设施都给我留下了鲜明印象，这段视频集中讲我看到的细节。",
+          "points": [
+            "小镇的电影院就在学校里，礼堂同时承担校园与当地文化活动。",
+            "可调水深的泳池，以及新学生宿舍和健身房，是我特别注意到的设施。"
+          ],
+          "value": "LEP 与学校保持直接沟通。我们会把这些现场观察与孩子的 IB 学习准备、寄宿适应和年度预算结合起来，帮助家长判断这所学校是否值得重点申请。"
+        },
+        "en": {
+          "heading": "My visit on video: Saint-Charles’s campus and boarding facilities",
+          "intro": "I am James Liu, founder of LEP. During my visit to Saint-Charles, its history and facilities left a clear impression. This excerpt focuses on details I saw on campus.",
+          "points": [
+            "The town’s cinema is inside the school, with the auditorium serving both school life and local cultural activities.",
+            "The pool with adjustable water depth, the new student accommodation and its gym particularly caught my attention."
+          ],
+          "value": "LEP maintains direct communication with the school. We connect these observations with your child’s preparation for the IB, readiness for boarding and annual budget, so you can decide whether Saint-Charles deserves a place on your shortlist."
+        },
+        "fr": {
+          "heading": "Ma visite en vidéo : le campus et les équipements de Saint-Charles",
+          "intro": "Je suis James Liu, fondateur de LEP. Lors de ma visite à Saint-Charles, l’histoire de l’école et ses équipements m’ont marqué. Cet extrait présente des détails observés sur le campus.",
+          "points": [
+            "Le cinéma de la ville se trouve dans l’école : l’auditorium accueille la vie scolaire et des activités culturelles locales.",
+            "La piscine à profondeur réglable, les nouveaux logements des élèves et leur salle de sport ont particulièrement retenu mon attention."
+          ],
+          "value": "LEP est en contact direct avec l’école. Nous rapprochons ces observations de la préparation de votre enfant à l’IB, de son adaptation à l’internat et du budget annuel, pour déterminer si Saint-Charles doit figurer dans votre sélection."
+        }
+      }
+    }
+  }
+}

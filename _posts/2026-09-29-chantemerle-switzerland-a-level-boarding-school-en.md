@@ -16,10 +16,11 @@ faq: [{"q": "Does Chantemerle offer the IB?", "a": "Its currently published main
 
 school_key: "chantemerle"
 
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-13"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/cm02.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/cm02.jpg" alt="Lake and mountain views from Chantemerle’s terrace" width="1600" height="900" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Lake and mountain views from Chantemerle’s terrace · LEP photograph.</figcaption></figure>
+{% include fieldwork-video.html %}
 <h2 id="section-1">Why consider a school of this size?</h2>
 <p>Chantemerle’s boarding campus is in Blonay, near Montreux and Lake Geneva, in French-speaking Switzerland. Its Matura teaching programme is in Vevey. Founded in 1966, the school currently describes a community of around 45 boarders and 55 day pupils. <a class="cite" href="#source-1">[1]</a></p>
 <p>The impression it made on me came from the relationship between its size and what it offered. For a very small school, the extracurricular facilities felt comprehensive. The setting was beautiful and the living environment warm and personal.</p>

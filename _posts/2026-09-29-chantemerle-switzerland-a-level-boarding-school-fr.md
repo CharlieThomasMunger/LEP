@@ -16,10 +16,11 @@ faq: [{"q": "Chantemerle propose-t-il l’IB ?", "a": "Les principales voies act
 
 school_key: "chantemerle"
 
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-13"
 ---
 
 <figure class="article-photo"><a href="/assets/swiss/cm02.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/cm02.jpg" alt="Vue sur le lac et les montagnes depuis la terrasse de Chantemerle" width="1600" height="900" loading="eager" fetchpriority="high" decoding="async"></a><figcaption>Vue sur le lac et les montagnes depuis la terrasse de Chantemerle · Photo LEP.</figcaption></figure>
+{% include fieldwork-video.html %}
 <h2 id="section-1">Pourquoi s’intéresser à une école de cette taille ?</h2>
 <p>Le campus d’internat de Chantemerle est à Blonay, près de Montreux et du Léman, en Suisse romande. L’enseignement du programme de maturité se déroule à Vevey. Fondée en 1966, l’école présente actuellement une communauté d’environ 45 internes et 55 externes. <a class="cite" href="#source-1">[1]</a></p>
 <p>Ce qui m’a marqué, c’est le rapport entre sa petite taille et ce qu’elle offre. Les équipements extrascolaires m’ont paru très complets pour ce nombre d’élèves. Le cadre était magnifique et les espaces de vie chaleureux, avec une atmosphère personnelle.</p>
