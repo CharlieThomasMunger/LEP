@@ -15,6 +15,10 @@
     {
       "ref": "tasis-swiss-school",
       "image": "/assets/swiss/tasis-visit-admissions.jpg"
+    },
+    {
+      "ref": "seg-guide-s2",
+      "image": "/assets/fieldwork/crcs-james-head-of-school-202610.jpg"
     }
   ],
   "questions": [
@@ -76,6 +80,12 @@
         "title": "TASIS 瑞士美国学校",
         "text": "实地访校，了解 IB 与 AP 路线",
         "alt": "修印先生在 TASIS 实地访校时与校方合影"
+      },
+      {
+        "country": "瑞士 · 2026年10月",
+        "title": "César Ritz 瑞士恺撒里兹大学",
+        "text": "修印先生与校长合影；课程、申请与2027费用解读",
+        "alt": "修印先生与César Ritz Colleges校长合影"
       }
     ],
     "destination_kicker": "从家庭需要开始",
@@ -297,6 +307,12 @@
         "title": "TASIS The American School in Switzerland",
         "text": "Our visit and a closer look at IB and AP pathways",
         "alt": "James Liu meeting the school during a visit to TASIS"
+      },
+      {
+        "country": "Switzerland · October 2026",
+        "title": "César Ritz Colleges",
+        "text": "James Liu with the Head of School; programmes, applications and 2027 fees",
+        "alt": "James Liu with the Head of César Ritz Colleges"
       }
     ],
     "destination_kicker": "Start with your family",
@@ -515,6 +531,12 @@
         "title": "TASIS The American School in Switzerland",
         "text": "Notre visite et les parcours IB et AP",
         "alt": "James Liu avec une représentante de l’école lors de sa visite à TASIS"
+      },
+      {
+        "country": "Suisse · octobre 2026",
+        "title": "César Ritz Colleges",
+        "text": "James Liu avec la directrice ; cursus, candidatures et frais 2027",
+        "alt": "James Liu avec la directrice de César Ritz Colleges"
       }
     ],
     "destination_kicker": "Partir de votre situation",
