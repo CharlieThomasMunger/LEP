@@ -4,9 +4,9 @@
   "lang": "en",
   "ref": "lep-guide-international-school-altdorf-boarding-ib",
   "cluster": "switzerland-boarding",
-  "title": "International School Altdorf in Wikon: a new-campus visit, IB and boarding",
-  "description": "James Liu’s 19 October 2026 visit to ISA’s Wikon campus: the continuing teaching team, castle and modern buildings, around 40 students, and applying with LEP.",
-  "answer": "International School Altdorf (ISA) is now at Marienburg 1 in Wikon, Switzerland. James Liu visited on 19 October 2026 and learned that the original teaching team continues, the campus is roughly four times the size of the former site, and there were around 40 students at the time. LEP uses this visit to inform course, boarding and application discussions.",
+  "title": "Lucerne International Academy Wikon: a castle-campus visit and boarding applications",
+  "description": "James Liu visits Lucerne International Academy Wikon: a castle setting, modern spaces, around 40 students and a welcoming teaching team. Discuss curriculum, boarding, budget and applications with LEP.",
+  "answer": "Lucerne International Academy Wikon is based at the Marienburg castle campus in Wikon, Switzerland. James Liu visited on 19 October 2026: the school had around 40 students, the established teaching team had continued, and historic buildings sat alongside modern spaces. LEP connects these first-hand impressions with each child’s curriculum, English and family budget to develop an application plan.",
   "date": "2026-10-12",
   "reviewed": "2026-10-24",
   "last_modified_at": "2026-10-24",
@@ -16,20 +16,24 @@
   "has_topic_navigation": true,
   "faq": [
     {
-      "q": "Has International School Altdorf moved?",
-      "a": "The current campus is at Marienburg 1, 4806 Wikon. James Liu visited on 19 October 2026; LEP can clarify the curriculum and organise a visit."
+      "q": "Where is Lucerne International Academy Wikon?",
+      "a": "The campus is at Marienburg 1, 4806 Wikon, Switzerland. James Liu visited on 19 October 2026; LEP can discuss the school and coordinate a visit."
     },
     {
-      "q": "What is the full school name?",
-      "a": "International School Altdorf; IB school code 061012."
+      "q": "How many students attend the school?",
+      "a": "During James Liu’s visit on 19 October 2026, he learned that there were around 40 students in the school. LEP checks the intended year group and class arrangements for an individual application."
     },
     {
-      "q": "Can a Chinese ordinary-school student be assessed?",
-      "a": "Yes. Submit reports and curriculum information for the school’s entry assessment."
+      "q": "How can an international student prepare an application?",
+      "a": "Share age, curriculum, recent reports, English and preferred entry date with LEP. We discuss year-group and course continuity with the school and coordinate interviews and documents."
     },
     {
-      "q": "Can a child try the school?",
-      "a": "The school describes two days and one overnight, subject to availability; LEP coordinates the enquiry."
+      "q": "What annual budget should a family prepare?",
+      "a": "LEP obtains the intended school year’s fee breakdown and combines tuition, boarding, meals, insurance, language support and holidays into a budget for the student’s proposed plan."
+    },
+    {
+      "q": "How do I contact LEP about the school?",
+      "a": "Contact James Liu on WeChat at xiuyinxiansheng or email contact@luxedupartners.lu, with the child’s year, curriculum, English, preferred start and budget."
     }
   ],
   "school_article": true,
@@ -38,17 +42,32 @@
 }
 ---
 
-<figure class="article-photo"><img src="/assets/fieldwork/isa-altdorf.jpg" width="1200" height="675" alt="James Liu with the principal of International School Altdorf." loading="eager" decoding="async"><figcaption>James Liu with the principal of International School Altdorf.</figcaption></figure>
-<section id="wikon-visit-20261019"><h2>19 October 2026: visiting the new Wikon campus</h2><p>The new setting brings an old castle together with modern buildings. During the visit I learned that the overall campus is roughly four times the size of the former Altdorf site and that the original teaching team has continued at the new location.</p><p>The school had recently moved and had around 40 students in total at the time of my visit. The teachers I met were welcoming, and I found the environment clean and comfortable. These impressions reinforce my interest in comparing ISA for families seeking an international boarding education within a defined budget.</p><p>The next step is individual: the right entry year and curriculum, English support and daily boarding arrangements. LEP takes those questions to the school and connects its answers with the child’s grades, independence and everyday needs.</p>
-<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="The castle building at ISA’s new Wikon campus, photographed on 19 October 2026." loading="lazy" decoding="async"></a><figcaption>The castle building at ISA’s new Wikon campus, photographed on 19 October 2026.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="Modern buildings at the new campus, photographed on 19 October 2026." loading="lazy" decoding="async"></a><figcaption>Modern buildings at the new campus, photographed on 19 October 2026.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="A shared space at the new campus, photographed on 19 October 2026." loading="lazy" decoding="async"></a><figcaption>A shared space at the new campus, photographed on 19 October 2026.</figcaption></figure></div></section>
+<figure class="article-photo"><img src="/assets/fieldwork/isa-altdorf.jpg" width="1200" height="675" alt="James Liu with the school principal." loading="eager" decoding="async"><figcaption>James Liu with the school principal.</figcaption></figure>
 
-<h2>Identify the school and current location</h2><p>The IB school code is <strong>061012</strong>. The school’s current Location page and individual IB record give <strong>Marienburg 1, 4806 Wikon, Switzerland</strong>. LEP confirms the intended campus and meeting when arranging a visit.</p><p>The name Altdorf and older address information can create confusing search results. We match school, course and current campus before organising travel.</p>
-<h2>IGCSE, DP and CP: three different choices</h2><div class="table-scroll"><table><thead><tr><th>Course</th><th>Purpose</th><th>Main question</th></tr></thead><tbody><tr><td>Cambridge IGCSE</td><td>Typically two years for ages 14–16 before upper secondary</td><td>Subjects, English and entry stage</td></tr><tr><td>IB Diploma Programme</td><td>Two-year preparation for university</td><td>Six-subject choices and academic research</td></tr><tr><td>IB Career-related Programme</td><td>IB subjects combined with career-related learning</td><td>Final qualification and target university use</td></tr></tbody></table></div><p>Published DP information includes languages, mathematics, sciences, business and humanities; Chinese A appears among the subjects. LEP confirms available subjects and HL/SL combinations for the intended entry, starting from future study interests.</p>
-<h2>Living at school without accompanying parents</h2><p>The boarding information describes twin rooms with bathroom facilities, residential staff, meals seven days a week and extracurricular activities. Special dietary needs should be explained before entry.</p><p>We discuss independence, sharing a room, languages and everyday needs with the family. Term dates, weekends and holidays enter one complete living plan, so parents understand when the child is on campus and what needs another arrangement.</p>
-<h2>Why it enters my value-focused shortlist</h2><p>My earlier screening reference was approximately <strong>CHF 50,000–55,000 per year</strong>. For an actual application, LEP obtains the course-and-year breakdown and separates tuition, boarding, insurance, extra support and holidays.</p><p>Value means that the family can sustain the whole stage and the school fits the child’s learning and support needs. A lower price becomes useful when those conditions work together.</p>
-<h2>Assessment and student experience</h2><p>Admissions consider previous performance, assessment and interview, with testing coordinated on a visit or online. Mid-year entry can be discussed individually. LEP explains the Chinese curriculum and organises the relevant assessment.</p><p>The school currently describes up to two trial days and one overnight where accommodation is available. It also offers partial merit scholarships considering academic and other talents. We organise genuine evidence of learning, sport, art or practical strengths for the application.</p>
-<h2>Discuss the route with LEP</h2><p>Send age, curriculum, grades, English, intended entry and annual budget. We compare course entry, school support and living arrangements, then move to assessment and application.</p><p>Explore our <a href="/en/fieldwork/">school visits</a> and <a href="/en/insights/altdorf-saint-charles-ib-boarding-comparison/">Altdorf–Saint-Charles comparison</a>. First-hand school contact and long-term European experience help make the proposal specific to your family.</p>
+<section id="wikon-visit-20261019"><h2>A castle campus with modern spaces</h2>
+<p>I am James Liu, founder of Lux Education Partners. On 19 October 2026, I visited Lucerne International Academy in Wikon. The combination of the old castle and modern buildings was my first impression: a stone tower and historic architecture alongside contemporary buildings and shared indoor spaces.</p>
+<p>During the visit I learned that the overall campus is roughly four times the size of the previous site, with the established teaching team continuing here. For boarding families, space matters, as do familiar staff and continuity in everyday school life.</p>
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="The castle campus of Lucerne International Academy Wikon, photographed by James Liu on 19 October 2026." loading="lazy" decoding="async"></a><figcaption>The castle campus of Lucerne International Academy Wikon, photographed by James Liu on 19 October 2026.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="Modern campus buildings, photographed on 19 October 2026." loading="lazy" decoding="async"></a><figcaption>Modern campus buildings, photographed on 19 October 2026.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="A shared campus space, photographed on 19 October 2026." loading="lazy" decoding="async"></a><figcaption>A shared campus space, photographed on 19 October 2026.</figcaption></figure></div></section>
 
-<section class="lep-intent-contact"><h2>Discuss your situation with LEP</h2><p>Share age or qualifications, curriculum, languages, intended start and complete budget. WeChat: <strong>xiuyinxiansheng</strong>; email: <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>.</p><p><a href="/en/insights/why-lep/">Explore LEP school applications and local support →</a></p></section>
-<section class="source-note"><p>Added in this update: James Liu’s account and photographs from 19 October 2026, plus the school’s relocation notice checked that day. Earlier curriculum and budget research remains dated 12 October; this visit update was published on 24 October.</p><h2>Sources and update</h2><p>IB individual record 061012; ISA Location, DP, IGCSE, Boarding and Admissions pages; James Liu’s visit and prior budget reference. Checked 12 October 2026.</p></section>
-<nav class="related" aria-label="Continue the comparison with LEP"><h2>Continue the comparison with LEP</h2><ul><li><a href="/en/insights/altdorf-saint-charles-ib-boarding-comparison/">Choosing a Swiss IB boarding school: International School Altdorf or Saint-Charles?</a></li><li><a href="/en/insights/china-secondary-to-swiss-ib-a-level/">Moving from Chinese secondary school to Switzerland: when to start IB or A Levels?</a></li></ul></nav>
+<h2>A school of around 40 students at the time of my visit</h2>
+<p>The school had recently moved and had around 40 students in total when I visited. The teachers I met were very welcoming, and I found the environment clean and comfortable.</p>
+<p>I would discuss this setting with families looking for a quieter school where communication with staff matters. For a particular child, we also need to understand the intended year group, actual class sizes, English support and subject choices. LEP brings these questions into its conversations with the school.</p>
+<h2>Matching the curriculum to the student</h2>
+<p>The school’s 2025 brochure presents A Levels, normally studied through the AS and A2 stages. Families can start with future university interests, then work back to subject choices, current attainment, English and the proposed entry date.</p>
+<p>A student considering engineering needs a coherent mathematics and science pathway. A prospective business student also needs to consider the mathematics required by target universities. For students already in upper secondary school, continuity in what they have studied and the timing of a move are central.</p>
+<p>LEP prepares the student’s curriculum history, recent reports and language profile for discussion with the school. We then clarify the entry year, subjects available for the intended intake and support needs, and coordinate interviews and application documents.</p>
+<h2>Boarding while parents remain abroad</h2>
+<p>The shared spaces I saw were clean and comfortable. Before deciding, families should understand the child’s room arrangements, everyday points of contact, and weekend and holiday plans.</p>
+<p>LEP discusses independence, food, spoken English and routines with the family, then takes those needs to the school. Connecting learning with everyday life is part of a useful school application plan.</p>
+<h2>Why it belongs in a value-focused comparison</h2>
+<p>After this visit, I consider Lucerne International Academy worth serious discussion for families comparing the value of Swiss boarding education. The campus space, continuity of the teaching team, welcoming staff and comfortable environment inform that view.</p>
+<p>LEP obtains the fees for the intended school year and brings tuition, boarding, meals, insurance, language support and holiday arrangements into one budget. This helps a family assess the cost of completing the whole stage and the learning and living support included.</p>
+<h2>Discuss an application with LEP</h2>
+<p>Families seeking an international curriculum in English, a smaller school community and boarding within a defined budget can include Lucerne International Academy in their comparison. The child’s learning, independence and future study plans determine the specific route.</p>
+<p>We have visited the school and communicate with it directly. Share the child’s age, year group, curriculum, recent reports, English, preferred start and annual budget. LEP uses these to clarify course continuity, coordinate the school’s assessment and progress the application.</p>
+
+<section class="lep-intent-contact"><h2>Discuss your child’s next step with LEP</h2><p>Share age, year group, curriculum, English, preferred start and annual budget. WeChat: <strong>xiuyinxiansheng</strong>; email: <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>.</p><p><a href="/en/insights/why-lep/">Explore LEP school applications and local support →</a></p></section>
+
+<section class="source-note"><p>Sources: Lucerne International Academy’s 2025 brochure; James Liu’s visit, account and photographs from 19 October 2026. Updated 24 October 2026.</p></section>
+
+<nav class="related" aria-label="Explore Swiss boarding and applications"><h2>Explore Swiss boarding and applications</h2><ul><li><a href="/en/insights/china-secondary-to-swiss-ib-a-level/">Moving from Chinese secondary school to Switzerland: curriculum continuity</a></li><li><a href="/en/insights/saint-charles-switzerland-boarding-school/">Compare another Swiss boarding environment: Saint-Charles</a></li></ul></nav>

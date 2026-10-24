@@ -4,9 +4,9 @@
   "lang": "zh",
   "ref": "lep-guide-international-school-altdorf-boarding-ib",
   "cluster": "switzerland-boarding",
-  "title": "阿尔特多夫国际学校搬到哪里了？Wikon新校区实访、IB与寄宿申请",
-  "description": "修印先生2026年10月19日走访阿尔特多夫国际学校Wikon新校区：原教学团队、城堡与现代建筑、约40名在校生，以及IB、寄宿与LEP申请安排。",
-  "answer": "阿尔特多夫国际学校（International School Altdorf，ISA）现位于瑞士Wikon的Marienburg 1。2026年10月19日修印先生到访新校区，了解到原教学团队延续，校园规模约为旧校区四倍、当时全校约40名学生。LEP结合此次实访，为家庭比较课程、寄宿与申请安排。",
+  "title": "琉森国际学院（LIA Wikon）怎么样？城堡校园实访与寄宿申请",
+  "description": "修印先生实访Lucerne International Academy Wikon：城堡与现代建筑、约40名在校生、亲切的教师与干净舒适的环境。LEP协助家庭比较课程、寄宿、全年预算并推进申请。",
+  "answer": "琉森国际学院（Lucerne International Academy Wikon）位于瑞士Wikon的Marienburg城堡校园。2026年10月19日，修印先生到校走访：当时全校约40名学生，原教学团队延续，校园融合历史建筑与现代空间。LEP把实访了解与孩子的课程、语言和预算结合，协助家庭选择入学方案并推进申请。",
   "date": "2026-10-12",
   "reviewed": "2026-10-24",
   "last_modified_at": "2026-10-24",
@@ -16,20 +16,24 @@
   "has_topic_navigation": true,
   "faq": [
     {
-      "q": "阿尔特多夫学校已经搬迁了吗？",
-      "a": "学校当前位于Marienburg 1, 4806 Wikon。修印先生于2026年10月19日走访新校区，LEP可协助核对课程并安排访校。"
+      "q": "琉森国际学院在哪里？",
+      "a": "Lucerne International Academy Wikon位于瑞士Marienburg 1，4806 Wikon。修印先生于2026年10月19日到校走访，LEP可协助沟通学校并安排访校。"
     },
     {
-      "q": "正式英文名是什么？",
-      "a": "International School Altdorf，IB学校代码061012。"
+      "q": "学校大概有多少学生？",
+      "a": "修印先生2026年10月19日访校时了解到，全校约40名学生。LEP会结合孩子拟入读的年级，进一步了解同学构成和班级安排。"
     },
     {
-      "q": "中国普通高中背景可以评估吗？",
-      "a": "可以提交成绩和课程资料，由学校评估入读阶段。"
+      "q": "中国学生如何准备申请？",
+      "a": "先向LEP提供年龄、现读课程、近期成绩、英语水平及入学时间。LEP会与学校沟通年级与课程衔接，协调面谈和申请材料。"
     },
     {
-      "q": "是否可以先体验？",
-      "a": "校方公布有位置时可安排两天、一晚体验，LEP协助衔接。"
+      "q": "一年需要准备多少预算？",
+      "a": "LEP会取得目标学年的学校费用明细，把学费、寄宿、餐饮、保险、语言支持及假期安排放在一起，形成与孩子具体方案对应的全年预算。"
+    },
+    {
+      "q": "怎样联系LEP了解这所学校？",
+      "a": "可联系修印先生：微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。说明孩子的年级、课程、英语、入学时间与预算，即可开始讨论。"
     }
   ],
   "school_article": true,
@@ -38,39 +42,32 @@
 }
 ---
 
-<figure class="article-photo"><img src="/assets/fieldwork/isa-altdorf.jpg" width="1200" height="675" alt="修印先生与International School Altdorf校长合影。" loading="eager" decoding="async"><figcaption>修印先生与International School Altdorf校长合影。</figcaption></figure>
-<section id="wikon-visit-20261019"><h2>2026年10月19日：我在Wikon新校区看到什么？</h2><p>这次来到学校，新校址最直观的特点是老城堡与现代建筑结合。访校时了解到，整个校园面积约为此前阿尔特多夫校区的四倍，原来的整套教学团队也延续到了新校区。</p><p>学校刚搬迁，访问当时全校约40名学生。我接触到的老师很亲切，整体环境干净、舒服。这让我愿意继续把它放在瑞士寄宿学校的性价比选项里，与有明确预算、希望读国际课程的家庭深入讨论。</p><p>对家长来说，下一步要对应到自己的孩子：适合进入哪个年级、选什么课程、需要多少英文支持，以及日常寄宿如何安排。LEP会把这些问题带给学校，结合学生的成绩和生活习惯形成具体方案。</p>
-<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="阿尔特多夫国际学校Wikon新校区的城堡建筑，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>阿尔特多夫国际学校Wikon新校区的城堡建筑，2026年10月19日实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="新校区的现代建筑部分，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>新校区的现代建筑部分，2026年10月19日实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="新校区公共空间，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>新校区公共空间，2026年10月19日实拍。</figcaption></figure></div></section>
+<figure class="article-photo"><img src="/assets/fieldwork/isa-altdorf.jpg" width="1200" height="675" alt="修印先生与学校校长合影。" loading="eager" decoding="async"><figcaption>修印先生与学校校长合影。</figcaption></figure>
 
-<p>我是修印先生，英文名James Liu。我已经与校长当面沟通。家长通过LEP了解学校，可以把公开课程资料、真实学校接触与孩子的具体申请放在一起讨论。</p>
-<h2>先认清学校名称与当前地点</h2>
-<p>International School Altdorf的IB学校代码为<strong>061012</strong>。学校当前Location页面与IB个体资料中的地址为<strong>Marienburg 1，4806 Wikon，瑞士</strong>。安排访校时，我们会以拟到访校区确认交通与会面。</p>
-<p>学校名称中的Altdorf，以及旧资料中的地址，容易让家长在网上看到不同地点。LEP安排时会将学校名称、具体课程和当前校区一一对应，避免用旧资料规划新的行程。</p>
-<h2>IGCSE、IB DP与IB CP分别解决什么问题？</h2>
-<div class="table-scroll"><table><thead><tr><th>课程</th><th>主要用途</th><th>家庭选择时先看什么</th></tr></thead><tbody>
-<tr><td>Cambridge IGCSE</td><td>通常14—16岁的两年学科学习，准备后续高中课程</td><td>现有学科、英文与入读阶段</td></tr>
-<tr><td>IB Diploma Programme</td><td>两年高中课程，为大学申请作系统准备</td><td>六门学科组合、英文学习与研究写作</td></tr>
-<tr><td>IB Career-related Programme</td><td>将IB学科与职业相关学习结合</td><td>最终资格与目标大学、专业如何衔接</td></tr>
-</tbody></table></div>
-<p>学校DP公开科目包括数学、科学、商科、人文及语言，中文A也在课程资料中出现。对于中国学生，保留母语学习有意义；具体科目和HL/SL组合，我们会在申请时与校方逐项落实。</p>
-<p>我的建议是，先说清“以后希望读什么、在哪里读”，再谈课程。DP与CP各有学习结构，家庭需要根据孩子的方向作选择。</p>
-<h2>父母在中国，孩子怎样在学校生活？</h2>
-<p>学校的寄宿资料介绍双人房及卫浴，住宿管理人员为学生提供日常支持，每周七天安排餐饮；有特殊饮食需要的学生，在入学前说明。课外活动是寄宿生活的一部分。</p>
-<p>我们会和家长一起讨论孩子的独立程度、与人同住的习惯、语言和生活需要，再与学校衔接。学期、周末与假期的入住日期要放入完整计划，家长清楚什么时候孩子在校、什么时候需要另作安排。</p>
-<h2>一年预算，我为什么把它归入性价比讨论？</h2>
-<p>在此前的选校讨论中，我掌握的阿尔特多夫预算约为<strong>每年5万—5.5万瑞郎</strong>。这是家庭初步判断量级的参考。进入实际申请后，LEP会取得所选课程与学年的明细，把学费、七天寄宿、保险、额外支持和假期分开，形成具体预算。</p>
-<p>我理解的性价比，是家庭能够持续读完整个学段，同时学校能接住孩子需要的课程和支持。费用较低值得认真看，但最终要对应到孩子实际获得什么。</p>
-<h2>申请时，学校会看什么？</h2>
-<p>校方招生流程综合已有学习表现、评估和面谈，测试可以结合访校或线上安排。适当情况下，也会个案讨论学年中入学。LEP会将国内成绩与原课程解释给学校，再协调具体评估。</p>
-<p>学校目前公布：有住宿位置时，潜在学生可体验最多两天课程及一晚住宿。对还不确定孩子能否适应的家庭，可以与LEP讨论这类体验怎样与行程衔接。</p>
-<p>校方也有部分优秀学生奖学金，考虑学业及其他才能。我们会把孩子真正做过的学习、运动、艺术或实践材料整理清楚，再讨论适用申请。</p>
-<h2>怎样的孩子，我会先讨论这所学校？</h2>
-<p>第一，希望走英文高中、愿意进入国际课程的学生。第二，家庭重视预算，但仍需要学校寄宿与相应支持。第三，希望保留多国大学选择，愿意认真讨论课程与选科的家庭。</p>
-<p>如果孩子还没形成独立生活与英文学习的基础，我们会先讨论过渡起点；如果已经接近毕业，则重点检查课程连续性。建议必须来自孩子目前的实际情况。</p>
-<h2>通过LEP，把了解学校变成可以推进的申请</h2>
-<p>我们与学校保持直接沟通，也把长期欧洲生活与访校经验用于申请判断。家庭可以先发年龄、现有课程、成绩、英文、出发时间和全年预算。LEP据此比较课程起点，协调校方评估，并把学校与生活安排讲清楚。</p>
-<p>同时可以查看<a href="https://luxedupartners.lu/zh/fieldwork/">LEP实地访校记录</a>和<a href="https://luxedupartners.lu/zh/insights/saint-charles-switzerland-boarding-school/">圣查尔斯</a>，理解不同预算下的校园与课程选择。我们会给你有依据的建议，再将合适的学校申请落实。</p>
+<section id="wikon-visit-20261019"><h2>走进琉森国际学院：城堡与现代校园结合</h2>
+<p>我是修印先生，英文名James Liu。2026年10月19日，我来到琉森国际学院的Wikon校园。这里给我的第一印象，是老城堡与现代建筑融合在一起：一边能看到石塔和历史建筑，一边是现代楼宇与室内公共空间。</p>
+<p>访校时了解到，校园整体面积约为此前校址的四倍，原来的整套教学团队也延续到这里。对考虑寄宿的家庭来说，更宽裕的空间值得关注，而老师是否熟悉孩子、日常管理是否稳定，同样直接影响孩子的适应。</p>
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="琉森国际学院Wikon城堡校园，修印先生2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>琉森国际学院Wikon城堡校园，修印先生2026年10月19日实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="校园的现代建筑部分，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>校园的现代建筑部分，2026年10月19日实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="校园公共空间，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>校园公共空间，2026年10月19日实拍。</figcaption></figure></div></section>
 
-<section class="lep-intent-contact"><h2>把孩子的实际情况交给LEP讨论</h2><p>请说明年龄或已有学历、现读课程、语言、入学时间和完整预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p><p><a href="/zh/insights/why-lep/">了解LEP的学校申请与本地服务 →</a></p></section>
-<section class="source-note"><p>本次新增：修印先生2026年10月19日Wikon访校口述与手机实拍、校方搬迁公告（10月19日核验）。课程和既往预算资料核验日期仍为10月12日；本次实访补充发布于10月24日。</p><h2>资料与更新时间</h2><p>IB学校061012个体资料，ISA Location、DP、IGCSE、Boarding、Admissions页面，以及修印先生访校和既往预算资料；核验：2026年10月12日。</p></section>
-<nav class="related" aria-label="继续比较与安排申请"><h2>继续比较与安排申请</h2><ul><li><a href="/zh/insights/altdorf-saint-charles-ib-boarding-comparison/">瑞士IB寄宿高中怎么选？阿尔特多夫与圣查尔斯的预算和学习环境</a></li><li><a href="/zh/insights/china-secondary-to-swiss-ib-a-level/">国内初中、高一或高二转学瑞士，IB和A Level怎样衔接？</a></li></ul></nav>
+<h2>全校约40名学生，小规模环境有什么意义？</h2>
+<p>访问当时，学校刚完成搬迁，全校大约40名学生。我接触到的老师非常亲切，校园整体干净、舒服。这些是我此次走访最直观的感受。</p>
+<p>我会把这样的校园介绍给希望环境安静、师生沟通方便的家庭。判断是否适合自己的孩子，还要把所在年级的同学构成、实际班额、英语支持和选科安排放在一起看。LEP会将这些具体问题带到与学校的沟通中。</p>
+<h2>中国学生申请，课程与年级怎样衔接？</h2>
+<p>学校2025版手册介绍了A Level课程方向，学习通常分为AS与A2两个阶段。家庭选择时，可以先从孩子将来的大学专业倒推选科，再看目前的成绩、英语和入学时间。</p>
+<p>例如，数学基础较强、未来考虑理工方向的学生，应先把数学与科学科目的衔接安排清楚；希望走商科的学生，也需要结合目标大学要求讨论数学及相关科目。对于已经进入高中阶段的孩子，转学时间与已学内容能否衔接，往往比单独比较学校名称更重要。</p>
+<p>LEP会整理学生现有课程、近期成绩和语言情况，与学校沟通适合的入读年级、当年可选课程及所需支持，再协调面谈与申请材料。</p>
+<h2>父母留在中国，寄宿生活需要怎样安排？</h2>
+<p>这次我看到的公共空间干净、舒适。家长决定寄宿前，还需要把孩子实际住在哪里、和谁同住、遇到生活问题由谁帮助，以及周末和假期安排了解清楚。</p>
+<p>LEP会根据孩子的独立程度、饮食习惯、英语交流和日常作息，与校方逐项沟通。让家长知道孩子入学后的学习与生活如何衔接，是选校服务的一部分。</p>
+<h2>为什么我认为它值得纳入性价比选校名单？</h2>
+<p>这次实访后，我仍认为琉森国际学院是瑞士寄宿学校里值得重点讨论的性价比选项。我的判断来自校园空间、团队延续、亲切的老师，以及整体干净舒服的环境。</p>
+<p>做家庭预算时，LEP会向学校取得目标学年的费用明细，将学费、寄宿、餐饮、保险、语言支持和假期安排放进同一张预算表。这样才能判断家庭是否可以持续读完整个阶段，也能比较这笔投入对应的课程和生活支持。</p>
+<h2>什么样的家庭可以先与LEP讨论？</h2>
+<p>希望孩子接受英文国际课程、重视较小规模校园和寄宿环境，同时认真考虑整体预算的家庭，可以把琉森国际学院列入比较。孩子目前的学习基础、独立生活能力和未来升学方向，会决定具体申请方案。</p>
+<p>我们已经到校走访，并与学校保持直接沟通。家长可以先提供孩子的年龄、所在年级、现读课程、近期成绩、英语水平、计划入学时间和全年预算。LEP据此梳理课程衔接、沟通学校评估，并推进适合孩子的申请。</p>
+
+<section class="lep-intent-contact"><h2>把孩子的情况交给LEP，一起确定下一步</h2><p>请说明孩子的年龄、年级、现读课程、英语水平、入学时间和全年预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p><p><a href="/zh/insights/why-lep/">了解LEP的学校申请与本地服务 →</a></p></section>
+
+<section class="source-note"><p>资料：Lucerne International Academy 2025版学校手册；修印先生2026年10月19日实地走访、口述及现场照片。更新：2026年10月24日。</p></section>
+
+<nav class="related" aria-label="继续了解瑞士寄宿与申请"><h2>继续了解瑞士寄宿与申请</h2><ul><li><a href="/zh/insights/china-secondary-to-swiss-ib-a-level/">国内初中、高一或高二转学瑞士，课程怎样衔接？</a></li><li><a href="/zh/insights/saint-charles-switzerland-boarding-school/">比较不同瑞士寄宿学校的校园与课程</a></li></ul></nav>

@@ -89,14 +89,16 @@ switzerland:
         fr: "James Liu et le chef d’établissement de Chantemerle International School"
       alt: {"zh": "修印先生与Chantemerle 国际学校校长合影", "en": "James Liu with the Head of Chantemerle International School", "fr": "James Liu et le chef d’établissement de Chantemerle International School"}
 
-    - name: International School Altdorf (ISA) · 阿尔特多夫
+    - name: Lucerne International Academy Wikon · 琉森国际学院
       image: /assets/fieldwork/isa-altdorf.jpg
       kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
-        zh: "修印先生与ISA International School Altdorf校长合影"
-        en: "James Liu with the Head of ISA International School Altdorf"
-        fr: "James Liu et le chef d’établissement de ISA International School Altdorf"
-      alt: {"zh": "修印先生与ISA International School Altdorf校长合影", "en": "James Liu with the Head of ISA International School Altdorf", "fr": "James Liu et le chef d’établissement de ISA International School Altdorf"}
+        zh: "修印先生与学校校长合影"
+        en: "James Liu with the school principal"
+        fr: "James Liu avec le directeur de l’école"
+      alt: {"zh": "修印先生与学校校长合影", "en": "James Liu with the school principal", "fr": "James Liu avec le directeur de l’école"}
+      article: international-school-altdorf-boarding-ib
+      article_label: {"zh": "阅读琉森国际学院访校与申请介绍 →", "en": "Read the Lucerne International Academy visit and application guide →", "fr": "Lire la visite et le guide de candidature de Lucerne International Academy →"}
 
     - name: Saint-Charles International School · 圣查尔斯
       image: /assets/fieldwork/st-charles.jpg

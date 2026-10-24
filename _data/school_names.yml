@@ -10,19 +10,19 @@
     "slug": "eerde-boarding-school-visit"
   },
   "altdorf": {
-    "name": "International School Altdorf",
+    "name": "Lucerne International Academy Wikon",
     "aliases": [
-      "ISA",
-      "ISA Altdorf",
-      "阿尔特多夫国际学校"
+      "Lucerne International Academy",
+      "LIA Wikon",
+      "琉森国际学院（Wikon）"
     ],
     "country": "CH",
     "destination": "switzerland",
     "slug": "international-school-altdorf-boarding-ib",
     "note": {
-      "zh": "IB学校代码061012。当前学校Location页与IB个体资料地址为Marienburg 1，4806 Wikon，瑞士。LEP已到校走访，可直接沟通课程、寄宿与申请。",
-      "en": "IB school code 061012. The current school Location page and individual IB record give Marienburg 1, 4806 Wikon, Switzerland. LEP has visited and can discuss courses, boarding and entry directly.",
-      "fr": "Code IB 061012. La page Location et la fiche IB actuelles indiquent Marienburg 1, 4806 Wikon, Suisse. LEP a visité l’école et échange directement sur cursus, internat et candidature."
+      "zh": "学校位于瑞士Marienburg 1，4806 Wikon。修印先生已实地走访，LEP可直接沟通课程、寄宿与申请。",
+      "en": "The school is at Marienburg 1, 4806 Wikon, Switzerland. James Liu has visited; LEP can discuss courses, boarding and applications directly.",
+      "fr": "L’école se trouve à Marienburg 1, 4806 Wikon, en Suisse. James Liu l’a visitée ; LEP échange directement sur le cursus, l’internat et la candidature."
     }
   },
   "saint-charles": {
