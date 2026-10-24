@@ -49,7 +49,7 @@
  "@context":"https://schema.org","@graph":[
  {"@type":"WebSite","@id":"{{ '/#website' | absolute_url }}","url":{{ site.url | jsonify }},"name":{{ site.title | jsonify }},"alternateName":"LEP","inLanguage":["zh","en","fr"],"publisher":{"@id":"{{ '/#organization' | absolute_url }}"}},
  {"@type":"Organization","@id":"{{ '/#organization' | absolute_url }}",
-  "name":"{{ site.org.brand }}","alternateName":"LEP","email":{{ site.email | jsonify }},"legalName":"{{ site.org.legal_name }}",
+  "name":"{{ site.org.brand }}","alternateName":"LEP","email":{{ site.email | jsonify }},
   "logo":"{{ '/assets/brand/lep-logo.jpg' | absolute_url }}",
   "url":"{{ site.url }}",
   "address":{"@type":"PostalAddress","addressLocality":"{{ site.org.locality }}","addressCountry":"{{ site.org.country }}"},

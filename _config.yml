@@ -70,7 +70,6 @@ clusters:
 
 # ---- 机构信息（Schema 用，改一次全站生效）----
 org:
-  legal_name: Silver Bay Mountain Group S.à r.l.
   brand: Lux Education Partners
   country: LU
   locality: Luxembourg
