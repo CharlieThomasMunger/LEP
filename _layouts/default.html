@@ -51,7 +51,7 @@
  {"@type":"Organization","@id":"{{ '/#organization' | absolute_url }}",
   "name":"{{ site.org.brand }}","alternateName":"LEP","email":{{ site.email | jsonify }},"legalName":"{{ site.org.legal_name }}",
   "logo":"{{ '/assets/brand/lep-logo.jpg' | absolute_url }}",
-  "url":"{{ site.url }}","identifier":"RCS {{ site.org.rcs }}",
+  "url":"{{ site.url }}",
   "address":{"@type":"PostalAddress","addressLocality":"{{ site.org.locality }}","addressCountry":"{{ site.org.country }}"},
   "description":{{ identity.org | jsonify }},
   "founder":{"@id":"{{ '/#james' | absolute_url }}"}},
