@@ -4,17 +4,21 @@
   "lang": "zh",
   "ref": "lep-guide-international-school-altdorf-boarding-ib",
   "cluster": "switzerland-boarding",
-  "title": "阿尔特多夫国际学校适合中国学生吗？IB、寄宿生活与申请安排",
-  "description": "阿尔特多夫国际学校International School Altdorf，简称ISA，是LEP已经走访并合作的瑞士国际寄宿学校。对希望读英文IB、重视预算和学校支持的中国家庭，我会将它放入优先比较的范围。",
-  "answer": "阿尔特多夫国际学校International School Altdorf，简称ISA，是LEP已经走访并合作的瑞士国际寄宿学校。对希望读英文IB、重视预算和学校支持的中国家庭，我会将它放入优先比较的范围。",
+  "title": "阿尔特多夫国际学校搬到哪里了？Wikon新校区实访、IB与寄宿申请",
+  "description": "修印先生2026年10月19日走访阿尔特多夫国际学校Wikon新校区：原教学团队、城堡与现代建筑、约40名在校生，以及IB、寄宿与LEP申请安排。",
+  "answer": "阿尔特多夫国际学校（International School Altdorf，ISA）现位于瑞士Wikon的Marienburg 1。2026年10月19日修印先生到访新校区，了解到原教学团队延续，校园规模约为旧校区四倍、当时全校约40名学生。LEP结合此次实访，为家庭比较课程、寄宿与申请安排。",
   "date": "2026-10-12",
-  "reviewed": "2026-10-12",
-  "last_modified_at": "2026-10-12",
+  "reviewed": "2026-10-24",
+  "last_modified_at": "2026-10-24",
   "permalink": "/zh/insights/international-school-altdorf-boarding-ib/",
   "image": "/assets/fieldwork/isa-altdorf.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
+    {
+      "q": "阿尔特多夫学校已经搬迁了吗？",
+      "a": "学校当前位于Marienburg 1, 4806 Wikon。修印先生于2026年10月19日走访新校区，LEP可协助核对课程并安排访校。"
+    },
     {
       "q": "正式英文名是什么？",
       "a": "International School Altdorf，IB学校代码061012。"
@@ -35,6 +39,9 @@
 ---
 
 <figure class="article-photo"><img src="/assets/fieldwork/isa-altdorf.jpg" width="1200" height="675" alt="修印先生与International School Altdorf校长合影。" loading="eager" decoding="async"><figcaption>修印先生与International School Altdorf校长合影。</figcaption></figure>
+<section id="wikon-visit-20261019"><h2>2026年10月19日：我在Wikon新校区看到什么？</h2><p>这次来到学校，新校址最直观的特点是老城堡与现代建筑结合。访校时了解到，整个校园面积约为此前阿尔特多夫校区的四倍，原来的整套教学团队也延续到了新校区。</p><p>学校刚搬迁，访问当时全校约40名学生。我接触到的老师很亲切，整体环境干净、舒服。这让我愿意继续把它放在瑞士寄宿学校的性价比选项里，与有明确预算、希望读国际课程的家庭深入讨论。</p><p>对家长来说，下一步要对应到自己的孩子：适合进入哪个年级、选什么课程、需要多少英文支持，以及日常寄宿如何安排。LEP会把这些问题带给学校，结合学生的成绩和生活习惯形成具体方案。</p>
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="阿尔特多夫国际学校Wikon新校区的城堡建筑，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>阿尔特多夫国际学校Wikon新校区的城堡建筑，2026年10月19日实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="新校区的现代建筑部分，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>新校区的现代建筑部分，2026年10月19日实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="新校区公共空间，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>新校区公共空间，2026年10月19日实拍。</figcaption></figure></div></section>
+
 <p>我是修印先生，英文名James Liu。我已经与校长当面沟通。家长通过LEP了解学校，可以把公开课程资料、真实学校接触与孩子的具体申请放在一起讨论。</p>
 <h2>先认清学校名称与当前地点</h2>
 <p>International School Altdorf的IB学校代码为<strong>061012</strong>。学校当前Location页面与IB个体资料中的地址为<strong>Marienburg 1，4806 Wikon，瑞士</strong>。安排访校时，我们会以拟到访校区确认交通与会面。</p>
@@ -65,5 +72,5 @@
 <p>同时可以查看<a href="https://luxedupartners.lu/zh/fieldwork/">LEP实地访校记录</a>和<a href="https://luxedupartners.lu/zh/insights/saint-charles-switzerland-boarding-school/">圣查尔斯</a>，理解不同预算下的校园与课程选择。我们会给你有依据的建议，再将合适的学校申请落实。</p>
 
 <section class="lep-intent-contact"><h2>把孩子的实际情况交给LEP讨论</h2><p>请说明年龄或已有学历、现读课程、语言、入学时间和完整预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p><p><a href="/zh/insights/why-lep/">了解LEP的学校申请与本地服务 →</a></p></section>
-<section class="source-note"><h2>资料与更新时间</h2><p>IB学校061012个体资料，ISA Location、DP、IGCSE、Boarding、Admissions页面，以及修印先生访校和既往预算资料；核验：2026年10月12日。</p></section>
+<section class="source-note"><p>本次新增：修印先生2026年10月19日Wikon访校口述与手机实拍、校方搬迁公告（10月19日核验）。课程和既往预算资料核验日期仍为10月12日；本次实访补充发布于10月24日。</p><h2>资料与更新时间</h2><p>IB学校061012个体资料，ISA Location、DP、IGCSE、Boarding、Admissions页面，以及修印先生访校和既往预算资料；核验：2026年10月12日。</p></section>
 <nav class="related" aria-label="继续比较与安排申请"><h2>继续比较与安排申请</h2><ul><li><a href="/zh/insights/altdorf-saint-charles-ib-boarding-comparison/">瑞士IB寄宿高中怎么选？阿尔特多夫与圣查尔斯的预算和学习环境</a></li><li><a href="/zh/insights/china-secondary-to-swiss-ib-a-level/">国内初中、高一或高二转学瑞士，IB和A Level怎样衔接？</a></li></ul></nav>

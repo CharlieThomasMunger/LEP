@@ -107,6 +107,14 @@ switzerland:
         fr: "James Liu et le chef d’établissement de St. Charles"
       alt: {"zh": "修印先生与St. Charles校长合影", "en": "James Liu with the Head of St. Charles", "fr": "James Liu et le chef d’établissement de St. Charles"}
 
+    - name: César Ritz Colleges Switzerland · 瑞士恺撒里兹大学
+      image: /assets/fieldwork/crcs-james-head-of-school-202610.jpg
+      kind: {zh: 校长会面 · 实地访校, en: Meeting with the Head of School · Campus visit, fr: Rencontre avec la directrice · Visite sur place}
+      note: {zh: 修印先生与César Ritz Colleges校长合影, en: James Liu with the Head of César Ritz Colleges, fr: James Liu avec la directrice de César Ritz Colleges}
+      alt: {zh: 修印先生与César Ritz Colleges校长合影, en: James Liu with the Head of César Ritz Colleges, fr: James Liu avec la directrice de César Ritz Colleges}
+      article: cesar-ritz-business-ai-leadership
+      article_label: {zh: 阅读LEP的CRCS访校与申请指南, en: Read LEP’s CRCS visit and application guide, fr: Lire le guide de visite et de candidature CRCS de LEP}
+
     - name: IMI International Management Institute
       image: /assets/fieldwork/imi.jpg
       alt: {zh: IMI International Management Institute, en: IMI International Management Institute, fr: IMI International Management Institute}
