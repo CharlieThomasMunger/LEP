@@ -1,94 +1,111 @@
 ---
-layout: "node"
-lang: "en"
-ref: "imi-guide-w8"
-permalink: "/en/insights/imi-winter-summer-programmes/"
-cluster: "switzerland-hotel"
-school_article: true
-has_topic_navigation: true
-title: "IMI Winter Programme 2027: CHF 1,800 early fee and a possible credit towards later tuition"
-date: "2026-09-25"
-reviewed: "2026-09-25"
-description: "IMI’s published winter programme runs 17–24 January 2027, for ages 16–24, with an early fee of CHF 1,800. After successful completion, joining an eligible longer-term IMI programme within two years allows the camp fee actually paid to be credited against first-year tuition under the pub…"
-image: "/assets/imi/winter-2027-timetable.png"
-translated: true
+{
+  "layout": "node",
+  "lang": "en",
+  "ref": "imi-guide-w8",
+  "permalink": "/en/insights/imi-winter-summer-programmes/",
+  "cluster": "switzerland-hotel",
+  "school_article": true,
+  "has_topic_navigation": true,
+  "title": "IMI 2027 winter and summer programmes: dates, CHF 1,800 early fees and applications",
+  "date": "2026-09-25",
+  "reviewed": "2026-10-25",
+  "description": "Compare IMI’s January and July 2027 programmes, ages, payment deadlines and later tuition benefits. Apply through LEP without an additional service fee.",
+  "image": "/assets/imi/winter-2027-timetable.png",
+  "last_modified_at": "2026-10-26",
+  "custom_lep_support": true,
+  "answer": "IMI’s winter programme runs from 17–24 January 2027 for ages 16–24; the summer programme runs from 18–25 July for ages 16–26. Both advertise CHF 1,800 early fees with separate deadlines. LEP helps organise the application and its connection to future studies.",
+  "faq": [
+    {
+      "q": "When are IMI’s 2027 programmes?",
+      "a": "Winter: 17–24 January. Summer: 18–25 July, including arrival and departure dates."
+    },
+    {
+      "q": "Are the age requirements the same?",
+      "a": "Winter is for ages 16–24; summer for ages 16–26. Both specify English equivalent to IELTS 4.5 without requiring a formal test certificate on the current page."
+    },
+    {
+      "q": "When must the early fee be paid?",
+      "a": "Winter requires full payment received before 18 November 2026; summer before 31 May 2027. Both early fees are CHF 1,800, compared with CHF 3,000 standard."
+    },
+    {
+      "q": "Can the programme fee support later tuition?",
+      "a": "Successful participants may receive a benefit equal to the programme fee paid for eligible further study. LEP checks the separate winter or summer conditions and intended course."
+    },
+    {
+      "q": "Does LEP charge an additional application or visit-booking service fee?",
+      "a": "No additional service fee is charged to students or parents for school-fit assessment, school liaison, application assistance and campus-visit booking. Contact contact@luxedupartners.lu or LEP via WhatsApp."
+    }
+  ],
+  "translated": true
+}
 ---
 
-**By James Liu | Lux Education Partners | Checked 25 September 2026**
 
-**IMI’s published winter programme runs 17–24 January 2027, for ages 16–24, with an early fee of CHF 1,800. After successful completion, joining an eligible longer-term IMI programme within two years allows the camp fee actually paid to be credited against first-year tuition under the published conditions.**
 
-For someone considering hospitality, business or culinary study, a week of classes, campus life and international activities can make the decision more concrete. I suggest approaching it as a chance to test a direction before committing to a degree.
+**IMI has published its 2027 Winter and Summer Programmes: 17–24 January for ages 16–24, and 18–25 July for ages 16–26. Both offer a CHF 1,800 early-booking price, with different payment deadlines.** Through LEP, students can connect this one-week experience with a longer-term choice of hospitality, business or culinary studies.
 
-## Dates, price and eligibility
+I suggest arriving with questions: can you follow classes in English, do these business subjects interest you, and how do you feel about living and working with an international group? A short programme provides a useful first experience before committing to a degree.
+
+## Winter Programme: 17–24 January 2027
 
 | Item | Published arrangement |
 |---|---|
 | Arrival and departure | 17 and 24 January 2027 |
-| Location | IMI campus near Lucerne, Switzerland |
+| Location | IMI campus in the Lucerne region, Switzerland |
 | Age | 16–24 at the start of the programme |
-| Language | English; IELTS 4.5 or equivalent ability, with no formal test certificate required according to the current page |
-| Early fee | **CHF 1,800, with full payment received before 18 November 2026** |
+| English | IELTS 4.5 or equivalent ability; the current page says a formal test certificate is not required |
+| Early-booking fee | **CHF 1,800, paid in full and received before 18 November 2026** |
 | Standard fee | CHF 3,000 |
-| Application support | Contact LEP for coordination with IMI, fees and arrival arrangements |
 
-The early price is CHF 1,200 below the standard fee. The condition concerns receipt of the full payment, not simply applying or initiating a bank transfer by the date.
+The early price saves CHF 1,200. The condition concerns receipt of the full payment, so the application and transfer need to be organised in time.
 
-## What happens during the week?
+## What will students do?
 
-<figure class="article-photo">
-<a href="/assets/imi/winter-2027-timetable.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-timetable.png" alt="Official IMI Winter Programme 2027 example timetable" loading="eager" width="1273" height="1800" decoding="async"></a>
-<figcaption>Example timetable from IMI’s winter brochure. Activities and timings may change with weather and organisation.</figcaption>
-</figure>
+<figure class="article-photo"><a href="/assets/imi/winter-2027-timetable.png" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-timetable.png" width="1273" height="1800" alt="IMI’s published example timetable for the 2027 Winter Programme." loading="lazy" decoding="async"></a><figcaption>IMI’s published example timetable for the 2027 Winter Programme.</figcaption></figure>
 
-The example includes Swiss business and hospitality culture, sustainable business, marketing and consumer behaviour, leadership, presentations and practical activities. Excursions include experiences in Lucerne, Zurich and Bern, alongside industry visits.
 
-I want students to return with clearer answers: can they follow English-medium classes, do these business subjects interest them, how comfortable are they working internationally, and does campus life suit them?
+The example timetable combines Swiss business and hospitality culture, sustainable business, consumer behaviour and marketing, leadership, presentations and practical activities. Excursions include experiences in Lucerne, Zurich and Bern and industry visits. The detailed running order can change with weather and organisation.
 
-## What is included?
+The package includes arrival airport collection, shared campus accommodation and meals, classes and materials, organised activities and transport, entrance tickets, campus Wi-Fi and a completion certificate. Flights and personal medical, accident and travel insurance require a separate budget.
 
-The published materials include arrival airport pickup, shared on-campus accommodation and meals, classes and materials, organised excursions and their transport and admissions, campus Wi-Fi and a completion certificate. Flights and personal health, accident and travel insurance are additional.
+## How does the later tuition credit work?
 
-Travel requirements depend on the participant’s nationality and current status. We discuss the arrangements relevant to that person; participation does not mean every international visitor needs the same visa.
+**The student pays for and successfully completes the programme, then uses the amount paid against tuition when entering an eligible longer course under the relevant conditions.** It is a tuition benefit, rather than cash returned after the visit.
 
-## Does later enrolment make the camp free?
+<figure class="article-photo"><a href="/assets/imi/winter-2027-tuition-credit.webp" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-tuition-credit.webp" width="1132" height="1600" alt="IMI’s Winter Programme material explains the tuition credit for eligible further study within two years." loading="lazy" decoding="async"></a><figcaption>IMI’s Winter Programme material explains the tuition credit for eligible further study within two years.</figcaption></figure>
 
-**The sequence is to pay for the camp, complete it successfully, then use the amount paid as a tuition credit when entering an eligible longer-term programme under the conditions.** It is not a cash refund after the camp.
 
-<figure class="article-photo">
-<a href="/assets/imi/winter-2027-tuition-credit.webp" target="_blank" rel="noopener"><img src="/assets/imi/winter-2027-tuition-credit.webp" alt="IMI official winter brochure explaining credit against first-year tuition within two years" loading="lazy" width="1132" height="1600" decoding="async"></a>
-<figcaption>IMI’s brochure sets out the two-year tuition-credit arrangement. The short-programme application terms describe a one-time award per student equal to the short-programme fee actually paid.</figcaption>
-</figure>
+For the winter programme, the material describes credit against first-year tuition when eligible further study begins within two years. The application terms specify a once-per-student scholarship equivalent to the short-programme fee actually paid. A student who paid CHF 1,800 would therefore discuss a CHF 1,800 benefit, rather than automatically using the CHF 3,000 standard price.
 
-For example, a participant who pays CHF 1,800 at the early rate may use a CHF 1,800 credit after meeting the conditions; it does not automatically become CHF 3,000. LEP checks the eligible longer course, timing and whether another scholarship can be combined with the credit.
+LEP checks the intended degree, the time limit and whether another scholarship can be combined with this benefit when progressing the longer-term application.
 
-## What if plans change after enrolment?
+## Changes of plan and visa refusals
 
-The August 2026 version of the short-programme terms generally makes withdrawal after confirmed enrolment, or non-attendance, non-refundable. For a visa refusal supported by the official refusal document, the fee refund is subject to a CHF 200 administration deduction. Visa-related expenses remain the participant’s responsibility.
+The August 2026 short-programme application terms generally make the programme fee non-refundable after confirmation if the participant withdraws or does not attend. With official proof of a visa refusal, the terms provide for reimbursement less a CHF 200 administration fee; visa-related expenditure remains the participant’s responsibility. LEP reviews timing, travel documents and the applicable terms before payment.
 
-Before payment, we go through dates, travel arrangements and the applicable terms so the family can make an informed decision about the early fee.
+## Summer Programme: 18–25 July 2027
 
-## What about Summer Programme 2027?
+| Item | Published arrangement |
+|---|---|
+| Arrival and departure | 18 and 25 July 2027 |
+| Age | 16–26 |
+| English | IELTS 4.5 or equivalent ability; no formal test certificate required on the current page |
+| Early-booking fee | **CHF 1,800, paid in full before 31 May 2027** |
+| Standard fee | CHF 3,000 |
+| Main inclusions | Arrival collection, campus room and meals, classes and workshops, organised visits and transport, entrance tickets, materials and Wi-Fi |
 
-At this review, IMI lists **Summer Programme 2027 as “Coming Soon”**, described as one week in English. Confirmed dates and prices have not yet been published. Older two-week summer listings should not be used to plan a 2027 trip.
+The summer page also describes a one-time scholarship equivalent to the programme fee paid for successful participants progressing to an eligible IMI 22-week study programme. LEP matches the intended course to the summer conditions. Flights and personal insurance are budgeted separately.
 
-The current short-programme form includes summer and winter options and a fee-equivalent scholarship provision after successful completion. The summer 2027 brochure will still need to be checked for that intake’s precise fees and benefits.
+The choice between winter and summer should follow the student’s age, holidays, English and future study plans. For my recent observations on academic learning, accommodation and campus life, read [the October 2026 IMI visit](/en/insights/imi-campus-visit/).
 
-## How LEP helps you make the week useful
+<section class="lep-intent-contact"><h2>Apply to IMI’s short programmes and arrange a visit through LEP</h2><p>LEP helps compare dates, communicate with the school, prepare the application and clarify payment and later tuition benefits. We can also arrange a family campus visit and connect the experience with a degree application.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and campus-visit booking, with no additional service fee charged to students or parents for these services.</strong></p><p>Tell us the student’s age, English level, preferred dates and longer-term interests. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
 
-As a formal IMI partner, LEP can coordinate the application and clarify age, English, payment and later tuition-credit conditions. Before departure, we discuss what the student most wants to find out. Afterwards, we can compare hospitality business, international business, culinary study or another route in light of the experience.
+## Explore IMI with LEP
 
-If a longer programme becomes the right choice, we continue with scholarships, course and internship planning, bringing our European business information and local network into the longer-term career discussion.
+- [Programmes and degree choices](/en/insights/imi-programmes-degrees/)
+- [Tuition, accommodation, scholarships and internship income](/en/insights/imi-fees-scholarships/)
+- [Internships and career preparation](/en/insights/imi-internships-careers/)
+- [Applying to IMI through LEP](/en/insights/apply-to-imi-with-lep/)
 
-**The most useful outcome is a clearer decision about the next step.** Contact LEP to discuss the winter programme or register your interest in the forthcoming summer details.
-
-## Explore IMI programmes, costs and applications
-
-- [Why study hospitality management in Switzerland? Start with what you want to do afterwards](/en/insights/why-study-hospitality-switzerland/)
-- [Why choose IMI Switzerland? Curriculum, internships and value matter more to me than luxury facilities](/en/insights/why-imi-switzerland/)
-- [IMI bachelor’s, MSc or Graduate Diploma: which programme fits your next step?](/en/insights/imi-programmes-degrees/)
-- [What does IMI Switzerland cost? Tuition, scholarships, living costs and internship income](/en/insights/imi-fees-scholarships/)
-- [IMI internships and graduate careers: experience matters, and so does the person willing to recommend you](/en/insights/imi-internships-careers/)
-- [Applying to IMI Switzerland? LEP can handle programme selection, scholarships and the application with you](/en/insights/apply-to-imi-with-lep/)
-- [What I look for when visiting IMI: the student’s future beyond the campus](/en/insights/imi-campus-visit/)
-
+<section class="source-note"><p>Sources and visit evidence: IMI Winter Programme, Summer Programme and Short Programmes pages; August 2026 short-programme application terms. Checked and updated on 25 October 2026. First-hand observations: James Liu’s October 2026 Swiss school visits.</p></section>

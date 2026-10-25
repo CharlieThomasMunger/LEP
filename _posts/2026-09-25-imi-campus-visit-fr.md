@@ -1,103 +1,117 @@
 ---
-layout: "node"
-lang: "fr"
-ref: "imi-guide-w6"
-permalink: "/fr/insights/imi-campus-visit/"
-cluster: "switzerland-hotel"
-school_article: true
-has_topic_navigation: true
-title: "Ce que je regarde lors d’une visite à IMI : l’avenir de l’étudiant au-delà du campus"
-date: "2026-09-25"
-reviewed: "2026-09-26"
-description: "À IMI, je ne regarde pas seulement les bâtiments : je cherche à comprendre comment les étudiants apprennent, communiquent et à quels profils l’école peut offrir un bon départ."
-image: "/assets/imi/imi-admissions-visit.webp"
-translated: true
+{
+  "layout": "node",
+  "lang": "fr",
+  "ref": "imi-guide-w6",
+  "permalink": "/fr/insights/imi-campus-visit/",
+  "cluster": "switzerland-hotel",
+  "school_article": true,
+  "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "title": "Visite d’IMI : exigence académique, vie quotidienne et budget en hôtellerie suisse",
+  "description": "James Liu rencontre le directeur d’IMI, visite les chambres et déjeune sur le campus. LEP compare cursus, stages et budget, sans frais de service supplémentaires pour la candidature ou la réservation d’une visite.",
+  "answer": "Ma visite d’octobre 2026 a souligné la place des études académiques et le budget relativement accessible d’IMI parmi les écoles hôtelières visitées. LEP relie l’entretien avec le directeur et les observations sur place au choix du cursus, aux stages et à la candidature.",
+  "date": "2026-09-25",
+  "reviewed": "2026-10-25",
+  "last_modified_at": "2026-10-26",
+  "faq": [
+    {
+      "q": "Quel point a marqué cette visite d’IMI ?",
+      "a": "Le directeur a insisté sur les études académiques avant de retourner enseigner. James Liu a également visité les chambres avec un étudiant et déjeuné sur place."
+    },
+    {
+      "q": "IMI accompagne-t-il les stages ?",
+      "a": "Le Career & Internship Office accompagne la préparation et la recherche de stages intégrés au cursus ; l’école présente des stages rémunérés d’environ 22 semaines."
+    },
+    {
+      "q": "Quelle est la taille d’IMI ?",
+      "a": "L’école annonce au maximum 300 étudiants par an et des classes d’environ 5 à 15 personnes. LEP peut préciser la promotion et la rentrée envisagées."
+    },
+    {
+      "q": "Comment LEP évalue-t-il le rapport qualité-prix ?",
+      "a": "En comparant le cursus complet, les offres applicables, le logement et les repas pendant les cours, ainsi que les revenus et dépenses en stage, selon les priorités de l’étudiant."
+    },
+    {
+      "q": "LEP facture-t-il des frais supplémentaires pour la candidature ou la réservation d’une visite ?",
+      "a": "LEP ne facture pas de frais supplémentaires aux élèves ou à leurs parents pour le choix de l’école, les échanges, l’aide à la candidature et la réservation d’une visite. Contact : contact@luxedupartners.lu ou WhatsApp."
+    },
+    {
+      "q": "Quelle part du coût les stages peuvent-ils compenser ?",
+      "a": "Pour un poste suisse relevant du taux CCNT 2027, le minimum de base est de CHF2 404 brut par mois, soit CHF28 848 sur douze mois rémunérés. Avec CHF1 800 mensuels de dépenses et retenues en simulation, il reste CHF7 248. LEP calcule le résultat réel à partir du contrat, des coûts et des mois payés."
+    }
+  ],
+  "image": "/assets/fieldwork/imi-james-principal-20261019.jpg",
+  "translated": true
+}
 ---
 
-**Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**
 
-**À IMI, je ne regarde pas seulement les bâtiments : je cherche à comprendre comment les étudiants apprennent, communiquent et à quels profils l’école peut offrir un bon départ.**
 
-Après ma visite, je ne qualifierais pas les installations de luxueuses. Chaque famille doit déterminer l’importance du cadre matériel par rapport à la formation, aux stages et au budget. La réponse n’est pas la même pour tous.
 
-<figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
-</figure>
+<figure class="article-photo"><a href="/assets/fieldwork/imi-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/imi-james-principal-20261019.jpg" width="1280" height="1920" alt="James Liu avec le directeur d’IMI, octobre 2026." loading="eager" decoding="async"></a><figcaption>James Liu avec le directeur d’IMI, octobre 2026.</figcaption></figure>
 
-## Le regard d’un parent et d’un entrepreneur
 
-Je vis et dirige des activités au Luxembourg, où mon enfant fréquente une école internationale. Comme parent, je comprends la crainte d’une mauvaise adaptation, d’une orientation inappropriée ou d’une dépense sans suite claire. Comme entrepreneur, j’observe la capacité à communiquer, à agir et à gagner la confiance.
+En octobre 2026, je suis retourné à IMI International Management Institute Switzerland. Nous avons échangé avec le directeur pendant environ une demi-heure, visité les chambres avec un étudiant et déjeuné sur place. **L’importance accordée aux études académiques ressortait nettement de l’entretien.** Le directeur nous a ensuite quittés pour donner un cours : dans cette petite école, la direction reste présente dans l’enseignement.
 
-À IMI, je m’intéresse donc à la comptabilité, à la gestion des revenus, des équipes et des projets. Pour les stages, je veux savoir quelles tâches sont réellement confiées, comment les responsables évaluent les étudiants et ce que l’expérience permet ensuite.
+Je suis James Liu, installé au Luxembourg, où je vis et dirige mes activités. LEP travaille directement avec IMI pour comparer les cursus, examiner les offres et bourses applicables, puis accompagner les candidatures. La visite permet de relier les informations de l’école à la situation d’un étudiant précis.
 
-<figure class="article-photo">
-<a href="/assets/imi/imi-lake-terrace.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-lake-terrace.jpg" alt="La terrasse et la vue sur le lac à IMI, photographiées lors de la visite." width="2275" height="1280" loading="lazy"></a>
-<figcaption>La terrasse et la vue sur le lac à IMI, photographiées lors de la visite.</figcaption>
-</figure>
+## Le rapport qualité-prix commence par le contenu des études
 
-## Mon appréciation : enseignement, pratique et rapport qualité-prix
+Je conseillerais d’étudier IMI à un jeune souhaitant s’investir sérieusement tout en maîtrisant son budget global. L’hôtellerie et le management demandent de la pratique, mais aussi de l’analyse, de la rédaction et du travail en équipe. LEP examine les matières déjà étudiées, l’anglais et les habitudes de travail pour déterminer un point d’entrée cohérent.
 
-Les atouts d’IMI peuvent être décrits concrètement : trois orientations de bachelor, l’alternance des études et des stages rémunérés, puis la possibilité de candidater à un MSc à IMI ou dans une autre université.
+Les informations de l’école présentent des stages rémunérés d’environ 22 semaines, accompagnés par le Career & Internship Office. Nous discutons du lien entre ces expériences et les intérêts de l’étudiant : exploitation hôtelière, restauration, marketing ou autre fonction de l’entreprise.
 
-Les avantages partenaires et les bourses applicables modifient le coût payé par la famille. Les stages apportent aussi une expérience et des revenus. L’ensemble mérite une comparaison sérieuse.
+## Trois parcours de bachelor à comparer
 
-Je parle également des installations telles que je les ai vues. Un étudiant qui accepte un cadre matériel relativement simple et privilégie les cours et la pratique peut y trouver son compte. Le choix doit se faire en connaissant les deux aspects.
-
-<figure class="article-photo">
-<a href="/assets/imi/imi-interior-lake-view.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-interior-lake-view.jpg" alt="Un espace intérieur d’IMI avec vue sur le lac, photographié lors de la visite." width="2275" height="1280" loading="lazy"></a>
-<figcaption>Un espace intérieur d’IMI avec vue sur le lac, photographié lors de la visite.</figcaption>
-</figure>
-
-## Les entretiens avec les étudiants doivent montrer du vécu
-
-J’ai réalisé des entretiens à IMI et conservé des vidéos et des photos. Je souhaite que les familles y cherchent des expériences précises, au-delà d’un simple « l’école est bien ».
-
-| Question à garder à l’esprit | Intérêt pour le choix |
+| Parcours BA (Hons) | Intérêts à approfondir avec LEP |
 |---|---|
-| Quel cours a été le plus difficile, et pourquoi ? | Relier l’exigence scolaire à la préparation de l’étudiant |
-| Que faisait-on réellement lors du premier stage ? | Donner un contenu concret au terme « stage rémunéré » |
-| Qu’est-ce qui a été difficile à l’arrivée ? | Anticiper langues, autonomie et changement de vie |
-| Comment le projet professionnel a-t-il évolué ? | Comprendre l’effet de l’expérience sur la suite |
+| International Hospitality Business Management | Fonctionnement des hôtels et entreprises de services, clients, équipes et gestion |
+| International Business Management | Organisations, marchés et management associés à une expérience pratique |
+| International Culinary Management | Savoir-faire culinaire, gestion d’une cuisine, restauration et entreprise |
 
-Ce sont des questions de lecture des entretiens, pas des réponses inventées au nom des étudiants. Lorsque les vidéos seront publiées, leur contexte sera conservé pour permettre d’entendre les personnes elles-mêmes.
+La présentation générale des bachelors décrit trois parcours à temps plein, enseignés en anglais sur trois ans. Des études supérieures ou expériences pertinentes peuvent modifier le point d’entrée. LEP transmet le dossier à l’école pour une évaluation adaptée.
 
-## Ce qui compte derrière les photos : une relation suivie
+## Une communauté de petite taille
 
-**Mon jugement est clair : les agences ordinaires n’accèdent qu’aux responsables des admissions ; faire réellement partie des cercles éducatifs européens permet de dialoguer directement avec les chefs d’établissement et les propriétaires, de mener des entretiens approfondis et de les joindre lorsque c’est nécessaire. C’est ce que je peux faire, et une différence importante entre LEP et les agences ordinaires.**
+IMI annonce un maximum de 300 étudiants par an et des classes d’environ 5 à 15 personnes. Il s’agit de l’échelle publiée par l’établissement, pas d’un comptage effectué pendant notre visite. J’ai remarqué très peu d’étudiants chinois, et l’école souhaite en accueillir davantage. Le directeur était chaleureux et nous a invités à revenir.
 
-Pour les parcours scolaires, j’entretiens des relations approfondies avec les directions de St George’s International School au Luxembourg, ainsi que de Chantemerle, ISA Altdorf et St. Charles en Suisse. Ces échanges permettent de comprendre leur philosophie éducative et la manière dont un enfant peut utiliser les ressources d’apprentissage et de poursuite d’études.
+Un jeune prêt à utiliser activement l’anglais et à vivre avec des camarades de différents horizons peut apprécier cet environnement. LEP peut demander des précisions sur la promotion et la rentrée envisagées.
 
-<figure class="article-photo">
-<a href="/assets/swiss/sc03.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc03.jpg" alt="James Liu avec le propriétaire de St. Charles en Suisse" loading="lazy" width="1600" height="1067" decoding="async"></a>
-<figcaption>James Liu avec le propriétaire de St. Charles : une autre relation de LEP dans l’éducation européenne. Il ne s’agit pas d’un représentant d’IMI.</figcaption>
-</figure>
+## Le déjeuner et les chambres que nous avons découverts
 
-À IMI, notre partenariat officiel permet de travailler directement avec l’école sur les cours et les candidatures. Les interlocuteurs diffèrent selon l’école, mais la méthode reste la même : construire la confiance dans la durée et savoir qui joindre pour faire avancer le projet d’une famille.
+Nous sommes arrivés au restaurant vers 13 heures, plutôt en fin de service. Des enseignants et étudiants assuraient un buffet. Il restait environ trois plats avec viande et une proposition entièrement végétarienne. La salle était petite. **On pouvait manger à sa faim, avec un choix assez simple au moment de notre arrivée.**
 
-## Pourquoi un guide ne remplace pas les relations locales
+Parmi les écoles hôtelières comparées pendant ce voyage, IMI se situait dans la tranche la plus accessible pour les études et la pension. Je rapproche ce budget des cours, de la pratique et de la vie quotidienne. L’accueil du personnel et les vues sur les montagnes font également partie de mes impressions positives.
 
-Au Luxembourg, en Suisse et aux Pays-Bas, la réputation influence la poursuite d’une coopération. La fiabilité des personnes recommandées et le respect des engagements comptent.
+Un étudiant nous a fait visiter les logements. Les conditions m’ont paru satisfaisantes ; les chambres individuelles dominaient dans ce que nous avons vu. L’école propose aussi des chambres partagées. **La vue sur les montagnes depuis les logements visités était très belle.** Type de chambre, sanitaires, rythme de vie et habitudes alimentaires méritent d’être discutés ensemble avant le choix de l’hébergement.
 
-Je rencontre et travaille régulièrement avec les écoles et entreprises locales. Je peux réagir sur place et, lorsqu’une mise en relation est pertinente, m’adresser à des personnes disposées à écouter. Ces ressources s’accumulent avec le temps.
+## Prévoir les périodes de cours et de stage
 
-**Nous partageons notre réseau avec les familles accompagnées par LEP.** Les écoles veulent de bons étudiants, les employeurs des talents adaptés, et nous souhaitons voir progresser des étudiants reconnus par les deux. La sélection des profils et le choix des pays et écoles viennent d’abord ; la préparation et la progression permettent ensuite de renforcer ce cercle de coopération.
+Les frais de scolarité, de logement et de repas pendant les cours ne suivent pas la même logique que les revenus et dépenses pendant un stage. LEP compare le cursus et la rentrée réels, les bourses possibles, la chambre, l’assurance, les déplacements et le logement en stage. La famille peut ainsi anticiper le premier versement et la suite du parcours.
 
-## IMI convient-il à votre enfant ?
+Lors de nos visites, nous avons interrogé les écoles sur les stages et l’emploi des étudiants chinois. Elles ont présenté leur accompagnement pour les stages prévus au cursus, notamment en Europe et au Moyen-Orient, tout en reconnaissant la difficulté de rester travailler en Suisse pour ces étudiants. LEP intègre dès le départ la nationalité, les langues, le métier visé et les conditions d’accès au travail.
 
-Nous examinons l’intérêt pour la gestion et le service, la capacité à étudier en anglais et l’envie d’apprendre sur le terrain. Nous rapprochons ensuite le programme et le budget du projet familial.
+## Une semaine d’hiver ou d’été pour préciser son choix
 
-Une entreprise familiale ouvre certaines possibilités. Un projet d’emploi en Europe demande de relier langues, stages, recommandations et droits au travail. Un jeune encore hésitant peut commencer par un séjour court.
+IMI annonce un **programme d’hiver du 17 au 24 janvier 2027** et un **programme d’été du 18 au 25 juillet 2027**. Chacun affiche actuellement CHF 1 800 en tarif anticipé et CHF 3 000 au tarif standard. Les âges, les dates limites de paiement et les avantages pour poursuivre des études diffèrent.
 
-Le cadre de décision familiale Yushufang relie aptitudes, potentiel, situation familiale et choix du pays. Je souhaite proposer un avis argumenté et des étapes concrètes : pourquoi cette voie convient, par quoi commencer et comment poursuivre.
+LEP aide à choisir la session et à clarifier les modalités. Notre [guide des programmes d’hiver et d’été IMI](/fr/insights/imi-winter-summer-programmes/) détaille les dates, frais et possibilités de déduction sur les études ultérieures.
 
-## Comprendre IMI : formations, budget et candidature
+## À quels étudiants proposerais-je IMI ?
 
-- [Pourquoi étudier le management hôtelier en Suisse ? Regardons d’abord ce qui vient après](/fr/insights/why-study-hospitality-switzerland/)
-- [Pourquoi choisir IMI en Suisse ? Les cours, les stages et le rapport qualité-prix avant le prestige des bâtiments](/fr/insights/why-imi-switzerland/)
-- [Bachelor, MSc ou Graduate Diploma à IMI : quelle formation choisir ?](/fr/insights/imi-programmes-degrees/)
-- [Quel budget pour IMI en Suisse ? Frais, bourses, logement et revenus de stage](/fr/insights/imi-fees-scholarships/)
-- [Stages et emploi après IMI : acquérir de l’expérience et être recommandé par les bonnes personnes](/fr/insights/imi-internships-careers/)
-- [Candidater à IMI en Suisse : LEP vous accompagne dans le choix du programme, les bourses et l’admission](/fr/insights/apply-to-imi-with-lep/)
-- [Programme d’hiver IMI 2027 : tarif anticipé de 1 800 CHF et déduction possible sur des études ultérieures](/fr/insights/imi-winter-summer-programmes/)
+Un jeune prêt à travailler les matières académiques, à progresser en anglais et à coopérer dans des situations pratiques, avec un budget familial défini, peut approfondir cette option avec LEP. Une famille active dans l’hôtellerie, la restauration ou les services peut aussi intégrer de futures responsabilités concrètes au choix du cursus.
 
+L’essentiel est de relier un point d’entrée adapté, des cours motivants, un stage utile et une prochaine étape progressivement plus claire.
+
+
+<section class="internship-budget"><h2>Combien les stages peuvent-ils réduire le coût net ?</h2><p>La page actuelle du bachelor Hospitality Business Management d’IMI garantit explicitement <strong>12 mois d’expérience en stage rémunéré</strong>. Le service des carrières et des stages prépare les étudiants et accompagne la recherche de postes. LEP rapproche cet engagement du niveau d’entrée, des mois de stage, du pays et du contrat.</p><h3>Bachelor IMI : scolarité et vie sur le campus</h3><p>Les tarifs actuels du bachelor Hospitality Business totalisent CHF105 000 pour trois périodes académiques, inscription comprise. Une chambre double standard à CHF3 000 et la pension complète à CHF2 950 par période de 22 semaines représentent CHF17 850 pour trois périodes, soit <strong>CHF122 850</strong> avec la scolarité. Chambre, niveau d’entrée et réductions accordées modifient le résultat ; les périodes de vie non couvertes et les voyages restent à ajouter.</p><p>Pour les stages de formation relevant de l’article 11 de la CCNT suisse de l’hôtellerie-restauration, le minimum publié pour 2027 est de <strong>CHF2 404 brut par mois</strong>, applicable dès le 1er janvier ou la saison d’été selon l’établissement. À ce taux fixe de simulation, six mois complets rémunérés représentent <strong>CHF14 424</strong> de salaire de base et douze mois <strong>CHF28 848</strong>. Le taux sera revérifié pour l’année réelle du stage ; ailleurs, le calcul suit le contrat local et les prestations accordées.</p><p>La simulation ci-dessous retient CHF1 800 par mois pour l’ensemble des retenues salariales, du logement de stage, des repas, des assurances, du transport et des autres coûts de stage. Ce paramètre est ajustable : LEP le remplace par le contrat employeur et les conditions de vie réelles.</p><div class="table-scroll"><table><thead><tr><th>Mois complets rémunérés</th><th>Salaire brut de base</th><th>Dépenses et retenues simulées</th><th>Solde disponible pour les autres frais d’études</th></tr></thead><tbody><tr><td>6 mois</td><td>CHF14 424</td><td>CHF10 800</td><td>CHF3 624</td></tr><tr><td>12 mois</td><td>CHF28 848</td><td>CHF21 600</td><td>CHF7 248</td></tr></tbody></table></div><p>Avec CHF1 500 de dépenses et retenues mensuelles, le solde sur douze mois est de CHF10 848 ; avec CHF2 100, de CHF3 648. Le treizième salaire au prorata s’ajoute lorsqu’il est applicable ; le tableau ne compte que le salaire de base. Le logement ou les assurances déjà retenus sur la fiche de paie ne sont pas ajoutés une seconde fois.</p><p><strong>Coût net familial = frais scolaires + autres dépenses non couvertes − solde des revenus de stage − réductions ou bourses confirmées.</strong> Le solde de stage comprend déjà la déduction des coûts de cette période.</p><p>Avec l’hypothèse de CHF1 800 de dépenses et retenues mensuelles ci-dessous sur 12 mois payés, le solde est de CHF7 248. Le sous-total de CHF122 850 devient donc <strong>CHF115 602, plus les autres frais non comptés, moins les réductions ou bourses confirmées</strong>.</p><p>La scolarité et les dépôts se paient généralement avant l’arrivée mensuelle des salaires. LEP présente donc à la fois la trésorerie nécessaire avant l’inscription et le coût net prévisionnel à la fin du parcours.</p><p>Vérification des stages et salaires : 26 octobre 2026. Base salariale : CCNT / L-GAV Art. 11 · Art. 12 · Art. 13.</p></section>
+<section class="lep-intent-contact"><h2>Candidater à IMI et organiser une visite avec LEP</h2><p>LEP compare les parcours en hôtellerie, commerce international et management culinaire, examine le niveau d’entrée et les bourses applicables, puis prépare le budget des cours et des stages. Nous pouvons également réserver une visite ou examiner une semaine d’expérience en hiver ou en été.</p><p><strong>LEP accompagne le choix de l’école, les échanges avec l’établissement, la candidature et la réservation d’une visite, sans facturer de frais de service supplémentaires aux élèves ou à leurs parents pour cet accompagnement.</strong></p><p>Indiquez vos études, résultats récents, niveau d’anglais, intérêts, rentrée souhaitée et budget global. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
+
+## Approfondir IMI avec LEP
+
+- [Programmes d’hiver et d’été](/fr/insights/imi-winter-summer-programmes/)
+- [Cursus et diplômes](/fr/insights/imi-programmes-degrees/)
+- [Frais et bourses](/fr/insights/imi-fees-scholarships/)
+- [Stages et préparation professionnelle](/fr/insights/imi-internships-careers/)
+
+<section class="source-note"><p>Sources et visite: présentation des bachelors IMI, Careers & Industry Connections, taille des classes et Student Life ; entretien avec le directeur, visite, déjeuner et photographies de James Liu. Vérification et mise à jour : 25 octobre 2026. Observations sur place : visites de James Liu en Suisse en octobre 2026.</p></section>

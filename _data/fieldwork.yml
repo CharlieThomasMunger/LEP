@@ -90,7 +90,7 @@ switzerland:
       alt: {"zh": "修印先生与Chantemerle 国际学校校长合影", "en": "James Liu with the Head of Chantemerle International School", "fr": "James Liu et le chef d’établissement de Chantemerle International School"}
 
     - name: Lucerne International Academy Wikon · 琉森国际学院
-      image: /assets/fieldwork/isa-altdorf.jpg
+      image: /assets/fieldwork/lia-wikon-james-principal-20261019.jpg
       kind: {"zh": "校长会面 · 实地访校", "en": "Meeting with the Head of School · Campus visit", "fr": "Rencontre avec le chef d’établissement · Visite sur place"}
       note:
         zh: "修印先生与学校校长合影"
@@ -118,8 +118,11 @@ switzerland:
       article_label: {zh: 阅读LEP的CRCS访校与申请指南, en: Read LEP’s CRCS visit and application guide, fr: Lire le guide de visite et de candidature CRCS de LEP}
 
     - name: IMI International Management Institute
-      image: /assets/fieldwork/imi.jpg
-      alt: {zh: IMI International Management Institute, en: IMI International Management Institute, fr: IMI International Management Institute}
+      image: /assets/fieldwork/imi-james-principal-20261019.jpg
+      note: {zh: 修印先生与IMI校长合影, en: James Liu with the principal of IMI, fr: James Liu avec le directeur d’IMI}
+      alt: {zh: 修印先生与IMI校长合影, en: James Liu with the principal of IMI, fr: James Liu avec le directeur d’IMI}
+      article: imi-campus-visit
+      article_label: {zh: 阅读IMI访校与申请介绍, en: Read the IMI visit guide, fr: Lire le guide de visite d’IMI}
 
     - name: TASIS The American School in Switzerland
       image: /assets/fieldwork/tasis.jpg
@@ -142,6 +145,27 @@ switzerland:
         en: James Liu visiting the HIM campus and alumni photograph wall. Photograph by LEP.
         fr: James Liu visite le campus de HIM et son mur de photographies des anciennes promotions. Photo LEP.
       alt: {zh: 修印先生实地走访 HIM, en: James Liu visiting HIM, fr: James Liu en visite à HIM}
+
+    - name: Glion Institute of Higher Education
+      image: /assets/fieldwork/glion-james-students-teacher-20261021.jpg
+      note: {zh: 修印先生与Glion接待老师和学生合影, en: James Liu with student hosts and staff at Glion, fr: James Liu avec les étudiants et les enseignants qui l’ont accueilli à Glion}
+      alt: {zh: 修印先生与Glion接待老师和学生合影, en: James Liu with student hosts and staff at Glion, fr: James Liu avec les étudiants et les enseignants à Glion}
+      article: glion-switzerland-hospitality-luxury-business
+      article_label: {zh: 阅读访校与申请指南, en: Read the visit and application guide, fr: Lire le guide de visite et de candidature}
+
+    - name: Les Roches Switzerland
+      image: /assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg
+      note: {zh: 修印先生在Les Roches访校，2026年10月, en: James Liu visiting Les Roches in October 2026, fr: James Liu en visite à Les Roches en octobre 2026}
+      alt: {zh: 修印先生在Les Roches访校, en: James Liu visiting Les Roches, fr: James Liu en visite à Les Roches}
+      article: les-roches-switzerland-hospitality-study
+      article_label: {zh: 阅读访校与申请指南, en: Read the visit and application guide, fr: Lire le guide de visite et de candidature}
+
+    - name: École Nouvelle de la Suisse Romande (ENSR)
+      image: /assets/fieldwork/ensr-james-campus-visit-20261023.jpg
+      note: {zh: 修印先生在ENSR访校，2026年10月, en: James Liu visiting ENSR in October 2026, fr: James Liu en visite à ENSR en octobre 2026}
+      alt: {zh: 修印先生在ENSR访校, en: James Liu visiting ENSR, fr: James Liu en visite à ENSR}
+      article: ensr-lausanne-ib-swiss-maturity-boarding
+      article_label: {zh: 阅读访校与申请指南, en: Read the visit and application guide, fr: Lire le guide de visite et de candidature}
 
 netherlands:
   title: {zh: 荷兰 · Eerde 实地访校, en: The Netherlands — visiting Eerde, fr: Pays-Bas — visite d’Eerde}

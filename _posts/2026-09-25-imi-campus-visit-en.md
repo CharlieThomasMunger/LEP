@@ -1,103 +1,117 @@
 ---
-layout: "node"
-lang: "en"
-ref: "imi-guide-w6"
-permalink: "/en/insights/imi-campus-visit/"
-cluster: "switzerland-hotel"
-school_article: true
-has_topic_navigation: true
-title: "What I look for when visiting IMI: the student’s future beyond the campus"
-date: "2026-09-25"
-reviewed: "2026-09-26"
-description: "When I visit IMI, I look at more than the grounds: how students learn, how they communicate and which young people this school could give a useful start."
-image: "/assets/imi/imi-admissions-visit.webp"
-translated: true
+{
+  "layout": "node",
+  "lang": "en",
+  "ref": "imi-guide-w6",
+  "permalink": "/en/insights/imi-campus-visit/",
+  "cluster": "switzerland-hotel",
+  "school_article": true,
+  "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "title": "Visiting IMI: academic focus, everyday life and value in Swiss hospitality education",
+  "description": "James Liu revisits IMI, interviews the principal and explores accommodation and dining. Compare academic routes, internships and budget with LEP, without an additional application or visit-booking service fee.",
+  "answer": "My October 2026 visit highlighted IMI’s academic focus and comparatively accessible budget among the Swiss hospitality schools I visited. LEP connects the principal discussion, student-led accommodation tour and lunch experience with programme fit, internship planning and application support.",
+  "date": "2026-09-25",
+  "reviewed": "2026-10-25",
+  "last_modified_at": "2026-10-26",
+  "faq": [
+    {
+      "q": "What stood out during the IMI visit?",
+      "a": "The principal emphasised academic learning before returning to teach. James Liu also toured accommodation with a student and had lunch on campus."
+    },
+    {
+      "q": "Does IMI support internships?",
+      "a": "Its Career & Internship Office supports preparation and matching for curriculum internships; the school describes paid placements of around 22 weeks."
+    },
+    {
+      "q": "How large is IMI?",
+      "a": "The school publishes a maximum of 300 students per year and class sizes of about 5–15. LEP can discuss the intended cohort and intake."
+    },
+    {
+      "q": "How does LEP assess IMI’s value?",
+      "a": "By comparing the full study route, applicable offers, academic-period accommodation and meals, and internship income and expenses, alongside the student’s priorities."
+    },
+    {
+      "q": "Does LEP charge an additional application or visit-booking service fee?",
+      "a": "No additional service fee is charged to students or parents for school-fit assessment, school liaison, application assistance and campus-visit booking. Contact contact@luxedupartners.lu or LEP via WhatsApp."
+    },
+    {
+      "q": "How much can internships offset the cost?",
+      "a": "For Swiss placements covered by the 2027 CCNT rate, minimum base pay is CHF2,404 gross monthly, or CHF28,848 over twelve paid months. With illustrative costs and deductions of CHF1,800 monthly, CHF7,248 remains. LEP calculates the actual result from the contract, costs and paid months."
+    }
+  ],
+  "image": "/assets/fieldwork/imi-james-principal-20261019.jpg",
+  "translated": true
+}
 ---
 
-**By James Liu | Lux Education Partners | Reviewed 26 September 2026**
 
-**When I visit IMI, I look at more than the grounds: how students learn, how they communicate and which young people this school could give a useful start.**
 
-From my visit, I would not describe IMI’s facilities as luxurious. Families need to decide how they weigh the physical environment against teaching, placements and an affordable plan. Different students will reach different conclusions.
 
-<figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu visiting IMI. LEP works directly with the school as an official partner." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu visiting IMI. LEP works directly with the school as an official partner.</figcaption>
-</figure>
+<figure class="article-photo"><a href="/assets/fieldwork/imi-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/imi-james-principal-20261019.jpg" width="1280" height="1920" alt="James Liu with the principal of IMI, October 2026." loading="eager" decoding="async"></a><figcaption>James Liu with the principal of IMI, October 2026.</figcaption></figure>
 
-## I visit as both a parent and a business owner
 
-I live and operate businesses in Luxembourg, where my own child attends an international school. As a parent, I understand concerns about settling in, choosing the wrong route or paying for education without knowing what comes next. As a business owner, I look at communication, the ability to get things done and whether someone earns trust.
+In October 2026, I returned to IMI International Management Institute Switzerland. We interviewed the principal for about half an hour, toured accommodation with a student and had lunch on campus. **The emphasis on academic learning stood out in our conversation.** The principal then left to teach: a concrete reminder that the leadership of this small school remains involved in the classroom.
 
-At IMI, that means examining accounting, revenue control, people and project management. For placements, I want to understand the work students actually do, how supervisors assess them and how that experience helps the next step.
+I am James Liu, based in Luxembourg, where I live and run businesses. LEP works directly with IMI to help families compare programmes, discuss applicable offers and scholarships, and prepare applications. Visiting in person helps me connect a prospectus with the experience of a particular student.
 
-<figure class="article-photo">
-<a href="/assets/imi/imi-lake-terrace.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-lake-terrace.jpg" alt="The terrace and lake view at IMI, photographed during the campus visit." width="2275" height="1280" loading="lazy"></a>
-<figcaption>The terrace and lake view at IMI, photographed during the campus visit.</figcaption>
-</figure>
+## Academic commitment is part of the value proposition
 
-## My assessment: curriculum, practice and value
+I would consider IMI for a student who wants to study seriously while keeping the full budget under control. Hospitality and business education involve theory, analysis, writing and teamwork alongside practical service. At LEP, we discuss the student’s subjects, English and learning habits before identifying a suitable entry point.
 
-IMI has strengths I can describe concretely: three bachelor’s directions, alternating study and paid internships, and the possibility of applying for an MSc at IMI or elsewhere afterwards.
+The school’s career information describes paid internships of around 22 weeks, supported by its Career & Internship Office. The useful question is how a placement connects with the student’s interests in operations, food and beverage, marketing or another business function.
 
-Applicable partner benefits and scholarships affect the family’s final cost. Placements can bring wages as well as experience. Together, these make IMI worth comparing on value.
+## Three undergraduate routes to compare
 
-I also tell families about the facilities as I saw them. A student who accepts a relatively modest physical setting and values the teaching and practical structure may find a good fit. The choice should be made with a clear picture of both.
-
-<figure class="article-photo">
-<a href="/assets/imi/imi-interior-lake-view.jpg" target="_blank" rel="noopener"><img src="/assets/imi/imi-interior-lake-view.jpg" alt="An interior space at IMI overlooking the lake, photographed during the campus visit." width="2275" height="1280" loading="lazy"></a>
-<figcaption>An interior space at IMI overlooking the lake, photographed during the campus visit.</figcaption>
-</figure>
-
-## Student interviews should reveal actual experiences
-
-I have interviewed students at IMI and kept video and photographs. When reviewing that material, families should listen for specific experiences rather than simply “the school is good”.
-
-| Question to consider | Why it matters |
+| BA (Hons) route | Interests worth exploring with LEP |
 |---|---|
-| Which class was hardest, and why? | Helps relate academic demands to the student’s preparation |
-| What did the first internship involve? | Turns “paid internship” into an actual working experience |
-| What was difficult on arrival? | Helps prepare for language, independence and everyday changes |
-| How did career plans change? | Shows how experience influenced the next decision |
+| International Hospitality Business Management | Hotel and service operations, customers, teams and business performance |
+| International Business Management | Organisations, markets and management, with practical experience |
+| International Culinary Management | Culinary craft alongside kitchen, restaurant and business management |
 
-These are questions I suggest using to assess an interview, not invented answers attributed to students. When the interviews are published, I will retain their context so that families can hear the students themselves.
+IMI’s undergraduate overview lists these as English-taught, full-time, three-year routes. Previous university or relevant study can affect the appropriate entry stage; LEP submits the student’s background for an individual assessment.
 
-## The relationship behind a photograph matters
+## A small school and an international daily life
 
-**My judgment is clear: ordinary agencies can only reach admissions officers; becoming part of Europe’s education circles gives you direct dialogue with school heads and owners, in-depth interviews and ongoing access whenever you need to get in touch. This is what I can do, and it is an important difference between LEP and ordinary agencies.**
+The school describes a maximum of 300 students per year and classes of approximately 5–15. Those figures describe its published scale, rather than a headcount taken during my visit. I noticed very few Chinese students, and the school was keen to welcome more. The principal was warm and invited us to return.
 
-In our school-level work, I have deep relationships with the heads of St George’s International School in Luxembourg and Chantemerle, ISA Altdorf and St. Charles in Switzerland. Those conversations help me understand their educational approach and discuss how a child can use the school’s learning and progression resources.
+For students willing to use English actively and get to know classmates from different backgrounds, the small community is worth considering. LEP can discuss the intended cohort and intake with the school.
 
-<figure class="article-photo">
-<a href="/assets/swiss/sc03.jpg" target="_blank" rel="noopener"><img src="/assets/swiss/sc03.jpg" alt="James Liu with the owner of St. Charles in Switzerland" loading="lazy" width="1600" height="1067" decoding="async"></a>
-<figcaption>James Liu with the owner of St. Charles. This is another LEP relationship within European education; the person pictured is not an IMI representative.</figcaption>
-</figure>
+## Lunch and accommodation: what I actually saw
 
-For IMI, we have a formal partnership with IMI and work directly with the school on courses and applications. The specific contact differs by school. The underlying approach is consistent: build trust through ongoing cooperation and know whom to reach when a family needs something progressed.
+We reached the restaurant close to 1 p.m., towards the end of lunch. Teachers and students were providing a buffet. Around three meat dishes and one fully vegetarian option remained. The dining room was small: **there was enough to eat, with a fairly simple selection at the time we arrived.**
 
-## Why a guide cannot replace local relationships
+Among the hospitality schools I compared on this trip, IMI occupied the most affordable tuition-and-board bracket. I assess that alongside the programme, practical training and everyday living conditions. The hospitality of the staff and the mountain views were also memorable.
 
-In Luxembourg, Switzerland and the Netherlands, reputation influences whether others continue to cooperate with you. The people you recommend and the way you handle commitments matter.
+A student showed us the accommodation. My overall impression was positive, and I saw mainly single rooms on this tour. The school also advertises shared rooms. **The mountain-facing accommodation had beautiful views.** Room type, bathroom arrangements and meal preferences can be discussed together when LEP helps assemble the accommodation budget.
 
-I meet and work with local schools and businesses repeatedly. When action is needed, I can respond locally; when an introduction is appropriate, there are people willing to listen. Those resources take time to develop.
+## Plan the academic and internship periods together
 
-**We share our network with families who work with LEP.** Schools want good students, employers want suitable talent and we want students whose achievements both can recognise. We first select and match students to countries and schools, then help them prepare and grow. That makes the cooperation sustainable.
+Tuition, accommodation and meals during teaching periods differ from the income and expenditure of an internship. LEP compares the actual programme and intake, possible scholarships, room choice, insurance, travel and placement accommodation. This makes both the first payment and the subsequent commitment clear.
 
-## Is IMI right for your child?
+Across our school visits, we asked specifically about Chinese students’ internships and employment. Schools discussed support for required placements in destinations including Europe and the Middle East, while acknowledging that remaining in Switzerland for employment is difficult for these students. LEP brings the student’s nationality, languages, target role and work eligibility into that discussion early.
 
-We begin with interest in business and service, readiness to study in English and willingness to learn through operational work. Then we examine the course, budget and next educational or professional step.
+## Could a winter or summer programme help you decide?
 
-A family business creates one set of opportunities. A European employment goal calls for languages, placements, employer introductions and appropriate work rights. A student still exploring may benefit from a short programme first.
+IMI has announced a **17–24 January 2027 winter programme** and an **18–25 July 2027 summer programme**. Both currently list an early-bird fee of CHF 1,800 and a standard fee of CHF 3,000; ages, payment deadlines and subsequent study benefits differ.
 
-The Yushufang Family Decision Framework connects strengths and potential with family circumstances and country choices. I want to give families a recommendation with reasons and practical next steps: why this route fits, where to begin and how to continue.
+LEP can help select a suitable session and clarify the application and progression terms. See our [IMI winter and summer programme guide](/en/insights/imi-winter-summer-programmes/) for the dates, fees and tuition-credit details.
 
-## Explore IMI programmes, costs and applications
+## Who would I encourage to explore IMI?
 
-- [Why study hospitality management in Switzerland? Start with what you want to do afterwards](/en/insights/why-study-hospitality-switzerland/)
-- [Why choose IMI Switzerland? Curriculum, internships and value matter more to me than luxury facilities](/en/insights/why-imi-switzerland/)
-- [IMI bachelor’s, MSc or Graduate Diploma: which programme fits your next step?](/en/insights/imi-programmes-degrees/)
-- [What does IMI Switzerland cost? Tuition, scholarships, living costs and internship income](/en/insights/imi-fees-scholarships/)
-- [IMI internships and graduate careers: experience matters, and so does the person willing to recommend you](/en/insights/imi-internships-careers/)
-- [Applying to IMI Switzerland? LEP can handle programme selection, scholarships and the application with you](/en/insights/apply-to-imi-with-lep/)
-- [IMI Winter Programme 2027: CHF 1,800 early fee and a possible credit towards later tuition](/en/insights/imi-winter-summer-programmes/)
+A student ready to engage with academic work, improve their English and work with others in practical settings, while respecting a defined family budget, has good reasons to discuss IMI with LEP. Students whose families run hotels, restaurants or service businesses can bring real future responsibilities into the programme choice.
 
+The most useful assessment connects the entry point, a course the student will engage with, a purposeful internship and an increasingly clear next step.
+
+
+<section class="internship-budget"><h2>What can internship earnings contribute to the net cost?</h2><p>IMI’s current Hospitality Business Management bachelor page explicitly guarantees <strong>12 months of paid internship experience</strong>. Its careers and internship office helps prepare students and match placements. LEP relates that commitment to the applicant’s entry stage, placement months, destination and contract.</p><h3>IMI bachelor: tuition and campus living first</h3><p>The current Hospitality Business bachelor charges total CHF105,000 for three academic tuition and registration periods. Using a CHF3,000 standard twin room plus CHF2,950 full board for each 22-week campus period gives CHF17,850 for three periods and a combined <strong>CHF122,850</strong>. Room choice, entry stage and approved discounts affect the result; uncovered living periods and travel remain separate.</p><p>For curricular placements covered by Article 11 of Switzerland’s hospitality CCNT/L-GAV agreement, the published 2027 minimum is <strong>CHF2,404 gross per month</strong>, applicable from 1 January or the summer season for the relevant establishment. At that fixed planning rate, six full paid months yield <strong>CHF14,424</strong> in base wages and twelve yield <strong>CHF28,848</strong>. Rates are checked again for the actual placement year; placements elsewhere use local contracts and benefits.</p><p>The following illustration assumes CHF1,800 per month in combined payroll deductions, placement accommodation, meals, insurance, transport and other placement costs. This is an adjustable planning input; LEP replaces it with the employer’s terms and actual living arrangements.</p><div class="table-scroll"><table><thead><tr><th>Full paid months</th><th>Gross base earnings</th><th>Illustrative costs and deductions</th><th>Balance available for other education costs</th></tr></thead><tbody><tr><td>6 months</td><td>CHF14,424</td><td>CHF10,800</td><td>CHF3,624</td></tr><tr><td>12 months</td><td>CHF28,848</td><td>CHF21,600</td><td>CHF7,248</td></tr></tbody></table></div><p>At CHF1,500 in monthly costs and deductions, the twelve-month balance is CHF10,848; at CHF2,100 it is CHF3,648. A pro-rata thirteenth salary is added where applicable; this table counts base wages only. Living or insurance costs already deducted through payroll are not added again.</p><p><strong>Net family cost = school charges + other uncovered costs − remaining internship earnings − confirmed discounts or scholarships.</strong> The internship balance already deducts placement-period costs.</p><p>With the illustrative CHF1,800 monthly costs and deductions below and 12 paid months, CHF7,248 remains. The CHF122,850 campus subtotal therefore becomes <strong>CHF115,602 plus other uncounted costs, less confirmed discounts or scholarships</strong>.</p><p>Tuition and deposits usually fall due before wages arrive month by month. LEP therefore sets out both the cash required before enrolment and the projected net cost at the end of the route.</p><p>Internship and wage check: 26 October 2026. Wage basis: CCNT / L-GAV Art. 11 · Art. 12 · Art. 13.</p></section>
+<section class="lep-intent-contact"><h2>Apply to IMI and arrange a visit through LEP</h2><p>LEP compares the hospitality business, international business and culinary routes, discusses the appropriate entry stage and applicable scholarships, and plans academic and internship costs. We can also arrange a campus visit or discuss a short winter or summer experience.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and campus-visit booking, with no additional service fee charged to students or parents for these services.</strong></p><p>Please share your education, recent results, English level, interests, intended start date and total budget. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
+
+## Explore IMI with LEP
+
+- [Winter and summer programmes](/en/insights/imi-winter-summer-programmes/)
+- [Programmes and degrees](/en/insights/imi-programmes-degrees/)
+- [Fees and scholarships](/en/insights/imi-fees-scholarships/)
+- [Internships and career preparation](/en/insights/imi-internships-careers/)
+
+<section class="source-note"><p>Sources and visit evidence: IMI undergraduate overview, Careers & Industry Connections, published class sizes and Student Life; James Liu’s principal interview, campus tour, lunch and photographs. Checked and updated on 25 October 2026. First-hand observations: James Liu’s October 2026 Swiss school visits.</p></section>

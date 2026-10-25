@@ -14,7 +14,7 @@ layout: default
       <h1 id="home-title">{{ h.heading }}</h1>
       <p class="home-intro">{{ h.intro }}</p>
       <div class="home-actions">
-        <a class="btn" href="{{ prefix | append: '/destinations/luxembourg/' | relative_url }}">{{ h.primary }} <span aria-hidden="true">→</span></a>
+        <a class="btn" href="#school-visits">{{ h.primary }} <span aria-hidden="true">→</span></a>
         <a class="btn ghost" href="#contact-lep">{{ h.consult }}</a>
       </div>
       {% if lang == "zh" %}<p class="home-text-link"><a href="/zh/families/">人在中国，也可以直接委托 LEP：查看申请与寄宿服务 →</a></p>{% endif %}
@@ -34,35 +34,24 @@ layout: default
       <div><p class="kicker">{{ h.visit_kicker }}</p><h2 id="visit-title">{{ h.visit_title }}</h2></div>
       <div class="home-section-aside"><p>{{ h.visit_intro }}</p><a class="home-text-link" href="{{ prefix | append: '/fieldwork/' | relative_url }}">{{ h.visit_all }} <span aria-hidden="true">↗</span></a></div>
     </div>
-    <div class="home-visits-grid">
-      <article class="home-featured-visit">
-        <figure>
-          <a href="{{ featured.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ '/assets/swiss/sc03.jpg' | relative_url }}" alt="{{ h.featured.caption | escape }}" width="1600" height="1067" loading="lazy" decoding="async"></a>
-          <figcaption>{{ h.featured.caption }} · {{ h.photo_label }}</figcaption>
-        </figure>
-        <div class="home-featured-copy">
-          <p class="home-label">{{ h.featured.country }}</p>
-          <h3><a href="{{ featured.url | relative_url }}">{{ h.featured.title }}</a></h3>
-          <p>{{ h.featured.text }}</p>
-          <a class="home-text-link" href="{{ featured.url | relative_url }}">{{ h.featured.link }} <span aria-hidden="true">→</span></a>
-        </div>
+    <div class="home-leadership-grid">
+      {% for meeting in site.data.homepage.leadership_photos %}
+      <article class="home-meeting">
+        <a class="home-meeting-photo" href="{{ prefix | append: '/insights/' | append: meeting.slug | append: '/' | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ meeting.image | relative_url }}" alt="{{ meeting.school | escape }} · {{ meeting.caption[lang] | escape }}" width="600" height="450" style="object-position:{{ meeting.position | escape }}" loading="lazy" decoding="async"></a>
+        <div class="home-meeting-copy"><p>{{ meeting.caption[lang] }}</p><h3><a href="{{ prefix | append: '/insights/' | append: meeting.slug | append: '/' | relative_url }}">{{ meeting.school }}</a></h3></div>
       </article>
-      <div class="home-visit-list">
-        {% for v in h.visits %}
-        {% assign photo = site.data.homepage.photos[forloop.index0] %}
-        {% assign post = posts | where: "ref", photo.ref | first %}
-        <article class="home-visit-item">
-          <a class="home-visit-photo" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ photo.image | relative_url }}" alt="{{ v.alt | escape }}" loading="lazy" decoding="async" width="480" height="320"></a>
-          <div><p class="home-label">{{ v.country }}</p><h3><a href="{{ post.url | relative_url }}">{{ v.title }}</a></h3><p>{{ v.text }}</p></div>
-        </article>
-        {% endfor %}
-        <p class="home-photo-credit">{{ h.photo_label }}</p>
-      </div>
+      {% endfor %}
     </div>
-    <article class="home-ubi-visit" aria-labelledby="ubi-visit-title">
-      <figure><img src="{{ '/assets/fieldwork/ubi-campus-leadership.jpg' | relative_url }}" alt="{{ h.ubi.caption | escape }}" width="1000" height="1500" loading="lazy" decoding="async"><figcaption>{{ h.ubi.caption }}</figcaption></figure>
-      <div><p class="home-label">{{ h.ubi.label }}</p><h3 id="ubi-visit-title">{{ h.ubi.title }}</h3><p>{{ h.ubi.text }}</p><a class="home-text-link" href="#contact-lep">{{ h.ubi.link }} <span aria-hidden="true">→</span></a></div>
-    </article>
+    <div class="home-visit-invitation"><div><h3>{{ h.visit_cta_title }}</h3><p>{{ h.visit_cta_text }}</p></div><a class="btn" href="#contact-lep">{{ h.consult }} <span aria-hidden="true">→</span></a></div>
+    <div class="home-recent-intro"><p class="kicker">{{ h.recent_kicker }}</p><h2>{{ h.recent_title }}</h2><p>{{ h.recent_intro }}</p></div>
+    <div class="home-recent-grid">
+      {% for visit in site.data.homepage.recent_swiss %}
+      {% assign visit_post = posts | where: "ref", visit.ref | first %}
+      {% if visit_post %}
+      <article class="home-recent-card"><p class="home-label">{{ visit.school }}</p><h3><a href="{{ visit_post.url | relative_url }}">{{ visit_post.title }}</a></h3><p>{{ visit_post.description }}</p><a class="home-text-link" href="{{ visit_post.url | relative_url }}">{{ h.recent_link }} <span aria-hidden="true">→</span></a></article>
+      {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </section>
 

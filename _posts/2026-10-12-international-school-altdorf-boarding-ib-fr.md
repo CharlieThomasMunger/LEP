@@ -4,70 +4,102 @@
   "lang": "fr",
   "ref": "lep-guide-international-school-altdorf-boarding-ib",
   "cluster": "switzerland-boarding",
-  "title": "Lucerne International Academy Wikon : visite du campus et candidature en internat",
-  "description": "James Liu visite Lucerne International Academy Wikon : château, espaces modernes, environ 40 élèves et équipe accueillante. LEP accompagne le choix du cursus, de l’internat et du budget, puis la candidature.",
-  "answer": "Lucerne International Academy Wikon se trouve sur le campus du château de Marienburg, à Wikon, en Suisse. James Liu s’y est rendu le 19 octobre 2026 : l’école comptait alors environ 40 élèves, l’équipe enseignante était maintenue et le site associait bâtiments historiques et espaces modernes. LEP relie ces observations au parcours, à l’anglais et au budget de chaque famille pour préparer la candidature.",
+  "title": "Lucerne International Academy Wikon : IB, campus et budget annuel, pour quel élève ?",
+  "description": "La visite de James Liu à Wikon : priorité à l’IB, locaux rénovés, petite communauté, sport et budget annuel évoqué de 55 000 à 60 000 CHF. LEP accompagne candidature et réservation de visite sans frais de service supplémentaires.",
+  "answer": "L’IB est l’orientation principale présentée à Wikon. Lors de la visite de James Liu, l’école comptait environ 40 élèves, avec des locaux rénovés et un budget annuel évoqué de 55 000 à 60 000 CHF. LEP étudie le programme, l’internat, le sport et les coûts, puis accompagne candidature et réservation de visite sans frais de service supplémentaires.",
   "date": "2026-10-12",
-  "reviewed": "2026-10-24",
-  "last_modified_at": "2026-10-24",
+  "reviewed": "2026-10-25",
+  "last_modified_at": "2026-10-26",
   "permalink": "/fr/insights/international-school-altdorf-boarding-ib/",
-  "image": "/assets/fieldwork/isa-altdorf.jpg",
+  "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
     {
-      "q": "Où se trouve Lucerne International Academy Wikon ?",
-      "a": "Le campus se situe à Marienburg 1, 4806 Wikon, en Suisse. James Liu l’a visité le 19 octobre 2026. LEP peut échanger avec l’école et organiser une visite."
+      "q": "Quelle est l’orientation pédagogique principale de Wikon ?",
+      "a": "Les informations de cette visite indiquent l’IB comme orientation principale. LEP précise avec l’école la classe, les matières proposées et les langues."
     },
     {
-      "q": "Combien d’élèves compte l’école ?",
-      "a": "Lors de sa visite du 19 octobre 2026, James Liu a appris que l’école comptait environ 40 élèves au total. LEP précise le groupe d’âge et l’organisation des classes pour chaque candidature."
+      "q": "Quel budget annuel a été évoqué ?",
+      "a": "Environ 55 000 à 60 000 CHF. LEP obtient le détail correspondant à la classe et à l’internat, puis complète le budget annuel."
     },
     {
-      "q": "Comment préparer une candidature internationale ?",
-      "a": "Transmettez à LEP l’âge, le cursus, les bulletins récents, le niveau d’anglais et la date d’entrée. Nous discutons du niveau et du parcours avec l’école, puis coordonnons l’entretien et les documents."
+      "q": "Combien d’élèves y avait-il lors de la visite ?",
+      "a": "Environ 40. Les espaces ont été décrits comme environ quatre fois plus grands que sur le site précédent, avec des rénovations récentes."
     },
     {
-      "q": "Quel budget annuel prévoir ?",
-      "a": "LEP obtient le détail des frais pour l’année visée et réunit scolarité, internat, repas, assurance, soutien linguistique et vacances dans un budget adapté au projet de l’élève."
+      "q": "Que vérifier pour un enfant très sportif ?",
+      "a": "Les installations sur place semblaient limitées. Les activités extérieures évoquées n’étaient pas encore organisées ; lieux, encadrement et transports sont à préciser."
     },
     {
-      "q": "Comment contacter LEP au sujet de l’école ?",
-      "a": "Contactez James Liu sur WeChat, xiuyinxiansheng, ou par courriel à contact@luxedupartners.lu, en précisant la classe, le cursus, l’anglais, la date d’entrée et le budget."
+      "q": "LEP facture-t-il des frais supplémentaires pour la candidature ou la réservation d’une visite ?",
+      "a": "LEP ne facture pas de frais supplémentaires aux élèves ou à leurs parents pour le choix de l’école, les échanges, l’aide à la candidature et la réservation d’une visite. Contact : contact@luxedupartners.lu ou WhatsApp."
     }
   ],
   "school_article": true,
   "school_key": "altdorf",
-  "consultation": "swiss"
+  "translated": true
 }
 ---
 
-<figure class="article-photo"><img src="/assets/fieldwork/isa-altdorf.jpg" width="1200" height="675" alt="James Liu avec le directeur de l’école." loading="eager" decoding="async"><figcaption>James Liu avec le directeur de l’école.</figcaption></figure>
 
-<section id="wikon-visit-20261019"><h2>Un château et des espaces modernes</h2>
-<p>Je suis James Liu, fondateur de Lux Education Partners. Le 19 octobre 2026, j’ai visité Lucerne International Academy à Wikon. L’association du château ancien et des bâtiments modernes m’a immédiatement marqué : une tour en pierre et une architecture historique côtoient des bâtiments contemporains et des espaces communs intérieurs.</p>
-<p>Lors de la visite, j’ai appris que la superficie du campus représentait environ quatre fois celle du site précédent et que l’équipe enseignante avait été maintenue. Pour une famille qui envisage l’internat, l’espace disponible compte, tout comme la continuité de l’accompagnement au quotidien.</p>
-<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="Le campus du château de Lucerne International Academy Wikon, photographié par James Liu le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>Le campus du château de Lucerne International Academy Wikon, photographié par James Liu le 19 octobre 2026.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="Les bâtiments modernes du campus, photographiés le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>Les bâtiments modernes du campus, photographiés le 19 octobre 2026.</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="Un espace commun du campus, photographié le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>Un espace commun du campus, photographié le 19 octobre 2026.</figcaption></figure></div></section>
 
-<h2>Environ 40 élèves au moment de ma visite</h2>
-<p>L’école venait de déménager et comptait alors environ 40 élèves au total. Les enseignants que j’ai rencontrés étaient très accueillants ; j’ai trouvé l’environnement propre et confortable.</p>
-<p>Je présenterais ce cadre à des familles qui recherchent une école plus calme et attachent de l’importance aux échanges avec l’équipe. Pour chaque enfant, il faut également regarder le groupe d’âge, les effectifs des classes, le soutien en anglais et les matières disponibles. LEP aborde ces points directement avec l’école.</p>
-<h2>Quel parcours pour votre enfant ?</h2>
-<p>La brochure 2025 de l’école présente les A Levels, habituellement organisés en étapes AS et A2. La réflexion peut partir du projet universitaire, puis revenir aux matières, aux acquis scolaires, à l’anglais et à la date d’entrée envisagée.</p>
-<p>Un élève qui envisage l’ingénierie a besoin d’un parcours cohérent en mathématiques et en sciences. Un futur étudiant en commerce doit aussi tenir compte des prérequis en mathématiques des universités visées. Pour un élève déjà au lycée, la continuité des apprentissages et le calendrier du transfert sont essentiels.</p>
-<p>LEP organise les informations sur le cursus suivi, les bulletins et le niveau linguistique. Nous discutons ensuite avec l’école du niveau d’entrée, des matières proposées pour la rentrée choisie et de l’accompagnement nécessaire, puis coordonnons l’entretien et les documents de candidature.</p>
-<h2>L’internat lorsque les parents vivent à l’étranger</h2>
-<p>Les espaces communs que j’ai vus étaient propres et confortables. Avant de décider, les familles doivent connaître l’organisation de la chambre, les interlocuteurs au quotidien et le fonctionnement des week-ends et des vacances.</p>
-<p>LEP échange avec la famille sur l’autonomie, l’alimentation, l’anglais oral et les habitudes de vie, puis transmet ces besoins à l’école. Relier le projet scolaire à la vie quotidienne fait partie de notre accompagnement.</p>
-<h2>Pourquoi comparer son rapport entre coût et accompagnement ?</h2>
-<p>Après cette visite, je considère que Lucerne International Academy mérite une place dans la comparaison des internats suisses pour les familles attentives à leur budget. L’espace du campus, la continuité de l’équipe, l’accueil des enseignants et le confort général nourrissent ce jugement.</p>
-<p>LEP obtient le détail des frais de l’année scolaire visée et regroupe scolarité, internat, repas, assurance, soutien linguistique et vacances dans un budget complet. La famille peut ainsi apprécier le coût de l’ensemble du cycle et l’accompagnement scolaire et quotidien prévu.</p>
-<h2>Préparer une candidature avec LEP</h2>
-<p>Les familles qui recherchent un cursus international en anglais, une communauté scolaire de taille réduite et un internat dans un budget défini peuvent inclure Lucerne International Academy dans leur sélection. Les acquis, l’autonomie et le projet d’études de l’enfant déterminent ensuite le parcours précis.</p>
-<p>Nous avons visité l’école et échangeons directement avec elle. Communiquez-nous l’âge, la classe, le cursus, les bulletins récents, le niveau d’anglais, la date d’entrée et le budget annuel. LEP s’en sert pour préciser la continuité du parcours, coordonner l’évaluation scolaire et avancer dans la candidature.</p>
+<figure class="article-photo"><a href="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" width="1920" height="1280" alt="James Liu avec le directeur de Lucerne International Academy Wikon, octobre 2026." loading="eager" decoding="async"></a><figcaption>James Liu avec le directeur de Lucerne International Academy Wikon, octobre 2026.</figcaption></figure>
 
-<section class="lep-intent-contact"><h2>Préparez la prochaine étape avec LEP</h2><p>Précisez l’âge, la classe, le cursus, le niveau d’anglais, la date d’entrée et le budget annuel. WeChat : <strong>xiuyinxiansheng</strong> ; courriel : <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>.</p><p><a href="/fr/insights/why-lep/">Découvrir les candidatures scolaires et l’accompagnement local de LEP →</a></p></section>
 
-<section class="source-note"><p>Sources : brochure 2025 de Lucerne International Academy ; visite, témoignage et photographies de James Liu du 19 octobre 2026. Mise à jour le 24 octobre 2026.</p></section>
+Le 19 octobre 2026, j’ai visité Lucerne International Academy Wikon et longuement échangé avec son directeur. Pour une famille qui cherche un petit internat suisse avec un budget plus accessible, cette école mérite, selon moi, d’être étudiée. **J’ai surtout apprécié son rapport entre coût et prestations, les espaces récemment rénovés et la disponibilité des enseignants. Les équipements sportifs constituent le principal point à examiner.**
 
-<nav class="related" aria-label="Explorer les internats suisses et la candidature"><h2>Explorer les internats suisses et la candidature</h2><ul><li><a href="/fr/insights/china-secondary-to-swiss-ib-a-level/">Du secondaire chinois à la Suisse : organiser la continuité du cursus</a></li><li><a href="/fr/insights/saint-charles-switzerland-boarding-school/">Comparer un autre cadre d’internat suisse : Saint-Charles</a></li></ul></nav>
+## À quoi ressemble le campus de Marienburg ?
+
+L’école se trouve sur la hauteur de Marienburg, à Wikon. Les archives d’histoire architecturale décrivent un ancien couvent bénédictin ayant également accueilli des activités éducatives. Des constructions modernes ont été ajoutées aux bâtiments historiques du château. Sur place, l’ensemble associe donc patrimoine et espaces plus contemporains.
+
+Au cours de la visite, nous avons appris que la surface du campus représentait environ quatre fois celle du site précédent, et que les espaces concernés avaient été rénovés dans les deux dernières années. Les équipements paraissaient récents, les espaces pédagogiques généreux, et l’ensemble propre et confortable.
+
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="Les bâtiments historiques de Wikon, photographiés le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>Les bâtiments historiques de Wikon, photographiés le 19 octobre 2026.</figcaption></figure>
+
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="La partie moderne du campus, le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>La partie moderne du campus, le 19 octobre 2026.</figcaption></figure>
+
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="Un espace commun du campus, le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>Un espace commun du campus, le 19 octobre 2026.</figcaption></figure>
+
+
+## Une quarantaine d’élèves : quelle ambiance au quotidien ?
+
+Lors de notre passage, l’école comptait environ 40 élèves. L’équipe pédagogique existante poursuivait son travail sur le nouveau site. Les enseignants rencontrés étaient accueillants ; des professeurs de français et d’allemand étaient présents. Le repas que nous avons pris sur place m’a également laissé une bonne impression.
+
+Cette taille peut convenir à un enfant qui apprécie un environnement calme et des échanges réguliers avec les adultes. Il faut ensuite descendre au niveau de sa classe : effectif, profils des camarades, cours de langue et soutien pédagogique. LEP présente à l’école le parcours et les langues de l’enfant pour préparer une transition adaptée.
+
+## Le sport : un point à discuter avant de choisir
+
+J’en parlerais franchement aux parents. L’implantation de l’ancien couvent, sur une hauteur, n’a pas laissé beaucoup de place à de grands équipements sportifs. **Par rapport à d’autres campus visités pendant ce voyage, les possibilités sportives sur place m’ont paru plus limitées.** Pour le tennis ou le golf, il pourrait être nécessaire d’utiliser des installations en contrebas ; les sorties correspondantes n’étaient pas encore organisées lors de notre visite.
+
+L’école a évoqué le développement futur d’activités. Pour une inscription aujourd’hui, je chercherais à préciser l’activité hebdomadaire réellement accessible, le lieu, l’encadrement et le transport. C’est particulièrement important pour un enfant qui s’entraîne déjà régulièrement.
+
+Le budget, les espaces d’apprentissage et la qualité des échanges sont des raisons de considérer Wikon. Une famille qui accorde la priorité à une offre sportive très riche sur le campus devra donner à ce critère une place centrale dans sa comparaison.
+
+## Comment comprendre le budget annuel de 55 000 à 60 000 CHF ?
+
+La fourchette annuelle évoquée pendant la visite était d’environ **55 000 à 60 000 CHF**. Elle permet de situer l’école dans un premier choix d’internats suisses.
+
+J’évalue le rapport coût-prestations à travers les locaux, les enseignants, le programme et la vie quotidienne. Les rénovations, les équipements et le repas ont contribué à mon impression favorable ; l’organisation du sport entre aussi dans cette appréciation.
+
+LEP demandera un décompte correspondant à la classe, à l’internat, aux repas, au soutien linguistique et à la date d’entrée, puis intégrera assurance, vacances et dépenses personnelles au budget annuel. La famille pourra ainsi comparer une proposition précise.
+
+## Une orientation principalement IB : comment préparer le transfert ?
+
+**Les informations recueillies lors de cette visite présentent l’IB comme l’orientation principale de l’école.** Je partirais des matières déjà étudiées et des projets universitaires de l’enfant, avant de discuter du niveau d’entrée, des choix de matières et de la préparation linguistique et écrite.
+
+Pour le Diploma Programme, les mathématiques, les sciences, les sciences humaines et les langues doivent être reliées aux études supérieures envisagées. Un élève actuellement scolarisé au Royaume-Uni ou dans un autre pays doit également faire le point sur les contenus acquis et les examens déjà préparés : l’âge seul ne suffit pas pour fixer la classe de transfert.
+
+LEP transmet les bulletins, les matières suivies, le niveau d’anglais et le calendrier souhaité, puis échange avec l’école sur les classes, les matières effectivement ouvertes et le soutien en français ou en allemand. Nous pouvons aussi organiser une visite pour associer ce travail au ressenti de l’enfant.
+
+## Si les parents restent à l’étranger, que faut-il prévoir ?
+
+Au-delà de la chambre et des repas, il faut organiser les week-ends et les vacances, identifier les interlocuteurs en cas de difficulté et préciser les échanges avec la famille. Les activités sportives extérieures et leurs transports méritent ici une attention particulière.
+
+Après avoir vu le campus et rencontré le directeur, LEP peut relier ces questions à l’âge, au programme, aux langues, à l’autonomie, aux habitudes sportives et au budget de l’enfant. Le choix scolaire devient alors un projet d’apprentissage et de vie quotidienne.
+
+<section class="lep-intent-contact"><h2>Candidater à Wikon et organiser une visite avec LEP</h2><p>Nous relions l’entrée dans le parcours IB, les langues, les besoins sportifs et le budget évoqué lors de la visite à la situation concrète de l’enfant. Nous pouvons également coordonner une visite et les sujets à aborder avec l’établissement.</p><p><strong>LEP accompagne le choix de l’école, les échanges avec l’établissement, la candidature et la réservation d’une visite, sans facturer de frais de service supplémentaires aux élèves ou à leurs parents pour cet accompagnement.</strong></p><p>Indiquez l’âge, le programme actuel, les bulletins récents, le niveau d’anglais, les activités sportives et la date d’entrée souhaitée. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
+
+<section class="source-note"><p>Sources et visite: Archives architecturales de Marienburg de l’Université de Berne ; échanges avec le directeur, photographies et visite de James Liu le 19 octobre, complétés par son récit du 25 octobre. Vérification et mise à jour : 25 octobre 2026. Observations sur place : visites de James Liu en Suisse en octobre 2026.</p></section>
+
+<nav class="related"><h2>Pour comparer les internats</h2><ul><li><a href="/fr/insights/china-secondary-to-swiss-ib-a-level/">Passer du secondaire chinois à l’IB ou aux A Levels en Suisse</a></li><li><a href="/fr/insights/saint-charles-switzerland-boarding-school/">Saint-Charles : campus, programme et internat</a></li></ul></nav>
