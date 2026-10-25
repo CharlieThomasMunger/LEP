@@ -1,21 +1,24 @@
 ---
 {
-  "layout": "page",
+  "layout": "destination",
   "lang": "fr",
   "permalink": "/fr/destinations/switzerland/",
   "translation_key": "destination-switzerland",
-  "last_modified_at": "2026-10-12",
+  "last_modified_at": "2026-10-26",
   "title": "Internats en Suisse : cursus, frais et études supérieures",
-  "heading": "Internats suisses et parcours d’études",
-  "description": "Découvrez Saint-Charles, Chantemerle et TASIS à travers les visites de LEP : internat, frais, IB, A Levels et AP. Consultez aussi nos guides sur les études hôtelières en Suisse.",
-  "standfirst": "Étudier en Suisse dès le plus jeune âge, dans le primaire et le secondaire international, avec des possibilités d’internat, puis en management hôtelier au niveau bachelor et postgrade."
+  "heading": "Internats et études hôtelières en Suisse",
+  "description": "Comparez les écoles suisses et les études hôtelières grâce aux visites, rencontres et photographies de James Liu : cursus, internat, frais, revenus de stage et accompagnement LEP.",
+  "standfirst": "Étudier en Suisse dès le plus jeune âge, dans le primaire et le secondaire international, avec des possibilités d’internat, puis en management hôtelier au niveau bachelor et postgrade.",
+  "destination_key": "switzerland",
+  "image": "/assets/fieldwork/glion-james-students-teacher-20261021.jpg"
 }
 ---
 
 
+
 ## Écoles internationales privées et internats : du plus jeune âge au secondaire
 
-LEP accompagne les familles pour une scolarité en Suisse dès le plus jeune âge, puis dans le primaire et le secondaire. Nous entretenons une coopération approfondie avec des écoles internationales privées telles que Chantemerle, ISA Altdorf et St. Charles, et pouvons communiquer directement avec leurs directeurs. Le choix de l’établissement et du parcours tient compte du développement de l’enfant, de ses compétences linguistiques, du budget familial et de ses perspectives d’études supérieures.
+LEP accompagne les familles pour une scolarité en Suisse dès le plus jeune âge, puis dans le primaire et le secondaire. Nous entretenons une coopération approfondie avec des écoles internationales privées telles que Chantemerle, Lucerne International Academy Wikon et St. Charles, et pouvons communiquer directement avec leurs directeurs. Le choix de l’établissement et du parcours tient compte du développement de l’enfant, de ses compétences linguistiques, du budget familial et de ses perspectives d’études supérieures.
 
 Pour les jeunes enfants, la scolarité et l’organisation familiale se préparent ensemble. L’âge minimum d’admission ne correspond pas nécessairement à l’âge minimum pour l’internat. Nous vérifions auprès de chaque établissement les possibilités d’externat et d’internat ainsi que les besoins d’accompagnement parental, avant de coordonner la candidature et l’entrée à l’école.
 

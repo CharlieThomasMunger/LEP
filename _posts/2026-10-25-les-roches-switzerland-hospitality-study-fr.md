@@ -11,9 +11,9 @@
   "title": "Les Roches en Suisse : pourquoi cette visite m’a particulièrement convaincu",
   "description": "Trois heures et demie avec James Liu à Les Roches : accueil, étudiants, restauration, sport et carrières. LEP relie ces observations au cursus 2027, au budget et à la candidature.",
   "answer": "Les Roches a laissé à James Liu la meilleure impression globale parmi les écoles hôtelières de ce voyage suisse. LEP s’appuie sur la visite et les échanges carrière pour comparer le niveau d’entrée, les stages et le budget complet de la famille.",
-  "date": "2026-10-26",
+  "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-25T23:38:08+00:00",
   "faq": [
     {
       "q": "Où se trouve le campus suisse de Les Roches ?",
@@ -44,6 +44,7 @@
   "translated": true
 }
 ---
+
 
 
 

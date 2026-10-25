@@ -11,9 +11,9 @@
   "title": "Glion campus visits: practical learning, hospitality and luxury business, and the full budget",
   "description": "James Liu visits Glion and Bulle, meets students and academic and internship teams, and compares dining, accommodation, 2027 undergraduate routes and fees with LEP.",
   "answer": "James Liu visited both Swiss Glion campuses in October 2026. The scenery, dining and accommodation, practical student feedback and well-prepared academic and careers meetings inform LEP’s assessment of programme fit, campus arrangements and the full budget.",
-  "date": "2026-10-26",
+  "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-25T23:38:08+00:00",
   "faq": [
     {
       "q": "Which Swiss campuses does Glion have, and can students choose?",
@@ -44,6 +44,7 @@
   "translated": true
 }
 ---
+
 
 
 

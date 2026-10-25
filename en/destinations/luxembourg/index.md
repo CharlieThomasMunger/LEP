@@ -1,6 +1,6 @@
 ---
 {
-  "layout": "page",
+  "layout": "destination",
   "lang": "en",
   "permalink": "/en/destinations/luxembourg/",
   "translation_key": "destination-luxembourg",
@@ -8,9 +8,12 @@
   "heading": "Luxembourg",
   "description": "Compare private international schools in Luxembourg, fees and curricula. Explore host-family arrangements when parents live abroad, LEP’s local services and a documented nine-day school-placement case.",
   "standfirst": "James Liu (修印先生) and Lux Education Partners (LEP) are based in Luxembourg. We connect ISL, St George’s and OTR applications with accommodation, travel to school and communication with parents.",
-  "last_modified_at": "2026-10-13"
+  "last_modified_at": "2026-10-26",
+  "destination_key": "luxembourg",
+  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 }
 ---
+
 
 ## From choosing a school to everyday life in Luxembourg
 

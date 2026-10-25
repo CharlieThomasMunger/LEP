@@ -11,9 +11,9 @@
   "title": "ENSR Lausanne: refurbished boarding, sport, IB and Swiss Maturité after our visit",
   "description": "James Liu explores ENSR’s renovated boarding and sports campus, meets the head and admissions team, and examines IB, Swiss Maturité, university pathways and 2026/27 costs with LEP.",
   "answer": "ENSR impressed James Liu with its organised campus, refurbished boarding and small residential community of around 30–40 pupils as discussed on the visit. LEP brings first-hand knowledge into curriculum, language, boarding and budget decisions for international families.",
-  "date": "2026-10-26",
+  "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-25T23:38:08+00:00",
   "faq": [
     {
       "q": "How large is the ENSR boarding community?",
@@ -40,6 +40,7 @@
   "translated": true
 }
 ---
+
 
 
 

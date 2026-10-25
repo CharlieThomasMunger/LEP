@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% assign lang = page.lang %}
+{% assign destination = site.data.destination_visuals[page.destination_key] %}
+{% assign prefix = '/' | append: lang %}
+{% assign notes = site.posts | where: "lang", lang %}
+<div class="destination-page">
+<header class="destination-hero"><div class="wrap destination-hero-grid"><div><p class="kicker">LEP · {% if lang == 'zh' %}实地访校与选校申请{% elsif lang == 'fr' %}Visites et accompagnement scolaire{% else %}School visits and applications{% endif %}</p><h1>{{ page.heading | default: page.title }}</h1><p class="lede">{{ page.standfirst }}</p><a class="btn" href="#destination-schools">{% if lang == 'zh' %}看看学校与访校记录{% elsif lang == 'fr' %}Découvrir les écoles et nos visites{% else %}Explore schools and visit guides{% endif %} →</a></div><figure><img src="{{ destination.hero | relative_url }}" alt="{{ destination.caption[lang] | escape }}" width="1200" height="800" style="object-position:{{ destination.hero_position }}" fetchpriority="high"><figcaption>{{ destination.caption[lang] }}</figcaption></figure></div></header>
+<section class="wrap destination-school-section" id="destination-schools"><div class="destination-section-intro"><h2>{{ destination.section[lang] }}</h2><p>{{ destination.intro[lang] }}</p></div><div class="destination-school-grid">
+{% for school in destination.cards %}
+{% assign article_path = prefix | append: '/insights/' | append: school.slug | append: '/' %}
+{% assign school_post = notes | where: 'permalink', article_path | first %}
+{% if school_post %}<article class="destination-school-card"><a class="destination-school-image" href="{{ article_path | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ school.image | relative_url }}" alt="{{ school.school | escape }} · {% if lang == 'zh' %}LEP实地访校{% elsif lang == 'fr' %}Photo de visite LEP{% else %}LEP school visit{% endif %}" width="600" height="400" style="object-position:{{ school.position }}" loading="lazy" decoding="async"></a><div class="destination-school-copy"><p class="destination-school-name">{{ school.school }}</p><h3><a href="{{ article_path | relative_url }}">{{ school_post.title }}</a></h3><p>{{ school_post.description }}</p><a class="destination-school-link" href="{{ article_path | relative_url }}">{% if lang == 'zh' %}看访校与申请介绍{% elsif lang == 'fr' %}Lire le guide{% else %}Read the guide{% endif %} →</a></div></article>{% endif %}
+{% endfor %}
+</div>{% if destination.additional %}<p class="destination-additional"><a href="{{ prefix | append: '/insights/' | append: destination.additional.slug | append: '/' | relative_url }}">{{ destination.additional.label[lang] }} →</a></p>{% endif %}</section>
+<div class="wrap narrow destination-details"><div class="prose">{{ content | markdownify }}</div></div>
+</div>

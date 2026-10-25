@@ -11,9 +11,9 @@
   "title": "Les Roches Switzerland: why this campus visit left my strongest impression",
   "description": "James Liu’s 3.5-hour Les Roches visit: thoughtful hosting, student conversations, excellent food, sports and careers support. LEP connects the experience with 2027 studies, fees and application planning.",
   "answer": "Les Roches left James Liu with the strongest overall impression among the hospitality schools visited on this Swiss trip. LEP uses these first-hand observations of campus life and careers support to compare programme entry, internships and the full family budget.",
-  "date": "2026-10-26",
+  "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-25T23:38:08+00:00",
   "faq": [
     {
       "q": "Where is the Swiss Les Roches campus?",
@@ -44,6 +44,7 @@
   "translated": true
 }
 ---
+
 
 
 

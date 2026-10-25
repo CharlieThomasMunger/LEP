@@ -11,9 +11,9 @@
   "title": "ENSR Lausanne : internat rénové, sport, IB et Maturité après notre visite",
   "description": "James Liu découvre l’internat rénové et les sports de l’ENSR, rencontre la direction et les admissions, puis examine IB, Maturité, universités et budget 2026/27 avec LEP.",
   "answer": "L’ENSR a marqué James Liu par son campus organisé, son internat rénové et une communauté d’environ 30 à 40 internes évoquée lors de la visite. LEP relie ces observations aux décisions de cursus, langues, pension et budget des familles internationales.",
-  "date": "2026-10-26",
+  "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-25T23:38:08+00:00",
   "faq": [
     {
       "q": "Quelle est la taille de l’internat ENSR ?",
@@ -40,6 +40,7 @@
   "translated": true
 }
 ---
+
 
 
 

@@ -1,21 +1,24 @@
 ---
 {
-  "layout": "page",
+  "layout": "destination",
   "lang": "zh",
   "permalink": "/zh/destinations/switzerland/",
   "translation_key": "destination-switzerland",
-  "last_modified_at": "2026-10-12",
+  "last_modified_at": "2026-10-26",
   "title": "瑞士国际寄宿学校怎么选？课程、费用与升学路径",
-  "heading": "瑞士国际寄宿学校与升学规划",
-  "description": "比较 Saint-Charles、Chantemerle 与 TASIS 的课程、寄宿生活及费用，结合 LEP 实地访校了解 IB、A Level、AP 和瑞士升学路径；另设瑞士酒店管理本科与硕士专题。",
-  "standfirst": "从低龄、小学、初高中私立国际学校与寄宿教育，到酒店管理本科及研究生，结合家庭预算与长期发展规划瑞士留学。"
+  "heading": "瑞士寄宿学校与酒店管理留学",
+  "description": "修印先生实地走访瑞士学校，与校长、老师和学生交流。比较Wikon、ENSR、Lémania及IMI、CRCS、Les Roches、Glion的课程、寄宿、费用与实习收支，LEP协助申请及访校。",
+  "standfirst": "从低龄、小学、初高中私立国际学校与寄宿教育，到酒店管理本科及研究生，结合家庭预算与长期发展规划瑞士留学。",
+  "destination_key": "switzerland",
+  "image": "/assets/fieldwork/glion-james-students-teacher-20261021.jpg"
 }
 ---
 
 
+
 ## 私立国际学校与寄宿教育：从低龄、小学到初高中
 
-LEP 的瑞士留学服务覆盖低龄、小学、初中和高中阶段。我们与 Chantemerle、ISA Altdorf、St. Charles 等私立国际学校建立深度合作，可以直接与校长沟通，结合孩子的成长阶段、语言基础、家庭预算和未来升学方向，选择合适的学校及入学路径。
+LEP 的瑞士留学服务覆盖低龄、小学、初中和高中阶段。我们与 Chantemerle、Lucerne International Academy Wikon、St. Charles 等私立国际学校建立深度合作，可以直接与校长沟通，结合孩子的成长阶段、语言基础、家庭预算和未来升学方向，选择合适的学校及入学路径。
 
 低龄留学需要把孩子入学与家庭安排一起考虑。学校接受的最低入学年龄，与开始寄宿的年龄并不相同；我们会按具体学校确认走读、寄宿和家长陪伴需求，再安排申请与入学衔接。
 
@@ -29,7 +32,7 @@ LEP 的瑞士留学服务覆盖低龄、小学、初中和高中阶段。我们�
 
 ## 酒店管理高等教育：本科与研究生
 
-我们与 IMI 及 SEG 集团旗下学校有正式合作。围绕本科和研究生阶段，我们帮助学生比较课程与文凭、学术要求、实习安排、家庭总投入，以及毕业后的就业或继续升学方向。
+我们持续走访酒店管理与商科院校，与校长、学术及实习团队直接交流。围绕本科和研究生阶段，我们帮助学生比较课程与文凭、学术要求、实习安排、家庭总投入，以及毕业后的就业或继续升学方向。
 
 申请支持包括材料准备、直接对接校方，以及适用奖学金的沟通与申请。长期规划也会结合我们在欧洲本土的企业关系与社会网络，考虑实习、就业推荐和后续发展的机会。
 
@@ -97,7 +100,7 @@ WeChat: **xiuyinxiansheng**  ·  [contact@luxedupartners.lu](mailto:contact@luxe
 - [瑞士IB寄宿高中怎么选？阿尔特多夫与圣查尔斯的预算和学习环境](/zh/insights/altdorf-saint-charles-ib-boarding-comparison/)
 - [国内初中、高一或高二转学瑞士，IB和A Level怎样衔接？](/zh/insights/china-secondary-to-swiss-ib-a-level/)
 - [普通高中毕业，没有IB或A Level，怎样申请瑞士酒店管理本科？](/zh/insights/china-high-school-swiss-hospitality-bachelor/)
-- [阿尔特多夫国际学校适合中国学生吗？IB、寄宿生活与申请安排](/zh/insights/international-school-altdorf-boarding-ib/)
+- [琉森国际学院Wikon：IB、校园生活与申请安排](/zh/insights/international-school-altdorf-boarding-ib/)
 - [本科不是酒店管理，能申请瑞士IMI硕士吗？转专业、实习与费用](/zh/insights/imi-masters-career-change/)
 - [瑞士IMI毕业能做什么工作？实习、目标市场与LEP本地推荐](/zh/insights/imi-internships-careers/)
 - [瑞士酒店管理毕业拿什么文凭？IMI、SHMS、HIM、CRCS与CAA怎样看](/zh/insights/swiss-hospitality-degrees-recognition/)

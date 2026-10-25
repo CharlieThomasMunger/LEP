@@ -1,6 +1,6 @@
 ---
 {
-  "layout": "page",
+  "layout": "destination",
   "lang": "zh",
   "permalink": "/zh/destinations/luxembourg/",
   "translation_key": "destination-luxembourg",
@@ -8,9 +8,12 @@
   "heading": "卢森堡",
   "description": "比较卢森堡 ISL、圣乔治和 OTR 的课程、费用与学校特点，了解孩子单独留学的寄宿家庭安排，以及 LEP 九天入校案例与本地服务。",
   "standfirst": "修印先生（James Liu）与 Lux Education Partners（LEP）扎根卢森堡。我们把 ISL、圣乔治和 OTR 的学校申请，与住宿、通勤和家长沟通一起推进。",
-  "last_modified_at": "2026-10-13"
+  "last_modified_at": "2026-10-26",
+  "destination_key": "luxembourg",
+  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 }
 ---
+
 
 ## 从选学校，到孩子在卢森堡的日常生活
 

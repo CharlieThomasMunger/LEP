@@ -11,9 +11,9 @@
   "title": "Visiter Glion et Bulle : pratique, hôtellerie, luxe et budget complet",
   "description": "James Liu visite les deux campus suisses de Glion et rencontre étudiants, équipes académiques et de stages. LEP compare la vie sur place, les parcours 2027 et leurs frais.",
   "answer": "James Liu a visité Glion et Bulle en octobre 2026. Paysage, restauration, logements, témoignage étudiant et échanges préparés avec les équipes nourrissent l’analyse de LEP sur le cursus, les campus et le budget global.",
-  "date": "2026-10-26",
+  "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-25T23:38:08+00:00",
   "faq": [
     {
       "q": "Quels sont les campus suisses et peut-on choisir ?",
@@ -44,6 +44,7 @@
   "translated": true
 }
 ---
+
 
 
 

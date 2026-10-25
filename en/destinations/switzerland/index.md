@@ -1,21 +1,24 @@
 ---
 {
-  "layout": "page",
+  "layout": "destination",
   "lang": "en",
   "permalink": "/en/destinations/switzerland/",
   "translation_key": "destination-switzerland",
-  "last_modified_at": "2026-10-12",
+  "last_modified_at": "2026-10-26",
   "title": "Swiss boarding schools: curricula, fees and university pathways",
-  "heading": "Swiss boarding schools and study pathways",
-  "description": "Explore Saint-Charles, Chantemerle and TASIS through LEP school visits. Compare boarding, fees, IB, A Levels and AP, with separate guides to Swiss hospitality degrees.",
-  "standfirst": "Swiss education from early years, primary and secondary international schools and boarding options to undergraduate and postgraduate hospitality studies."
+  "heading": "Swiss boarding schools and hospitality studies",
+  "description": "Compare Swiss boarding schools and hospitality studies through James Liu’s visits, conversations and photographs, with course, living-cost and internship budgets and LEP application support.",
+  "standfirst": "Swiss education from early years, primary and secondary international schools and boarding options to undergraduate and postgraduate hospitality studies.",
+  "destination_key": "switzerland",
+  "image": "/assets/fieldwork/glion-james-students-teacher-20261021.jpg"
 }
 ---
 
 
+
 ## Private international schools and boarding: early years through secondary school
 
-LEP supports families considering Swiss education from early years and primary school through lower and upper secondary school. We work closely with private international schools including Chantemerle, ISA Altdorf and St. Charles, with direct communication with their heads. We consider the child’s stage of development, language skills, family budget and future university plans when choosing a school and entry route.
+LEP supports families considering Swiss education from early years and primary school through lower and upper secondary school. We work closely with private international schools including Chantemerle, Lucerne International Academy Wikon and St. Charles, with direct communication with their heads. We consider the child’s stage of development, language skills, family budget and future university plans when choosing a school and entry route.
 
 For younger children, schooling and family arrangements need to be planned together. The minimum age for admission is not necessarily the minimum boarding age. We confirm day-school and boarding options, as well as parental accompaniment needs, with each school before coordinating the application and transition.
 
@@ -29,7 +32,7 @@ For secondary pupils, we also consider curricula, university pathways and how to
 
 ## Hospitality higher education: undergraduate and postgraduate studies
 
-LEP has formal partnerships with IMI and schools within the SEG group. We help students compare undergraduate and postgraduate courses and qualifications, academic expectations, internships, the total family investment and options for employment or further study after graduation.
+LEP visits hospitality and business schools and speaks directly with their leadership, academic and internship teams. We help students compare undergraduate and postgraduate courses and qualifications, academic expectations, internships, the total family investment and options for employment or further study after graduation.
 
 Application support includes preparing documents, liaising directly with schools and discussing and applying for relevant scholarships. Longer-term planning also draws on our European business relationships and professional network to consider internships, employment referrals and future opportunities.
 

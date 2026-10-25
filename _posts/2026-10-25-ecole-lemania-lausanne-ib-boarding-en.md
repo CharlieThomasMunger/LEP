@@ -11,9 +11,9 @@
   "title": "École Lémania Lausanne: city boarding, English IB and the annual budget",
   "description": "James Liu visits Lémania in central Lausanne. Explore the English IB route, urban boarding and shared activity facilities, with 2026/27 tuition and board explained by LEP.",
   "answer": "Lémania combines a central Lausanne location, a French-speaking environment and English IB. James Liu found a courteous welcome and compact teaching and boarding spaces, with activities drawing on city resources. LEP assesses the child’s studies, languages, independence and budget together.",
-  "date": "2026-10-26",
+  "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-25T23:38:08+00:00",
   "faq": [
     {
       "q": "What is the campus environment like?",
@@ -39,6 +39,7 @@
   "translated": true
 }
 ---
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 {
-  "layout": "page",
+  "layout": "destination",
   "lang": "fr",
   "permalink": "/fr/destinations/luxembourg/",
   "translation_key": "destination-luxembourg",
@@ -8,9 +8,12 @@
   "heading": "Luxembourg",
   "description": "Comparez les écoles, les cursus et les frais. Découvrez les familles d’accueil pour les élèves dont les parents vivent à l’étranger et un cas d’entrée à l’école en neuf jours accompagné par LEP.",
   "standfirst": "James Liu (修印先生) et Lux Education Partners (LEP) sont établis au Luxembourg. Nous relions candidatures à ISL, St George’s et OTR, hébergement, trajets et échanges avec les parents.",
-  "last_modified_at": "2026-10-13"
+  "last_modified_at": "2026-10-26",
+  "destination_key": "luxembourg",
+  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 }
 ---
+
 
 ## Du choix scolaire à la vie quotidienne au Luxembourg
 

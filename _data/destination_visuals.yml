@@ -1,0 +1,163 @@
+{
+  "luxembourg": {
+    "hero": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+    "hero_position": "50% 40%",
+    "caption": {
+      "zh": "修印先生与圣乔治国际学校校长合影 · LEP实地访校",
+      "en": "James Liu with the Head of St George’s International School · LEP school visit",
+      "fr": "James Liu avec le directeur de St George’s International School · Visite LEP"
+    },
+    "section": {
+      "zh": "走进卢森堡的学校",
+      "en": "Inside Luxembourg’s schools",
+      "fr": "Au cœur des écoles luxembourgeoises"
+    },
+    "intro": {
+      "zh": "亲自看校园，与校方谈课程，再把申请、住宿与日常支持接起来。",
+      "en": "See the campuses, discuss the courses, then connect the application with accommodation and daily support.",
+      "fr": "Découvrir les lieux, discuter des cursus, puis relier candidature, hébergement et accompagnement quotidien."
+    },
+    "cards": [
+      {
+        "school": "St George’s International School",
+        "slug": "st-georges-luxembourg-school",
+        "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+        "position": "50% 40%"
+      },
+      {
+        "school": "International School of Luxembourg",
+        "slug": "isl-luxembourg-school",
+        "image": "/assets/fieldwork/isl.jpg",
+        "position": "50% 32%"
+      },
+      {
+        "school": "OTR International School",
+        "slug": "otr-luxembourg-school",
+        "image": "/assets/fieldwork/otr-james-visit.jpg",
+        "position": "50% 30%"
+      }
+    ]
+  },
+  "switzerland": {
+    "hero": "/assets/fieldwork/glion-james-students-teacher-20261021.jpg",
+    "hero_position": "50% 40%",
+    "caption": {
+      "zh": "修印先生与Glion接待老师及学生合影 · 2026年10月瑞士访校",
+      "en": "James Liu with the staff and student hosts at Glion · October 2026",
+      "fr": "James Liu avec les enseignants et étudiants à Glion · Octobre 2026"
+    },
+    "section": {
+      "zh": "从校长交流，到真实校园生活",
+      "en": "School conversations and campus life",
+      "fr": "Des rencontres aux réalités du campus"
+    },
+    "intro": {
+      "zh": "从寄宿中学到酒店与商业管理：结合实拍、亲身观察、课程和完整预算，找到适合孩子的方向。",
+      "en": "From boarding schools to hospitality and business degrees: compare real photographs, first-hand observations, courses and complete budgets.",
+      "fr": "De l’internat au management hôtelier et commercial : comparez photos de terrain, observations, cursus et budgets complets."
+    },
+    "cards": [
+      {
+        "school": "Lucerne International Academy Wikon",
+        "slug": "international-school-altdorf-boarding-ib",
+        "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
+        "position": "50% 40%"
+      },
+      {
+        "school": "ENSR · Lausanne",
+        "slug": "ensr-lausanne-ib-swiss-maturity-boarding",
+        "image": "/assets/fieldwork/ensr-james-campus-visit-20261023.jpg",
+        "position": "50% 40%"
+      },
+      {
+        "school": "IMI · Luzern",
+        "slug": "imi-campus-visit",
+        "image": "/assets/fieldwork/imi-james-principal-20261019.jpg",
+        "position": "50% 27%"
+      },
+      {
+        "school": "César Ritz Colleges",
+        "slug": "cesar-ritz-business-ai-leadership",
+        "image": "/assets/fieldwork/crcs-james-head-of-school-202610.jpg",
+        "position": "50% 42%"
+      },
+      {
+        "school": "Les Roches · Crans-Montana",
+        "slug": "les-roches-switzerland-hospitality-study",
+        "image": "/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg",
+        "position": "50% 40%"
+      },
+      {
+        "school": "Glion Institute of Higher Education",
+        "slug": "glion-switzerland-hospitality-luxury-business",
+        "image": "/assets/fieldwork/glion-james-students-teacher-20261021.jpg",
+        "position": "50% 40%"
+      },
+      {
+        "school": "Saint-Charles International School",
+        "slug": "saint-charles-switzerland-boarding-school",
+        "image": "/assets/swiss/sc03.jpg",
+        "position": "50% 40%"
+      },
+      {
+        "school": "Chantemerle",
+        "slug": "chantemerle-switzerland-a-level-boarding-school",
+        "image": "/assets/fieldwork/chantemerle.jpg",
+        "position": "50% 40%"
+      },
+      {
+        "school": "TASIS Switzerland",
+        "slug": "tasis-switzerland-ib-ap-boarding-school",
+        "image": "/assets/swiss/tasis-visit-campus.jpg",
+        "position": "50% 40%"
+      }
+    ],
+    "additional": {
+      "slug": "ecole-lemania-lausanne-ib-boarding",
+      "label": {
+        "zh": "也看看洛桑市中心的 Lémania：英语IB、法语课程与寄宿预算",
+        "en": "Also explore Lémania in central Lausanne: English IB, French courses and boarding costs",
+        "fr": "Découvrez aussi Lémania au centre de Lausanne : IB en anglais, cursus francophones et internat"
+      }
+    }
+  },
+  "netherlands": {
+    "hero": "/assets/eerde/eerde-historic-campus-lep.jpg",
+    "hero_position": "50% 50%",
+    "caption": {
+      "zh": "Eerde古堡校园与周边环境 · LEP实拍",
+      "en": "Eerde’s historic campus and grounds · LEP photograph",
+      "fr": "Le campus historique d’Eerde et son environnement · Photo LEP"
+    },
+    "section": {
+      "zh": "实地看过Eerde，再谈孩子怎样学习与生活",
+      "en": "Explore Eerde’s setting, learning and boarding",
+      "fr": "Découvrir Eerde : cadre de vie, apprentissage et internat"
+    },
+    "intro": {
+      "zh": "古堡校园、现代课堂、寄宿生活与申请安排，放在同一条选校路径里比较。",
+      "en": "Connect the historic campus, modern classrooms, boarding life and application arrangements in one school-choice journey.",
+      "fr": "Relier le campus historique, les classes modernes, l’internat et la candidature pour construire le choix scolaire."
+    },
+    "cards": [
+      {
+        "school": "Eerde · Campus",
+        "slug": "eerde-boarding-school-visit",
+        "image": "/assets/eerde/eerde-james-school-sign-lep.jpg",
+        "position": "50% 38%"
+      },
+      {
+        "school": "Eerde · Boarding",
+        "slug": "netherlands-boarding-without-parents",
+        "image": "/assets/eerde/eerde-fold-dining-room.jpg",
+        "position": "50% 50%"
+      },
+      {
+        "school": "Eerde · Learning",
+        "slug": "netherlands-ib-university-pathways",
+        "image": "/assets/eerde/eerde-fold-science-classroom.jpg",
+        "position": "50% 50%"
+      }
+    ]
+  }
+}
