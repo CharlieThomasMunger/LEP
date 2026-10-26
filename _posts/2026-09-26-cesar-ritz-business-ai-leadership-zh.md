@@ -12,8 +12,8 @@
   "description": "修印先生实访CRCS，与风趣亲切的女校长深入交流，查看教学及寄宿环境。LEP结合校园氛围、本科商科方向、2027费用和实习，协助家庭申请。",
   "image": "/assets/fieldwork/crcs-james-head-of-school-202610.jpg",
   "school_key": "crcs",
-  "last_modified_at": "2026-10-26",
-  "answer": "瑞士恺撒里兹大学（César Ritz Colleges Switzerland，CRCS）适合希望把商业管理、服务运营与实习结合起来的学生。2026年10月，修印先生赴校并与校长会面。LEP将访校接触与课程、预算和学生的职业目标一起评估，推进合适的申请。",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "answer": "瑞士恺撒里兹大学（César Ritz Colleges Switzerland，CRCS）适合希望把商业管理、服务运营与实习结合起来的学生。，修印先生赴校并与校长会面。LEP将访校接触与课程、预算和学生的职业目标一起评估，推进合适的申请。",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -48,7 +48,7 @@
 
 
 
-<figure class="article-photo portrait"><a href="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" width="853" height="1280" alt="修印先生（James Liu）与 César Ritz Colleges 校长合影，2026年10月瑞士访校。" loading="eager" decoding="async"></a><figcaption>修印先生（James Liu）与 César Ritz Colleges 校长合影，2026年10月瑞士访校。</figcaption></figure>
+<figure class="article-photo portrait"><a href="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" width="853" height="1280" alt="修印先生（James Liu）与 César Ritz Colleges 校长合影瑞士访校。" loading="eager" decoding="async"></a><figcaption>修印先生（James Liu）与 César Ritz Colleges 校长合影瑞士访校。</figcaption></figure>
 
 ## 我为什么会把 CRCS 放进商科选校讨论？
 

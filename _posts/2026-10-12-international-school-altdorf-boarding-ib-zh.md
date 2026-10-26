@@ -9,7 +9,7 @@
   "answer": "琉森国际学院Wikon以IB为主要课程方向，是修印先生此次瑞士访校重点比较的性价比选择：访校时约40名学生，教学空间宽裕、设备新，年度费用沟通口径约CHF55,000–60,000。LEP结合实访与孩子的课程、语言和运动需求，沟通寄宿、费用并协助申请及访校安排，不额外收取服务费。",
   "date": "2026-10-12",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "permalink": "/zh/insights/international-school-altdorf-boarding-ib/",
   "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
   "custom_lep_support": true,
@@ -44,14 +44,14 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" width="1920" height="1280" alt="修印先生与琉森国际学院Wikon校长合影，2026年10月。" loading="eager" decoding="async"></a><figcaption>修印先生与琉森国际学院Wikon校长合影，2026年10月。</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" width="1920" height="1280" alt="修印先生与琉森国际学院Wikon校长合影。" loading="eager" decoding="async"></a><figcaption>修印先生与琉森国际学院Wikon校长合影。</figcaption></figure>
 
 <p>2026年10月19日，我来到琉森国际学院（Lucerne International Academy Wikon），与校长深入交流，也看了教学和生活空间。如果家长想在瑞士找一所预算相对可承受、环境舒服的小规模寄宿学校，我认为它值得重点了解。<strong>这所学校最打动我的，是性价比、新翻修的空间和亲切的老师；体育设施则是需要讲清楚的取舍。</strong></p>
 
 <h2>修道院、城堡与现代建筑，住和学的空间怎样？</h2>
 <p>校园位于Wikon的Marienburg山上。建筑历史资料显示，这里曾作为本笃会修道院和教育机构使用，城堡建筑之外又陆续扩建了现代楼宇。实际走进去，能看到历史建筑与现代空间融合在一起，教学区域的感觉也比单看“老城堡”三个字更现代。</p>
 <p>访校时了解到，整个校园空间约为此前校址的四倍，相关空间在近两年翻新。设备很新，教学空间也很宽裕，整体干净、舒服。这是我此次实访比较认可的部分。</p>
-<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="琉森国际学院Wikon城堡校园，修印先生2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>琉森国际学院Wikon城堡校园，修印先生2026年10月19日实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="校园的现代建筑部分，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>校园的现代建筑部分，2026年10月19日实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="校园公共空间，2026年10月19日实拍。" loading="lazy" decoding="async"></a><figcaption>校园公共空间，2026年10月19日实拍。</figcaption></figure></div>
+<div class="visit-gallery"><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="琉森国际学院Wikon城堡校园，修印先生实拍。" loading="lazy" decoding="async"></a><figcaption>琉森国际学院Wikon城堡校园，修印先生实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="校园的现代建筑部分实拍。" loading="lazy" decoding="async"></a><figcaption>校园的现代建筑部分实拍。</figcaption></figure><figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="校园公共空间实拍。" loading="lazy" decoding="async"></a><figcaption>校园公共空间实拍。</figcaption></figure></div>
 
 <h2>约40名学生，老师和语言支持给我什么印象？</h2>
 <p>访问当时，全校大约40名学生，原有教学团队延续到这里。我接触到的老师亲切，也有专门的法语、德语老师。当天的餐食体验不错，学习和生活环境整体让我感觉舒服。</p>

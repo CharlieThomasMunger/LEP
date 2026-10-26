@@ -10,10 +10,10 @@
   "has_topic_navigation": true,
   "title": "Visiting IMI: academic focus, everyday life and value in Swiss hospitality education",
   "description": "James Liu revisits IMI, interviews the principal and explores accommodation and dining. Compare academic routes, internships and budget with LEP, without an additional application or visit-booking service fee.",
-  "answer": "My October 2026 visit highlighted IMI’s academic focus and comparatively accessible budget among the Swiss hospitality schools I visited. LEP connects the principal discussion, student-led accommodation tour and lunch experience with programme fit, internship planning and application support.",
+  "answer": "My visit highlighted IMI’s academic focus and comparatively accessible budget among the Swiss hospitality schools I visited. LEP connects the principal discussion, student-led accommodation tour and lunch experience with programme fit, internship planning and application support.",
   "date": "2026-09-25",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "What stood out during the IMI visit?",
@@ -48,7 +48,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/imi-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/imi-james-principal-20261019.jpg" width="1280" height="1920" alt="James Liu with the principal of IMI, October 2026." loading="eager" decoding="async"></a><figcaption>James Liu with the principal of IMI, October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/imi-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/imi-james-principal-20261019.jpg" width="1280" height="1920" alt="James Liu with the principal of IMI." loading="eager" decoding="async"></a><figcaption>James Liu with the principal of IMI.</figcaption></figure>
 
 
 In October 2026, I returned to IMI International Management Institute Switzerland. We interviewed the principal for about half an hour, toured accommodation with a student and had lunch on campus. **The emphasis on academic learning stood out in our conversation.** The principal then left to teach: a concrete reminder that the leadership of this small school remains involved in the classroom.

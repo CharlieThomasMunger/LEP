@@ -1,0 +1,12 @@
+<section class="education-routes wrap" aria-labelledby="education-routes-title">
+  <p class="kicker">LEP · {% if lang == 'zh' %}从学生的需要出发{% elsif lang == 'fr' %}Votre projet d’études{% else %}Your study plans{% endif %}</p>
+  <h2 id="education-routes-title">{{ site.data.education.ui.choose[lang] }}</h2>
+  <div class="education-route-grid">
+  {% for route in site.data.education.categories %}
+    <a class="education-route" href="/{{ lang }}/education/{{ route.slug }}/">
+      <img src="{{ route.image | relative_url }}" width="600" height="400" alt="{{ route.name[lang] | escape }} · LEP" loading="lazy" decoding="async">
+      <div><p class="education-stage">{{ route.stage[lang] }}</p><h3>{{ route.name[lang] }}</h3><p>{{ route.intro[lang] }}</p><span class="education-link">{{ site.data.education.ui.explore[lang] }} →</span></div>
+    </a>
+  {% endfor %}
+  </div>
+</section>

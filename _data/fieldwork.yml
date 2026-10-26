@@ -10,9 +10,9 @@ luxembourg:
     en: Luxembourg — school visits
     fr: Luxembourg — visites d'écoles
   intro:
-    zh: 2025–2026 年间持续走访卢森堡各类学校，覆盖公立国际学校、私立国际学校与双语学校。以下为代表性记录，并非全部。
-    en: Ongoing school visits across Luxembourg during 2025–2026, covering public international, private international and bilingual schools. A representative selection, not a full list.
-    fr: Visites d'écoles menées au Luxembourg entre 2025 et 2026, couvrant les établissements internationaux publics, privés et bilingues. Sélection représentative.
+    zh: 持续走访卢森堡各类学校，覆盖公立国际学校、私立国际学校与双语学校。以下为代表性记录，并非全部。
+    en: Ongoing school visits across Luxembourg, covering public international, private international and bilingual schools. A representative selection, not a full list.
+    fr: Visites d'écoles menées au Luxembourg, couvrant les établissements internationaux publics, privés et bilingues. Sélection représentative.
   items:
     - name: École internationale Gaston Thorn
       image: /assets/fieldwork/gaston-thorn.jpg
@@ -126,7 +126,7 @@ switzerland:
 
     - name: TASIS The American School in Switzerland
       image: /assets/fieldwork/tasis.jpg
-      kind: {zh: 实地走访 · 2026 年 6 月, en: On-site visit — June 2026, fr: Visite sur site — juin 2026}
+      kind: {zh: 实地走访, en: On-site visit, fr: Visite sur site}
       note:
         zh: 走访校园并与校方交流。
         en: Campus visit and discussion with the school.
@@ -155,14 +155,14 @@ switzerland:
 
     - name: Les Roches Switzerland
       image: /assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg
-      note: {zh: 修印先生在Les Roches访校，2026年10月, en: James Liu visiting Les Roches in October 2026, fr: James Liu en visite à Les Roches en octobre 2026}
+      note: {zh: 修印先生在Les Roches访校, en: James Liu visiting Les Roches, fr: James Liu en visite à Les Roches}
       alt: {zh: 修印先生在Les Roches访校, en: James Liu visiting Les Roches, fr: James Liu en visite à Les Roches}
       article: les-roches-switzerland-hospitality-study
       article_label: {zh: 阅读访校与申请指南, en: Read the visit and application guide, fr: Lire le guide de visite et de candidature}
 
     - name: École Nouvelle de la Suisse Romande (ENSR)
       image: /assets/fieldwork/ensr-james-campus-visit-20261023.jpg
-      note: {zh: 修印先生在ENSR访校，2026年10月, en: James Liu visiting ENSR in October 2026, fr: James Liu en visite à ENSR en octobre 2026}
+      note: {zh: 修印先生在ENSR访校, en: James Liu visiting ENSR, fr: James Liu en visite à ENSR}
       alt: {zh: 修印先生在ENSR访校, en: James Liu visiting ENSR, fr: James Liu en visite à ENSR}
       article: ensr-lausanne-ib-swiss-maturity-boarding
       article_label: {zh: 阅读访校与申请指南, en: Read the visit and application guide, fr: Lire le guide de visite et de candidature}

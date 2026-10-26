@@ -9,7 +9,7 @@
   "answer": "L’IB est l’orientation principale présentée à Wikon. Lors de la visite de James Liu, l’école comptait environ 40 élèves, avec des locaux rénovés et un budget annuel évoqué de 55 000 à 60 000 CHF. LEP étudie le programme, l’internat, le sport et les coûts, puis accompagne candidature et réservation de visite sans frais de service supplémentaires.",
   "date": "2026-10-12",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "permalink": "/fr/insights/international-school-altdorf-boarding-ib/",
   "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
   "custom_lep_support": true,
@@ -44,7 +44,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" width="1920" height="1280" alt="James Liu avec le directeur de Lucerne International Academy Wikon, octobre 2026." loading="eager" decoding="async"></a><figcaption>James Liu avec le directeur de Lucerne International Academy Wikon, octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" width="1920" height="1280" alt="James Liu avec le directeur de Lucerne International Academy Wikon." loading="eager" decoding="async"></a><figcaption>James Liu avec le directeur de Lucerne International Academy Wikon.</figcaption></figure>
 
 
 Le 19 octobre 2026, j’ai visité Lucerne International Academy Wikon et longuement échangé avec son directeur. Pour une famille qui cherche un petit internat suisse avec un budget plus accessible, cette école mérite, selon moi, d’être étudiée. **J’ai surtout apprécié son rapport entre coût et prestations, les espaces récemment rénovés et la disponibilité des enseignants. Les équipements sportifs constituent le principal point à examiner.**
@@ -55,11 +55,11 @@ L’école se trouve sur la hauteur de Marienburg, à Wikon. Les archives d’hi
 
 Au cours de la visite, nous avons appris que la surface du campus représentait environ quatre fois celle du site précédent, et que les espaces concernés avaient été rénovés dans les deux dernières années. Les équipements paraissaient récents, les espaces pédagogiques généreux, et l’ensemble propre et confortable.
 
-<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="Les bâtiments historiques de Wikon, photographiés le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>Les bâtiments historiques de Wikon, photographiés le 19 octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="Les bâtiments historiques de Wikon, photographiés le 19." loading="lazy" decoding="async"></a><figcaption>Les bâtiments historiques de Wikon, photographiés le 19.</figcaption></figure>
 
-<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="La partie moderne du campus, le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>La partie moderne du campus, le 19 octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="La partie moderne du campus, le 19." loading="lazy" decoding="async"></a><figcaption>La partie moderne du campus, le 19.</figcaption></figure>
 
-<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="Un espace commun du campus, le 19 octobre 2026." loading="lazy" decoding="async"></a><figcaption>Un espace commun du campus, le 19 octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="Un espace commun du campus, le 19." loading="lazy" decoding="async"></a><figcaption>Un espace commun du campus, le 19.</figcaption></figure>
 
 
 ## Une quarantaine d’élèves : quelle ambiance au quotidien ?

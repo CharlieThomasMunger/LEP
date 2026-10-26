@@ -44,7 +44,7 @@
     "eyebrow": "LUX EDUCATION PARTNERS · 卢森堡",
     "heading": "扎根卢森堡，走进欧洲学校。<br><em>与校长面对面，<br>为孩子选对方向。</em>",
     "intro": "修印先生亲自走访卢森堡、瑞士与荷兰的学校，与校长、学校所有者及教学团队深入交流，实看课堂、宿舍、餐饮与活动空间。LEP把这些一手了解，落实到您孩子的选校、申请和入学安排中。",
-    "primary": "看看我们的实地访校",
+    "primary": "先选教育方向",
     "consult": "联系修印先生",
     "byline": "修印先生 · James Liu｜LEP创始人，长期在卢森堡生活和经营企业。",
     "hero_caption": "修印先生与圣乔治国际学校校长 · LEP 实拍",
@@ -91,19 +91,19 @@
         "alt": "修印先生在 TASIS 实地访校时与校方合影"
       },
       {
-        "country": "瑞士 · 2026年10月",
+        "country": "瑞士",
         "title": "César Ritz 瑞士恺撒里兹大学",
         "text": "修印先生与校长合影；课程、申请与2027费用解读",
         "alt": "修印先生与César Ritz Colleges校长合影"
       },
       {
-        "country": "瑞士 · 2026年10月",
+        "country": "瑞士",
         "title": "IMI：与校长交流",
         "text": "学术学习、校园生活与性价比选校",
         "alt": "修印先生与IMI校长合影"
       },
       {
-        "country": "瑞士 · 2026年10月",
+        "country": "瑞士",
         "title": "琉森国际学院Wikon：校长交流与校园实访",
         "text": "翻新空间、寄宿生活与性价比选校",
         "alt": "修印先生与琉森国际学院Wikon校长合影"
@@ -274,11 +274,11 @@
     "ubi": {
       "label": "卢森堡 · WILTZ · 高等教育",
       "title": "走进城堡里的UBI商学院",
-      "text": "2026年4月，修印先生到访UBI卢森堡校区，与校区负责人及招生团队当面交流。从课堂与校园，到比利时和卢森堡的学习安排，我们把实地了解带回每一次选校讨论。",
-      "caption": "修印先生与UBI卢森堡校区负责人 · 2026年4月访校实拍",
+      "text": "修印先生到访UBI卢森堡校区，与校区负责人及招生团队当面交流。从课堂与校园，到比利时和卢森堡的学习安排，我们把实地了解带回每一次选校讨论。",
+      "caption": "修印先生与UBI卢森堡校区负责人 · 访校实拍",
       "link": "与LEP讨论商科学习选择"
     },
-    "recent_kicker": "2026年10月 · 瑞士七校实访",
+    "recent_kicker": "瑞士学校 · 实地走访",
     "recent_title": "从校长访谈，到孩子每天的生活。",
     "recent_intro": "七所学校，逐一看课程、宿舍、餐厅与学习环境，也问清预算和实习。点击阅读修印先生的现场判断与申请建议。",
     "recent_link": "阅读全文",
@@ -289,7 +289,7 @@
     "eyebrow": "LUX EDUCATION PARTNERS · LUXEMBOURG",
     "heading": "Based in Luxembourg.<br>Inside Europe’s schools.<br><em>Closer to the right choice.</em>",
     "intro": "James Liu visits schools in Luxembourg, Switzerland and the Netherlands, meeting heads, owners and teaching teams and exploring classrooms, boarding, dining and activities. LEP turns that first-hand understanding into school choices, applications and arrival plans for your child.",
-    "primary": "Explore our school visits",
+    "primary": "Explore education pathways",
     "consult": "Speak with James Liu",
     "byline": "James Liu · Founder of LEP, living and running businesses in Luxembourg.",
     "hero_caption": "James Liu with the Head of St George’s International School · LEP photograph",
@@ -336,19 +336,19 @@
         "alt": "James Liu meeting the school during a visit to TASIS"
       },
       {
-        "country": "Switzerland · October 2026",
+        "country": "Switzerland",
         "title": "César Ritz Colleges",
         "text": "James Liu with the Head of School; programmes, applications and 2027 fees",
         "alt": "James Liu with the Head of César Ritz Colleges"
       },
       {
-        "country": "Switzerland · October 2026",
+        "country": "Switzerland",
         "title": "IMI: a conversation with the principal",
         "text": "Academic learning, campus life and study choices",
         "alt": "James Liu with the principal of IMI"
       },
       {
-        "country": "Switzerland · October 2026",
+        "country": "Switzerland",
         "title": "Lucerne International Academy Wikon",
         "text": "James Liu with the school principal during the campus visit",
         "alt": "James Liu with the principal of Lucerne International Academy Wikon"
@@ -516,11 +516,11 @@
     "ubi": {
       "label": "LUXEMBOURG · WILTZ · HIGHER EDUCATION",
       "title": "Inside UBI Business School at Wiltz Castle",
-      "text": "In April 2026, James Liu visited UBI’s Luxembourg campus and met its campus leadership and recruitment team. Firsthand conversations about the campus and study arrangements in Belgium and Luxembourg inform our discussions with prospective students.",
-      "caption": "James Liu with the UBI Luxembourg campus representative · April 2026 visit",
+      "text": "James Liu visited UBI’s Luxembourg campus and met its campus leadership and recruitment team. Firsthand conversations about the campus and study arrangements in Belgium and Luxembourg inform our discussions with prospective students.",
+      "caption": "James Liu with the UBI Luxembourg campus representative · Campus visit",
       "link": "Discuss business study options with LEP"
     },
-    "recent_kicker": "October 2026 · Seven Swiss school visits",
+    "recent_kicker": "Swiss schools · On-campus visits",
     "recent_title": "School leadership and everyday student life.",
     "recent_intro": "Seven schools explored through courses, rooms, dining, learning environments, costs and internships. Read James Liu’s observations and application advice.",
     "recent_link": "Read the visit guide",
@@ -531,7 +531,7 @@
     "eyebrow": "LUX EDUCATION PARTNERS · LUXEMBOURG",
     "heading": "Ancrés au Luxembourg.<br>Au cœur des écoles européennes.<br><em>Pour mieux choisir.</em>",
     "intro": "James Liu visite les écoles au Luxembourg, en Suisse et aux Pays-Bas, rencontre leurs directions, propriétaires et équipes pédagogiques, et découvre classes, internats, repas et activités. LEP met cette connaissance du terrain au service du choix scolaire, de la candidature et de l’arrivée de votre enfant.",
-    "primary": "Découvrir nos visites",
+    "primary": "Choisir un parcours",
     "consult": "Échanger avec James Liu",
     "byline": "James Liu · Fondateur de LEP, établi au Luxembourg où il dirige ses activités.",
     "hero_caption": "James Liu avec la directrice de St George’s International School · Photo LEP",
@@ -578,19 +578,19 @@
         "alt": "James Liu avec une représentante de l’école lors de sa visite à TASIS"
       },
       {
-        "country": "Suisse · octobre 2026",
+        "country": "Suisse",
         "title": "César Ritz Colleges",
         "text": "James Liu avec la directrice ; cursus, candidatures et frais 2027",
         "alt": "James Liu avec la directrice de César Ritz Colleges"
       },
       {
-        "country": "Suisse · octobre 2026",
+        "country": "Suisse",
         "title": "IMI : rencontre avec le directeur",
         "text": "Études, vie sur le campus et choix de formation",
         "alt": "James Liu avec le directeur d’IMI"
       },
       {
-        "country": "Suisse · octobre 2026",
+        "country": "Suisse",
         "title": "Lucerne International Academy Wikon",
         "text": "James Liu avec le directeur lors de la visite du campus",
         "alt": "James Liu avec le directeur de Lucerne International Academy Wikon"
@@ -758,11 +758,11 @@
     "ubi": {
       "label": "LUXEMBOURG · WILTZ · ENSEIGNEMENT SUPÉRIEUR",
       "title": "À la découverte d’UBI au château de Wiltz",
-      "text": "En avril 2026, James Liu a visité le campus luxembourgeois d’UBI et rencontré la responsable du campus ainsi que l’équipe de recrutement. Ces échanges sur le cadre d’études et les parcours en Belgique et au Luxembourg nourrissent notre accompagnement des étudiants.",
-      "caption": "James Liu avec la responsable du campus UBI Luxembourg · Visite d’avril 2026",
+      "text": "James Liu a visité le campus luxembourgeois d’UBI et rencontré la responsable du campus ainsi que l’équipe de recrutement. Ces échanges sur le cadre d’études et les parcours en Belgique et au Luxembourg nourrissent notre accompagnement des étudiants.",
+      "caption": "James Liu avec la responsable du campus UBI Luxembourg · Visite du campus",
       "link": "Échanger avec LEP sur un parcours en management"
     },
-    "recent_kicker": "Octobre 2026 · Sept écoles suisses visitées",
+    "recent_kicker": "Écoles suisses · Visites sur place",
     "recent_title": "Des échanges de fond, une vie scolaire concrète.",
     "recent_intro": "Sept écoles explorées à travers leurs cursus, chambres, repas, lieux d’apprentissage, frais et stages. Retrouvez les observations de James Liu et ses conseils de candidature.",
     "recent_link": "Lire le récit de visite",

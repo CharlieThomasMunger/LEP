@@ -13,7 +13,7 @@
   "answer": "Ma visite d’octobre 2026 a souligné la place des études académiques et le budget relativement accessible d’IMI parmi les écoles hôtelières visitées. LEP relie l’entretien avec le directeur et les observations sur place au choix du cursus, aux stages et à la candidature.",
   "date": "2026-09-25",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "Quel point a marqué cette visite d’IMI ?",
@@ -48,7 +48,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/imi-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/imi-james-principal-20261019.jpg" width="1280" height="1920" alt="James Liu avec le directeur d’IMI, octobre 2026." loading="eager" decoding="async"></a><figcaption>James Liu avec le directeur d’IMI, octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/imi-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/imi-james-principal-20261019.jpg" width="1280" height="1920" alt="James Liu avec le directeur d’IMI." loading="eager" decoding="async"></a><figcaption>James Liu avec le directeur d’IMI.</figcaption></figure>
 
 
 En octobre 2026, je suis retourné à IMI International Management Institute Switzerland. Nous avons échangé avec le directeur pendant environ une demi-heure, visité les chambres avec un étudiant et déjeuné sur place. **L’importance accordée aux études académiques ressortait nettement de l’entretien.** Le directeur nous a ensuite quittés pour donner un cours : dans cette petite école, la direction reste présente dans l’enseignement.

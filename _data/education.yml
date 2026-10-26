@@ -1,0 +1,361 @@
+{
+  "categories": [
+    {
+      "key": "schools",
+      "slug": "international-schools",
+      "image": "/assets/eerde/eerde-historic-campus-lep.jpg",
+      "nav": {
+        "zh": "国际中小学",
+        "en": "Schools & boarding",
+        "fr": "Écoles & internats"
+      },
+      "name": {
+        "zh": "国际中小学与寄宿教育",
+        "en": "International schools & boarding",
+        "fr": "Écoles internationales et internats"
+      },
+      "stage": {
+        "zh": "小学 · 初中 · 高中",
+        "en": "Primary · Secondary · Sixth form",
+        "fr": "Primaire · Secondaire · Lycée"
+      },
+      "intro": {
+        "zh": "为孩子选择课程、学校与日常照顾。比较卢森堡的国际学校与寄宿家庭、瑞士和荷兰的寄宿教育，再由 LEP 衔接校方沟通、申请与访校。",
+        "en": "Choose a curriculum, a school and everyday support. Compare Luxembourg schools and host families with boarding in Switzerland and the Netherlands, then plan applications and visits with LEP.",
+        "fr": "Choisir un cursus, une école et un cadre de vie. Comparez les écoles et familles d’accueil au Luxembourg avec les internats suisses et néerlandais, puis préparez candidature et visite avec LEP."
+      },
+      "cta": {
+        "zh": "帮我比较中小学与寄宿方案",
+        "en": "Compare school and boarding options",
+        "fr": "Comparer écoles et hébergements"
+      },
+      "questions": [
+        {
+          "slug": "study-without-parents",
+          "title": {
+            "zh": "父母留在国内，学校与住宿怎样一起安排？",
+            "en": "Parents staying at home: how do school and accommodation fit together?",
+            "fr": "Parents à l’étranger : comment organiser école et hébergement ?"
+          }
+        },
+        {
+          "slug": "europe-secondary-school-total-budget",
+          "title": {
+            "zh": "一年50万元预算，三个国家怎样比较？",
+            "en": "How should families compare a complete annual budget?",
+            "fr": "Comment comparer un budget annuel complet ?"
+          }
+        },
+        {
+          "slug": "china-secondary-to-swiss-ib-a-level",
+          "title": {
+            "zh": "从国内转学，IB与A Level怎样衔接？",
+            "en": "How do transfers into IB or A Levels work?",
+            "fr": "Comment préparer un transfert vers l’IB ou les A Levels ?"
+          }
+        },
+        {
+          "slug": "international-school-visit-questions",
+          "title": {
+            "zh": "选校前，LEP怎样安排一次有用的家庭访校？",
+            "en": "How does LEP turn a family visit into a useful school decision?",
+            "fr": "Comment LEP prépare-t-il une visite utile au choix scolaire ?"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "zh": "先确定课程起点",
+            "en": "Start with the learning stage",
+            "fr": "Définir le point de départ"
+          },
+          "text": {
+            "zh": "把年龄、现读年级、成绩与授课语言放在一起看，再比较 IB、A Level 或其他课程。",
+            "en": "Assess age, current studies, grades and teaching language before comparing the IB, A Levels or other curricula.",
+            "fr": "Étudier âge, scolarité, résultats et langue d’enseignement avant de comparer IB, A Levels et autres cursus."
+          }
+        },
+        {
+          "title": {
+            "zh": "再确定孩子怎样生活",
+            "en": "Plan everyday life",
+            "fr": "Organiser la vie quotidienne"
+          },
+          "text": {
+            "zh": "父母是否同行、校内寄宿还是寄宿家庭、周末假期和通勤，都与学校选择一起落实。",
+            "en": "Consider whether parents will move, school boarding or a host family, weekends, holidays and the journey to school.",
+            "fr": "Présence des parents, internat ou famille d’accueil, week-ends, vacances et trajet scolaire se décident ensemble."
+          }
+        },
+        {
+          "title": {
+            "zh": "由 LEP 推进具体学校",
+            "en": "Turn the shortlist into applications",
+            "fr": "Passer de la sélection à la candidature"
+          },
+          "text": {
+            "zh": "结合实地访校与校方交流，LEP沟通适合的入学阶段、准备申请，并协助安排家庭访校。",
+            "en": "LEP draws on campus visits and school conversations to discuss entry points, prepare applications and coordinate family visits.",
+            "fr": "À partir de nos visites et échanges, LEP précise le niveau d’entrée, prépare les candidatures et coordonne les visites familiales."
+          }
+        }
+      ]
+    },
+    {
+      "key": "higher",
+      "slug": "hospitality-business",
+      "image": "/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg",
+      "nav": {
+        "zh": "酒店管理与商科",
+        "en": "Hospitality & business",
+        "fr": "Hôtellerie & commerce"
+      },
+      "name": {
+        "zh": "酒店管理与商科高等教育",
+        "en": "Hospitality & business higher education",
+        "fr": "Études supérieures en hôtellerie et commerce"
+      },
+      "stage": {
+        "zh": "本科 · 硕士 · 职业转向",
+        "en": "Bachelor’s · Master’s · Career change",
+        "fr": "Bachelor · Master · Reconversion"
+      },
+      "intro": {
+        "zh": "从学生的学历、兴趣与职业方向出发，比较酒店管理、商业管理、奢侈品和厨艺课程。LEP结合实地访校，帮助核对课程、实习、完整预算并推进申请。",
+        "en": "Compare hospitality, business, luxury and culinary programmes against your qualifications and career interests. LEP combines campus experience with course, internship and budget checks to support your application.",
+        "fr": "Comparez hôtellerie, commerce, luxe et arts culinaires selon votre parcours et vos objectifs. LEP associe visites, analyse des cursus, stages et budget complet pour accompagner votre candidature."
+      },
+      "cta": {
+        "zh": "帮我比较课程、实习与总投入",
+        "en": "Compare programmes, internships and total costs",
+        "fr": "Comparer cursus, stages et coût total"
+      },
+      "questions": [
+        {
+          "slug": "china-high-school-swiss-hospitality-bachelor",
+          "title": {
+            "zh": "普通高中毕业，可以申请瑞士酒店管理本科吗？",
+            "en": "Can a national high-school diploma lead to a Swiss hospitality bachelor’s?",
+            "fr": "Un diplôme national de fin de lycée permet-il de candidater en Suisse ?"
+          }
+        },
+        {
+          "slug": "imi-masters-career-change",
+          "title": {
+            "zh": "本科不是酒店管理，怎样考虑转专业硕士？",
+            "en": "Can a graduate from another subject move into hospitality?",
+            "fr": "Peut-on se réorienter vers l’hôtellerie après un autre bachelor ?"
+          }
+        },
+        {
+          "slug": "imi-fees-scholarships",
+          "title": {
+            "zh": "学费、食宿、奖学金与实习收入怎样算？",
+            "en": "How do fees, living costs, scholarships and internship earnings fit together?",
+            "fr": "Comment calculer frais, logement, bourses et revenus de stage ?"
+          }
+        },
+        {
+          "slug": "imi-internships-careers",
+          "title": {
+            "zh": "实习怎样安排，毕业后可以考虑哪些市场？",
+            "en": "How are internships organised, and which job markets can graduates consider?",
+            "fr": "Comment préparer les stages et les marchés d’emploi après le diplôme ?"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "zh": "先选学位与职业方向",
+            "en": "Choose a degree and career direction",
+            "fr": "Choisir diplôme et orientation"
+          },
+          "text": {
+            "zh": "本科、硕士和转专业路线分别比较。重点看具体课程、学位颁发、学术要求，以及希望进入的行业。",
+            "en": "Compare bachelor’s, master’s and conversion routes separately, including the curriculum, awarding body, entry requirements and target sector.",
+            "fr": "Distinguer bachelor, master et reconversion ; examiner programme, organisme diplômant, admission et secteur visé."
+          }
+        },
+        {
+          "title": {
+            "zh": "把实习放进学习与预算",
+            "en": "Connect internships to study and budget",
+            "fr": "Relier stages, études et budget"
+          },
+          "text": {
+            "zh": "分清校内实训和企业实习。学费、食宿与额外支出逐项列出，实习工资扣除当期成本后，再计算家庭净投入。",
+            "en": "Distinguish campus practical training from employment placements. Itemise fees and living costs, then deduct internship earnings after placement expenses.",
+            "fr": "Distinguer pratique sur campus et stage en entreprise. Détailler frais et vie quotidienne, puis déduire le solde des revenus de stage après dépenses."
+          }
+        },
+        {
+          "title": {
+            "zh": "向校方落实申请与访校",
+            "en": "Arrange applications and campus visits",
+            "fr": "Concrétiser candidature et visite"
+          },
+          "text": {
+            "zh": "LEP把学生的问题带给学术和职业团队，协调申请材料、适用奖学金与访校预约；本页瑞士院校申请与访校安排不额外收取服务费。",
+            "en": "LEP takes your questions to academic and career teams and coordinates applications, applicable scholarships and visits. No additional LEP service fee applies to applications and visit arrangements for the Swiss schools on this page.",
+            "fr": "LEP échange avec les équipes académiques et carrières, coordonne candidatures, bourses applicables et visites. Aucun frais de service LEP supplémentaire pour les candidatures et visites des écoles suisses présentées ici."
+          }
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "countries": {
+      "zh": {
+        "luxembourg": "卢森堡",
+        "switzerland": "瑞士",
+        "netherlands": "荷兰"
+      },
+      "en": {
+        "luxembourg": "Luxembourg",
+        "switzerland": "Switzerland",
+        "netherlands": "Netherlands"
+      },
+      "fr": {
+        "luxembourg": "Luxembourg",
+        "switzerland": "Suisse",
+        "netherlands": "Pays-Bas"
+      }
+    },
+    "choose": {
+      "zh": "先选教育阶段，再选国家与学校",
+      "en": "Choose the education stage, then the country and school",
+      "fr": "Choisissez le niveau, puis le pays et l’école"
+    },
+    "explore": {
+      "zh": "了解学校与申请",
+      "en": "Explore schools and applications",
+      "fr": "Découvrir écoles et candidatures"
+    },
+    "all_countries": {
+      "zh": "全部国家",
+      "en": "All countries",
+      "fr": "Tous les pays"
+    },
+    "all_categories": {
+      "zh": "全部类别",
+      "en": "All categories",
+      "fr": "Toutes les catégories"
+    },
+    "category": {
+      "zh": "教育类别",
+      "en": "Education category",
+      "fr": "Type d’études"
+    },
+    "country": {
+      "zh": "国家",
+      "en": "Country",
+      "fr": "Pays"
+    },
+    "search": {
+      "zh": "搜索学校或问题",
+      "en": "Search schools or questions",
+      "fr": "Rechercher une école ou une question"
+    },
+    "placeholder": {
+      "zh": "例如：ENSR、寄宿、实习、预算",
+      "en": "e.g. ENSR, boarding, internships, fees",
+      "fr": "Ex. ENSR, internat, stages, budget"
+    },
+    "reset": {
+      "zh": "清除筛选",
+      "en": "Clear filters",
+      "fr": "Réinitialiser"
+    },
+    "empty": {
+      "zh": "没有找到匹配内容。换个词，或清除筛选看看全部学校。",
+      "en": "No matching items. Try another word or clear the filters.",
+      "fr": "Aucun résultat. Essayez un autre mot ou réinitialisez les filtres."
+    },
+    "count": {
+      "zh": "项内容",
+      "en": "results",
+      "fr": "résultats"
+    },
+    "visit": {
+      "zh": "请 LEP 安排家庭访校",
+      "en": "Arrange a family campus visit",
+      "fr": "Organiser une visite familiale"
+    },
+    "questions": {
+      "zh": "家长与学生常问的问题",
+      "en": "Questions families and students ask",
+      "fr": "Les questions des familles et étudiants"
+    },
+    "school_list": {
+      "zh": "比较学校与课程",
+      "en": "Compare schools and programmes",
+      "fr": "Comparer écoles et cursus"
+    },
+    "read": {
+      "zh": "看实访与申请介绍",
+      "en": "Read the visit and application guide",
+      "fr": "Lire le guide de visite et candidature"
+    },
+    "overview": {
+      "zh": "30秒了解这所学校",
+      "en": "The school at a glance",
+      "fr": "L’école en bref"
+    },
+    "overview_labels": {
+      "zh": [
+        "课程阶段",
+        "适合重点",
+        "预算口径",
+        "修印先生的观察"
+      ],
+      "en": [
+        "Study level",
+        "Worth considering for",
+        "Budget scope",
+        "James Liu’s observation"
+      ],
+      "fr": [
+        "Niveau",
+        "À considérer pour",
+        "Périmètre du budget",
+        "L’observation de James Liu"
+      ]
+    },
+    "updated": {
+      "zh": "更新",
+      "en": "Updated",
+      "fr": "Mise à jour"
+    },
+    "selected": {
+      "zh": "本次咨询：",
+      "en": "Your enquiry: ",
+      "fr": "Votre demande : "
+    },
+    "guide_intro": {
+      "zh": "按教育类别与国家筛选，也可以直接搜索学校、预算或申请问题。",
+      "en": "Filter by education category and country, or search for a school, budget or application question.",
+      "fr": "Filtrez par type d’études et pays, ou recherchez une école, un budget ou une question de candidature."
+    },
+    "service": {
+      "zh": "LEP 服务与选校方法",
+      "en": "LEP services and school-choice approach",
+      "fr": "Services LEP et méthode de choix"
+    },
+    "more": {
+      "zh": "更多课程、费用与申请专题",
+      "en": "More on courses, costs and applications",
+      "fr": "Autres guides : cursus, frais et candidatures"
+    }
+  },
+  "clusters": {
+    "family-decisions": "schools",
+    "luxembourg-school": "schools",
+    "netherlands-school": "schools",
+    "switzerland-boarding": "schools",
+    "equestrian-school": "schools",
+    "switzerland-hotel": "higher",
+    "luxembourg-university": "higher"
+  }
+}

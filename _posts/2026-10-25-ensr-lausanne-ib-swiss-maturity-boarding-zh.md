@@ -13,7 +13,7 @@
   "answer": "ENSR是修印先生这次瑞士访校颇感惊喜的一所学校：低调入口内有分龄教学空间和独立运动场地，寄宿区域翻新、整洁，约30—40人的寄宿社区规模小。LEP结合与校长、招生团队的深入交流，为中国家庭沟通11岁半起的申请、课程语言与完整寄宿预算。",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "ENSR的寄宿社区是什么规模？",
@@ -44,7 +44,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" width="1920" height="1280" alt="修印先生在ENSR访校，2026年10月。" loading="eager" decoding="async"></a><figcaption>修印先生在ENSR访校，2026年10月。</figcaption></figure><p>ENSR是这次瑞士访校给我惊喜的一所学校。校门看起来不显山露水，走进去后，却能看到不同年龄段的教学楼、音乐教学空间，以及网球场、篮球场、足球场和直线跑道。<strong>看过校园和寄宿，再与校长及招生团队深入交流后，我愿意把它称作一所值得认真了解的“宝藏学校”。</strong></p>
+<figure class="article-photo"><a href="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" width="1920" height="1280" alt="修印先生在ENSR访校。" loading="eager" decoding="async"></a><figcaption>修印先生在ENSR访校。</figcaption></figure><p>ENSR是这次瑞士访校给我惊喜的一所学校。校门看起来不显山露水，走进去后，却能看到不同年龄段的教学楼、音乐教学空间，以及网球场、篮球场、足球场和直线跑道。<strong>看过校园和寄宿，再与校长及招生团队深入交流后，我愿意把它称作一所值得认真了解的“宝藏学校”。</strong></p>
 <h2>入口低调，里面的教学与运动空间比想象中丰富</h2>
 <p>学校覆盖幼儿园到高中，不同年龄段有相应的教学空间。与很多城市里主要依赖公共场地的学校不同，这里有自己的运动设施，孩子的课堂、体育、音乐和寄宿生活可以围绕校园展开。</p>
 <p>这次交流中，我们了解到学校有500多名学生，其中约30—40人寄宿。对我来说，这样的组合值得关注：学校有完整的日校生活，寄宿社区又保持较小规模，孩子进入后不只是生活在一个寄宿生群体里。</p>

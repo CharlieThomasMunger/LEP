@@ -10,10 +10,10 @@
   "has_topic_navigation": true,
   "title": "Visiter Glion et Bulle : pratique, hôtellerie, luxe et budget complet",
   "description": "James Liu visite les deux campus suisses de Glion et rencontre étudiants, équipes académiques et de stages. LEP compare la vie sur place, les parcours 2027 et leurs frais.",
-  "answer": "James Liu a visité Glion et Bulle en octobre 2026. Paysage, restauration, logements, témoignage étudiant et échanges préparés avec les équipes nourrissent l’analyse de LEP sur le cursus, les campus et le budget global.",
+  "answer": "James Liu a visité Glion et Bulle. Paysage, restauration, logements, témoignage étudiant et échanges préparés avec les équipes nourrissent l’analyse de LEP sur le cursus, les campus et le budget global.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "Quels sont les campus suisses et peut-on choisir ?",
@@ -49,7 +49,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" width="1920" height="1280" alt="James Liu avec les étudiants et l’enseignante qui ont accueilli la visite à Glion, octobre 2026." loading="eager" decoding="async"></a><figcaption>James Liu avec les étudiants et l’enseignante qui ont accueilli la visite à Glion, octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" width="1920" height="1280" alt="James Liu avec les étudiants et l’enseignante qui ont accueilli la visite à Glion." loading="eager" decoding="async"></a><figcaption>James Liu avec les étudiants et l’enseignante qui ont accueilli la visite à Glion.</figcaption></figure>
 
 
 En octobre 2026, j’ai visité les deux campus suisses du Glion Institute of Higher Education. Comme Les Roches, Glion appartient à Sommet Education. L’école nous avait contactés par WhatsApp la veille et avait organisé des échanges avec les responsables académiques et des stages, ainsi que la découverte des deux sites. L’ensemble était bien préparé.

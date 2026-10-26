@@ -12,8 +12,8 @@
   "description": "James Liu meets the head of CRCS and explores student life in Brig. LEP compares business, applied AI and leadership routes, entry requirements, accommodation and the complete 2027 fee schedule.",
   "image": "/assets/fieldwork/crcs-james-head-of-school-202610.jpg",
   "school_key": "crcs",
-  "last_modified_at": "2026-10-26",
-  "answer": "César Ritz Colleges combines business learning, service operations and internships. After visiting and meeting the head in October 2026, James Liu and LEP assess the programme, full budget and career direction together for each applicant.",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "answer": "César Ritz Colleges combines business learning, service operations and internships. After visiting and meeting the head, James Liu and LEP assess the programme, full budget and career direction together for each applicant.",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -49,7 +49,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" width="853" height="1280" alt="James Liu with the head of César Ritz Colleges during his October 2026 Swiss visit." loading="eager" decoding="async"></a><figcaption>James Liu with the head of César Ritz Colleges during his October 2026 Swiss visit.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" width="853" height="1280" alt="James Liu with the head of César Ritz Colleges during his Swiss visit." loading="eager" decoding="async"></a><figcaption>James Liu with the head of César Ritz Colleges during his Swiss visit.</figcaption></figure>
 
 
 ## Why I include CRCS in a business-school discussion

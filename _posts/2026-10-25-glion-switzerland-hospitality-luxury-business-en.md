@@ -10,10 +10,10 @@
   "has_topic_navigation": true,
   "title": "Glion campus visits: practical learning, hospitality and luxury business, and the full budget",
   "description": "James Liu visits Glion and Bulle, meets students and academic and internship teams, and compares dining, accommodation, 2027 undergraduate routes and fees with LEP.",
-  "answer": "James Liu visited both Swiss Glion campuses in October 2026. The scenery, dining and accommodation, practical student feedback and well-prepared academic and careers meetings inform LEP’s assessment of programme fit, campus arrangements and the full budget.",
+  "answer": "James Liu visited both Swiss Glion campuses. The scenery, dining and accommodation, practical student feedback and well-prepared academic and careers meetings inform LEP’s assessment of programme fit, campus arrangements and the full budget.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "Which Swiss campuses does Glion have, and can students choose?",
@@ -49,7 +49,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" width="1920" height="1280" alt="James Liu with the students and teacher who hosted the Glion visit, October 2026." loading="eager" decoding="async"></a><figcaption>James Liu with the students and teacher who hosted the Glion visit, October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" width="1920" height="1280" alt="James Liu with the students and teacher who hosted the Glion visit." loading="eager" decoding="async"></a><figcaption>James Liu with the students and teacher who hosted the Glion visit.</figcaption></figure>
 
 
 In October 2026, I visited both Swiss campuses of Glion Institute of Higher Education. Like Les Roches, Glion belongs to Sommet Education. The school contacted us on WhatsApp the day before, arranged discussions with academic and internship leaders and showed us both campuses. The preparation was professional and thorough.

@@ -1,38 +1,21 @@
 ---
 layout: default
 ---
-{%- assign lang = page.lang -%}
-{%- assign t = site.data.ui[lang] -%}
-{%- assign notes = site.posts | where: "lang", lang -%}
-
-<div class="wrap insights-index">
-  <header class="page-head">
-    <h1>{{ page.heading }}</h1>
-    <p class="lede">{{ page.standfirst }}</p>
-    {% include school-decisions-link.html %}
-  </header>
-
-  {%- for c in site.clusters -%}
-    {%- assign key = c[0] -%}
-    {%- assign meta = c[1] -%}
-    {%- assign items = notes | where: "cluster", key -%}
-    {%- if items.size > 0 %}
-  <section class="cluster">
-    <h2>{{ meta[lang] }}</h2>
-    <ul class="nodes">
-      {%- for p in items %}
-      <li>
-        <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-        {%- if p.answer %}<p>{{ p.answer }}</p>{% endif %}
-        <span class="rev">{{ t.reviewed_label }} {{ p.reviewed | default: p.date | date: t.date_format }}</span>
-      </li>
-      {%- endfor %}
-    </ul>
-  </section>
-    {%- endif -%}
-  {%- endfor %}
-
-  {%- if notes.size == 0 %}
-  <p class="lede">—</p>
-  {%- endif %}
+{% assign lang = page.lang %}
+{% assign notes = site.posts | where: 'lang', lang %}
+<header class="wrap page-head"><h1>{{ page.heading }}</h1><p class="lede">{{ site.data.education.ui.guide_intro[lang] }}</p><nav class="education-country-links" aria-label="{{ site.data.education.ui.category[lang] }}">{% for category in site.data.education.categories %}<a href="/{{ lang }}/education/{{ category.slug }}/">{{ category.name[lang] }} →</a>{% endfor %}</nav></header>
+<div class="wrap insights-index education-guide-index" data-filter-list>
+{% include education-filters.html %}
+{% for c in site.clusters %}{% assign key = c[0] %}{% assign meta = c[1] %}{% assign items = notes | where: 'cluster', key %}
+{% if items.size > 0 %}<section class="education-guide-group" data-filter-group><h2>{{ meta[lang] }}</h2><div class="education-guide-grid">
+{% for p in items %}
+{% assign display = site.data.education_display[p.ref] %}
+{% assign cover = site.data.guide_covers[p.ref].image | default: p.image %}
+{% if display.image %}{% assign cover = display.image %}{% endif %}
+{% assign category_key = site.data.education.clusters[key] | default: 'services' %}
+{% assign country_keys = '' %}{% case key %}{% when 'switzerland-hotel', 'switzerland-boarding' %}{% assign country_keys = 'switzerland' %}{% when 'luxembourg-school', 'luxembourg-university' %}{% assign country_keys = 'luxembourg' %}{% when 'netherlands-school' %}{% assign country_keys = 'netherlands' %}{% when 'equestrian-school' %}{% assign country_keys = 'netherlands switzerland' %}{% else %}{% assign country_keys = 'luxembourg switzerland netherlands' %}{% endcase %}
+<article class="education-guide-card{% if cover %} has-cover{% endif %}" data-filter-item data-category="{{ category_key }}" data-country="{{ country_keys }}" data-search="{{ p.title | escape }} {{ p.description | escape }} {{ display.title[lang] | escape }}">
+{% if cover %}<a class="education-guide-image" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ cover | relative_url }}" alt="{{ display.title[lang] | default: p.title | escape }}" width="400" height="280" loading="lazy" decoding="async"></a>{% endif %}
+<div><h3><a href="{{ p.url | relative_url }}">{{ display.title[lang] | default: p.title }}</a></h3><p>{{ display.summary[lang] | default: p.description | default: p.answer | strip_html | truncate: 145 }}</p></div>
+</article>{% endfor %}</div></section>{% endif %}{% endfor %}
 </div>

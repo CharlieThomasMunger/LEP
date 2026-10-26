@@ -9,7 +9,7 @@
   "answer": "Wikon’s main curriculum direction is IB. During James Liu’s visit there were around 40 pupils, generous renovated teaching spaces and an annual budget discussed at CHF55,000–60,000. LEP assesses curriculum, boarding, sports and fees with the family, and supports applications and campus-visit bookings without an additional service fee.",
   "date": "2026-10-12",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "permalink": "/en/insights/international-school-altdorf-boarding-ib/",
   "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
   "custom_lep_support": true,
@@ -44,7 +44,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" width="1920" height="1280" alt="James Liu with the principal of Lucerne International Academy Wikon, October 2026." loading="eager" decoding="async"></a><figcaption>James Liu with the principal of Lucerne International Academy Wikon, October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/lia-wikon-james-principal-20261019.jpg" width="1920" height="1280" alt="James Liu with the principal of Lucerne International Academy Wikon." loading="eager" decoding="async"></a><figcaption>James Liu with the principal of Lucerne International Academy Wikon.</figcaption></figure>
 
 
 On 19 October 2026, I visited Lucerne International Academy Wikon and spoke at length with its principal. For a family looking for a small Swiss boarding school with a more manageable budget, I think it deserves serious consideration. **Its strongest points for me were value, recently renovated learning spaces and approachable teachers. Sports provision is the main trade-off to explore.**
@@ -55,11 +55,11 @@ The campus stands on the hill at Marienburg in Wikon. Architectural-history reco
 
 During the visit, we learned that the campus space was about four times that of the previous site and that the relevant areas had been renovated within the last two years. Equipment looked new, teaching spaces were generous, and the overall impression was clean and comfortable.
 
-<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="The historic buildings at Wikon, photographed during the visit on 19 October 2026." loading="lazy" decoding="async"></a><figcaption>The historic buildings at Wikon, photographed during the visit on 19 October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-castle-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-castle-20261019.jpg" width="960" height="1280" alt="The historic buildings at Wikon, photographed during the visit on 19." loading="lazy" decoding="async"></a><figcaption>The historic buildings at Wikon, photographed during the visit on 19.</figcaption></figure>
 
-<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="The modern part of the campus, 19 October 2026." loading="lazy" decoding="async"></a><figcaption>The modern part of the campus, 19 October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-modern-building-20261019.jpg" width="960" height="1280" alt="The modern part of the campus, 19." loading="lazy" decoding="async"></a><figcaption>The modern part of the campus, 19.</figcaption></figure>
 
-<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="A shared campus space, 19 October 2026." loading="lazy" decoding="async"></a><figcaption>A shared campus space, 19 October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/isa-wikon-common-space-20261019.jpg" width="960" height="1280" alt="A shared campus space, 19." loading="lazy" decoding="async"></a><figcaption>A shared campus space, 19.</figcaption></figure>
 
 
 ## Around 40 pupils: what did I notice about daily life?

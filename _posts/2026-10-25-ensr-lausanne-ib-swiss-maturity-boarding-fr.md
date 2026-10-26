@@ -13,7 +13,7 @@
   "answer": "L’ENSR a marqué James Liu par son campus organisé, son internat rénové et une communauté d’environ 30 à 40 internes évoquée lors de la visite. LEP relie ces observations aux décisions de cursus, langues, pension et budget des familles internationales.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "Quelle est la taille de l’internat ENSR ?",
@@ -44,7 +44,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" width="1920" height="1280" alt="James Liu en visite à l’ENSR, octobre 2026." loading="eager" decoding="async"></a><figcaption>James Liu en visite à l’ENSR, octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" width="1920" height="1280" alt="James Liu en visite à l’ENSR." loading="eager" decoding="async"></a><figcaption>James Liu en visite à l’ENSR.</figcaption></figure>
 
 
 L’École Nouvelle de la Suisse Romande, ENSR, a été une belle surprise de ce voyage. Derrière une entrée discrète, nous avons découvert des espaces pédagogiques par âge, des locaux de musique, des terrains de tennis, de basket et de football, ainsi qu’une piste droite de course. **Après le campus, l’internat et notre entretien avec la direction et les admissions, je la considère comme une école discrète qui mérite vraiment d’être découverte.**

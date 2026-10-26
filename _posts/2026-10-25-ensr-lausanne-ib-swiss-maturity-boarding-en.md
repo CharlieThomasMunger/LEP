@@ -13,7 +13,7 @@
   "answer": "ENSR impressed James Liu with its organised campus, refurbished boarding and small residential community of around 30–40 pupils as discussed on the visit. LEP brings first-hand knowledge into curriculum, language, boarding and budget decisions for international families.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "How large is the ENSR boarding community?",
@@ -44,7 +44,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" width="1920" height="1280" alt="James Liu visiting ENSR, October 2026." loading="eager" decoding="async"></a><figcaption>James Liu visiting ENSR, October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/ensr-james-campus-visit-20261023.jpg" width="1920" height="1280" alt="James Liu visiting ENSR." loading="eager" decoding="async"></a><figcaption>James Liu visiting ENSR.</figcaption></figure>
 
 
 ENSR—École Nouvelle de la Suisse Romande—was a pleasant surprise on this Swiss trip. Behind an unassuming entrance, I found teaching spaces for different age groups, music facilities, tennis, basketball and football areas, and a straight running track. **After seeing the campus and boarding accommodation and meeting the head and admissions team, I would describe it as a hidden gem worth exploring.**

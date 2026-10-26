@@ -1,0 +1,325 @@
+[
+  {
+    "ref": "lux-guide-l2",
+    "slug": "st-georges-luxembourg-school",
+    "name": "St George’s · 圣乔治",
+    "country": "luxembourg",
+    "category": "schools",
+    "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "英式课程、学校沟通与卢森堡本地入学支持。",
+      "en": "British education and local application support in Luxembourg.",
+      "fr": "Cursus britannique et accompagnement local au Luxembourg."
+    },
+    "label": {
+      "zh": "St George’s · 圣乔治",
+      "en": "St George’s",
+      "fr": "St George’s"
+    }
+  },
+  {
+    "ref": "lux-guide-l1",
+    "slug": "isl-luxembourg-school",
+    "name": "ISL · 卢森堡国际学校",
+    "country": "luxembourg",
+    "category": "schools",
+    "image": "/assets/fieldwork/isl.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "国际课程与校园生活，结合孩子的学习阶段比较。",
+      "en": "International learning and campus life, matched to the child’s stage.",
+      "fr": "Enseignement international et vie scolaire selon le niveau de l’enfant."
+    },
+    "label": {
+      "zh": "ISL · 卢森堡国际学校",
+      "en": "ISL",
+      "fr": "ISL"
+    }
+  },
+  {
+    "ref": "lux-guide-l3",
+    "slug": "otr-luxembourg-school",
+    "name": "OTR International School",
+    "country": "luxembourg",
+    "category": "schools",
+    "image": "/assets/fieldwork/otr-james-visit.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "英法双语、小班环境与不同入学阶段。",
+      "en": "English–French learning, small classes and entry stages.",
+      "fr": "Enseignement anglais-français, petites classes et niveaux d’entrée."
+    },
+    "label": {
+      "zh": "OTR International School",
+      "en": "OTR International School",
+      "fr": "OTR International School"
+    }
+  },
+  {
+    "ref": "netherlands-n7",
+    "slug": "eerde-boarding-school-visit",
+    "name": "Eerde · 荷兰国际寄宿学校",
+    "country": "netherlands",
+    "category": "schools",
+    "image": "/assets/eerde/eerde-james-school-sign-lep.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "古堡校园、英文学习与校内寄宿生活。",
+      "en": "A historic campus, English-language learning and boarding.",
+      "fr": "Campus historique, enseignement en anglais et internat."
+    },
+    "label": {
+      "zh": "Eerde · 荷兰国际寄宿学校",
+      "en": "Eerde",
+      "fr": "Eerde"
+    }
+  },
+  {
+    "ref": "lep-guide-international-school-altdorf-boarding-ib",
+    "slug": "international-school-altdorf-boarding-ib",
+    "name": "LIA Wikon · 琉森国际学院",
+    "country": "switzerland",
+    "category": "schools",
+    "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "以IB为主要方向，小规模校园与较可控的寄宿预算。",
+      "en": "An IB-focused route, a small community and a value-conscious boarding budget.",
+      "fr": "Une orientation IB, une petite communauté et un budget d’internat maîtrisé."
+    },
+    "label": {
+      "zh": "LIA Wikon · 琉森国际学院",
+      "en": "LIA Wikon",
+      "fr": "LIA Wikon"
+    }
+  },
+  {
+    "ref": "swiss-visit-ensr-202610",
+    "slug": "ensr-lausanne-ib-swiss-maturity-boarding",
+    "name": "ENSR · 洛桑新学校",
+    "country": "switzerland",
+    "category": "schools",
+    "image": "/assets/fieldwork/ensr-james-campus-visit-20261023.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "IB与瑞士Maturité，小规模寄宿与校内运动空间。",
+      "en": "IB and Swiss Maturité, a small boarding community and on-site sports.",
+      "fr": "IB et maturité suisse, petit internat et installations sportives sur place."
+    },
+    "label": {
+      "zh": "ENSR · 洛桑新学校",
+      "en": "ENSR",
+      "fr": "ENSR"
+    }
+  },
+  {
+    "ref": "swiss-visit-lemania-202610",
+    "slug": "ecole-lemania-lausanne-ib-boarding",
+    "name": "Lémania · 莱蒙尼亚",
+    "country": "switzerland",
+    "category": "schools",
+    "image": null,
+    "position": "50% 40%",
+    "summary": {
+      "zh": "洛桑市中心，英文IB与法语课程，结合城市生活比较。",
+      "en": "Central Lausanne, English IB and French-language routes.",
+      "fr": "Au centre de Lausanne, IB en anglais et cursus francophones."
+    },
+    "label": {
+      "zh": "Lémania · 莱蒙尼亚",
+      "en": "Lémania",
+      "fr": "Lémania"
+    }
+  },
+  {
+    "ref": "sc1-swiss-school",
+    "slug": "saint-charles-switzerland-boarding-school",
+    "name": "Saint-Charles · 圣查尔斯",
+    "country": "switzerland",
+    "category": "schools",
+    "image": "/assets/swiss/sc03.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "英文IB、寄宿环境与大学升学方向一起规划。",
+      "en": "Plan English IB studies, boarding life and university pathways together.",
+      "fr": "Associer IB en anglais, internat et projet universitaire."
+    },
+    "label": {
+      "zh": "Saint-Charles · 圣查尔斯",
+      "en": "Saint-Charles",
+      "fr": "Saint-Charles"
+    }
+  },
+  {
+    "ref": "cm1-swiss-school",
+    "slug": "chantemerle-switzerland-a-level-boarding-school",
+    "name": "Chantemerle · 圣特美勒",
+    "country": "switzerland",
+    "category": "schools",
+    "image": "/assets/fieldwork/chantemerle.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "A Level方向、寄宿生活与体验营衔接。",
+      "en": "A Level routes, boarding life and experience camps.",
+      "fr": "Parcours A Levels, internat et séjours de découverte."
+    },
+    "label": {
+      "zh": "Chantemerle · 圣特美勒",
+      "en": "Chantemerle",
+      "fr": "Chantemerle"
+    }
+  },
+  {
+    "ref": "tasis-swiss-school",
+    "slug": "tasis-switzerland-ib-ap-boarding-school",
+    "name": "TASIS · 瑞士美国学校",
+    "country": "switzerland",
+    "category": "schools",
+    "image": "/assets/swiss/tasis-visit-campus.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "IB与AP选择，比较年级、寄宿和全年费用。",
+      "en": "IB and AP choices, with grade, boarding and annual-cost comparisons.",
+      "fr": "Choix IB et AP, niveaux, internat et budget annuel."
+    },
+    "label": {
+      "zh": "TASIS · 瑞士美国学校",
+      "en": "TASIS",
+      "fr": "TASIS"
+    }
+  },
+  {
+    "ref": "swiss-visit-lesroches-202610",
+    "slug": "les-roches-switzerland-hospitality-study",
+    "name": "Les Roches · 理诺士",
+    "country": "switzerland",
+    "category": "higher",
+    "image": "/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "酒店与商业管理，校园体验、实训和职业方向。",
+      "en": "Hospitality and business: campus life, practical training and career directions.",
+      "fr": "Hôtellerie et commerce : campus, pratique et orientations professionnelles."
+    },
+    "label": {
+      "zh": "Les Roches · 理诺士",
+      "en": "Les Roches",
+      "fr": "Les Roches"
+    }
+  },
+  {
+    "ref": "swiss-visit-glion-202610",
+    "slug": "glion-switzerland-hospitality-luxury-business",
+    "name": "Glion · 格里昂",
+    "country": "switzerland",
+    "category": "higher",
+    "image": "/assets/fieldwork/glion-james-students-teacher-20261021.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "酒店商务、奢侈品方向与两个瑞士校区的学习生活。",
+      "en": "Hospitality, luxury business and life across two Swiss campuses.",
+      "fr": "Hôtellerie, luxe et vie étudiante sur deux campus suisses."
+    },
+    "label": {
+      "zh": "Glion · 格里昂",
+      "en": "Glion",
+      "fr": "Glion"
+    }
+  },
+  {
+    "ref": "imi-guide-w6",
+    "slug": "imi-campus-visit",
+    "name": "IMI · 瑞士国际管理学院",
+    "country": "switzerland",
+    "category": "higher",
+    "image": "/assets/fieldwork/imi-james-principal-20261019.jpg",
+    "position": "50% 27%",
+    "summary": {
+      "zh": "重视学术学习与性价比，把课程、食宿和实习收支一起看。",
+      "en": "Academic focus and value: compare courses, living costs and internship income.",
+      "fr": "Exigence académique et rapport coût-valeur : cursus, hébergement et stages."
+    },
+    "label": {
+      "zh": "IMI · 瑞士国际管理学院",
+      "en": "IMI",
+      "fr": "IMI"
+    }
+  },
+  {
+    "ref": "seg-guide-s2",
+    "slug": "cesar-ritz-business-ai-leadership",
+    "name": "César Ritz Colleges · 恺撒里兹",
+    "country": "switzerland",
+    "category": "higher",
+    "image": "/assets/fieldwork/crcs-james-head-of-school-202610.jpg",
+    "position": "50% 42%",
+    "summary": {
+      "zh": "酒店商业与创业，了解课程、实习及完整学习预算。",
+      "en": "Hospitality business and entrepreneurship, with internships and a full study budget.",
+      "fr": "Commerce hôtelier et entrepreneuriat, stages et budget complet."
+    },
+    "label": {
+      "zh": "César Ritz Colleges · 恺撒里兹",
+      "en": "César Ritz Colleges",
+      "fr": "César Ritz Colleges"
+    }
+  },
+  {
+    "ref": "seg-guide-s1",
+    "slug": "shms-hospitality-events-design",
+    "name": "SHMS · 瑞士酒店管理大学",
+    "country": "switzerland",
+    "category": "higher",
+    "image": "/assets/seg/james-shms-partnership.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "酒店、会展与设计方向，两座宫殿校园。",
+      "en": "Hospitality, events and design across two palace campuses.",
+      "fr": "Hôtellerie, événementiel et design sur deux campus-palaces."
+    },
+    "label": {
+      "zh": "SHMS · 瑞士酒店管理大学",
+      "en": "SHMS",
+      "fr": "SHMS"
+    }
+  },
+  {
+    "ref": "seg-guide-s3",
+    "slug": "him-business-ai-customer-experience",
+    "name": "HIM · 蒙特勒工商管理大学",
+    "country": "switzerland",
+    "category": "higher",
+    "image": "/assets/fieldwork/him-james-campus-visit.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "商业管理、实践学习与客户体验方向。",
+      "en": "Business management, practical learning and customer experience.",
+      "fr": "Management commercial, pratique et expérience client."
+    },
+    "label": {
+      "zh": "HIM · 蒙特勒工商管理大学",
+      "en": "HIM",
+      "fr": "HIM"
+    }
+  },
+  {
+    "ref": "seg-guide-s4",
+    "slug": "culinary-arts-academy-switzerland",
+    "name": "CAA · 瑞士美食艺术管理学院",
+    "country": "switzerland",
+    "category": "higher",
+    "image": "/assets/seg/caa-campus.jpg",
+    "position": "50% 40%",
+    "summary": {
+      "zh": "厨艺、专业训练与餐饮事业方向。",
+      "en": "Culinary arts, professional training and food-business pathways.",
+      "fr": "Arts culinaires, formation professionnelle et métiers de la restauration."
+    },
+    "label": {
+      "zh": "CAA · 瑞士美食艺术管理学院",
+      "en": "CAA",
+      "fr": "CAA"
+    }
+  }
+]

@@ -13,7 +13,7 @@
   "answer": "Les Roches a laissé à James Liu la meilleure impression globale parmi les écoles hôtelières de ce voyage suisse. LEP s’appuie sur la visite et les échanges carrière pour comparer le niveau d’entrée, les stages et le budget complet de la famille.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "Où se trouve le campus suisse de Les Roches ?",
@@ -49,7 +49,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" width="1920" height="1280" alt="James Liu en visite sur le campus suisse de Les Roches, octobre 2026." loading="eager" decoding="async"></a><figcaption>James Liu en visite sur le campus suisse de Les Roches, octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" width="1920" height="1280" alt="James Liu en visite sur le campus suisse de Les Roches." loading="eager" decoding="async"></a><figcaption>James Liu en visite sur le campus suisse de Les Roches.</figcaption></figure>
 
 
 En octobre 2026, j’ai passé environ trois heures et demie à Les Roches, en Suisse. Nous avons visité les chambres, salles de cours, espaces d’activités et installations de pratique, déjeuné sur place et échangé avec les équipes d’accueil et de carrière. **Parmi les écoles hôtelières visitées pendant ce voyage en Suisse, c’est celle qui m’a laissé la meilleure impression d’ensemble.**
@@ -84,7 +84,7 @@ J’y vois un cadre intéressant pour observer les attentes des visiteurs, la co
 
 ## Une discussion de business school, bien au-delà des hôtels
 
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" width="1920" height="1280" alt="James Liu avec la responsable de l’équipe d’accompagnement des stages et des candidatures professionnelles de Les Roches, octobre 2026." loading="lazy" decoding="async"></a><figcaption>James Liu avec la responsable de l’équipe d’accompagnement des stages et des candidatures professionnelles de Les Roches, octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" width="1920" height="1280" alt="James Liu avec la responsable de l’équipe d’accompagnement des stages et des candidatures professionnelles de Les Roches." loading="lazy" decoding="async"></a><figcaption>James Liu avec la responsable de l’équipe d’accompagnement des stages et des candidatures professionnelles de Les Roches.</figcaption></figure>
 
 
 Lors de notre échange avec la responsable de l’accompagnement des stages et des candidatures professionnelles, j’ai apprécié le respect des choix individuels. Nous avons parlé d’emploi hôtelier, de création d’hôtel et d’autres projets entrepreneuriaux, jusqu’à l’exemple d’un étudiant souhaitant ouvrir un club de taekwondo.

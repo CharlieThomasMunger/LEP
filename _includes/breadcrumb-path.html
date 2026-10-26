@@ -9,3 +9,6 @@
 {%- when 'switzerland-boarding', 'switzerland-hotel' -%}
 {%- assign breadcrumb_path = '/' | append: lang | append: '/destinations/switzerland/' -%}
 {%- endcase -%}
+
+{% assign breadcrumb_label = site.clusters[page.cluster][lang] %}
+{% if education_category %}{% assign breadcrumb_path = '/' | append: lang | append: '/education/' | append: education_category.slug | append: '/' %}{% assign breadcrumb_label = education_category.name[lang] %}{% endif %}

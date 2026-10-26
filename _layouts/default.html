@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 {%- assign lang = page.lang | default: site.default_lang -%}
 {%- assign t = site.data.ui[lang] -%}
+{% include education-context.html %}
 <html lang="{{ lang }}">
 <head>
 <meta charset="utf-8">
@@ -87,6 +88,7 @@
   {% if page.image %}"image":{{ page.image | absolute_url | jsonify }},{% endif %}
   "description":{{ page.description | default: page.answer | jsonify }},
   "inLanguage":"{{ lang }}",
+  {% if education_category %}"articleSection":{{ education_category.name[lang] | jsonify }},{% endif %}
   "datePublished":"{{ page.date | date_to_xmlschema }}",
   "dateModified":"{{ page.last_modified_at | default: page.reviewed | default: page.date | date_to_xmlschema }}",
   "author":{"@id":"{{ '/#james' | absolute_url }}"},
@@ -104,7 +106,7 @@
 {%- assign cl = site.clusters[page.cluster] %}{% if cl %},
  {"@type":"BreadcrumbList","itemListElement":[
   {"@type":"ListItem","position":1,"name":"{{ site.title }}","item":"{{ '/' | append: lang | append: '/' | absolute_url }}"},
-  {"@type":"ListItem","position":2,"name":{{ cl[lang] | jsonify }},"item":"{{ breadcrumb_path | absolute_url }}"},
+  {"@type":"ListItem","position":2,"name":{{ breadcrumb_label | default: cl[lang] | jsonify }},"item":"{{ breadcrumb_path | absolute_url }}"},
   {"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}
  {%- endif -%}
  ]}
@@ -113,10 +115,12 @@
 
 <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/editorial.css?v=20261013-visit-video' | relative_url }}">
-<script src="{{ '/assets/editorial.js?v=20261007-contact2' | relative_url }}" defer></script>
+<script src="{{ '/assets/editorial.js?v=20261026-context' | relative_url }}" defer></script>
 {% if page.home_refresh %}<link rel="stylesheet" href="{{ '/assets/homepage.css?v=20261026-visits' | relative_url }}">
 <script src="{{ '/assets/homepage.js?v=20260929-1' | relative_url }}" defer></script>{% endif %}
 {% if page.layout == 'destination' or page.home_refresh %}<link rel="stylesheet" href="{{ '/assets/destinations.css?v=20261026b' | relative_url }}">{% endif %}
+<link rel="stylesheet" href="{{ '/assets/education.css?v=20261026-education1' | relative_url }}">
+<script src="{{ '/assets/education.js?v=20261026-education1' | relative_url }}" defer></script>
 {%- feed_meta -%}
 </head>
 <body{% if page.home_refresh %} class="lep-home"{% endif %}>
@@ -126,9 +130,8 @@
   <div class="wrap bar">
     <a class="brand" href="{{ '/' | append: lang | append: '/' | relative_url }}" aria-label="Lux Education Partners"><span class="brand-logo"><img src="{{ '/assets/brand/lep-logo.jpg' | relative_url }}" alt="Lux Education Partners" width="1100" height="750"></span></a>
     <nav class="main" id="main-navigation" aria-label="{% case lang %}{% when 'zh' %}主导航{% when 'fr' %}Navigation principale{% else %}Main navigation{% endcase %}">
-      {% for destination in site.data.destinations[lang].items %}
-      <a{% if forloop.first %} class="nav-primary"{% endif %} href="{{ '/' | append: lang | append: '/destinations/' | append: destination.slug | append: '/' | relative_url }}">{{ destination.name }}</a>
-      {% endfor %}
+      {% for category in site.data.education.categories %}<a href="/{{ lang }}/education/{{ category.slug }}/"{% if page.education_key == category.key %} aria-current="page"{% endif %}>{{ category.nav[lang] }}</a>{% endfor %}
+      <details class="nav-country-menu"><summary>{{ site.data.education.ui.country[lang] }}</summary><div>{% for destination in site.data.destinations[lang].items %}<a href="/{{ lang }}/destinations/{{ destination.slug }}/">{{ destination.name }}</a>{% endfor %}</div></details>
       <a href="{{ '/' | append: lang | append: '/insights/' | relative_url }}">{{ t.nav_insights }}</a>
       <a href="{{ '/' | append: lang | append: '/fieldwork/' | relative_url }}">{{ t.nav_method }}</a>
       <a href="{{ '/' | append: lang | append: '/insights/why-lep/' | relative_url }}">{{ t.nav_why }}</a>

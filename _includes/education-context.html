@@ -1,0 +1,4 @@
+{% assign education_key = page.education_key | default: site.data.education.clusters[page.cluster] %}
+{% assign education_category = site.data.education.categories | where: 'key', education_key | first %}
+{% assign education_ui = site.data.education.ui %}
+{% assign education_school = site.data.education_schools | where: 'ref', page.ref | first %}

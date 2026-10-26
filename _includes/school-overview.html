@@ -1,0 +1,8 @@
+{% assign school_overview = site.data.school_overviews[page.ref][lang] %}
+{% if school_overview %}
+<section class="school-overview" aria-labelledby="school-overview-title">
+  <h2 id="school-overview-title">{{ site.data.education.ui.overview[lang] }}</h2>
+  <dl>{% for value in school_overview %}<div><dt>{{ site.data.education.ui.overview_labels[lang][forloop.index0] }}</dt><dd>{{ value }}</dd></div>{% endfor %}</dl>
+  <div class="education-actions"><a href="#contact-lep" class="education-link" data-lep-intent="{% if lang == 'zh' %}比较学校与申请{% elsif lang == 'fr' %}Comparer les écoles et préparer la candidature{% else %}Compare schools and apply{% endif %}">{% if lang == 'zh' %}请 LEP 帮我比较 →{% elsif lang == 'fr' %}Comparer avec LEP →{% else %}Compare with LEP →{% endif %}</a><a href="#contact-lep" class="education-link" data-lep-intent="{{ site.data.education.ui.visit[lang] }}">{{ site.data.education.ui.visit[lang] }} →</a></div>
+</section>
+{% endif %}

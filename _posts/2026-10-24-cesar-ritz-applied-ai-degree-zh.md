@@ -37,7 +37,7 @@
 }
 ---
 
-<figure class="article-photo portrait"><a href="/assets/fieldwork/crcs-james-head-cesar-ritz-bust-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-cesar-ritz-bust-202610.jpg" width="853" height="1280" alt="修印先生与 César Ritz Colleges 校长在校园内合影，2026年10月。" loading="eager" decoding="async"></a><figcaption>修印先生与 César Ritz Colleges 校长在校园内合影，2026年10月。</figcaption></figure>
+<figure class="article-photo portrait"><a href="/assets/fieldwork/crcs-james-head-cesar-ritz-bust-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-cesar-ritz-bust-202610.jpg" width="853" height="1280" alt="修印先生与 César Ritz Colleges 校长在校园内合影。" loading="eager" decoding="async"></a><figcaption>修印先生与 César Ritz Colleges 校长在校园内合影。</figcaption></figure>
 
 ## 家长真正要问的是：孩子想用AI做什么？
 

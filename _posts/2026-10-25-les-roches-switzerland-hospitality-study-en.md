@@ -13,7 +13,7 @@
   "answer": "Les Roches left James Liu with the strongest overall impression among the hospitality schools visited on this Swiss trip. LEP uses these first-hand observations of campus life and careers support to compare programme entry, internships and the full family budget.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "Where is the Swiss Les Roches campus?",
@@ -49,7 +49,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" width="1920" height="1280" alt="James Liu visiting the Les Roches Swiss campus, October 2026." loading="eager" decoding="async"></a><figcaption>James Liu visiting the Les Roches Swiss campus, October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" width="1920" height="1280" alt="James Liu visiting the Les Roches Swiss campus." loading="eager" decoding="async"></a><figcaption>James Liu visiting the Les Roches Swiss campus.</figcaption></figure>
 
 
 In October 2026, I spent around three and a half hours at Les Roches in Switzerland, visiting accommodation, classrooms, activity rooms and practical training facilities, having lunch and speaking with the hosting and careers teams. **Of the hospitality schools I visited on this Swiss trip, Les Roches left the strongest overall impression on me.**
@@ -84,7 +84,7 @@ I see value in observing why visitors come, how experiences are designed and how
 
 ## A business-school conversation, extending beyond hotels
 
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" width="1920" height="1280" alt="James Liu with the Les Roches internship and job-application support team lead, October 2026." loading="lazy" decoding="async"></a><figcaption>James Liu with the Les Roches internship and job-application support team lead, October 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" width="1920" height="1280" alt="James Liu with the Les Roches internship and job-application support team lead." loading="lazy" decoding="async"></a><figcaption>James Liu with the Les Roches internship and job-application support team lead.</figcaption></figure>
 
 
 When we met the team lead responsible for internships and job-application support, I was struck by the respect for students’ own choices. The conversation extended from working in hotels to running a hotel or starting another business, including an example of a student interested in opening a taekwondo club.

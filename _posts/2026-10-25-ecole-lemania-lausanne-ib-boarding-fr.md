@@ -13,7 +13,7 @@
   "answer": "Lémania associe une implantation centrale à Lausanne, un environnement francophone et un parcours IB en anglais. Après un accueil courtois et la découverte de locaux regroupés, LEP évalue les études, les langues, l’autonomie et le budget de l’enfant.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "Quel est l’environnement du campus ?",

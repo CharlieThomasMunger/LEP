@@ -38,7 +38,7 @@
 }
 ---
 
-<figure class="article-photo portrait"><a href="/assets/fieldwork/crcs-james-head-cesar-ritz-bust-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-cesar-ritz-bust-202610.jpg" width="853" height="1280" alt="James Liu with the Head of César Ritz Colleges on campus, October 2026." loading="eager" decoding="async"></a><figcaption>James Liu with the Head of César Ritz Colleges on campus, October 2026.</figcaption></figure>
+<figure class="article-photo portrait"><a href="/assets/fieldwork/crcs-james-head-cesar-ritz-bust-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-cesar-ritz-bust-202610.jpg" width="853" height="1280" alt="James Liu with the Head of César Ritz Colleges on campus." loading="eager" decoding="async"></a><figcaption>James Liu with the Head of César Ritz Colleges on campus.</figcaption></figure>
 
 ## Start with the problem the student wants to solve
 

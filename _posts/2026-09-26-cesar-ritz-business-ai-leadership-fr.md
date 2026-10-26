@@ -12,8 +12,8 @@
   "description": "James Liu rencontre la directrice de CRCS et découvre la vie à Brig. LEP compare management hôtelier, IA appliquée et leadership, admissions, logement et budget 2027.",
   "image": "/assets/fieldwork/crcs-james-head-of-school-202610.jpg",
   "school_key": "crcs",
-  "last_modified_at": "2026-10-26",
-  "answer": "César Ritz Colleges associe études commerciales, pratique des services et stages. Après la visite et la rencontre avec la directrice en octobre 2026, LEP examine le cursus, le budget complet et le projet professionnel de chaque candidat.",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "answer": "César Ritz Colleges associe études commerciales, pratique des services et stages. Après la visite et la rencontre avec la directrice, LEP examine le cursus, le budget complet et le projet professionnel de chaque candidat.",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -49,7 +49,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" width="853" height="1280" alt="James Liu avec la directrice de César Ritz Colleges pendant sa visite en Suisse, octobre 2026." loading="eager" decoding="async"></a><figcaption>James Liu avec la directrice de César Ritz Colleges pendant sa visite en Suisse, octobre 2026.</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/crcs-james-head-of-school-202610.jpg" width="853" height="1280" alt="James Liu avec la directrice de César Ritz Colleges pendant sa visite en Suisse." loading="eager" decoding="async"></a><figcaption>James Liu avec la directrice de César Ritz Colleges pendant sa visite en Suisse.</figcaption></figure>
 
 
 ## Pourquoi intégrer CRCS à une réflexion sur les études commerciales ?

@@ -1,0 +1,8 @@
+<div class="education-filters" data-filter-controls hidden>
+  {% unless include.fixed_category %}<label>{{ site.data.education.ui.category[lang] }}<select data-filter-category><option value="">{{ site.data.education.ui.all_categories[lang] }}</option>{% for category in site.data.education.categories %}<option value="{{ category.key }}">{{ category.name[lang] }}</option>{% endfor %}<option value="services">{{ site.data.education.ui.service[lang] }}</option></select></label>{% endunless %}
+  <label>{{ site.data.education.ui.country[lang] }}<select data-filter-country><option value="">{{ site.data.education.ui.all_countries[lang] }}</option>{% for country in site.data.destinations[lang].items %}{% unless include.fixed_category == 'higher' and country.slug != 'switzerland' %}<option value="{{ country.slug }}">{{ country.name }}</option>{% endunless %}{% endfor %}</select></label>
+  <label class="education-search-label">{{ site.data.education.ui.search[lang] }}<input type="search" data-filter-search placeholder="{{ site.data.education.ui.placeholder[lang] | escape }}" autocomplete="off"></label>
+  <button type="button" data-filter-reset>{{ site.data.education.ui.reset[lang] }}</button>
+  <p class="education-filter-count" data-filter-count role="status" aria-live="polite" data-label="{{ site.data.education.ui.count[lang] }}"></p>
+</div>
+<p class="education-no-results" data-filter-empty hidden>{{ site.data.education.ui.empty[lang] }}</p>

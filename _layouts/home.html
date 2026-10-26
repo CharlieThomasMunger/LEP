@@ -14,7 +14,7 @@ layout: default
       <h1 id="home-title">{{ h.heading }}</h1>
       <p class="home-intro">{{ h.intro }}</p>
       <div class="home-actions">
-        <a class="btn" href="#school-visits">{{ h.primary }} <span aria-hidden="true">→</span></a>
+        <a class="btn" href="#education-routes-title">{{ h.primary }} <span aria-hidden="true">→</span></a>
         <a class="btn ghost" href="#contact-lep">{{ h.consult }}</a>
       </div>
       {% if lang == "zh" %}<p class="home-text-link"><a href="/zh/families/">人在中国，也可以直接委托 LEP：查看申请与寄宿服务 →</a></p>{% endif %}
@@ -27,6 +27,8 @@ layout: default
   </div>
   <div class="wrap"><ul class="home-anchors">{% for anchor in h.anchors %}<li><span aria-hidden="true">0{{ forloop.index }}</span>{{ anchor }}</li>{% endfor %}</ul></div>
 </section>
+
+{% include education-routes.html %}
 
 <section class="home-section home-visits" id="school-visits" aria-labelledby="visit-title">
   <div class="wrap">
@@ -44,13 +46,11 @@ layout: default
     </div>
     <div class="home-visit-invitation"><div><h3>{{ h.visit_cta_title }}</h3><p>{{ h.visit_cta_text }}</p></div><a class="btn" href="#contact-lep">{{ h.consult }} <span aria-hidden="true">→</span></a></div>
     <div class="home-recent-intro"><p class="kicker">{{ h.recent_kicker }}</p><h2>{{ h.recent_title }}</h2><p>{{ h.recent_intro }}</p></div>
-    <div class="home-recent-grid">
-      {% for visit in site.data.homepage.recent_swiss %}
-      {% assign visit_post = posts | where: "ref", visit.ref | first %}
-      {% if visit_post %}
-      <article class="home-recent-card"><p class="home-label">{{ visit.school }}</p><h3><a href="{{ visit_post.url | relative_url }}">{{ visit_post.title }}</a></h3><p>{{ visit_post.description }}</p><a class="home-text-link" href="{{ visit_post.url | relative_url }}">{{ h.recent_link }} <span aria-hidden="true">→</span></a></article>
-      {% endif %}
-      {% endfor %}
+    <div class="home-recent-groups">
+      {% for category in site.data.education.categories %}<section class="home-recent-group"><h3>{{ category.name[lang] }}</h3><ul>
+      {% for visit in site.data.homepage.recent_swiss %}{% assign visit_post = posts | where: 'ref', visit.ref | first %}{% assign school = site.data.education_schools | where: 'ref', visit.ref | first %}{% if visit_post and school.category == category.key %}
+      <li><a href="{{ visit_post.url | relative_url }}">{{ school.label[lang] }} →</a><p>{{ school.summary[lang] }}</p></li>
+      {% endif %}{% endfor %}</ul></section>{% endfor %}
     </div>
   </div>
 </section>

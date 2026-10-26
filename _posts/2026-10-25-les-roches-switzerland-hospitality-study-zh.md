@@ -13,7 +13,7 @@
   "answer": "到这次瑞士访校为止，理诺士Les Roches是修印先生整体印象最好的酒店管理学校。约3.5小时参观中，接待、餐食、宿舍、运动场地与职业交流都留下鲜明印象。LEP会把这份实访判断与学生的商业兴趣、2027课程起点、两段实习及完整预算结合，推进适合的申请。",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-25T23:38:08+00:00",
+  "last_modified_at": "2026-10-26T00:21:08+00:00",
   "faq": [
     {
       "q": "理诺士瑞士校区在哪里？",
@@ -49,7 +49,7 @@
 
 
 
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" width="1920" height="1280" alt="修印先生在Les Roches瑞士校区访校，2026年10月。" loading="eager" decoding="async"></a><figcaption>修印先生在Les Roches瑞士校区访校，2026年10月。</figcaption></figure><p>2026年10月，我来到理诺士（Les Roches）瑞士Crans-Montana校区。约三个半小时里，我们看了宿舍、教室、活动室和实训空间，在学校吃饭，也与接待和职业支持人员交流。<strong>到这次访校为止，这是我整体印象最好的一所酒店管理学校。</strong></p>
+<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" width="1920" height="1280" alt="修印先生在Les Roches瑞士校区访校。" loading="eager" decoding="async"></a><figcaption>修印先生在Les Roches瑞士校区访校。</figcaption></figure><p>这次访校，我来到理诺士（Les Roches）瑞士Crans-Montana校区。约三个半小时里，我们看了宿舍、教室、活动室和实训空间，在学校吃饭，也与接待和职业支持人员交流。<strong>到这次访校为止，这是我整体印象最好的一所酒店管理学校。</strong></p>
 <p>这个判断来自几个连在一起的体验：提前准备的接待、专业而热情的人、非常好的餐食、漂亮的山景，以及丰富的校园和运动空间。对考虑投入几年时间和费用的家庭，我想把这些具体见闻讲清楚，再谈课程和预算。</p>
 
 <h2>前一天就开始对接，本科生和研究生一起迎接</h2>
@@ -70,7 +70,7 @@
 <p>我认为，这样的地方适合学生观察服务产品怎样经营：客人为什么来、体验怎样设计、淡旺季怎样安排。LEP会把这种行业环境与学生的实习目标一起讨论，再落实到岗位内容、语言和申请准备。</p>
 
 <h2>让我惊喜的是，它谈的远不止酒店岗位</h2>
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" width="1920" height="1280" alt="修印先生与Les Roches实习及求职支持团队负责人合影，2026年10月。" loading="lazy" decoding="async"></a><figcaption>修印先生与Les Roches实习及求职支持团队负责人合影，2026年10月。</figcaption></figure>
+<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" width="1920" height="1280" alt="修印先生与Les Roches实习及求职支持团队负责人合影。" loading="lazy" decoding="async"></a><figcaption>修印先生与Les Roches实习及求职支持团队负责人合影。</figcaption></figure>
 <p>我们与负责实习及求职支持的团队负责人交流时，我感受到他们很尊重学生自己的选择。讨论覆盖的方向很广，除了进入酒店，也谈到自己经营酒店、创业，甚至学生想开跆拳道俱乐部这样的想法。</p>
 <p><strong>所以在我看来，理诺士更像一所从酒店与服务现场出发的商学院。</strong>学生面对的是经营一个项目、理解客户、组织团队和把一件事情做起来。具体课程中的财务、市场、数据和领导力，也要放到这些实际目标中理解。</p>
 <p>我长期在欧洲生活和经营企业，选校时会特别留意这种连接。LEP会先听学生愿意做什么，再把他的兴趣、已有能力和家庭预算带到课程与职业支持的沟通里，而不只是替家长递交一份申请。</p>
