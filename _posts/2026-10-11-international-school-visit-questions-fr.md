@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "Le cadre du campus lors d’une visite LEP à Eerde.",
+  "image_position": "50% 65%",
   "layout": "node",
   "lang": "fr",
   "ref": "family-international-school-visit-questions",
@@ -23,7 +25,7 @@
       "a": "Nous partons du jeune, préparons les échanges puis rapprochons réponses sur cursus, logement et coûts pour préciser la prochaine étape."
     }
   ],
-  "image": "/assets/swiss/cm-fold-classroom.jpg"
+  "image": "/assets/eerde/eerde-fold-family-visit.jpg"
 }
 ---
 
@@ -33,7 +35,7 @@ Le temps d’une famille en Europe est précieux. Des lieux agréables et un acc
 
 LEP commence par l’âge, le cursus, l’anglais, les matières, les intérêts et la présence éventuelle des parents. Ces informations orientent les établissements et interlocuteurs à rencontrer.
 
-<figure class="article-photo"><img src="/assets/swiss/cm-fold-classroom.jpg" width="1200" height="1600" alt="Visite de Chantemerle par James Liu · Photo LEP" loading="lazy" decoding="async"><figcaption>Visite de Chantemerle par James Liu · Photo LEP</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/eerde/eerde-fold-family-visit.jpg" width="1200" height="1600" alt="Le cadre du campus lors d’une visite LEP à Eerde." loading="eager" decoding="async"><figcaption>Le cadre du campus lors d’une visite LEP à Eerde.</figcaption></figure>
 
 ## Utiliser nos visites pour cibler le déplacement
 

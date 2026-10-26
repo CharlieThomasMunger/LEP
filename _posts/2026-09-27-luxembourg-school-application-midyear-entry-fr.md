@@ -9,10 +9,12 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "Une entrée en cours d’année peut être possible si une place est disponible et si les cursus peuvent s’articuler. Il faut prévoir l’évaluation, l’accueil local et les démarches applicables."
 answer: "Une entrée en cours d’année peut être possible si une place est disponible et si les cursus peuvent s’articuler. Il faut prévoir l’évaluation, l’accueil local et les démarches applicables."
-image: "/assets/fieldwork/st-georges-principal-school-sign.jpg"
+image: "/assets/people/james-reading-books.jpg"
 has_topic_navigation: true
 faq: [{"q": "Existe-t-il une date limite commune aux trois écoles ?", "a": "Non. Le calendrier dépend de l’école, de l’année, du cursus et des places disponibles."}, {"q": "Faut-il venir au Luxembourg pour la première évaluation ?", "a": "Pour une candidature depuis l’étranger, nous coordonnons généralement une évaluation à distance, puis un éventuel essai sur place."}, {"q": "LEP garantit-il une rentrée sous neuf jours ?", "a": "Non. Ce délai correspond à un dossier individuel traité dans l’UE, pas à une durée standard garantie."}]
 translated: true
+image_position: "65% 45%"
+image_alt: "James Liu lit près des rayonnages."
 ---
 
 <h2>La rentrée ne marque pas toujours la fin des admissions</h2>
@@ -23,7 +25,7 @@ translated: true
 
 <p>Pour les élèves à l’étranger, nous coordonnons habituellement une première évaluation ou un entretien à distance. L’école doit comprendre le niveau d’anglais, les acquis et les besoins de l’enfant avant de décider. <strong>Entrer en cours d’année ne dispense pas de l’évaluation.</strong></p>
 
-<figure class="article-photo"><a href="/assets/fieldwork/st-georges-principal-school-sign.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" alt="James Liu avec la directrice de St George’s" width="1920" height="1280" loading="lazy" decoding="async"></a><figcaption>James Liu avec la directrice de St George’s. Photo prise lors d’une visite LEP.</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/people/james-reading-books.jpg" width="1280" height="1920" alt="James Liu lit près des rayonnages." loading="eager" decoding="async"><figcaption>James Liu lit près des rayonnages.</figcaption></figure>
 
 <h2>Préparer une rentrée en septembre</h2>
 

@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "James Liu working at his computer.",
+  "image_position": "65% 46%",
   "lep_service_page": true,
   "layout": "node",
   "lang": "en",
@@ -12,7 +14,7 @@
   "reviewed": "2026-10-13",
   "last_modified_at": "2026-10-13",
   "permalink": "/en/insights/luxembourg-school-support-lep/",
-  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+  "image": "/assets/people/james-working-at-computer.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -49,7 +51,7 @@
   ]
 }
 ---
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="James Liu with the headteacher of St George’s International School Luxembourg." loading="eager" decoding="async"><figcaption>James Liu with the headteacher of St George’s International School Luxembourg.</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/people/james-working-at-computer.jpg" width="1280" height="1920" alt="James Liu working at his computer." loading="eager" decoding="async"><figcaption>James Liu working at his computer.</figcaption></figure>
 {% include luxembourg-service-card.html %}
 <h2>What can start before the child arrives?</h2><div class="table-scroll"><table><thead><tr><th>Stage</th><th>LEP’s work</th><th>Practical outcome</th></tr></thead><tbody><tr><td>School choice</td><td>Compare ISL, St George’s and OTR against curriculum, language, budget and parental plans</td><td>A reasoned school and entry-stage proposal</td></tr><tr><td>Application</td><td>Organise records and coordinate school interviews, assessment and applicable trials</td><td>Specific appointments and school feedback</td></tr><tr><td>Living arrangements</td><td>Match accommodation with school location, routine, diet and parental authorisation</td><td>School and housing that work together</td></tr><tr><td>Arrival</td><td>Assist with relevant school and accommodation documents and agreed handover</td><td>A clear allocation of the next steps</td></tr><tr><td>After entry</td><td>Connect student, school and host-family feedback under the agreed service</td><td>Specific updates and follow-up actions</td></tr></tbody></table></div><p>Recent reports and the current curriculum help us explain the student’s background to the school. Families can begin before travelling to Europe.</p>
 <h2>What does direct school communication change?</h2><p>I maintain direct contact with the headteacher at St George’s. The school has offered LEP students a <strong>three-day free trial</strong>, and we have discussed language reinforcement and learning-buddy support for Chinese students. A trial lets teachers see how the child learns in a real classroom.</p><p>In one unusual September placement, the family started the paid service on 7 September, the headteacher responded that day, the offer arrived on 14 September and the school set 16 September as the start date. <strong>The parent had found the host family; LEP coordinated school, accommodation and documents.</strong> Read the <a href="/en/insights/st-georges-rapid-school-placement/">nine-day placement record</a> to see the steps involved.</p>

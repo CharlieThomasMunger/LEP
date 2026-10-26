@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "修印先生实地走访SHMS。",
+  "image_position": "60% 48%",
   "layout": "node",
   "lang": "zh",
   "ref": "lep-guide-china-high-school-swiss-hospitality-bachelor",
@@ -11,7 +13,7 @@
   "reviewed": "2026-10-12",
   "last_modified_at": "2026-10-12",
   "permalink": "/zh/insights/china-high-school-swiss-hospitality-bachelor/",
-  "image": "/assets/seg/james-shms-partnership.jpg",
+  "image": "/assets/seg/james-shms-palace.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -32,7 +34,7 @@
 }
 ---
 
-<figure class="article-photo"><img src="/assets/seg/james-shms-partnership.jpg" width="1920" height="1280" alt="修印先生实地访校SHMS。" loading="eager" decoding="async"><figcaption>修印先生实地访校SHMS。</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/seg/james-shms-palace.jpg" width="1280" height="1920" alt="修印先生实地走访SHMS。" loading="eager" decoding="async"><figcaption>修印先生实地走访SHMS。</figcaption></figure>
 <p>我是修印先生。我一直认为，酒店管理可以是一种优势的主动选择。组织能力、共情、审美、现场判断与愿意把事情做好的习惯，在真实商业中有价值。高中分数值得看，孩子的这些表现同样值得认真看。</p>
 <h2>中国高中背景，先看什么入学条件？</h2>
 <div class="table-scroll"><table><thead><tr><th>学校与方向</th><th>学历与英语起点</th><th>适合重点讨论的兴趣</th></tr></thead><tbody>

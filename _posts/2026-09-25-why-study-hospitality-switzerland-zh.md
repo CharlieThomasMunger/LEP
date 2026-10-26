@@ -10,8 +10,13 @@ title: "为什么去瑞士读酒店管理？我看重的是孩子以后能做什
 date: "2026-09-25"
 reviewed: "2026-09-25"
 description: "我的判断是：瑞士酒店管理值得一些家庭认真投入，尤其是那些孩子善于与人相处、能组织事情、对生意有兴趣，却未必最擅长应试的家庭。 这些孩子需要一条能把长处练成真本事的路。"
-image: "/assets/imi/hospitality-curriculum.png"
+image: "/assets/imi/imi-interior-lake-view.jpg"
+image_position: "50% 50%"
+image_alt: "IMI校园的餐厅与窗外湖景。LEP访校实拍。"
 ---
+
+<figure class="article-photo"><img src="/assets/imi/imi-interior-lake-view.jpg" width="2275" height="1280" alt="IMI校园的餐厅与窗外湖景。LEP访校实拍。" loading="eager" decoding="async"><figcaption>IMI校园的餐厅与窗外湖景。LEP访校实拍。</figcaption></figure>
+
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 25 日
 

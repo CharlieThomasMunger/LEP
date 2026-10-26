@@ -9,11 +9,13 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "可以申请英文课程，不必先学会法语。英语一般的孩子，先评估年级和语言支持，提前提升，适应会更快。"
 answer: "可以申请英文课程，不必先学会法语。英语一般的孩子，先评估年级和语言支持，提前提升，适应会更快。"
-image: "/assets/fieldwork/otr-james-visit.jpg"
+image: "/assets/fieldwork/otr-classroom-seating.jpg"
 has_topic_navigation: true
 faq: [{"q": "不会法语，会影响申请英文国际学校吗？", "a": "不必因此放弃申请。重点看目标课程的授课语言，以及该年级的入学要求。"}, {"q": "英语很弱，也能直接读IB或A Level吗？", "a": "要先评估学术英语和学科基础，不能把最后两年的高中课程当作零基础英语班。"}, {"q": "免费三天试读适用于所有学校吗？", "a": "这是圣乔治向LEP合作学生提供的安排，具体日期由我们与校方确认。"}]
 enquiry_target: "lux-school-contact"
 last_modified_at: "2026-10-07"
+image_position: "50% 50%"
+image_alt: "OTR国际学校教室。LEP访校实拍。"
 ---
 
 <h2>别让“不会法语”，提前挡住孩子</h2>
@@ -26,7 +28,7 @@ last_modified_at: "2026-10-07"
 
 <p>英语一般，也值得先做评估。真正要弄清楚的是：孩子目前的英语，能接上哪一阶段的课程，需要学校提供多少支持。</p>
 
-<figure class="article-photo portrait"><a href="/assets/fieldwork/otr-james-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/otr-james-visit.jpg" alt="修印先生实地走访OTR国际学校" width="646" height="862" loading="lazy" decoding="async"></a><figcaption>修印先生实地走访OTR国际学校。LEP实拍。</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/fieldwork/otr-classroom-seating.jpg" width="630" height="840" alt="OTR国际学校教室。LEP访校实拍。" loading="eager" decoding="async"><figcaption>OTR国际学校教室。LEP访校实拍。</figcaption></figure>
 
 <h2>我更关心孩子敢不敢用英语</h2>
 

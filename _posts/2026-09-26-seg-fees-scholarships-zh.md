@@ -9,7 +9,9 @@ title: "SEG 四校费用与奖学金：学校怎么选，预算怎样安排？"
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "四校本科预算从 HIM 的 CHF 131,800 到 SHMS 的 CHF 186,500。选学校时，我先看多花的钱能为孩子带来什么，再结合家庭预算与奖学金决定。"
-image: "/assets/seg/james-shms-partnership.jpg"
+image: "/assets/seg/james-shms-lake.jpg"
+image_position: "55% 45%"
+image_alt: "修印先生在SHMS访校期间的实拍。"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
@@ -18,10 +20,7 @@ image: "/assets/seg/james-shms-partnership.jpg"
 
 我已经实地访问过 SHMS 和 HIM，也与 SEG 四校直接合作。课程、校园和实践安排是否适合孩子，要与费用放在一起看。
 
-<figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="修印先生实地访校 SHMS，与校方直接合作" loading="eager" width="1920" height="1280" decoding="async"></a>
-<figcaption>修印先生实地访校 SHMS，与校方直接合作｜LEP 实拍。</figcaption>
-</figure>
+<figure class="article-photo"><img src="/assets/seg/james-shms-lake.jpg" width="1920" height="1280" alt="修印先生在SHMS访校期间的实拍。" loading="eager" decoding="async"><figcaption>修印先生在SHMS访校期间的实拍。</figcaption></figure>
 
 ## 四校本科预算
 

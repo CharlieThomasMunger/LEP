@@ -10,7 +10,7 @@ date: '2026-10-06'
 reviewed: '2026-10-06'
 last_modified_at: '2026-10-06'
 permalink: /zh/insights/saint-charles-horse-riding-boarding/
-image: /assets/swiss/sc16.jpg
+image: "/assets/swiss/sc-fold-riding.jpg"
 school_article: true
 has_topic_navigation: true
 custom_lep_support: true
@@ -21,6 +21,8 @@ faq:
   a: 不能这样推定。有规律训练或比赛需求的学生，需要校方与训练方进一步确认个别安排。
 - q: 可以带自己的马去吗？
   a: 请先向LEP说明马匹所在地和训练目标，再由学校确认可行的马房、照料及费用；不要先运马再补安排。
+image_position: "50% 50%"
+image_alt: "Saint-Charles访校期间参观的室内马术场。LEP实拍。"
 ---
 
 <h2 id="section-1">为什么会把这所合作学校放进马术选校名单？</h2>

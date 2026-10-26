@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "James Liu en visite à SHMS.",
+  "image_position": "60% 48%",
   "layout": "node",
   "lang": "fr",
   "ref": "lep-guide-china-high-school-swiss-hospitality-bachelor",
@@ -11,7 +13,7 @@
   "reviewed": "2026-10-12",
   "last_modified_at": "2026-10-12",
   "permalink": "/fr/insights/china-high-school-swiss-hospitality-bachelor/",
-  "image": "/assets/seg/james-shms-partnership.jpg",
+  "image": "/assets/seg/james-shms-palace.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -32,7 +34,7 @@
 }
 ---
 
-<figure class="article-photo"><img src="/assets/seg/james-shms-partnership.jpg" width="1920" height="1280" alt="Visite de SHMS par James Liu · Photo LEP." loading="eager" decoding="async"><figcaption>Visite de SHMS par James Liu · Photo LEP.</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/seg/james-shms-palace.jpg" width="1280" height="1920" alt="James Liu en visite à SHMS." loading="eager" decoding="async"><figcaption>James Liu en visite à SHMS.</figcaption></figure>
 <h2>Partir des conditions d’admission réelles</h2><div class="table-scroll"><table><thead><tr><th>École / orientation</th><th>Formation et anglais de départ</th><th>Intérêts à discuter</th></tr></thead><tbody><tr><td>IMI hospitality / business</td><td>Fin de secondaire ; page actuelle du premier semestre : 18 ans, IELTS 5,0 ou équivalent</td><td>Hôtellerie et commerce international</td></tr><tr><td>SHMS</td><td>Secondaire terminé ; référence IELTS 5,5</td><td>Hôtellerie, événements ou design</td></tr><tr><td>HIM BBA</td><td>Secondaire terminé ; référence IELTS 5,5</td><td>Finance, marketing et expérience client</td></tr><tr><td>CRCS BSc</td><td>Secondaire terminé ; IELTS 5,5, minimum 4,5 par composante</td><td>Gestion hôtelière et entrepreneuriat</td></tr><tr><td>CAA</td><td>Secondaire terminé ; référence IELTS 5,5</td><td>Cuisine, pâtisserie et restauration</td></tr></tbody></table></div><p>LEP relie rentrée visée, documents et évaluation de l’école. Le diplôme chinois est présenté avec le parcours complet ; âge et anglais se vérifient pour le cursus choisi.</p>
 <h2>Préparer l’anglais et les méthodes de travail</h2><p>Le Certificate in International Hotel &amp; Tourism Management d’IMI propose 22 semaines avec anglais académique, méthodes d’étude et bases hôtelières. Nous comparons préparation dans le pays de départ et étape scolaire supplémentaire selon besoins, calendrier et budget complet.</p>
 <h2>Choisir ce que l’étudiant fera réellement</h2><p>Opérations et compréhension du client orientent vers IMI ou SHMS ; organisation d’activités vers l’événementiel ; espaces et expérience du consommateur vers le design management. Finance, marketing et commerce invitent à comparer IMI et HIM. Une pratique durable en cuisine professionnelle mène vers CAA ou IMI.</p><p>Je suis James Liu. J’y vois un choix actif pour des forces en organisation, empathie, jugement, esthétique et travail bien fait. Je demande si le jeune accepte d’apprendre les bases, tenir un standard sous pression et coopérer. Les notes participent à cette appréciation.</p>

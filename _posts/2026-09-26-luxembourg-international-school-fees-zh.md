@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "修印先生在桌前阅读资料。",
+  "image_position": "50% 55%",
   "lep_service_page": false,
   "layout": "node",
   "lang": "zh",
@@ -12,7 +14,7 @@
   "reviewed": "2026-10-12",
   "last_modified_at": "2026-10-12",
   "permalink": "/zh/insights/luxembourg-international-school-fees/",
-  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+  "image": "/assets/people/james-reading-at-desk.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -32,7 +34,7 @@
 }
 ---
 
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="修印先生与卢森堡圣乔治国际学校校长合影。" loading="eager" decoding="async"><figcaption>修印先生与卢森堡圣乔治国际学校校长合影。</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/people/james-reading-at-desk.jpg" width="1280" height="1920" alt="修印先生在桌前阅读资料。" loading="eager" decoding="async"><figcaption>修印先生在桌前阅读资料。</figcaption></figure>
 <p>我是修印先生，LEP以卢森堡为基地，协助家庭办理学校申请、寄宿家庭及当地协调。我会在选校阶段同时算学校和生活，家长得到的是可以持续读下去的安排。</p>
 <h2>2026/27三所学校的年费怎样比较？</h2>
 <p>下面的学校金额按2026/27公开表中的对应年级计算，已计入该表的年度固定基金等费用；寄宿家庭暂采用25,000欧元/年的食宿参考。中国年级不能只按名称机械对应到英国Year或其他Grade，实际入读年级先由学校评估。</p>

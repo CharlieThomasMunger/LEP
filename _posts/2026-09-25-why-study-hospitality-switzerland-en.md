@@ -10,9 +10,14 @@ title: "Why study hospitality management in Switzerland? Start with what you wan
 date: "2026-09-25"
 reviewed: "2026-09-25"
 description: "My view is that Swiss hospitality education deserves serious consideration for students who enjoy working with people, organising things and understanding how a business works. Their strengths deserve a route that develops them into professional ability."
-image: "/assets/imi/hospitality-curriculum.png"
+image: "/assets/imi/imi-interior-lake-view.jpg"
 translated: true
+image_position: "50% 50%"
+image_alt: "The dining room and lake view at IMI, photographed during an LEP visit."
 ---
+
+<figure class="article-photo"><img src="/assets/imi/imi-interior-lake-view.jpg" width="2275" height="1280" alt="The dining room and lake view at IMI, photographed during an LEP visit." loading="eager" decoding="async"><figcaption>The dining room and lake view at IMI, photographed during an LEP visit.</figcaption></figure>
+
 
 **By James Liu | Lux Education Partners | Reviewed 25 September 2026**
 

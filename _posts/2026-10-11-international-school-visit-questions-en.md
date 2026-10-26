@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "The campus surroundings during an LEP visit to Eerde.",
+  "image_position": "50% 65%",
   "layout": "node",
   "lang": "en",
   "ref": "family-international-school-visit-questions",
@@ -23,7 +25,7 @@
       "a": "We begin with the student’s needs, prepare school discussions and use the course, accommodation and fee responses to clarify the next application step."
     }
   ],
-  "image": "/assets/swiss/cm-fold-classroom.jpg"
+  "image": "/assets/eerde/eerde-fold-family-visit.jpg"
 }
 ---
 
@@ -33,7 +35,7 @@ A family's time in Europe is valuable. Attractive grounds and welcoming staff ar
 
 LEP starts with age, curriculum, English, subjects, interests and whether parents will relocate. These details shape which schools are worth visiting and which discussions matter.
 
-<figure class="article-photo"><img src="/assets/swiss/cm-fold-classroom.jpg" width="1200" height="1600" alt="James Liu’s Chantemerle visit · LEP photograph" loading="lazy" decoding="async"><figcaption>James Liu’s Chantemerle visit · LEP photograph</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/eerde/eerde-fold-family-visit.jpg" width="1200" height="1600" alt="The campus surroundings during an LEP visit to Eerde." loading="eager" decoding="async"><figcaption>The campus surroundings during an LEP visit to Eerde.</figcaption></figure>
 
 ## Use our fieldwork to narrow the trip
 

@@ -9,18 +9,17 @@ title: "Frais et bourses du SEG : comparer les quatre écoles et préparer le bu
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "Frais et bourses du SEG : comparer les quatre écoles et préparer le budget familial. Cursus, frais, bourses et regard de James Liu, établi en Europe."
-image: "/assets/seg/james-shms-partnership.jpg"
+image: "/assets/seg/james-shms-lake.jpg"
 translated: true
+image_position: "55% 45%"
+image_alt: "James Liu lors de sa visite à SHMS."
 ---
 
 Par James Liu | Lux Education Partners | 26 septembre 2026
 
 **Les budgets bachelor vont de CHF 131 800 à HIM à CHF 186 500 à SHMS. Je commence par ce que l’investissement supplémentaire apporte à l’étudiant, avant de le rapprocher du budget familial et des bourses.** J’ai visité SHMS et HIM ; LEP travaille directement avec les quatre écoles.
 
-<figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu lors de sa visite à SHMS" loading="eager" width="1920" height="1280" decoding="async"></a>
-<figcaption>James Liu en visite à SHMS ; LEP travaille directement avec l’établissement | Photo LEP.</figcaption>
-</figure>
+<figure class="article-photo"><img src="/assets/seg/james-shms-lake.jpg" width="1920" height="1280" alt="James Liu lors de sa visite à SHMS." loading="eager" decoding="async"><figcaption>James Liu lors de sa visite à SHMS.</figcaption></figure>
 
 ## Budgets bachelor
 

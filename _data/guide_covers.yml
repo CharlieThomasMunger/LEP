@@ -19,8 +19,13 @@ seg-guide-s5:
     en: James Liu during his SHMS visit · LEP photograph
     fr: James Liu lors de sa visite à SHMS · Photo LEP
 seg-guide-s6:
-  image: /assets/imi/imi-admissions-visit.webp
+  image: /assets/seg/james-shms-window.jpg
+  position: 65% 50%
   caption:
-    zh: 修印先生在 IMI 访校 · LEP 实拍
-    en: James Liu visiting IMI · LEP photograph
-    fr: James Liu en visite à IMI · Photo LEP
+    zh: 修印先生在 SHMS 访校 · LEP 实拍
+    en: James Liu visiting SHMS · LEP photograph
+    fr: James Liu en visite à SHMS · Photo LEP
+
+# Show the second confirmed St George’s portrait in the case-study card.
+lux-guide-l5:
+  position: 50% 50%

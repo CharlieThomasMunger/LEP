@@ -9,8 +9,10 @@ title: "Choosing between SEG’s four schools: SHMS, César Ritz, HIM and Culina
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "Choosing between SEG’s four schools: SHMS, César Ritz, HIM and Culinary Arts Academy. Courses, fees, scholarships and James Liu’s perspective from Europe."
-image: "/assets/seg/james-shms-palace.jpg"
+image: "/assets/seg/shms-palace-fieldwork.jpg"
 translated: true
+image_position: "70% 50%"
+image_alt: "The SHMS campus and its surroundings, photographed during an LEP visit."
 ---
 
 By James Liu | Lux Education Partners | 26 September 2026
@@ -28,10 +30,7 @@ By James Liu | Lux Education Partners | 26 September 2026
 
 ## SHMS: a clear hospitality focus
 
-<figure class="article-photo">
-<a href="/assets/seg/james-shms-palace.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-palace.jpg" alt="James Liu visiting SHMS" loading="eager" width="1280" height="1920" decoding="async"></a>
-<figcaption>James Liu on his SHMS campus visit | LEP photograph.</figcaption>
-</figure>
+<figure class="article-photo"><img src="/assets/seg/shms-palace-fieldwork.jpg" width="1920" height="1280" alt="The SHMS campus and its surroundings, photographed during an LEP visit." loading="eager" decoding="async"><figcaption>The SHMS campus and its surroundings, photographed during an LEP visit.</figcaption></figure>
 
 I have visited SHMS. Its appeal goes beyond the setting: hospitality management develops operational and revenue skills, event management develops planning and delivery, and design management connects space and aesthetics with a functioning hospitality business. Students completing the relevant course receive SHMS and University of Derby bachelor’s degrees. Postgraduate options cover hospitality business, luxury brand management, international hospitality management and a Global MBA.
 

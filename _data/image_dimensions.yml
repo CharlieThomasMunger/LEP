@@ -110,5 +110,53 @@
   "/assets/fieldwork/glion-james-students-teacher-20261021.jpg": {
     "width": 1920,
     "height": 1280
+  },
+  "/assets/people/james-reading-at-desk.jpg": {
+    "width": 1280,
+    "height": 1920
+  },
+  "/assets/people/james-working-at-computer.jpg": {
+    "width": 1280,
+    "height": 1920
+  },
+  "/assets/people/james-reading-books.jpg": {
+    "width": 1280,
+    "height": 1920
+  },
+  "/assets/people/james-walking-architecture.jpg": {
+    "width": 1280,
+    "height": 1920
+  },
+  "/assets/fieldwork/otr-classroom-seating.jpg": {
+    "width": 630,
+    "height": 840
+  },
+  "/assets/imi/imi-lake-terrace.jpg": {
+    "width": 2275,
+    "height": 1280
+  },
+  "/assets/imi/imi-interior-lake-view.jpg": {
+    "width": 2275,
+    "height": 1280
+  },
+  "/assets/seg/james-shms-lake.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/assets/seg/shms-palace-fieldwork.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/assets/seg/james-shms-palace.jpg": {
+    "width": 1280,
+    "height": 1920
+  },
+  "/assets/swiss/sc-fold-riding.jpg": {
+    "width": 1200,
+    "height": 1600
+  },
+  "/assets/eerde/eerde-fold-family-visit.jpg": {
+    "width": 1200,
+    "height": 1600
   }
 }

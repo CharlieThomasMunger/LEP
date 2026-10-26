@@ -9,7 +9,9 @@ title: "SEG 四所学校怎么选？酒店看 SHMS，商科看 CRCS 和 HIM，�
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "SEG 旗下四所学校，适合的是不同兴趣、不同发展目标的学生。 我们与四校直接合作，推荐哪一所，先看孩子想学什么、以后希望做什么，再看家庭预算。"
-image: "/assets/seg/james-shms-palace.jpg"
+image: "/assets/seg/shms-palace-fieldwork.jpg"
+image_position: "70% 50%"
+image_alt: "SHMS校园与周边景色。LEP访校实拍。"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
@@ -28,10 +30,7 @@ image: "/assets/seg/james-shms-palace.jpg"
 
 ## SHMS：酒店、会展与设计，行业方向鲜明
 
-<figure class="article-photo">
-<a href="/assets/seg/james-shms-palace.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-palace.jpg" alt="修印先生实地考察 SHMS" loading="eager" width="1280" height="1920" decoding="async"></a>
-<figcaption>修印先生实地考察 SHMS｜LEP 实拍。</figcaption>
-</figure>
+<figure class="article-photo"><img src="/assets/seg/shms-palace-fieldwork.jpg" width="1920" height="1280" alt="SHMS校园与周边景色。LEP访校实拍。" loading="eager" decoding="async"><figcaption>SHMS校园与周边景色。LEP访校实拍。</figcaption></figure>
 
 **瑞士酒店管理大学（Swiss Hotel Management School，SHMS）适合对酒店和高端服务行业有明确兴趣的学生。** 酒店管理学习运营与收益；会展管理学习策划和组织；设计管理把空间审美与酒店经营结合起来。
 

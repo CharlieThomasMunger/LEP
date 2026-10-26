@@ -9,8 +9,10 @@ title: "Choisir parmi les quatre écoles du SEG : SHMS, César Ritz, HIM et Culi
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "Choisir parmi les quatre écoles du SEG : SHMS, César Ritz, HIM et Culinary Arts Academy. Cursus, frais, bourses et regard de James Liu, établi en Europe."
-image: "/assets/seg/james-shms-palace.jpg"
+image: "/assets/seg/shms-palace-fieldwork.jpg"
 translated: true
+image_position: "70% 50%"
+image_alt: "Le campus de SHMS et ses environs, photographiés lors d’une visite LEP."
 ---
 
 Par James Liu | Lux Education Partners | 26 septembre 2026
@@ -28,10 +30,7 @@ Par James Liu | Lux Education Partners | 26 septembre 2026
 
 ## SHMS : hôtellerie, événements et design
 
-<figure class="article-photo">
-<a href="/assets/seg/james-shms-palace.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-palace.jpg" alt="James Liu en visite à SHMS" loading="eager" width="1280" height="1920" decoding="async"></a>
-<figcaption>James Liu lors de sa visite à SHMS | Photo LEP.</figcaption>
-</figure>
+<figure class="article-photo"><img src="/assets/seg/shms-palace-fieldwork.jpg" width="1920" height="1280" alt="Le campus de SHMS et ses environs, photographiés lors d’une visite LEP." loading="eager" decoding="async"><figcaption>Le campus de SHMS et ses environs, photographiés lors d’une visite LEP.</figcaption></figure>
 
 J’ai visité SHMS. Au-delà du cadre, ses trois orientations permettent de relier des talents différents à un métier : exploitation et revenus hôteliers, organisation d’événements ou conception d’espaces adaptés à une activité hôtelière. Le cursus correspondant permet d’obtenir les bachelors de SHMS et de l’Université de Derby. Les études supérieures couvrent notamment le management hôtelier, les marques de luxe, le management hôtelier international et le Global MBA.
 

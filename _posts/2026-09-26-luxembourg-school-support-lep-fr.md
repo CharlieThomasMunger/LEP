@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "James Liu travaille à son ordinateur.",
+  "image_position": "65% 46%",
   "lep_service_page": true,
   "layout": "node",
   "lang": "fr",
@@ -12,7 +14,7 @@
   "reviewed": "2026-10-13",
   "last_modified_at": "2026-10-13",
   "permalink": "/fr/insights/luxembourg-school-support-lep/",
-  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+  "image": "/assets/people/james-working-at-computer.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -49,7 +51,7 @@
   ]
 }
 ---
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="James Liu avec la direction de St George’s International School Luxembourg." loading="eager" decoding="async"><figcaption>James Liu avec la direction de St George’s International School Luxembourg.</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/people/james-working-at-computer.jpg" width="1280" height="1920" alt="James Liu travaille à son ordinateur." loading="eager" decoding="async"><figcaption>James Liu travaille à son ordinateur.</figcaption></figure>
 {% include luxembourg-service-card.html %}
 <h2>Que préparer avant le départ ?</h2><div class="table-scroll"><table><thead><tr><th>Étape</th><th>Travail de LEP</th><th>Résultat concret</th></tr></thead><tbody><tr><td>Choix scolaire</td><td>Comparer ISL, St George’s et OTR selon cursus, langues, budget et présence parentale</td><td>Une proposition motivée d’école et de niveau</td></tr><tr><td>Candidature</td><td>Organiser le dossier et coordonner entretiens, évaluations et essais adaptés</td><td>Des rendez-vous précis et le retour de l’école</td></tr><tr><td>Hébergement</td><td>Relier logement, trajet scolaire, repas, rythme et autorisations parentales</td><td>Une école et un hébergement compatibles</td></tr><tr><td>Arrivée</td><td>Accompagner les documents scolaires et de logement pertinents et la remise convenue</td><td>Des étapes et interlocuteurs clairement définis</td></tr><tr><td>Après l’entrée</td><td>Rapprocher les retours du jeune, de l’école et du foyer selon le service convenu</td><td>Des observations précises et des actions</td></tr></tbody></table></div><p>Les bulletins récents et le cursus suivi nous permettent d’expliquer le parcours du jeune. Il n’est pas nécessaire d’attendre son arrivée en Europe.</p>
 <h2>La valeur d’un échange direct avec la direction</h2><p>Je suis en contact direct avec la direction de St George’s. L’école propose aux élèves de LEP <strong>trois jours d’essai gratuits</strong>. Nous avons aussi discuté du renforcement linguistique et d’un soutien par un camarade pour les élèves chinois. L’essai donne à l’enfant une expérience de classe et aux enseignants une observation de son apprentissage.</p><p>Dans une insertion particulière de septembre, la famille a engagé le service payant le 7, la direction a répondu le jour même, l’offre est arrivée le 14 et l’école a fixé la rentrée au 16. <strong>Le parent avait trouvé la famille d’accueil ; LEP a coordonné école, hébergement et documents.</strong> Le <a href="/fr/insights/st-georges-rapid-school-placement/">récit des neuf jours</a> explique les étapes.</p>

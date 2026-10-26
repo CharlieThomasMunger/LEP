@@ -10,12 +10,14 @@ title: "Pourquoi choisir IMI en Suisse ? Les cours, les stages et le rapport qua
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "IMI mérite, selon moi, d’être étudié pour ses programmes, l’expérience pratique et son rapport qualité-prix. Ses installations ne sont pas les plus luxueuses que j’aie visitées, mais ce n’est qu’une partie du choix."
-image: "/assets/imi/imi-admissions-visit.webp"
+image: "/assets/imi/imi-lake-terrace.jpg"
 translated: true
 
 school_key: "imi"
 
 last_modified_at: "2026-10-07"
+image_position: "50% 50%"
+image_alt: "La terrasse et la vue sur le lac à IMI, photographiées lors d’une visite LEP."
 ---
 
 **Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**
@@ -24,10 +26,7 @@ last_modified_at: "2026-10-07"
 
 En tant qu’entrepreneur établi en Europe, je regarde ce que l’étudiant apprendra, l’expérience qu’il pourra acquérir et la manière dont l’investissement familial prépare la suite.
 
-<figure class="article-photo">
-<a href="/assets/imi/imi-admissions-visit.webp" target="_blank" rel="noopener"><img src="/assets/imi/imi-admissions-visit.webp" alt="James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel." width="2400" height="1331" loading="eager"></a>
-<figcaption>James Liu en visite à IMI. LEP travaille directement avec l’école en tant que partenaire officiel.</figcaption>
-</figure>
+<figure class="article-photo"><img src="/assets/imi/imi-lake-terrace.jpg" width="2275" height="1280" alt="La terrasse et la vue sur le lac à IMI, photographiées lors d’une visite LEP." loading="eager" decoding="async"><figcaption>La terrasse et la vue sur le lac à IMI, photographiées lors d’une visite LEP.</figcaption></figure>
 
 Situé dans la région de Lucerne, IMI enseigne en anglais. Les trois bachelors correspondent à des intérêts différents :
 

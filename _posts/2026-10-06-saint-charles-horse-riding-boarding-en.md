@@ -10,7 +10,7 @@ date: '2026-10-06'
 reviewed: '2026-10-06'
 last_modified_at: '2026-10-06'
 permalink: /en/insights/saint-charles-horse-riding-boarding/
-image: /assets/swiss/sc16.jpg
+image: "/assets/swiss/sc-fold-riding.jpg"
 school_article: true
 has_topic_navigation: true
 custom_lep_support: true
@@ -21,6 +21,8 @@ faq:
   a: Not automatically. Regular or competitive riders need the school and training provider to confirm their specific arrangement.
 - q: Can a student bring a horse?
   a: Discuss the horse’s location and the intended training with LEP first, so the school can confirm possible stabling, care and charges before transport is arranged.
+image_position: "50% 50%"
+image_alt: "The indoor riding arena visited during LEP’s Saint-Charles school visit."
 ---
 
 <h2 id="section-1">Why include Saint-Charles in a riding family’s shortlist?</h2>

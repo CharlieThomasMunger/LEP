@@ -9,12 +9,14 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "Un cursus anglophone peut être envisagé sans apprendre d’abord le français. Le niveau d’entrée et l’accompagnement dépendent de l’élève ; une préparation linguistique facilite son adaptation."
 answer: "Un cursus anglophone peut être envisagé sans apprendre d’abord le français. Le niveau d’entrée et l’accompagnement dépendent de l’élève ; une préparation linguistique facilite son adaptation."
-image: "/assets/fieldwork/otr-james-visit.jpg"
+image: "/assets/fieldwork/otr-classroom-seating.jpg"
 has_topic_navigation: true
 faq: [{"q": "Faut-il parler français avant de candidater dans une école anglophone ?", "a": "Pas nécessairement. Il faut vérifier la langue d’enseignement et les conditions du cursus et de la classe concernés."}, {"q": "Un débutant en anglais peut-il entrer directement en IB ou en A Levels ?", "a": "Son anglais académique et ses acquis doivent être évalués. Ces cursus ne sont pas des programmes d’anglais pour débutants."}, {"q": "Les trois écoles proposent-elles trois jours d’essai gratuits ?", "a": "Cette disposition a été proposée par St George’s aux élèves accompagnés par LEP. Nous confirmons les dates avec l’école."}]
 translated: true
 enquiry_target: "lux-school-contact"
 last_modified_at: "2026-10-07"
+image_position: "50% 50%"
+image_alt: "Une salle de classe à OTR International School, photographiée lors d’une visite LEP."
 ---
 
 <h2>Ne pas parler français ne ferme pas la discussion</h2>
@@ -27,7 +29,7 @@ last_modified_at: "2026-10-07"
 
 <p>Un anglais encore limité justifie une évaluation. Il faut déterminer quel cursus l’enfant peut rejoindre et quel soutien l’école pourra réellement lui apporter.</p>
 
-<figure class="article-photo portrait"><a href="/assets/fieldwork/otr-james-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/otr-james-visit.jpg" alt="James Liu en visite à OTR International School" width="646" height="862" loading="lazy" decoding="async"></a><figcaption>James Liu en visite à OTR International School. Photo LEP.</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/fieldwork/otr-classroom-seating.jpg" width="630" height="840" alt="Une salle de classe à OTR International School, photographiée lors d’une visite LEP." loading="eager" decoding="async"><figcaption>Une salle de classe à OTR International School, photographiée lors d’une visite LEP.</figcaption></figure>
 
 <h2>Je regarde aussi si l’enfant ose utiliser la langue</h2>
 

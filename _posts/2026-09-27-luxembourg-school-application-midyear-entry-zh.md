@@ -9,11 +9,13 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "有空位、课程能衔接，开学后也可以申请插班。先做入学评估，并把寄宿家庭和签证所需时间一起预留。"
 answer: "有空位、课程能衔接，开学后也可以申请插班。先做入学评估，并把寄宿家庭和签证所需时间一起预留。"
-image: "/assets/fieldwork/st-georges-principal-school-sign.jpg"
+image: "/assets/people/james-reading-books.jpg"
 has_topic_navigation: true
 faq: [{"q": "三所学校是否都有统一的申请截止日？", "a": "没有一个适用于所有学校、所有年级的统一日期，要看学年、空位和课程。"}, {"q": "一定要飞到卢森堡才能参加考试吗？", "a": "从国内申请通常先协调远程评估；需要到校体验的，再落实试读安排。"}, {"q": "LEP能保证九天入学吗？", "a": "不能。九天是已完成的欧盟内个案，普通申请必须预留充分时间。"}]
 consultation: "lux-midyear"
 last_modified_at: "2026-10-07"
+image_position: "65% 45%"
+image_alt: "修印先生在书架旁阅读。"
 ---
 
 {% include lep-intent-contact.html %}
@@ -25,7 +27,7 @@ last_modified_at: "2026-10-07"
 
 <p>从中国申请初高中，我们通常先与校方安排远程考试或面谈。学校要判断英语、学科基础和学习情况，再决定能否接收、进入哪个年级。<strong>能插班，不代表可以跳过评估。</strong></p>
 
-<figure class="article-photo"><a href="/assets/fieldwork/st-georges-principal-school-sign.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" alt="修印先生与圣乔治国际学校校长合影" width="1920" height="1280" loading="lazy" decoding="async"></a><figcaption>修印先生与圣乔治国际学校校长合影。LEP访校实拍。</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/people/james-reading-books.jpg" width="1280" height="1920" alt="修印先生在书架旁阅读。" loading="eager" decoding="async"><figcaption>修印先生在书架旁阅读。</figcaption></figure>
 
 <h2>想九月入学，什么时候开始比较合适？</h2>
 

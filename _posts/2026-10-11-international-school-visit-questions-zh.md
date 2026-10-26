@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "Eerde访校途中看到的校园环境。LEP实拍。",
+  "image_position": "50% 65%",
   "layout": "node",
   "lang": "zh",
   "ref": "family-international-school-visit-questions",
@@ -23,7 +25,7 @@
       "a": "LEP先结合孩子筛选对象并准备校方沟通，之后将课程、住宿、费用和家庭反馈接到申请判断，访校是整个选择过程中的一步。"
     }
   ],
-  "image": "/assets/swiss/cm-fold-classroom.jpg"
+  "image": "/assets/eerde/eerde-fold-family-visit.jpg"
 }
 ---
 
@@ -33,7 +35,7 @@
 
 LEP 从孩子出发安排问题。年龄、课程、英语、强弱科、兴趣和父母是否同行，会影响我们建议看哪些学校、需要与哪些校方人员交流，以及什么问题应当在现场解决。
 
-<figure class="article-photo"><img src="/assets/swiss/cm-fold-classroom.jpg" width="1200" height="1600" alt="修印先生走访 Chantemerle · LEP 实拍" loading="lazy" decoding="async"><figcaption>修印先生走访 Chantemerle · LEP 实拍</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/eerde/eerde-fold-family-visit.jpg" width="1200" height="1600" alt="Eerde访校途中看到的校园环境。LEP实拍。" loading="eager" decoding="async"><figcaption>Eerde访校途中看到的校园环境。LEP实拍。</figcaption></figure>
 
 ## 先利用我们已经看过的学校，减少无效奔波
 

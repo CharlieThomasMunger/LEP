@@ -9,10 +9,12 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "Mid-year entry can be possible when there is a place and the curriculum can be matched. Allow time for assessment, a host family where needed and the applicable immigration process."
 answer: "Mid-year entry can be possible when there is a place and the curriculum can be matched. Allow time for assessment, a host family where needed and the applicable immigration process."
-image: "/assets/fieldwork/st-georges-principal-school-sign.jpg"
+image: "/assets/people/james-reading-books.jpg"
 has_topic_navigation: true
 faq: [{"q": "Is there one application deadline for all three schools?", "a": "No. Dates depend on the school, academic year, course and available places."}, {"q": "Must a child fly to Luxembourg for the first assessment?", "a": "For overseas applications, we normally coordinate a remote assessment first and then any appropriate school trial."}, {"q": "Can LEP guarantee entry within nine days?", "a": "No. That was a completed individual case within the EU, not a standard timescale or guarantee."}]
 translated: true
+image_position: "65% 45%"
+image_alt: "James Liu reading beside the bookshelves."
 ---
 
 <h2>The start of term is not necessarily the end of admissions</h2>
@@ -23,7 +25,7 @@ translated: true
 
 <p>For applicants overseas, we normally begin by coordinating a remote assessment or interview. The school needs to understand English, subject knowledge and learning needs before deciding on admission and placement. <strong>Mid-year entry does not remove the assessment process.</strong></p>
 
-<figure class="article-photo"><a href="/assets/fieldwork/st-georges-principal-school-sign.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" alt="James Liu with the principal of St George’s" width="1920" height="1280" loading="lazy" decoding="async"></a><figcaption>James Liu with the principal of St George’s. Photograph from an LEP school visit.</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/people/james-reading-books.jpg" width="1280" height="1920" alt="James Liu reading beside the bookshelves." loading="eager" decoding="async"><figcaption>James Liu reading beside the bookshelves.</figcaption></figure>
 
 <h2>Planning a September start</h2>
 

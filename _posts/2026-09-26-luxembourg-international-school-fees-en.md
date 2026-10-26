@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "James Liu reading documents at his desk.",
+  "image_position": "50% 55%",
   "lep_service_page": false,
   "layout": "node",
   "lang": "en",
@@ -12,7 +14,7 @@
   "reviewed": "2026-10-12",
   "last_modified_at": "2026-10-12",
   "permalink": "/en/insights/luxembourg-international-school-fees/",
-  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+  "image": "/assets/people/james-reading-at-desk.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -32,7 +34,7 @@
 }
 ---
 
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="James Liu’s school visit · LEP photograph" loading="eager" decoding="async"><figcaption>James Liu’s school visit · LEP photograph</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/people/james-reading-at-desk.jpg" width="1280" height="1920" alt="James Liu reading documents at his desk." loading="eager" decoding="async"><figcaption>James Liu reading documents at his desk.</figcaption></figure>
 <h2>The 2026/27 annual comparison</h2><div class="table-scroll"><table><thead><tr><th>School / stage</th><th>Annual school fees EUR</th><th>Host-family reference EUR</th><th>Combined EUR/year</th></tr></thead><tbody><tr><td>OTR Grade 6–10</td><td>16,019</td><td>25,000</td><td>41,019</td></tr><tr><td>OTR Grade 11–12</td><td>16,992</td><td>25,000</td><td>41,992</td></tr><tr><td>St George’s Year 7–9</td><td>18,400</td><td>25,000</td><td>43,400</td></tr><tr><td>St George’s Year 10–13</td><td>19,695</td><td>25,000</td><td>44,695</td></tr><tr><td>ISL Grade 6–8</td><td>24,005</td><td>25,000</td><td>49,005</td></tr><tr><td>ISL Grade 9–12</td><td>24,226</td><td>25,000</td><td>49,226</td></tr></tbody></table></div><p>School figures include the annual fixed items in the relevant published schedules. EUR 25,000 is James Liu’s previous annual host-family food-and-accommodation reference, with the precise dates and service scope agreed for the actual household. A Chinese school year does not automatically map to a British Year or international Grade.</p><p>For Chinese families comparing scale, an illustrative EUR 1 = RMB 8.5 gives approximately RMB 357,000, 380,000 and 418,000 for the three upper-secondary combinations. This is a budgeting assumption; payments use the applicable exchange rate.</p>
 <h2>First-year cash is different from recurring expenditure</h2><div class="table-scroll"><table><thead><tr><th>Upper-secondary example</th><th>School + host</th><th>First-entry items</th><th>Listed first-year cash EUR</th></tr></thead><tbody><tr><td>OTR Grade 11–12</td><td>41,992</td><td>Registration 300 + deposit 450</td><td>42,742</td></tr><tr><td>St George’s Year 10–13</td><td>44,695</td><td>Application 750 + deposit 1,000</td><td>46,445</td></tr><tr><td>ISL Grade 9–12</td><td>49,226</td><td>Application 300 + registration 3,000</td><td>52,526</td></tr></tbody></table></div><p>Deposits need cash at entry but differ from final consumption. These totals cover the listed items. Any additional ISL advance specified in admission documents enters the payment plan separately, alongside LEP services, insurance, flights, holidays and personal spending.</p>
 <h2>Match the household to the school</h2><p>Transport, school lunches, accommodation dates and holidays all change the final budget. Selecting a cheaper school before finding a workable commute may create additional costs and repeated adjustments. LEP discusses location and daily routine at the school-choice stage.</p>

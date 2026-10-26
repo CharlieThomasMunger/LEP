@@ -21,8 +21,8 @@
       {
         "school": "St George’s International School",
         "slug": "st-georges-luxembourg-school",
-        "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
-        "position": "50% 40%"
+        "image": "/assets/fieldwork/st-georges-principal-conversation.jpg",
+        "position": "50% 35%"
       },
       {
         "school": "International School of Luxembourg",
@@ -36,7 +36,9 @@
         "image": "/assets/fieldwork/otr-james-visit.jpg",
         "position": "50% 30%"
       }
-    ]
+    ],
+    "card_image": "/assets/fieldwork/st-georges-principal-conversation.jpg",
+    "card_position": "50% 35%"
   },
   "switzerland": {
     "hero": "/assets/fieldwork/glion-james-students-teacher-20261021.jpg",

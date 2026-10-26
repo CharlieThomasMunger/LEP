@@ -62,7 +62,7 @@ layout: default
     <div class="home-country-grid">
       {% for d in h.destinations %}
       <article class="home-country{% if forloop.first %} home-country-primary{% endif %}">
-        {% assign country_photo = site.data.destination_visuals[d.slug] %}<a class="home-country-image" href="{{ prefix | append: '/destinations/' | append: d.slug | append: '/' | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ country_photo.hero | relative_url }}" alt="{{ country_photo.caption[lang] | escape }}" width="600" height="400" style="object-position:{{ country_photo.hero_position }}" loading="lazy" decoding="async"></a>
+        {% assign country_photo = site.data.destination_visuals[d.slug] %}<a class="home-country-image" href="{{ prefix | append: '/destinations/' | append: d.slug | append: '/' | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ country_photo.card_image | default: country_photo.hero | relative_url }}" alt="{{ country_photo.caption[lang] | escape }}" width="600" height="400" style="object-position:{{ country_photo.card_position | default: country_photo.hero_position }}" loading="lazy" decoding="async"></a>
         <p class="home-label">{{ d.label }}</p>
         <h3>{{ d.name }}</h3><p class="home-country-description">{{ d.text }}</p>
         <ul>{% for link in d.links %}<li><a href="{{ prefix | append: '/insights/' | append: link.slug | append: '/' | relative_url }}">{{ link.text }} <span aria-hidden="true">↗</span></a></li>{% endfor %}</ul>

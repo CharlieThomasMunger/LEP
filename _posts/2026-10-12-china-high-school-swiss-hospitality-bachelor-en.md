@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "James Liu visiting SHMS.",
+  "image_position": "60% 48%",
   "layout": "node",
   "lang": "en",
   "ref": "lep-guide-china-high-school-swiss-hospitality-bachelor",
@@ -11,7 +13,7 @@
   "reviewed": "2026-10-12",
   "last_modified_at": "2026-10-12",
   "permalink": "/en/insights/china-high-school-swiss-hospitality-bachelor/",
-  "image": "/assets/seg/james-shms-partnership.jpg",
+  "image": "/assets/seg/james-shms-palace.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -32,7 +34,7 @@
 }
 ---
 
-<figure class="article-photo"><img src="/assets/seg/james-shms-partnership.jpg" width="1920" height="1280" alt="James Liu’s visit to SHMS · LEP photograph." loading="eager" decoding="async"><figcaption>James Liu’s visit to SHMS · LEP photograph.</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/seg/james-shms-palace.jpg" width="1280" height="1920" alt="James Liu visiting SHMS." loading="eager" decoding="async"><figcaption>James Liu visiting SHMS.</figcaption></figure>
 <h2>Start with the actual admission requirements</h2><div class="table-scroll"><table><thead><tr><th>School / direction</th><th>Academic and English starting point</th><th>Interests to discuss</th></tr></thead><tbody><tr><td>IMI hospitality / business</td><td>High-school qualification; current initial-semester page: age 18+, IELTS 5.0 or equivalent</td><td>Hospitality operations and international business</td></tr><tr><td>SHMS</td><td>Completed secondary education; IELTS 5.5 reference</td><td>Hospitality, events or design management</td></tr><tr><td>HIM BBA</td><td>Completed secondary education; IELTS 5.5 reference</td><td>Finance, marketing and customer experience</td></tr><tr><td>CRCS BSc</td><td>Completed secondary education; IELTS 5.5, bands at least 4.5</td><td>Hospitality business and entrepreneurship</td></tr><tr><td>CAA</td><td>Completed secondary education; IELTS 5.5 reference</td><td>Culinary, pastry and food businesses</td></tr></tbody></table></div><p>LEP aligns the intended intake, academic evidence and school assessment. Chinese graduation documents are explained as a complete educational history, while age and English are checked for the selected course.</p>
 <h2>If English or study foundations need preparation</h2><p>IMI’s Certificate in International Hotel &amp; Tourism Management is a 22-week foundation route including academic English, study skills and hospitality basics. We compare preparing at home with an additional school stage against the student’s needs, timing and full budget.</p>
 <h2>Choose the work, not just a broad course name</h2><p>Hospitality operations and understanding guests suggest IMI hospitality or SHMS. Organising activities points towards events; an interest in spaces and consumer experience can lead to design management. Finance, marketing and business invite comparison of IMI business and HIM. Sustained professional-kitchen training leads to CAA or IMI culinary routes.</p><p>I am James Liu. I see these courses as an active choice for strengths in organisation, empathy, judgement, aesthetics and doing a task well. I ask whether the student is willing to learn basic work, maintain standards under pressure and collaborate. School marks are one part of that judgement.</p>

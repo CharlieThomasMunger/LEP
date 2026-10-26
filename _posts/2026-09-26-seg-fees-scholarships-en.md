@@ -9,18 +9,17 @@ title: "SEG fees and scholarships: comparing four schools and planning the famil
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "SEG fees and scholarships: comparing four schools and planning the family budget. Courses, fees, scholarships and James Liu’s perspective from Europe."
-image: "/assets/seg/james-shms-partnership.jpg"
+image: "/assets/seg/james-shms-lake.jpg"
 translated: true
+image_position: "55% 45%"
+image_alt: "James Liu during his visit to SHMS."
 ---
 
 By James Liu | Lux Education Partners | 26 September 2026
 
 **Undergraduate budgets range from CHF 131,800 at HIM to CHF 186,500 at SHMS. I first ask what the additional investment gives the student, then consider the family’s budget and scholarships.** I have visited SHMS and HIM, and LEP works directly with all four schools.
 
-<figure class="article-photo">
-<a href="/assets/seg/james-shms-partnership.jpg" target="_blank" rel="noopener"><img src="/assets/seg/james-shms-partnership.jpg" alt="James Liu during his SHMS visit" loading="eager" width="1920" height="1280" decoding="async"></a>
-<figcaption>James Liu visiting SHMS; LEP works directly with the school | LEP photograph.</figcaption>
-</figure>
+<figure class="article-photo"><img src="/assets/seg/james-shms-lake.jpg" width="1920" height="1280" alt="James Liu during his visit to SHMS." loading="eager" decoding="async"><figcaption>James Liu during his visit to SHMS.</figcaption></figure>
 
 ## Undergraduate budgets
 

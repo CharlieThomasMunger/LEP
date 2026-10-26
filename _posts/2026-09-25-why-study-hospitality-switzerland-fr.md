@@ -10,9 +10,14 @@ title: "Pourquoi étudier le management hôtelier en Suisse ? Regardons d’abor
 date: "2026-09-25"
 reviewed: "2026-09-25"
 description: "À mon sens, les études hôtelières suisses méritent l’attention des familles dont l’enfant aime travailler avec les autres, organiser et comprendre le fonctionnement d’une entreprise. Ces qualités ont besoin d’un parcours qui les transforme en compétences professionnelles."
-image: "/assets/imi/hospitality-curriculum.png"
+image: "/assets/imi/imi-interior-lake-view.jpg"
 translated: true
+image_position: "50% 50%"
+image_alt: "La salle à manger et la vue sur le lac à IMI, photographiées lors d’une visite LEP."
 ---
+
+<figure class="article-photo"><img src="/assets/imi/imi-interior-lake-view.jpg" width="2275" height="1280" alt="La salle à manger et la vue sur le lac à IMI, photographiées lors d’une visite LEP." loading="eager" decoding="async"><figcaption>La salle à manger et la vue sur le lac à IMI, photographiées lors d’une visite LEP.</figcaption></figure>
+
 
 **Par James Liu | Lux Education Partners | Vérifié le 25 septembre 2026**
 

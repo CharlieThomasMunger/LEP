@@ -12,10 +12,12 @@ layout: default
 {% assign display = site.data.education_display[p.ref] %}
 {% assign cover = site.data.guide_covers[p.ref].image | default: p.image %}
 {% if display.image %}{% assign cover = display.image %}{% endif %}
+{% assign cover_position = display.position | default: site.data.guide_covers[p.ref].position | default: p.image_position | default: "50% 50%" %}
+{% assign cover_alt = site.data.guide_covers[p.ref].caption[lang] | default: p.image_alt | default: p.title %}
 {% assign category_key = site.data.education.clusters[key] | default: 'services' %}
 {% assign country_keys = '' %}{% case key %}{% when 'switzerland-hotel', 'switzerland-boarding' %}{% assign country_keys = 'switzerland' %}{% when 'luxembourg-school', 'luxembourg-university' %}{% assign country_keys = 'luxembourg' %}{% when 'netherlands-school' %}{% assign country_keys = 'netherlands' %}{% when 'equestrian-school' %}{% assign country_keys = 'netherlands switzerland' %}{% else %}{% assign country_keys = 'luxembourg switzerland netherlands' %}{% endcase %}
 <article class="education-guide-card{% if cover %} has-cover{% endif %}" data-filter-item data-category="{{ category_key }}" data-country="{{ country_keys }}" data-search="{{ p.title | escape }} {{ p.description | escape }} {{ display.title[lang] | escape }}">
-{% if cover %}<a class="education-guide-image" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ cover | relative_url }}" alt="{{ display.title[lang] | default: p.title | escape }}" width="400" height="280" loading="lazy" decoding="async"></a>{% endif %}
+{% if cover %}<a class="education-guide-image" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ cover | relative_url }}" alt="{{ cover_alt | escape }}" width="400" height="280" style="object-position:{{ cover_position | escape }}" loading="lazy" decoding="async"></a>{% endif %}
 <div><h3><a href="{{ p.url | relative_url }}">{{ display.title[lang] | default: p.title }}</a></h3><p>{{ display.summary[lang] | default: p.description | default: p.answer | strip_html | truncate: 145 }}</p></div>
 </article>{% endfor %}</div></section>{% endif %}{% endfor %}
 </div>

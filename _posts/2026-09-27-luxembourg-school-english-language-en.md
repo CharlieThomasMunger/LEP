@@ -9,12 +9,14 @@ date: "2026-09-27"
 reviewed: "2026-09-27"
 description: "English-medium education is an option without first learning French. The right entry point depends on the child’s year group, English and available support; preparation makes settling in easier."
 answer: "English-medium education is an option without first learning French. The right entry point depends on the child’s year group, English and available support; preparation makes settling in easier."
-image: "/assets/fieldwork/otr-james-visit.jpg"
+image: "/assets/fieldwork/otr-classroom-seating.jpg"
 has_topic_navigation: true
 faq: [{"q": "Is French required before applying to an English-medium school?", "a": "Not necessarily. Check the teaching language and the requirements of the particular course and year group."}, {"q": "Can a beginner in English go straight into the IB Diploma or A Levels?", "a": "Academic English and subject readiness need assessment. These courses should not be treated as beginner language programmes."}, {"q": "Do all three schools offer a free three-day trial?", "a": "This is an arrangement St George’s has offered students working with LEP. We confirm the dates with the school."}]
 translated: true
 enquiry_target: "lux-school-contact"
 last_modified_at: "2026-10-07"
+image_position: "50% 50%"
+image_alt: "A classroom at OTR International School, photographed during an LEP visit."
 ---
 
 <h2>Not speaking French need not end the conversation</h2>
@@ -27,7 +29,7 @@ last_modified_at: "2026-10-07"
 
 <p>Limited English is a reason for an assessment, not an automatic reason to abandon the idea. We need to establish which course the child can realistically enter and how much support the school can provide.</p>
 
-<figure class="article-photo portrait"><a href="/assets/fieldwork/otr-james-visit.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/otr-james-visit.jpg" alt="James Liu visiting OTR International School" width="646" height="862" loading="lazy" decoding="async"></a><figcaption>James Liu visiting OTR International School. LEP photograph.</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/fieldwork/otr-classroom-seating.jpg" width="630" height="840" alt="A classroom at OTR International School, photographed during an LEP visit." loading="eager" decoding="async"><figcaption>A classroom at OTR International School, photographed during an LEP visit.</figcaption></figure>
 
 <h2>I want to know whether a child will use the language</h2>
 

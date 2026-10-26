@@ -10,7 +10,7 @@ date: '2026-10-06'
 reviewed: '2026-10-06'
 last_modified_at: '2026-10-06'
 permalink: /fr/insights/saint-charles-horse-riding-boarding/
-image: /assets/swiss/sc16.jpg
+image: "/assets/swiss/sc-fold-riding.jpg"
 school_article: true
 has_topic_navigation: true
 custom_lep_support: true
@@ -21,6 +21,8 @@ faq:
   a: Il ne faut pas le présumer. L’école et le prestataire sportif doivent confirmer l’organisation correspondant à l’élève.
 - q: Peut-on venir avec son cheval ?
   a: Présentez d’abord à LEP le lieu où se trouve le cheval et les objectifs, pour faire confirmer hébergement, soins et tarifs par l’école avant d’organiser le transport.
+image_position: "50% 50%"
+image_alt: "Le manège couvert découvert lors de la visite LEP à Saint-Charles."
 ---
 
 <h2 id="section-1">Pourquoi inclure Saint-Charles dans cette réflexion ?</h2>

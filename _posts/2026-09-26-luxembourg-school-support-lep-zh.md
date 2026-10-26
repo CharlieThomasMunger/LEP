@@ -1,5 +1,7 @@
 ---
 {
+  "image_alt": "修印先生在电脑前工作。",
+  "image_position": "65% 46%",
   "lep_service_page": true,
   "layout": "node",
   "lang": "zh",
@@ -12,7 +14,7 @@
   "reviewed": "2026-10-13",
   "last_modified_at": "2026-10-13",
   "permalink": "/zh/insights/luxembourg-school-support-lep/",
-  "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg",
+  "image": "/assets/people/james-working-at-computer.jpg",
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "faq": [
@@ -51,7 +53,7 @@
 ---
 
 
-<figure class="article-photo"><img src="/assets/fieldwork/st-georges-principal-school-sign.jpg" width="1920" height="1280" alt="修印先生与卢森堡圣乔治国际学校校长合影。" loading="eager" decoding="async"><figcaption>修印先生与卢森堡圣乔治国际学校校长合影。</figcaption></figure>
+<figure class="article-photo portrait"><img src="/assets/people/james-working-at-computer.jpg" width="1280" height="1920" alt="修印先生在电脑前工作。" loading="eager" decoding="async"><figcaption>修印先生在电脑前工作。</figcaption></figure>
 {% include luxembourg-service-card.html %}
 <p>学校给出录取，是一件重要的事。对于孩子独自出国的家庭，真正需要落实的还有另一半：每天住在哪里、如何到校、遇到问题谁来沟通。LEP把这两部分放在同一个方案里推进。</p>
 <h2>孩子还在中国，我们已经能开始做什么？</h2>
