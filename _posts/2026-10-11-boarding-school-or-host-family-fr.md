@@ -4,58 +4,71 @@
   "lang": "fr",
   "ref": "family-boarding-school-or-host-family",
   "cluster": "family-decisions",
-  "title": "Un enfant part seul : internat ou famille d’accueil avec LEP ?",
-  "description": "LEP compare externat luxembourgeois avec famille d’accueil et internats suisses ou néerlandais. Cursus, rythme de vie, parents et budget orientent le parcours, puis candidature et coordination de l’hébergement.",
-  "answer": "LEP compare externat luxembourgeois avec famille d’accueil et internats suisses ou néerlandais. Cursus, rythme de vie, parents et budget orientent le parcours, puis candidature et coordination de l’hébergement.",
+  "title": "Famille d’accueil au Luxembourg ou internat suisse : vie quotidienne et budget",
+  "description": "École internationale privée avec famille d’accueil au Luxembourg et internat suisse diffèrent par les cursus, la vie après les cours et le budget complet.",
+  "answer": "École internationale privée avec famille d’accueil au Luxembourg et internat suisse diffèrent par les cursus, la vie après les cours et le budget complet. LEP assure candidature, recherche de famille et suivi local au Luxembourg, et a visité des internats suisses. Nous comparons les deux selon ce que l’enfant peut réussir scolairement et vivre sereinement.",
   "date": "2026-10-11",
-  "reviewed": "2026-10-11",
-  "last_modified_at": "2026-10-11",
+  "reviewed": "2026-10-27",
+  "last_modified_at": "2026-10-27",
   "permalink": "/fr/insights/boarding-school-or-host-family/",
-  "has_topic_navigation": true,
+  "image": "/assets/host-family-room.jpg",
+  "image_alt": "Chambre en famille d’accueil, avec espace de repos et lumière naturelle.",
+  "image_position": "50% 45%",
   "custom_lep_support": true,
+  "has_topic_navigation": true,
+  "published": true,
   "faq": [
     {
-      "q": "L’externat impose-t-il toujours que les parents s’installent sur place ?",
-      "a": "Cela dépend de l’école, du pays et de l’hébergement. LEP accompagne au Luxembourg des candidatures avec coordination de famille d’accueil lorsque les parents restent à l’étranger."
+      "q": "Sans parents sur place, l’internat est-il obligatoire ?",
+      "a": "On peut comparer l’internat suisse et le dispositif privé avec famille d’accueil de LEP au Luxembourg."
     },
     {
-      "q": "Peut-on consulter LEP avant de choisir le pays ?",
-      "a": "Oui. Nous pouvons comparer externat et famille d’accueil au Luxembourg avec les internats suisses et néerlandais selon le jeune et le budget."
+      "q": "L’exemple luxembourgeois concerne-t-il le public gratuit ?",
+      "a": "Non, il associe école internationale privée et famille d’accueil."
+    },
+    {
+      "q": "Quelle formule coûte moins cher ?",
+      "a": "Il faut compléter scolarité, pension, services locaux et vacances selon le cas."
+    },
+    {
+      "q": "Les services LEP sont-ils gratuits dans les deux cas ?",
+      "a": "Candidatures et visites familiales suisses : pas de frais LEP supplémentaires. Le suivi local au Luxembourg est chiffré selon le mandat."
     }
-  ]
+  ],
+  "education_key": "schools"
 }
 ---
+<figure class="article-photo"><img src="/assets/host-family-room.jpg" width="1280" height="1707" alt="Chambre en famille d’accueil, avec espace de repos et lumière naturelle." loading="eager" decoding="async"><figcaption>Chambre en famille d’accueil, avec espace de repos et lumière naturelle.</figcaption></figure>
+<h2>Commencer par la vie après les cours</h2>
+<p>Comment l’enfant communique-t-il, exprime-t-il une difficulté et vit-il les activités collectives ? Quelles sont les priorités des parents ? L’hébergement doit soutenir le cursus et correspondre à sa personnalité.</p>
+<div class="table-scroll"><table><thead><tr><th scope="col">Point</th><th scope="col">École privée et famille au Luxembourg</th><th scope="col">Internat suisse</th></tr></thead><tbody><tr><td>Après les cours</td><td>Vie dans une famille choisie, avec rythme et relations examinés</td><td>Résidence et groupe de pairs selon l’organisation scolaire</td></tr><tr><td>Trajet</td><td>École, transports publics ou accompagnement à coordonner</td><td>Souvent sur campus ou dans un logement désigné, à vérifier</td></tr><tr><td>Activités et week-ends</td><td>École, famille et ressources locales</td><td>Programme d’internat et activités ; installations variables</td></tr><tr><td>Cursus</td><td>Notre dispositif sans parents utilise les écoles privées internationales ; anglais le plus établi</td><td>A Level, IB ou Maturité suisse selon l’école</td></tr><tr><td>Coordination</td><td>LEP relie école, famille et parents ; suivi avec l’association et changements nécessaires</td><td>Gestion de l’internat par l’école ; LEP accompagne les échanges et la candidature</td></tr><tr><td>Vacances</td><td>Dates d’accueil de la famille et voyages à préciser</td><td>Ouverture de l’internat, séjours de vacances et transferts à vérifier</td></tr></tbody></table></div>
 
-## Comparer le quotidien avant l’étiquette
+<h2>Comparer les mêmes postes</h2>
+<p>Voici les frais annuels de scolarité et les principaux logement et repas. Le Luxembourg utilise des références 2026/27 du secondaire supérieur anglophone privé et environ 25 000 euros d’accueil familial. La Suisse utilise les barèmes d’internat sept jours. Wikon reste une référence donnée lors de la visite, à détailler dans une offre.</p>
+<div class="table-scroll"><table><thead><tr><th scope="col">Parcours</th><th scope="col">Scolarité et pension principales par an</th><th scope="col">À ajouter</th></tr></thead><tbody><tr><td>Luxembourg privé + famille</td><td>Environ 42 000–49 200 €</td><td>Première inscription, services LEP, assurance, transports, vacances et dépenses</td></tr><tr><td>Wikon / IB</td><td>Environ 55 000–60 000 CHF</td><td>Décomposition de l’offre et suppléments</td></tr><tr><td>Chantemerle / A Level</td><td>62 500 CHF</td><td>Première année 1 600, assurance, examens et options</td></tr><tr><td>Lémania / IB</td><td>75 220 CHF</td><td>Frais d’entrée, assurance, vacances et dépenses</td></tr><tr><td>ENSR / IB</td><td>81 000 CHF</td><td>Candidature, plateforme IB, examens, assurance et dépenses</td></tr><tr><td>Saint-Charles / IB DP</td><td>92 500 CHF</td><td>Frais d’entrée, assurance et dépenses personnelles</td></tr></tbody></table></div>
+<p>Pour donner un ordre de grandeur en monnaie commune, les hypothèses 1 € = 8,5 CNY et 1 CHF = 9 CNY donnent environ 357 000–418 000 CNY pour la base luxembourgeoise, et 495 000–833 000 CNY pour les références suisses. Ce ne sont pas des cours de change actuels. Un dépôt remboursable mobilise de la trésorerie mais n’est pas une consommation annuelle répétée s’il est restitué.</p>
+<p>La simple différence entre deux chiffres ne donne donc pas encore l’économie familiale. Il faut ajouter services, activités, vacances et trajets réellement nécessaires. LEP rapproche le coût de l’encadrement correspondant.</p>
 
-Lorsqu’une famille recherche un internat, LEP commence par comprendre ce dont le jeune a besoin après les cours. Certains aiment une routine collective ; d’autres préfèrent un foyer.
+<h2>Ce que les visites apportent à mon jugement</h2>
+<p>Les espaces rénovés et le rapport coût-prestations de Wikon ressortent, tandis que ses équipements sportifs actuels doivent être confrontés aux intérêts de l’enfant. ENSR m’a marqué par son ordre, sa propreté et son internat rénové. Lémania utilise davantage les ressources urbaines. Le petit cadre de Chantemerle et les installations de Saint-Charles répondent à d’autres préférences.</p>
+<p>Au Luxembourg, la correspondance avec la famille et le suivi sont décisifs. Une même école se vit différemment selon les repas, le rythme, l’espace de travail et la communication à la maison. LEP connaît les familles locales et coopère avec leur association pour le suivi.</p>
+<p>Nous considérons le trajet, la compatibilité et la réputation locale ; le contrat précise supervision et coordination. Si un changement s’impose, LEP peut rechercher une autre famille et organiser l’hébergement transitoire. Nos contacts scolaires permettent aussi de réexaminer l’école si nécessaire.</p>
 
-Nous travaillons sur les écoles luxembourgeoises avec familles d’accueil et sur les internats suisses et néerlandais. Cela permet de comparer apprentissage et vie quotidienne avant de retenir une formule.
+<h2>Construire une sélection réalisable</h2>
+<p>Déterminer d’abord le cursus accessible, puis le mode de vie et le budget complet. Un élève en A Level doit protéger sa continuité ; un projet universitaire suisse demande de comparer tôt Maturité et IB.</p>
+<p>Le dispositif privé actuel de LEP au Luxembourg concerne les plus de 11 ans, sans installation préalable des parents. L’accueil familial adapté est un préalable essentiel. Les parents peuvent nous confier l’analyse d’ensemble plutôt que réunir seuls les différentes composantes.</p>
+<p>Après le premier échange, nous précisons les parcours, les discussions scolaires, le budget et l’accueil. L’objectif est une courte sélection de solutions que la famille peut réellement poursuivre.</p>
 
-## Luxembourg : scolarité et vie après les cours
+<section class="lep-intent-contact"><h2>Construire le projet avec LEP</h2>
+<p>LEP ne facture pas de frais supplémentaires pour les candidatures et visites familiales des écoles suisses. L’accueil familial et le suivi au Luxembourg sont chiffrés selon le mandat.</p>
+<p>Précisez l’âge, le cursus et les résultats, les langues, la rentrée souhaitée, le budget et les deux questions prioritaires de votre famille.</p>
+<p><a href="https://wa.me/352661221289">Contacter LEP sur WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 
-ISL, St George’s et OTR proposent des environnements différents. L’admission en externat exige aussi logement, transports et communication quotidienne.
+</section><section class="source-note"><h2>Sources</h2>
+<p>Vérifié le 27 octobre 2026. Chaque barème conserve son année indiquée ; les observations de visite sont celles de James Liu.</p>
+<p><a href="https://chantemerle.ch/en/fees/">Chantemerle — fees</a>; <a href="https://cdn.prod.website-files.com/6964c7b4ab6723b37f5f5366/6a2661fcec1827f781eaa6f1_annual_fees_2026-2027_boarding.pdf">ENSR — fees</a>; <a href="https://ibexperience.lemania.ch/admissions/">Lémania — fees</a>; <a href="https://saintcharles.static.amais.com/Fees_20262027__7_Days_Boarding_15_-787.pdf?version=639107519398470000">Saint-Charles — fees</a></p>
 
-Implanté sur place, LEP peut discuter candidature, recherche de famille d’accueil et coordination convenue pour le même enfant. Horaires, repas, espace de travail et échanges font partie du projet. Voir notre [guide pour les parents restant à l’étranger](/fr/insights/study-without-parents/).
+</section><nav class="related"><h2>Poursuivre la comparaison</h2>
+<ul><li><a href="/fr/insights/luxembourg-free-public-school-parents-in-china/">Scolariser un enfant au Luxembourg sans y installer les parents : que peut faire LEP ?</a></li><li><a href="/fr/insights/uk-private-school-transfer-switzerland/">Passer d’une école privée britannique à la Suisse : classe, budget global et perspectives</a></li><li><a href="/fr/insights/swiss-maturite-ib-eth-epfl/">IB ou Maturité pour ETH Zurich et l’EPFL : matières, langues et choix d’école</a></li><li><a href="/fr/insights/luxembourg-school-support-lep/">École secondaire et famille d’accueil au Luxembourg : faire appel à LEP</a></li></ul>
 
-## Suisse et Pays-Bas : cursus et campus
-
-Pour la scolarité résidentielle, LEP peut examiner Chantemerle, Saint-Charles et Eerde. L’objectif est une adéquation entre niveau, programme, routine et budget, plutôt qu’un classement universel.
-
-Nos visites apportent un contexte concret : cadre chaleureux de Chantemerle, campus et résidence de Saint-Charles, environnement scolaire et résidentiel d’Eerde. Consultez nos [observations de terrain](/fr/fieldwork/) avant d’approfondir les questions propres au jeune.
-
-## Suivre le même élève pendant une semaine
-
-Comment se passent matinées, activités, devoirs, week-ends et demandes d’aide dans chaque solution ? LEP relie ces points aux préoccupations prioritaires et les transmet aux interlocuteurs concernés.
-
-Téléphone ou relations deviennent ainsi des questions pratiques de choix scolaire, au-delà de conseils parentaux généraux.
-
-## Intégrer la réalité des parents
-
-Travail, fratrie, visites et vacances influencent la durée possible du projet. Les fermetures scolaires demandent une organisation explicite dans les deux formules. LEP relie ce calendrier aux coûts et à la scolarité.
-
-Indiquez âge, cursus, anglais, rentrée, présence des parents, budget et préférence pour vie collective ou familiale. Nous pourrons comparer les combinaisons, puis poursuivre échanges, candidatures et logement. [Services LEP aux familles](/fr/families/).
-
-<section class="lep-intent-contact"><h2>Présenter votre projet à LEP</h2><p>Indiquez âge, cursus, anglais, présence des parents, rentrée envisagée et budget annuel.</p><p><a href="/fr/families/">Découvrir candidatures et soutien local →</a></p></section>
-
-<nav class="related" aria-label="Poursuivre votre projet avec LEP"><h2>Poursuivre votre projet avec LEP</h2><ul><li><a href="/fr/insights/boarding-school-readiness/">Comment LEP choisit un cadre scolaire pour un adolescent réservé</a></li><li><a href="/fr/insights/europe-secondary-school-total-budget/">Comparer le budget d’une scolarité européenne avec LEP</a></li><li><a href="/fr/insights/first-term-overseas-school/">Parents à l’étranger : comment LEP prépare le premier trimestre</a></li></ul><p><a href="/fr/guides/school-decisions/">Consulter les dossiers de choix scolaire LEP →</a></p></nav>
+</nav>

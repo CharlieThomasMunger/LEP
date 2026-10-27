@@ -31,6 +31,38 @@
       },
       "questions": [
         {
+          "slug": "uk-private-school-transfer-switzerland",
+          "title": {
+            "zh": "英国私校转瑞士要降级吗？把中学、大学总费用和未来发展一起算",
+            "en": "Moving from a UK private school to Switzerland: year placement, total costs and future choices",
+            "fr": "Passer d’une école privée britannique à la Suisse : classe, budget global et perspectives"
+          }
+        },
+        {
+          "slug": "swiss-maturite-ib-eth-epfl",
+          "title": {
+            "zh": "想申请ETH或EPFL，在瑞士读IB还是Maturité？课程、选科与语言怎么选",
+            "en": "IB or Swiss Maturité for ETH Zurich and EPFL: subjects, language and school choice",
+            "fr": "IB ou Maturité pour ETH Zurich et l’EPFL : matières, langues et choix d’école"
+          }
+        },
+        {
+          "slug": "luxembourg-free-public-school-parents-in-china",
+          "title": {
+            "zh": "卢森堡公立学校免费，父母留在中国的孩子也能这样读吗？LEP能安排什么",
+            "en": "Luxembourg school without relocating the parents: what can LEP arrange?",
+            "fr": "Scolariser un enfant au Luxembourg sans y installer les parents : que peut faire LEP ?"
+          }
+        },
+        {
+          "slug": "boarding-school-or-host-family",
+          "title": {
+            "zh": "卢森堡寄宿家庭和瑞士寄宿学校怎么选？父母不陪读的生活与费用比较",
+            "en": "Luxembourg host family or Swiss boarding school: daily life and full costs",
+            "fr": "Famille d’accueil au Luxembourg ou internat suisse : vie quotidienne et budget"
+          }
+        },
+        {
           "slug": "study-without-parents",
           "title": {
             "zh": "父母留在国内，学校与住宿怎样一起安排？",
@@ -132,6 +164,30 @@
         "fr": "Comparer cursus, stages et coût total"
       },
       "questions": [
+        {
+          "slug": "swiss-hospitality-graduate-work-switzerland",
+          "title": {
+            "zh": "瑞士酒店管理毕业后能留在瑞士工作吗？中国学生先看这三个条件",
+            "en": "Can an international hospitality graduate stay and work in Switzerland?",
+            "fr": "Après des études hôtelières, peut-on rester travailler en Suisse ?"
+          }
+        },
+        {
+          "slug": "swiss-hospitality-bachelor-total-cost",
+          "title": {
+            "zh": "瑞士酒店管理本科读完要多少钱？IMI、SEG、格里昂与理诺士全程比较",
+            "en": "What does a Swiss hospitality bachelor cost from entry to graduation?",
+            "fr": "Combien coûte un bachelor hôtelier suisse jusqu’au diplôme ?"
+          }
+        },
+        {
+          "slug": "glion-vs-les-roches",
+          "title": {
+            "zh": "格里昂和理诺士怎么选？从全程费用、课程与两校实访看差别",
+            "en": "Glion or Les Roches: comparing cost, courses and what we saw on campus",
+            "fr": "Glion ou Les Roches : comparer les coûts, les cursus et la vie sur place"
+          }
+        },
         {
           "slug": "china-high-school-swiss-hospitality-bachelor",
           "title": {
