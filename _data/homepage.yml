@@ -117,7 +117,7 @@
         "slug": "luxembourg",
         "name": "卢森堡",
         "label": "LEP 的本土根基",
-        "text": "父母留在中国，也可以从孩子的实际情况开始，与 LEP 一起评估卢森堡学校申请、寄宿家庭及入学后的本地沟通。",
+        "text": "已在卢森堡生活或准备迁居的家庭，可以与 LEP 比较公立及私立国际学校的课程和入学要求。父母留在中国的孩子，则从私立国际学校、寄宿家庭及入学后的本地支持一起规划。",
         "links": [
           {
             "text": "了解 LEP 的申请与本地服务",
@@ -283,7 +283,23 @@
     "recent_intro": "七所学校，逐一看课程、宿舍、餐厅与学习环境，也问清预算和实习。点击阅读修印先生的现场判断与申请建议。",
     "recent_link": "阅读全文",
     "visit_cta_title": "把孩子的情况，带到学校去谈。",
-    "visit_cta_text": "申请这批瑞士学校，LEP协助选校评估、校方沟通、申请和家庭访校预约，不额外收取这些服务的服务费。先从孩子的学习背景、兴趣和预算聊起。"
+    "visit_cta_text": "申请这批瑞士学校，LEP协助选校评估、校方沟通、申请和家庭访校预约，不额外收取这些服务的服务费。先从孩子的学习背景、兴趣和预算聊起。",
+    "audience": "无论您已在卢森堡生活、正计划举家迁居，还是希望孩子独自来欧洲求学，LEP 都能围绕家庭的实际情况，衔接选校、申请与本地安排。",
+    "proof_heading": "了解 LEP 在卢森堡的实际工作",
+    "proof_links": [
+      {
+        "label": "真实家庭案例",
+        "title": "九天完成一次特殊插班",
+        "text": "从学校沟通、试读到入学衔接，查看具体过程与家长来信。",
+        "path": "/insights/st-georges-rapid-school-placement/"
+      },
+      {
+        "label": "卢森堡实地访校",
+        "title": "走进公立与私立国际学校",
+        "text": "查看真实校园照片、校方交流与我们的选校观察。",
+        "path": "/fieldwork/#luxembourg"
+      }
+    ]
   },
   "en": {
     "eyebrow": "LUX EDUCATION PARTNERS · LUXEMBOURG",
@@ -362,7 +378,7 @@
         "slug": "luxembourg",
         "name": "Luxembourg",
         "label": "Our home base",
-        "text": "Families whose parents remain abroad can discuss Luxembourg school applications, host-family arrangements and ongoing local communication with LEP, starting from the child’s individual situation.",
+        "text": "Resident and relocating families can work with LEP to compare public and private international schools, their curricula and entry requirements. For children whose parents remain abroad, we bring private-school applications, host families and ongoing local support together.",
         "links": [
           {
             "text": "Explore LEP applications and local support",
@@ -525,7 +541,23 @@
     "recent_intro": "Seven schools explored through courses, rooms, dining, learning environments, costs and internships. Read James Liu’s observations and application advice.",
     "recent_link": "Read the visit guide",
     "visit_cta_title": "Bring your child’s plans into the school conversation.",
-    "visit_cta_text": "For applications to these Swiss schools, LEP provides school-fit assessment, school liaison, application assistance and family visit booking without an additional service fee. Start with the student’s education, interests and budget."
+    "visit_cta_text": "For applications to these Swiss schools, LEP provides school-fit assessment, school liaison, application assistance and family visit booking without an additional service fee. Start with the student’s education, interests and budget.",
+    "audience": "We support families already living in Luxembourg, families planning to relocate, and international students coming to Europe independently.",
+    "proof_heading": "See LEP’s work in Luxembourg",
+    "proof_links": [
+      {
+        "label": "A real family case",
+        "title": "Nine days from engagement to a school start",
+        "text": "Follow the school discussions, trial days and local arrangements, with the parent’s letter.",
+        "path": "/insights/st-georges-rapid-school-placement/"
+      },
+      {
+        "label": "Luxembourg school visits",
+        "title": "Inside public and private international schools",
+        "text": "Explore original campus photographs and direct conversations with school teams.",
+        "path": "/fieldwork/#luxembourg"
+      }
+    ]
   },
   "fr": {
     "eyebrow": "LUX EDUCATION PARTNERS · LUXEMBOURG",
@@ -604,7 +636,7 @@
         "slug": "luxembourg",
         "name": "Luxembourg",
         "label": "Notre ancrage local",
-        "text": "Les familles dont les parents restent à l’étranger peuvent préparer avec LEP la candidature scolaire au Luxembourg, l’hébergement en famille et le suivi local, à partir de la situation de leur enfant.",
+        "text": "Pour les familles installées au Luxembourg ou préparant leur arrivée, LEP compare les écoles internationales publiques et privées, leurs cursus et leurs conditions d’admission. Pour les enfants dont les parents restent à l’étranger, nous coordonnons candidature dans le privé, famille d’accueil et suivi local.",
         "links": [
           {
             "text": "Découvrir les candidatures et le soutien local LEP",
@@ -767,7 +799,23 @@
     "recent_intro": "Sept écoles explorées à travers leurs cursus, chambres, repas, lieux d’apprentissage, frais et stages. Retrouvez les observations de James Liu et ses conseils de candidature.",
     "recent_link": "Lire le récit de visite",
     "visit_cta_title": "Parlons de votre enfant avec l’école.",
-    "visit_cta_text": "Pour ces écoles suisses, LEP accompagne le choix, les échanges, la candidature et la réservation d’une visite familiale, sans frais de service supplémentaires. Commençons par le parcours de l’élève, ses intérêts et votre budget."
+    "visit_cta_text": "Pour ces écoles suisses, LEP accompagne le choix, les échanges, la candidature et la réservation d’une visite familiale, sans frais de service supplémentaires. Commençons par le parcours de l’élève, ses intérêts et votre budget.",
+    "audience": "Nous accompagnons les familles déjà installées au Luxembourg, celles qui préparent leur arrivée et les élèves ou étudiants qui viennent étudier en Europe sans leurs parents.",
+    "proof_heading": "Découvrir le travail de LEP au Luxembourg",
+    "proof_links": [
+      {
+        "label": "Le parcours d’une famille",
+        "title": "Neuf jours entre notre intervention et la rentrée",
+        "text": "Échanges avec l’école, journées d’essai et coordination locale, avec le témoignage du parent.",
+        "path": "/insights/st-georges-rapid-school-placement/"
+      },
+      {
+        "label": "Visites au Luxembourg",
+        "title": "À la rencontre des écoles publiques et privées",
+        "text": "Photos de terrain et échanges directs avec les équipes des écoles internationales.",
+        "path": "/fieldwork/#luxembourg"
+      }
+    ]
   },
   "leadership_photos": [
     {

@@ -7,13 +7,18 @@
   "title": "卢森堡公立与私立国际学校｜实地访校与选校服务",
   "heading": "卢森堡",
   "description": "修印先生实地走访卢森堡Gaston Thorn、Differdange & Esch、Lënster Lycée等公立国际学校，以及ISL、圣乔治、OTR等私立国际学校。查看真实访校照片，了解LEP的选校、申请与本地生活支持。",
-  "standfirst": "修印先生（James Liu）与 Lux Education Partners（LEP）扎根卢森堡，持续走访公立与私立国际学校。我们把真实校园、课程选择与家庭需求一起比较，并为国际私校留学协调申请、寄宿家庭与当地生活。",
+  "standfirst": "修印先生（James Liu）与 Lux Education Partners（LEP）扎根卢森堡，持续走访公立与私立国际学校。我们帮助本地及计划迁居的家庭比较教育选择，也为独自来留学的孩子衔接私立学校申请、寄宿家庭与当地生活。",
   "last_modified_at": "2026-10-27",
   "destination_key": "luxembourg",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 }
 ---
 
+## 按照家庭情况，比较公立与私立国际学校
+
+**已在卢森堡生活，或准备举家迁居：**LEP 结合家庭的居住计划、孩子的语言与现有课程，比较公立及私立国际学校的选择、入学要求、年级衔接和通勤，并协助与学校沟通。
+
+**父母留在中国，孩子单独来读书：**我们把私立国际学校申请、寄宿家庭匹配与入学后的本地协调放在同一个方案里，让选校与孩子每天的生活安排相互衔接。
 
 ## 从选学校，到孩子在卢森堡的日常生活
 

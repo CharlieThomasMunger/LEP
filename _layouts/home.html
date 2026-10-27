@@ -13,6 +13,7 @@ layout: default
       <p class="kicker">{{ h.eyebrow }}</p>
       <h1 id="home-title">{{ h.heading }}</h1>
       <p class="home-intro">{{ h.intro }}</p>
+      <p class="home-audience">{{ h.audience }}</p>
       <div class="home-actions">
         <a class="btn" href="#education-routes-title">{{ h.primary }} <span aria-hidden="true">→</span></a>
         <a class="btn ghost" href="#contact-lep">{{ h.consult }}</a>
@@ -25,7 +26,18 @@ layout: default
       <figcaption>{{ h.hero_caption }}</figcaption>
     </figure>
   </div>
-  <div class="wrap"><ul class="home-anchors">{% for anchor in h.anchors %}<li><span aria-hidden="true">0{{ forloop.index }}</span>{{ anchor }}</li>{% endfor %}</ul></div>
+  <div class="wrap">
+    <ul class="home-anchors">{% for anchor in h.anchors %}<li><span aria-hidden="true">0{{ forloop.index }}</span>{{ anchor }}</li>{% endfor %}</ul>
+    <nav class="home-proof-links" aria-label="{{ h.proof_heading | escape }}">
+      {% for proof in h.proof_links %}
+      <a class="home-proof-link" href="{{ prefix | append: proof.path | relative_url }}">
+        <span class="home-label">{{ proof.label }}</span>
+        <strong>{{ proof.title }} <span aria-hidden="true">→</span></strong>
+        <span class="home-proof-description">{{ proof.text }}</span>
+      </a>
+      {% endfor %}
+    </nav>
+  </div>
 </section>
 
 {% include education-routes.html %}

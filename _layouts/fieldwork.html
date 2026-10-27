@@ -16,7 +16,7 @@ layout: default
   {%- for group in site.data.fieldwork -%}
     {%- assign gkey = group[0] -%}
     {%- assign g = group[1] -%}
-  <section class="cluster">
+  <section class="cluster" id="{{ gkey | escape }}">
     <h2>{{ g.title[lang] }}</h2>
     {%- if g.intro[lang] %}<p class="lede" style="margin-bottom:1.4rem">{{ g.intro[lang] }}</p>{% endif %}
     <div class="gallery">

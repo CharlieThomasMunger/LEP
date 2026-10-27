@@ -7,13 +7,18 @@
   "title": "Public and private international schools in Luxembourg | LEP school visits",
   "heading": "Luxembourg",
   "description": "See James Liu’s visits to Gaston Thorn, Differdange & Esch and Lënster Lycée, alongside ISL, St George’s and OTR. Explore schools through original campus photographs and LEP’s local knowledge.",
-  "standfirst": "James Liu and Lux Education Partners (LEP) are based in Luxembourg and visit both public and private international schools. We connect first-hand campus knowledge with each family’s needs, and coordinate private-school applications, host families and local support.",
+  "standfirst": "James Liu and Lux Education Partners (LEP) are based in Luxembourg and visit both public and private international schools. We help resident and relocating families compare education options, and support children coming independently through private-school applications, host-family arrangements and local coordination.",
   "last_modified_at": "2026-10-27",
   "destination_key": "luxembourg",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 }
 ---
 
+## Public or private: start with your family’s circumstances
+
+**Families living in Luxembourg or preparing to relocate:** LEP compares public and private international schools in light of the family’s residence plans, the child’s languages and current curriculum. We help assess entry requirements, year-group placement and the school journey, and liaise with schools.
+
+**Children coming while their parents remain abroad:** We bring private international school applications, host-family matching and ongoing local coordination into one plan, connecting the school choice with the child’s everyday living arrangements.
 
 ## From choosing a school to everyday life in Luxembourg
 
