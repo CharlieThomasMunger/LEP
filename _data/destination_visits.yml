@@ -1,0 +1,19 @@
+{
+  "public_title": {
+    "zh": "公立国际学校 · 实地走访",
+    "en": "Public international schools · Our visits",
+    "fr": "Écoles internationales publiques · Nos visites"
+  },
+  "public_intro": {
+    "zh": "我们走进卢森堡公立国际学校，了解课程与校园环境，把实地观察带入家庭的选校讨论。",
+    "en": "We visit Luxembourg’s public international schools to explore their learning environments and bring first-hand observations to families’ school decisions.",
+    "fr": "Nous visitons les écoles internationales publiques du Luxembourg pour découvrir leur environnement et enrichir les choix scolaires des familles par des observations de terrain."
+  },
+  "private_title": {
+    "zh": "私立国际学校 · 选校与申请",
+    "en": "Private international schools · Choosing and applying",
+    "fr": "Écoles internationales privées · Choix et candidature"
+  },
+  "public_nav": {"zh": "公立国际学校", "en": "Public international schools", "fr": "Écoles internationales publiques"},
+  "private_nav": {"zh": "私立国际学校", "en": "Private international schools", "fr": "Écoles internationales privées"}
+}

@@ -4,11 +4,11 @@
   "lang": "zh",
   "permalink": "/zh/destinations/luxembourg/",
   "translation_key": "destination-luxembourg",
-  "title": "卢森堡英文私立国际学校与低龄留学｜ISL、圣乔治、OTR",
+  "title": "卢森堡公立与私立国际学校｜实地访校与选校服务",
   "heading": "卢森堡",
-  "description": "比较卢森堡 ISL、圣乔治和 OTR 的课程、费用与学校特点，了解孩子单独留学的寄宿家庭安排，以及 LEP 九天入校案例与本地服务。",
-  "standfirst": "修印先生（James Liu）与 Lux Education Partners（LEP）扎根卢森堡。我们把 ISL、圣乔治和 OTR 的学校申请，与住宿、通勤和家长沟通一起推进。",
-  "last_modified_at": "2026-10-26",
+  "description": "修印先生实地走访卢森堡Gaston Thorn、Differdange & Esch、Lënster Lycée等公立国际学校，以及ISL、圣乔治、OTR等私立国际学校。查看真实访校照片，了解LEP的选校、申请与本地生活支持。",
+  "standfirst": "修印先生（James Liu）与 Lux Education Partners（LEP）扎根卢森堡，持续走访公立与私立国际学校。我们把真实校园、课程选择与家庭需求一起比较，并为国际私校留学协调申请、寄宿家庭与当地生活。",
+  "last_modified_at": "2026-10-27",
   "destination_key": "luxembourg",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 }

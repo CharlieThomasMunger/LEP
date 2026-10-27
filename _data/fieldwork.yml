@@ -15,6 +15,8 @@ luxembourg:
     fr: Visites d'écoles menées au Luxembourg, couvrant les établissements internationaux publics, privés et bilingues. Sélection représentative.
   items:
     - name: École internationale Gaston Thorn
+      id: gaston-thorn
+      sector: public
       image: /assets/fieldwork/gaston-thorn.jpg
       kind: {zh: 公立国际学校, en: Public international school, fr: École internationale publique}
       note:
@@ -24,6 +26,8 @@ luxembourg:
       alt: {zh: 走访卢森堡 Gaston Thorn 国际学校, en: Visit to École internationale Gaston Thorn}
 
     - name: École Internationale Differdange & Esch
+      id: differdange-esch
+      sector: public
       image: /assets/fieldwork/differdange-esch.jpg
       kind: {zh: 公立国际学校, en: Public international school, fr: École internationale publique}
       note:
@@ -33,6 +37,8 @@ luxembourg:
       alt: {zh: 走访 Differdange & Esch 国际学校, en: Visit to EIDE}
 
     - name: Lënster Lycée International School
+      id: lenster
+      sector: public
       image: /assets/fieldwork/lenster.jpg
       kind: {zh: 公立国际学校, en: Public international school, fr: École internationale publique}
       note:

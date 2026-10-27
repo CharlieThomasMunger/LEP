@@ -4,11 +4,11 @@
   "lang": "en",
   "permalink": "/en/destinations/luxembourg/",
   "translation_key": "destination-luxembourg",
-  "title": "Private international schools in Luxembourg: ISL, St George’s and OTR",
+  "title": "Public and private international schools in Luxembourg | LEP school visits",
   "heading": "Luxembourg",
-  "description": "Compare private international schools in Luxembourg, fees and curricula. Explore host-family arrangements when parents live abroad, LEP’s local services and a documented nine-day school-placement case.",
-  "standfirst": "James Liu (修印先生) and Lux Education Partners (LEP) are based in Luxembourg. We connect ISL, St George’s and OTR applications with accommodation, travel to school and communication with parents.",
-  "last_modified_at": "2026-10-26",
+  "description": "See James Liu’s visits to Gaston Thorn, Differdange & Esch and Lënster Lycée, alongside ISL, St George’s and OTR. Explore schools through original campus photographs and LEP’s local knowledge.",
+  "standfirst": "James Liu and Lux Education Partners (LEP) are based in Luxembourg and visit both public and private international schools. We connect first-hand campus knowledge with each family’s needs, and coordinate private-school applications, host families and local support.",
+  "last_modified_at": "2026-10-27",
   "destination_key": "luxembourg",
   "image": "/assets/fieldwork/st-georges-principal-school-sign.jpg"
 }

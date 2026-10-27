@@ -1,0 +1,15 @@
+<section class="destination-school-subgroup" id="public-schools" aria-labelledby="public-schools-heading">
+  <div class="destination-subgroup-intro">
+    <h3 id="public-schools-heading">{{ site.data.destination_visits.public_title[lang] }}</h3>
+    <p>{{ site.data.destination_visits.public_intro[lang] }}</p>
+  </div>
+  <div class="destination-visit-grid">
+    {% for visit in public_visits %}
+    {% assign image_size = site.data.image_dimensions[visit.image] %}
+    <figure class="destination-visit-card" id="visit-{{ visit.id }}">
+      <img src="{{ visit.image | relative_url }}" alt="{{ visit.alt[lang] | default: visit.name | escape }}" width="{{ image_size.width }}" height="{{ image_size.height }}" loading="lazy" decoding="async">
+      <figcaption><p class="education-eyebrow">{{ visit.kind[lang] }}</p><h4>{{ visit.name }}</h4></figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+</section>
