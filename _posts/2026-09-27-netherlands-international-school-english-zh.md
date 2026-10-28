@@ -12,9 +12,10 @@ answer: "可以。选择英文授课的国际学校，荷兰语不是起点；�
 image: "/assets/eerde/n3-1.webp"
 school_article: true
 has_topic_navigation: true
+last_modified_at: "2026-10-28T06:09:08+00:00"
 ---
 
-<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><img src="/assets/eerde/n3-1.webp" width="1600" height="1066" alt="Eerde 艺术课堂与学习环境" loading="eager"><figcaption>Eerde 艺术课堂与学习环境</figcaption></figure><h2>先分清：不会荷兰语，还是英语无法听课？</h2>
+<aside class="eerde-offer"><strong>通过 LEP 申请 Eerde，申请支持服务由学校支付</strong><p>通过 LEP 申请 Eerde，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。我们协助申请评估、校方沟通、材料整理、家庭访校预约及签证申请准备。学校学费、寄宿费及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><img src="/assets/eerde/n3-1.webp" width="1600" height="1066" alt="Eerde 艺术课堂与学习环境" loading="eager"><figcaption>Eerde 艺术课堂与学习环境</figcaption></figure><h2>先分清：不会荷兰语，还是英语无法听课？</h2>
 <p>这两个问题不能混在一起。如果选择英文授课的国际课程，孩子没有荷兰语基础，并不意味着无法考虑荷兰。</p>
 <p>真正要评估的是：数学和科学课换成英文后，能否理解老师的问题；阅读材料、写作业和课堂表达，能不能跟得上。日常可以聊天，与能用英语完成高中学习，是两回事。</p>
 <p>所以，家长不必一开始就问“需要考到几分”。先看孩子准备读哪一阶段、目前能完成什么学习任务，语言分数才有实际意义。</p>
@@ -36,7 +37,7 @@ has_topic_navigation: true
 <p>LEP与Eerde校方直接沟通，可以结合孩子现在的学习情况，讨论课程衔接与英语支持。家长不必先替孩子选定某条路线，先把实际水平告诉我们即可。</p>
 <figure class="article-photo portrait"><a href="/assets/eerde/eerde-fold-dining-rules.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-dining-rules.jpg" width="1200" height="1600" alt="访校时拍到的餐厅规则：用英语交流、用餐后自行收拾。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时拍到的餐厅规则：用英语交流、用餐后自行收拾。LEP实拍。</figcaption></figure><h2>英语和材料怎样准备，LEP帮孩子对接校方</h2>
 <p>家长说“英语一般”，学校很难据此判断。LEP协助整理孩子的成绩、英语学习经历及目标课程，按照校方需要组织材料，协调评估，确认直接入读还是先做衔接。我们熟悉学校，也在欧洲工作时间跟进问题，减少家长跨时区反复沟通。</p>
-<p>截至2027年9月15日，通过LEP申请Eerde，我们不额外收取申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校学费、寄宿费及政府等第三方收取的费用照常支付。</p>
+<p>通过 LEP 申请 Eerde，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。我们协助申请评估、校方沟通、材料整理、家庭访校预约及签证申请准备。学校学费、寄宿费及政府等第三方费用照常支付。</p>
 <p>联系James Liu，说明孩子的年级、英语情况和计划入学时间。我们先判断学校是否适合，再一起推进申请。</p>
 <h2>家长还会问</h2>
 <h3>要先学荷兰语才能申请吗？</h3>

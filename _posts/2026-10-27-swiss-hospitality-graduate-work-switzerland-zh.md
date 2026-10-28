@@ -9,7 +9,7 @@
   "answer": "可以争取，但中国籍毕业生留瑞工作的门槛明显高于瑞士及欧盟/EFTA国民。选校时要同时看国籍与现有身份、具体学位适用的毕业生规定、雇主与岗位条件。LEP会把这些与学校实习安排一起比较，帮助家庭判断这笔留学投入对应的是哪一种职业目标。",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/zh/insights/swiss-hospitality-graduate-work-switzerland/",
   "image": "/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg",
   "image_alt": "修印先生与理诺士负责实习和就业申请的团队负责人交流合影。",
@@ -64,7 +64,7 @@
 <h2>教育选择与长期身份规划，可以同时开始</h2>
 <p>如果家庭希望把欧洲长期生活和身份安排一起考虑，可以进一步了解<a href="https://www.sbmg.lu/">SBMG的欧洲落地与长期规划咨询</a>。LEP负责教育选择、校方沟通和申请安排；身份规划按家庭条件另行评估。这样能在投入之前，把孩子想在哪里读书、希望在哪里发展这两件事一起看。</p>
 
-<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP可协助选校评估、校方沟通、申请和家庭访校预约，不向学生或家长额外收取这些服务的服务费。</p>
+<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。</p>
 <p>请告诉我们孩子的国籍与现有居留情况、学历、英语和其他语言、预算，以及是否只接受瑞士就业。我们据此比较学校和具体课程。</p>
 <p>微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p>
 </section><section class="source-note"><h2>资料依据</h2><p>就业规定核验至2026年10月27日；访校判断来自修印先生本次与校方的交流。</p>

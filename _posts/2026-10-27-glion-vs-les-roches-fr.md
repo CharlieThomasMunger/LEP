@@ -9,7 +9,7 @@
   "answer": "Les deux écoles associent pratique et débouchés commerciaux au-delà de l’hôtel. Les frais indiqués pour le bachelor suisse 2027 sont d’environ CHF 232 200 à Glion et CHF 226 400 aux Roches, avant certains logements ultérieurs et dépenses personnelles. LEP compare le projet professionnel, le budget complet et l’expérience du campus, puis les modalités du cursus et des transferts.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/fr/insights/glion-vs-les-roches/",
   "image": "/assets/fieldwork/glion-james-campus-visit-20261021.jpg",
   "image_alt": "James Liu avec une membre de l’équipe d’accueil de Glion.",
@@ -59,7 +59,7 @@
 <p>LEP peut vérifier les crédits, le semestre accessible, les résultats, les frais et le maintien éventuel de la bourse. Le groupe commun offre des possibilités ; le choix initial reste important.</p>
 
 <section class="lep-intent-contact"><h2>Construire le projet avec LEP</h2>
-<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale, sans frais de service supplémentaires pour l’étudiant ou sa famille.</p>
+<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</p>
 <p>Précisez l’âge, le cursus et les résultats, les langues, la rentrée souhaitée, le budget et les deux questions prioritaires de votre famille.</p>
 <p><a href="https://wa.me/352661221289">Contacter LEP sur WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

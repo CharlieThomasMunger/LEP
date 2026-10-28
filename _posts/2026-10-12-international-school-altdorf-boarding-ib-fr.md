@@ -5,11 +5,11 @@
   "ref": "lep-guide-international-school-altdorf-boarding-ib",
   "cluster": "switzerland-boarding",
   "title": "Lucerne International Academy Wikon : IB, campus et budget annuel, pour quel élève ?",
-  "description": "La visite de James Liu à Wikon : priorité à l’IB, locaux rénovés, petite communauté, sport et budget annuel évoqué de 55 000 à 60 000 CHF. LEP accompagne candidature et réservation de visite sans frais de service supplémentaires.",
-  "answer": "L’IB est l’orientation principale présentée à Wikon. Lors de la visite de James Liu, l’école comptait environ 40 élèves, avec des locaux rénovés et un budget annuel évoqué de 55 000 à 60 000 CHF. LEP étudie le programme, l’internat, le sport et les coûts, puis accompagne candidature et réservation de visite sans frais de service supplémentaires.",
+  "description": "La visite de James Liu à Wikon : priorité à l’IB, locaux rénovés, petite communauté, sport et budget annuel évoqué de 55 000 à 60 000 CHF. L’école rémunère l’accompagnement de candidature et la réservation de visite par LEP ; la famille ne paie pas de frais de service à LEP pour ces démarches.",
+  "answer": "L’IB est l’orientation principale présentée à Wikon. Lors de la visite de James Liu, l’école comptait environ 40 élèves, avec des locaux rénovés et un budget annuel évoqué de 55 000 à 60 000 CHF. LEP étudie le programme, l’internat, le sport et les coûts, puis accompagne candidature et réservation de visite. L’école rémunère cet accompagnement : la famille ne paie pas de frais de service à LEP pour ces démarches.",
   "date": "2026-10-12",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/fr/insights/international-school-altdorf-boarding-ib/",
   "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
   "custom_lep_support": true,
@@ -33,7 +33,7 @@
     },
     {
       "q": "LEP facture-t-il des frais supplémentaires pour la candidature ou la réservation d’une visite ?",
-      "a": "LEP ne facture pas de frais supplémentaires aux élèves ou à leurs parents pour le choix de l’école, les échanges, l’aide à la candidature et la réservation d’une visite. Contact : contact@luxedupartners.lu ou WhatsApp."
+      "a": "LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches. Contact : contact@luxedupartners.lu ou WhatsApp."
     }
   ],
   "school_article": true,
@@ -98,7 +98,7 @@ Au-delà de la chambre et des repas, il faut organiser les week-ends et les vaca
 
 Après avoir vu le campus et rencontré le directeur, LEP peut relier ces questions à l’âge, au programme, aux langues, à l’autonomie, aux habitudes sportives et au budget de l’enfant. Le choix scolaire devient alors un projet d’apprentissage et de vie quotidienne.
 
-<section class="lep-intent-contact"><h2>Candidater à Wikon et organiser une visite avec LEP</h2><p>Nous relions l’entrée dans le parcours IB, les langues, les besoins sportifs et le budget évoqué lors de la visite à la situation concrète de l’enfant. Nous pouvons également coordonner une visite et les sujets à aborder avec l’établissement.</p><p><strong>LEP accompagne le choix de l’école, les échanges avec l’établissement, la candidature et la réservation d’une visite, sans facturer de frais de service supplémentaires aux élèves ou à leurs parents pour cet accompagnement.</strong></p><p>Indiquez l’âge, le programme actuel, les bulletins récents, le niveau d’anglais, les activités sportives et la date d’entrée souhaitée. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
+<section class="lep-intent-contact"><h2>Candidater à Wikon et organiser une visite avec LEP</h2><p>Nous relions l’entrée dans le parcours IB, les langues, les besoins sportifs et le budget évoqué lors de la visite à la situation concrète de l’enfant. Nous pouvons également coordonner une visite et les sujets à aborder avec l’établissement.</p><p><strong>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</strong></p><p>Indiquez l’âge, le programme actuel, les bulletins récents, le niveau d’anglais, les activités sportives et la date d’entrée souhaitée. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
 
 <section class="source-note"><p>Sources et visite: Archives architecturales de Marienburg de l’Université de Berne ; échanges avec le directeur, photographies et visite de James Liu le 19 octobre, complétés par son récit du 25 octobre. Vérification et mise à jour : 25 octobre 2026. Observations sur place : visites de James Liu en Suisse en octobre 2026.</p></section>
 

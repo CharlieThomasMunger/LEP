@@ -9,7 +9,7 @@
   "answer": "每年约50万元人民币的中学留学预算，可以先讨论卢森堡部分私立英文学校加寄宿家庭，以及瑞士阿尔特多夫的具体方案；荷兰Eerde和瑞士Chantemerle则需要认真计算是否有额外空间。LEP会先确定孩子能进入的课程，再把学校、居住、假期与服务放到同一份预算里。",
   "date": "2026-10-11",
   "reviewed": "2026-10-12",
-  "last_modified_at": "2026-10-12",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/zh/insights/europe-secondary-school-total-budget/",
   "image": "/assets/fieldwork/isa-altdorf.jpg",
   "custom_lep_support": true,
@@ -57,7 +57,7 @@
 <p>这些例子说明，第一年缴费需要比重复支出准备更多现金。之后的年级变化、学费调整与支持需要，再纳入后续学年。家长预算是整段教育的资金安排，不能只看第一年够不够。</p>
 <h2>LEP如何把预算变成具体学校方案？</h2>
 <p>我们先看年龄、原课程、语言、父母是否同行和大学方向，筛出有申请意义的学校，再取得课程、寄宿与额外项目明细。对于卢森堡，将本地家庭和收费服务放在一起；对于合作寄宿学校，将学校申请与其他专项需要分别说明。</p>
-<p>按LEP现行安排，至2027年9月15日前，所承接合作学校的学校申请免申请服务费；卢森堡本地学校及寄宿家庭服务属于收费项目。选择哪条路线，学校费用与委托内容会在同一次讨论中讲清。</p>
+<p>LEP 是合作学校在欧洲的申请支持方。申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。 卢森堡低龄留学属于单独收费的服务，涵盖学校申请、寄宿家庭匹配和本地持续支持，具体工作与费用按家庭需求说明。</p>
 <p>发来孩子年级、英语、计划入学时间和包含住宿的全年预算。可以先查看<a href="https://luxedupartners.lu/zh/insights/luxembourg-international-school-fees/">卢森堡费用</a>、<a href="https://luxedupartners.lu/zh/insights/eerde-boarding-school-fees/">Eerde费用</a>与<a href="https://luxedupartners.lu/zh/insights/chantemerle-switzerland-a-level-boarding-school/">Chantemerle</a>。LEP将比较接到孩子的申请上，家庭可以据此作决定。</p>
 
 <section class="lep-intent-contact"><h2>把孩子的实际情况交给LEP讨论</h2><p>请说明年龄或已有学历、现读课程、语言、入学时间和完整预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p><p><a href="/zh/insights/why-lep/">了解LEP的学校申请与本地服务 →</a></p></section>

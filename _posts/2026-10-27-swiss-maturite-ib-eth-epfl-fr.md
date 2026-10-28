@@ -9,7 +9,7 @@
   "answer": "Une Maturité gymnasiale suisse reconnue offre une voie d’admission claire à ceux qui visent la Suisse. L’IB mérite aussi d’être étudié pour conserver plusieurs pays parmi les options. Avec les matières et résultats exigés, l’IB peut permettre une admission sans examen d’entrée. LEP part des conditions universitaires pour déterminer l’école, les choix de matières et la préparation linguistique.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/fr/insights/swiss-maturite-ib-eth-epfl/",
   "image": "/assets/people/james-reading-books.jpg",
   "image_alt": "James Liu consulte des ouvrages près d’une bibliothèque.",
@@ -61,7 +61,7 @@
 <p>Voir <a href="/fr/insights/uk-private-school-transfer-switzerland/">la comparaison du budget secondaire-université</a> pour chiffrer l’ensemble.</p>
 
 <section class="lep-intent-contact"><h2>Construire le projet avec LEP</h2>
-<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale, sans frais de service supplémentaires pour l’étudiant ou sa famille.</p>
+<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</p>
 <p>Précisez l’âge, le cursus et les résultats, les langues, la rentrée souhaitée, le budget et les deux questions prioritaires de votre famille.</p>
 <p><a href="https://wa.me/352661221289">Contacter LEP sur WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

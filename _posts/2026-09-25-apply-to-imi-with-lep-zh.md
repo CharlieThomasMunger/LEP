@@ -9,13 +9,14 @@ has_topic_navigation: true
 title: "IMI 怎么申请？找 LEP，课程、奖学金和申请由我们一起推进"
 date: "2026-09-25"
 reviewed: "2026-09-26"
-description: "想申请 IMI，直接联系 LEP。我们是 IMI 的正式合作服务机构，可以帮你选课程、申请奖学金、对接材料并推进录取。2026 年至 2027 年 9 月 15 日，由 LEP 承接的 IMI 申请免学校申请服务费。 学校学费、注册费及第三方费用另计。"
+description: "LEP 是 IMI 在欧洲的合作申请支持方，协助选课程、申请奖学金、对接材料和安排访校。申请支持服务由 IMI 支付，学生和家长无需向 LEP 支付申请服务费。"
 image: "/assets/imi/imi-admissions-visit.webp"
+last_modified_at: "2026-10-28T06:09:08+00:00"
 ---
 
 作者：修印先生｜Lux Education Partners　更新：2026 年 9 月 26 日
 
-**想申请瑞士国际酒店管理学院（IMI International Management Institute Switzerland，简称 IMI），直接联系 LEP。我们是 IMI 的正式合作服务机构，可以帮你选课程、申请奖学金、对接材料并推进录取。2026 年至 2027 年 9 月 15 日，由 LEP 承接的 IMI 申请免学校申请服务费。** 学校学费、注册费及第三方费用另计。
+**想申请瑞士国际酒店管理学院（IMI International Management Institute Switzerland，简称 IMI），直接联系 LEP。我们是 IMI 在欧洲的合作申请支持方，可以帮你选课程、申请奖学金、对接材料并推进录取。申请支持服务由 IMI 支付，学生和家长无需向 LEP 支付申请服务费。** 学校学费、注册费及第三方费用另计。
 
 你第一次联系我们，不需要先整理好整套文件。先说清目前学历、英语水平、预算、希望入学的时间，以及毕业后大致想做什么，就可以开始判断。
 

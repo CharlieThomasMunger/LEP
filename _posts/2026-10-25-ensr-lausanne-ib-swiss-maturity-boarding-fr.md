@@ -13,7 +13,7 @@
   "answer": "L’ENSR a marqué James Liu par son campus organisé, son internat rénové et une communauté d’environ 30 à 40 internes évoquée lors de la visite. LEP relie ces observations aux décisions de cursus, langues, pension et budget des familles internationales.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "faq": [
     {
       "q": "Quelle est la taille de l’internat ENSR ?",
@@ -33,7 +33,7 @@
     },
     {
       "q": "LEP facture-t-il des frais supplémentaires pour la candidature ou la réservation d’une visite ?",
-      "a": "LEP ne facture pas de frais supplémentaires aux élèves ou à leurs parents pour le choix de l’école, les échanges, l’aide à la candidature et la réservation d’une visite. Contact : contact@luxedupartners.lu ou WhatsApp."
+      "a": "LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches. Contact : contact@luxedupartners.lu ou WhatsApp."
     }
   ],
   "image": "/assets/fieldwork/ensr-james-campus-visit-20261023.jpg",
@@ -123,6 +123,6 @@ Nous avons aussi visité Lémania. Pour chaque enfant, je compare cursus, langue
 
 L’ENSR mérite une attention particulière pour les familles attachées à un campus avec du sport, un petit internat et une préparation linguistique et académique sérieuse. Elle m’a paru discrète et bien tenue. LEP peut prolonger les échanges avec la direction et les admissions dans un projet individuel.
 
-<section class="lep-intent-contact"><h2>Candidater à l’ENSR et organiser une visite avec LEP</h2><p>LEP compare IB et Maturité suisse, précise langues, transfert, disponibilité de l’internat et frais annuels, et réserve les visites. Les familles déjà dans le système britannique peuvent nous confier leur cursus et leur budget actuels pour une comparaison ciblée.</p><p><strong>LEP accompagne le choix de l’école, les échanges avec l’établissement, la candidature et la réservation d’une visite, sans facturer de frais de service supplémentaires aux élèves ou à leurs parents pour cet accompagnement.</strong></p><p>Indiquez l’âge, le cursus, les résultats récents, l’anglais et le français de votre enfant, ses idées d’études supérieures, la rentrée et le budget annuel. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
+<section class="lep-intent-contact"><h2>Candidater à l’ENSR et organiser une visite avec LEP</h2><p>LEP compare IB et Maturité suisse, précise langues, transfert, disponibilité de l’internat et frais annuels, et réserve les visites. Les familles déjà dans le système britannique peuvent nous confier leur cursus et leur budget actuels pour une comparaison ciblée.</p><p><strong>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</strong></p><p>Indiquez l’âge, le cursus, les résultats récents, l’anglais et le français de votre enfant, ses idées d’études supérieures, la rentrée et le budget annuel. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
 
 <section class="source-note"><p>Sources et visite: cours, internat et frais officiels ENSR 2026/27 ; admissions EPFL et ETH avec maturité suisse ; Lausanne Tourisme, bulletin 2016 de l’Ambassade de Suisse en Thaïlande, Chronique des Anciens 2023 et biographie officielle de la famille Chaplin ; visite et entretien de James Liu. Vérification et mise à jour : 25 octobre 2026. Observations sur place : visites de James Liu en Suisse en octobre 2026.</p></section>

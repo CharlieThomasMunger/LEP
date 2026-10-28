@@ -9,7 +9,7 @@
   "answer": "Les frais d’école indiqués pour les parcours comparés vont d’environ CHF 122 900 à CHF 232 200, avec des durées et des périodes de logement différentes. Le budget familial complet ajoute les dépenses non comprises, puis déduit les bourses accordées et l’épargne réelle issue des stages. LEP compare le point d’entrée, la chambre et le cursus jusqu’au diplôme.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/fr/insights/swiss-hospitality-bachelor-total-cost/",
   "image": "/assets/fieldwork/him-alumni-corridor.jpg",
   "image_alt": "Un couloir présentant des anciens élèves de HIM Business School.",
@@ -64,7 +64,7 @@
 <p>Voir aussi <a href="/fr/insights/glion-vs-les-roches/">Glion ou Les Roches</a> et <a href="/fr/insights/swiss-hospitality-graduate-work-switzerland/">les conditions d’emploi après le diplôme</a>.</p>
 
 <section class="lep-intent-contact"><h2>Construire le projet avec LEP</h2>
-<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale, sans frais de service supplémentaires pour l’étudiant ou sa famille.</p>
+<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</p>
 <p>Précisez l’âge, le cursus et les résultats, les langues, la rentrée souhaitée, le budget et les deux questions prioritaires de votre famille.</p>
 <p><a href="https://wa.me/352661221289">Contacter LEP sur WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

@@ -9,7 +9,7 @@
   "answer": "École internationale privée avec famille d’accueil au Luxembourg et internat suisse diffèrent par les cursus, la vie après les cours et le budget complet. LEP assure candidature, recherche de famille et suivi local au Luxembourg, et a visité des internats suisses. Nous comparons les deux selon ce que l’enfant peut réussir scolairement et vivre sereinement.",
   "date": "2026-10-11",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/fr/insights/boarding-school-or-host-family/",
   "image": "/assets/host-family-room.jpg",
   "image_alt": "Chambre en famille d’accueil, avec espace de repos et lumière naturelle.",
@@ -32,7 +32,7 @@
     },
     {
       "q": "Les services LEP sont-ils gratuits dans les deux cas ?",
-      "a": "Candidatures et visites familiales suisses : pas de frais LEP supplémentaires. Le suivi local au Luxembourg est chiffré selon le mandat."
+      "a": "Les écoles suisses rémunèrent l’accompagnement des candidatures et la réservation des visites familiales ; les familles ne paient pas de frais de service à LEP pour ces démarches. La scolarisation des enfants au Luxembourg et le suivi local restent payants."
     }
   ],
   "education_key": "schools"
@@ -60,7 +60,7 @@
 <p>Après le premier échange, nous précisons les parcours, les discussions scolaires, le budget et l’accueil. L’objectif est une courte sélection de solutions que la famille peut réellement poursuivre.</p>
 
 <section class="lep-intent-contact"><h2>Construire le projet avec LEP</h2>
-<p>LEP ne facture pas de frais supplémentaires pour les candidatures et visites familiales des écoles suisses. L’accueil familial et le suivi au Luxembourg sont chiffrés selon le mandat.</p>
+<p>Les écoles suisses rémunèrent l’accompagnement des candidatures et la réservation des visites familiales ; les familles ne paient pas de frais de service à LEP pour ces démarches. La scolarisation des enfants au Luxembourg, l’accueil familial et le suivi local sont chiffrés selon le mandat.</p>
 <p>Précisez l’âge, le cursus et les résultats, les langues, la rentrée souhaitée, le budget et les deux questions prioritaires de votre famille.</p>
 <p><a href="https://wa.me/352661221289">Contacter LEP sur WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

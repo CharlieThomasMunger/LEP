@@ -9,7 +9,7 @@
   "answer": "Changer de pays n’impose pas, en soi, de redoubler. La continuité des matières et du cursus est déterminante. À mon avis, les familles recherchant qualité éducative, environnement international et maîtrise du budget doivent comparer sérieusement la Suisse. L’internat suivi d’une université publique suisse peut modifier sensiblement le coût total. LEP confronte résultats, langues et budget à des écoles précises.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/fr/insights/uk-private-school-transfer-switzerland/",
   "image": "/assets/swiss/cm02.jpg",
   "image_alt": "Vue sur le lac et espaces extérieurs de Chantemerle.",
@@ -80,7 +80,7 @@
 <p>Pour étudier aussi l’installation et le séjour en Europe, les familles peuvent consulter <a href="https://www.sbmg.lu/fr/">SBMG</a>. LEP traite l’éducation et les candidatures ; le projet familial à long terme est évalué selon sa situation.</p>
 
 <section class="lep-intent-contact"><h2>Construire le projet avec LEP</h2>
-<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale, sans frais de service supplémentaires pour l’étudiant ou sa famille.</p>
+<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</p>
 <p>Précisez l’âge, le cursus et les résultats, les langues, la rentrée souhaitée, le budget et les deux questions prioritaires de votre famille.</p>
 <p><a href="https://wa.me/352661221289">Contacter LEP sur WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

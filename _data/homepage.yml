@@ -239,8 +239,8 @@
         "text": "结合擅长的学科、课程负担和目标大学要求作选择。"
       },
       {
-        "title": "已经找到学校，为什么还需要 LEP？",
-        "text": "看清选校判断、校方沟通和欧洲本地执行能为家庭做什么。"
+        "title": "通过 LEP 申请，为什么家长不用另付申请服务费？",
+        "text": "合作学校支付申请支持服务；卢森堡低龄留学的学校、寄宿家庭与本地支持另按服务范围收费。"
       },
       {
         "title": "孩子练马术，怎样兼顾寄宿中学？",
@@ -263,7 +263,7 @@
     ],
     "contact_name": "直接联系修印先生",
     "contact_languages": "可用中文、英语或法语沟通。",
-    "contact_scope": "根据具体项目说明工作范围与收费，再由家庭决定是否委托。",
+    "contact_scope": "申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。 卢森堡低龄留学属于单独收费的服务，涵盖学校申请、寄宿家庭匹配和本地持续支持，具体工作与费用按家庭需求说明。",
     "email_label": "邮件咨询",
     "copy": "复制微信号",
     "copied": "微信号已复制",
@@ -283,7 +283,7 @@
     "recent_intro": "七所学校，逐一看课程、宿舍、餐厅与学习环境，也问清预算和实习。点击阅读修印先生的现场判断与申请建议。",
     "recent_link": "阅读全文",
     "visit_cta_title": "把孩子的情况，带到学校去谈。",
-    "visit_cta_text": "申请这批瑞士学校，LEP协助选校评估、校方沟通、申请和家庭访校预约，不额外收取这些服务的服务费。先从孩子的学习背景、兴趣和预算聊起。",
+    "visit_cta_text": "LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。 卢森堡低龄留学另按本地服务方案收费。",
     "audience": "无论您已在卢森堡生活、正计划举家迁居，还是希望孩子独自来欧洲求学，LEP 都能围绕家庭的实际情况，衔接选校、申请与本地安排。",
     "proof_heading": "了解 LEP 在卢森堡的实际工作",
     "proof_links": [
@@ -500,8 +500,8 @@
         "text": "Match subject strengths and workload with future university requirements."
       },
       {
-        "title": "Why work with LEP if we have found a school?",
-        "text": "See how school judgment, direct communication and local follow-through help families."
+        "title": "Who pays for LEP’s application support?",
+        "text": "Partner schools fund the application support. School and host-family services for children in Luxembourg have a separate fee arrangement."
       },
       {
         "title": "Can school and regular riding fit together?",
@@ -524,7 +524,7 @@
     ],
     "contact_name": "Speak directly with James Liu",
     "contact_languages": "We can talk in English, French or Chinese.",
-    "contact_scope": "We explain the scope and fees for your project before you decide to engage us.",
+    "contact_scope": "Schools pay for LEP’s application support, so families pay no LEP application-service fee. School applications, host-family matching and ongoing local support for children studying in Luxembourg are a separate paid service. We explain the scope and fees for each family.",
     "email_label": "Email James Liu",
     "whatsapp": "Chat on WhatsApp",
     "qr_caption": "Scan to open a WhatsApp conversation",
@@ -541,7 +541,7 @@
     "recent_intro": "Seven schools explored through courses, rooms, dining, learning environments, costs and internships. Read James Liu’s observations and application advice.",
     "recent_link": "Read the visit guide",
     "visit_cta_title": "Bring your child’s plans into the school conversation.",
-    "visit_cta_text": "For applications to these Swiss schools, LEP provides school-fit assessment, school liaison, application assistance and family visit booking without an additional service fee. Start with the student’s education, interests and budget.",
+    "visit_cta_text": "LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it. School-age study support in Luxembourg is priced separately.",
     "audience": "We support families already living in Luxembourg, families planning to relocate, and international students coming to Europe independently.",
     "proof_heading": "See LEP’s work in Luxembourg",
     "proof_links": [
@@ -758,8 +758,8 @@
         "text": "Relier les matières fortes de l’élève et sa charge de travail aux exigences universitaires."
       },
       {
-        "title": "Pourquoi passer par LEP si l’école est déjà choisie ?",
-        "text": "Comprendre la valeur du conseil, des échanges avec l’école et du suivi local."
+        "title": "Qui rémunère l’accompagnement de candidature de LEP ?",
+        "text": "Les écoles partenaires le financent. La scolarisation des enfants au Luxembourg et leur suivi local sont une prestation payante distincte."
       },
       {
         "title": "Comment concilier internat et équitation ?",
@@ -782,7 +782,7 @@
     ],
     "contact_name": "Échangez directement avec James Liu",
     "contact_languages": "En français, en anglais ou en chinois.",
-    "contact_scope": "Le périmètre et les honoraires sont précisés avant votre décision de nous confier le projet.",
+    "contact_scope": "Les écoles rémunèrent l’accompagnement de candidature de LEP ; les familles ne paient pas de frais de service de candidature à LEP. La scolarisation des enfants au Luxembourg, avec candidature, recherche d’une famille d’accueil et suivi local, constitue une prestation payante distincte. Le périmètre et les honoraires sont précisés pour chaque famille.",
     "email_label": "Écrire à James Liu",
     "whatsapp": "Échanger sur WhatsApp",
     "qr_caption": "Scannez pour ouvrir une conversation WhatsApp",
@@ -799,7 +799,7 @@
     "recent_intro": "Sept écoles explorées à travers leurs cursus, chambres, repas, lieux d’apprentissage, frais et stages. Retrouvez les observations de James Liu et ses conseils de candidature.",
     "recent_link": "Lire le récit de visite",
     "visit_cta_title": "Parlons de votre enfant avec l’école.",
-    "visit_cta_text": "Pour ces écoles suisses, LEP accompagne le choix, les échanges, la candidature et la réservation d’une visite familiale, sans frais de service supplémentaires. Commençons par le parcours de l’élève, ses intérêts et votre budget.",
+    "visit_cta_text": "LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches. L’accompagnement de la scolarisation des enfants au Luxembourg est facturé séparément.",
     "audience": "Nous accompagnons les familles déjà installées au Luxembourg, celles qui préparent leur arrivée et les élèves ou étudiants qui viennent étudier en Europe sans leurs parents.",
     "proof_heading": "Découvrir le travail de LEP au Luxembourg",
     "proof_links": [

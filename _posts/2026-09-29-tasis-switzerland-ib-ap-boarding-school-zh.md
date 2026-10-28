@@ -17,7 +17,7 @@ faq: [{"q": "TASIS是在美国还是瑞士？", "a": "本文介绍的是瑞士�
 
 school_key: "tasis"
 
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-28T06:09:08+00:00"
 consultation: "swiss"
 ---
 
@@ -58,7 +58,7 @@ consultation: "swiss"
 <p>比较适合：希望孩子在瑞士生活、接受美式教育并保留IB/AP选择；愿意参与国际寄宿社区；可以持续承担学校费用及假期额外开销的家庭。</p>
 <p>需要谨慎：预算明显不足、期待不做语言和学科准备就进入毕业课程，或希望寄宿学校全年无间断接管所有生活安排的家庭。</p>
 <p>家长当然可以直接联系学校。LEP的价值在于，先站在家庭一侧，把这所学校与其他欧洲路线放在一起比较，再将年级、英语水平、目标专业和预算落实为具体问题。我们已经到访TASIS，以卢森堡为欧洲本土基地，与学校处于相近工作时区，方便持续跟进。</p>
-<p>我们可以协助整理学术背景、准备申请材料、沟通课程与住宿问题，并衔接适用的签证材料和到校安排。<strong>具体承接范围和服务费用会在启动前说明。</strong>录取由学校决定，签证和居留由主管机关决定。</p>
+<p>我们可以协助整理学术背景、准备申请材料、沟通课程与住宿问题，并衔接适用的签证材料和到校安排。<strong>申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。</strong>录取由学校决定，签证和居留由主管机关决定。</p>
 <p><strong>联系LEP时，先发孩子的年龄、当前年级、英语水平、计划入学时间、目标国家与年度预算。</strong>我们先判断TASIS是否值得进入正式申请名单，再讨论下一步。</p>
 <section class="swiss-contact"><h2 id="section-9">先让LEP帮您判断是否适合</h2><div class="contact"><span>微信：<strong>xiuyinxiansheng</strong></span><a href="mailto:jamesliu@luxedupartners.lu">jamesliu@luxedupartners.lu</a></div></section>
 <details class="swiss-sources"><summary>课程与费用来源 · 核验于2026年9月29日</summary><ol><li id="source-1"><a href="https://www.tasis.ch/about/tasis-at-a-glance" target="_blank" rel="noopener">TASIS — At a Glance</a></li><li id="source-2"><a href="https://www.tasis.ch/academics/ap" target="_blank" rel="noopener">TASIS — AP</a></li><li id="source-3"><a href="https://www.tasis.ch/academics/ib" target="_blank" rel="noopener">TASIS — IB</a></li><li id="source-4"><a href="https://www.tasis.ch/admissions/frequently-asked-questions" target="_blank" rel="noopener">TASIS — Admissions FAQ</a></li><li id="source-5"><a href="https://www.tasis.ch/community/residential-life/boarding-faq" target="_blank" rel="noopener">TASIS — Boarding FAQ</a></li><li id="source-6"><a href="https://www.tasis.ch/admissions/tuition-and-fees" target="_blank" rel="noopener">TASIS — Tuition and Fees 2026/27</a></li><li id="source-7"><a href="https://www.tasis.ch/uploaded/documents/PDF_Admissions/Tuition_and_Fees_26_27.pdf" target="_blank" rel="noopener">TASIS — Tuition and Fees 2026/27 (PDF)</a></li><li id="source-8"><a href="https://www.tasis.ch/agents-portal/agent-academic-year" target="_blank" rel="noopener">TASIS — English placement tests</a></li><li id="source-9"><a href="https://www.swissuniversities.ch/en/themen/zulassung/zulassung-universitaere-hochschulen/international-baccalaureate" target="_blank" rel="noopener">swissuniversities — IB admission, 2026/27</a></li><li id="source-10"><a href="https://www.tasis.ch/admissions/applying-to-tasis" target="_blank" rel="noopener">TASIS — Applying</a></li></ol></details>

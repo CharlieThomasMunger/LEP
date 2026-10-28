@@ -4,13 +4,14 @@ lang: "en"
 ref: "eerde-lep-application-service"
 permalink: "/en/insights/apply-to-eerde-with-lep/"
 cluster: "netherlands-school"
-title: "Why apply to Eerde with LEP? Local knowledge, practical support and no additional application service fee"
+title: "Why apply to Eerde with LEP? School-funded application support in Europe"
 date: "2026-09-27"
 reviewed: "2026-09-28"
-description: "Apply to Eerde with no additional LEP application service fee"
+description: "Eerde funds LEP’s application support, so families pay no LEP application-service fee. Europe-based help with assessment, documents, school liaison, visa preparation and campus-visit bookings."
 lep_service_page: true
 image: "/assets/eerde/eerde-courtyard-buildings-lep.jpg"
 has_topic_navigation: true
+last_modified_at: "2026-10-28T06:09:08+00:00"
 ---
 
 <h2>A Europe-based adviser who knows the school</h2>
@@ -25,8 +26,8 @@ has_topic_navigation: true
 <p>A visit should help you understand how your child would learn and live, including boarding, meals and everyday routines. We help you focus on the aspects that matter to your family.</p>
 <figure class="article-photo"><a href="/assets/eerde/eerde-courtyard-buildings-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-courtyard-buildings-lep.jpg" width="2275" height="1280" alt="The Eerde castle campus, photographed during a school visit. LEP photograph." loading="lazy" decoding="async"></a><figcaption>The Eerde castle campus, photographed during a school visit. LEP photograph.</figcaption></figure>
 <figure class="article-photo portrait"><a href="/assets/eerde/eerde-fold-family-visit.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-family-visit.jpg" width="1200" height="1600" alt="Exploring the Eerde castle campus during a family visit. LEP photograph." loading="lazy" decoding="async"></a><figcaption>Exploring the Eerde castle campus during a family visit. LEP photograph.</figcaption></figure><h2>Does applying through LEP cost more?</h2>
-<p>Until 15 September 2027, LEP charges no additional service fee for assistance with an Eerde application. This includes application assessment, school liaison, document preparation and visa application support. School tuition, boarding and government or other third-party charges remain payable.</p>
-<p>You gain a Europe-based point of contact to help prepare and coordinate the application, without an additional LEP application service charge during this period.</p>
+<p>Eerde pays for LEP’s application support, so families pay no LEP application-service fee. We help with assessment, school liaison, document preparation, family campus-visit bookings and visa application preparation. Tuition, boarding and government or other third-party charges remain payable.</p>
+<p>You gain a Europe-based point of contact to prepare and coordinate the application, with the school paying for LEP’s application support.</p>
 <h2>A wider view of education in Europe</h2>
 <p>Our work with schools in Luxembourg, the Netherlands and Switzerland helps families consider secondary education alongside possible university destinations. Whether your child is interested in continuing in the Netherlands, Switzerland or elsewhere in Europe, we can discuss how current course and language choices fit that direction.</p>
 <p>Our service is available to international families of different nationalities. Tell us your child&#x27;s age, current curriculum, language profile and intended starting date so we can discuss school fit, application support and a possible visit.</p><section class="eerde-contact" id="eerde-contact"><h2>Discuss your child’s application and a school visit with James Liu</h2><p>Tell us your child’s age, current year, English level and intended starting date.</p><p><a href="mailto:jamesliu@luxedupartners.lu">Email James Liu directly</a> · <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a></p><p><a href="/en/insights/apply-to-eerde-with-lep/">How LEP can help with your application →</a></p></section>

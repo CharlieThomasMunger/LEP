@@ -12,7 +12,7 @@
   "description": "修印先生实访CRCS，与风趣亲切的女校长深入交流，查看教学及寄宿环境。LEP结合校园氛围、本科商科方向、2027费用和实习，协助家庭申请。",
   "image": "/assets/fieldwork/crcs-james-head-of-school-202610.jpg",
   "school_key": "crcs",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "answer": "瑞士恺撒里兹大学（César Ritz Colleges Switzerland，CRCS）适合希望把商业管理、服务运营与实习结合起来的学生。，修印先生赴校并与校长会面。LEP将访校接触与课程、预算和学生的职业目标一起评估，推进合适的申请。",
   "custom_lep_support": true,
   "has_topic_navigation": true,
@@ -35,7 +35,7 @@
     },
     {
       "q": "找LEP申请恺撒里兹、安排访校，需要额外服务费吗？",
-      "a": "LEP提供选校评估、校方沟通、申请协助和访校预约安排，不向学生或家长额外收取这些服务的服务费。微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。"
+      "a": "LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。"
     },
     {
       "q": "实习收入能抵减多少留学成本？",
@@ -128,5 +128,5 @@ CRCS的瑞士机构认证类别为 **University of Applied Sciences Institute**�
 
 
 <section class="internship-budget"><h2>实习能赚多少钱，家庭净投入怎么计算？</h2><p>恺撒里兹酒店商业管理本科包含两段实习；其Industry Immersion Year页面明确写出<strong>六个月、100%保障的实习</strong>。LEP会按申请的本科或硕士路线，与学校落实实习阶段及薪酬安排。家庭算净投入时，应把实际带薪月数和可留下的实习收入计入。</p><p>对适用瑞士酒店餐饮业CCNT／L-GAV第11条的课程实习，2027年已公布的最低税前月薪为<strong>CHF2,404</strong>，按相关企业自1月1日或夏季起适用。用这个标准静态测算，6个完整领薪月的基础工资为<strong>CHF14,424</strong>，12个月为<strong>CHF28,848</strong>。将来实际实习年份再核对工资标准；欧洲其他国家或中东的岗位，按当地合同填写工资和食宿待遇。</p><p>下面是预算演示：假设工资扣款、实习住宿、餐饮、保险和交通等，合计每月CHF1,800。它是可替换的测算输入，LEP会用雇主合同与住宿方案换成真实金额。</p><div class="table-scroll"><table><thead><tr><th>累计完整领薪月数</th><th>基础税前工资</th><th>演示支出及扣款</th><th>可抵减其他教育支出的余额</th></tr></thead><tbody><tr><td>6个月</td><td>CHF14,424</td><td>CHF10,800</td><td>CHF3,624</td></tr><tr><td>12个月</td><td>CHF28,848</td><td>CHF21,600</td><td>CHF7,248</td></tr></tbody></table></div><p>若每月相关支出及扣款是CHF1,500，12个月余额为CHF10,848；若是CHF2,100，则为CHF3,648。符合条件的第十三薪按比例另计，本表先只计基础工资。工资单已扣的食宿、保险等不再在生活费中重复加一遍。</p><p><strong>家庭净投入＝学校收费＋未包含的其他支出－实习结余－已确认优惠或奖学金。</strong>实习结余已经扣过实习期成本。</p><p>若酒店商业本科两段实习合计实际领取12个月的上述工资，并采用每月CHF1,800支出及扣款的演示，CHF169,300的学校已列费用减去CHF7,248实习余额后，为<strong>CHF162,052＋未包含的生活等支出－已确认奖学金</strong>。CHF2,000押金另作资金准备。这是本科情景；硕士与AI路线另按其项目核算。</p><p>学费与押金往往先交，实习工资随后逐月到账。因此LEP会同时给家庭列“入学前需要准备的现金”和“完成课程后的预计净投入”，帮助家庭把这条路径安排得更稳妥。</p><p>实习与工资核验：2026年10月26日。工资依据：CCNT / L-GAV Art. 11 · Art. 12 · Art. 13.</p></section>
-<section class="lep-intent-contact"><h2>通过LEP申请恺撒里兹，把课程选择落实到校园</h2><p>LEP会结合学生的成绩、英语和商业兴趣，比较酒店商业管理、应用AI或硕士路线，沟通入学起点、奖学金及完整费用。我们已与校长深入交流，可以协助家庭安排到校参观，把课堂、住宿和学生生活亲自看一遍。</p><p><strong>通过LEP申请这所学校，我们提供选校评估、校方沟通、申请协助和访校预约安排，不向学生或家长额外收取这些服务的服务费。</strong>想先亲自看看学校，也可以由LEP协调访校时间和参观重点。</p><p>请提供目前学历、近期成绩、英语水平、目标方向、入学时间和预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。<a href="/zh/insights/why-lep/">了解LEP的选校申请与欧洲本地服务 →</a></p></section>
+<section class="lep-intent-contact"><h2>通过LEP申请恺撒里兹，把课程选择落实到校园</h2><p>LEP会结合学生的成绩、英语和商业兴趣，比较酒店商业管理、应用AI或硕士路线，沟通入学起点、奖学金及完整费用。我们已与校长深入交流，可以协助家庭安排到校参观，把课堂、住宿和学生生活亲自看一遍。</p><p><strong>LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。</strong>想先亲自看看学校，也可以由LEP协调访校时间和参观重点。</p><p>请提供目前学历、近期成绩、英语水平、目标方向、入学时间和预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。<a href="/zh/insights/why-lep/">了解LEP的选校申请与欧洲本地服务 →</a></p></section>
 <section class="source-note"><p>资料：CRCS本科、应用AI、硕士、职业服务与机构认证官方页面，校方2027收费表及课程资料；课程、费用与政策核验于2026年10月24日；校园资料复核及访校口述补充于10月25日。访校与合影：修印先生2026年10月瑞士行。瑞士毕业生就业规定依据SEM工作常见问题。</p></section>

@@ -9,7 +9,7 @@
   "answer": "Private international school with a Luxembourg host family and Swiss campus boarding differ in curriculum, life after lessons and complete budget. LEP provides school applications, family matching and ongoing local support in Luxembourg, and has visited Swiss boarding schools. We compare both around what the child can study successfully and adapt to day by day.",
   "date": "2026-10-11",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/en/insights/boarding-school-or-host-family/",
   "image": "/assets/host-family-room.jpg",
   "image_alt": "A host-family bedroom with a separate resting space and natural light.",
@@ -32,7 +32,7 @@
     },
     {
       "q": "Are LEP’s services free for both routes?",
-      "a": "Swiss application and family-visit coordination has no additional LEP service fee. Luxembourg local support is priced by agreed scope."
+      "a": "Swiss schools fund LEP’s application and family-visit support, so families pay no LEP application-service fee. Local school and host-family support for children in Luxembourg is a separate paid service."
     }
   ],
   "education_key": "schools"
@@ -60,7 +60,7 @@
 <p>After the initial discussion, we narrow the routes and progress school contact, budget and accommodation. The result should be a few options the family can meaningfully pursue.</p>
 
 <section class="lep-intent-contact"><h2>Discuss a plan with LEP</h2>
-<p>LEP does not charge an additional service fee for Swiss school applications and family-visit bookings. Luxembourg host-family matching and local support are priced according to the agreed scope.</p>
+<p>Swiss schools pay for LEP’s application assistance and family campus-visit bookings, so families pay no LEP application-service fee. School applications, host-family matching and local support for children in Luxembourg are priced according to the agreed scope.</p>
 <p>Tell us the student’s age, current curriculum and results, languages, intended start date, budget and the two questions that matter most to your family.</p>
 <p><a href="https://wa.me/352661221289">Contact LEP on WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

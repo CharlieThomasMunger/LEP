@@ -5,11 +5,11 @@
   "ref": "lep-guide-international-school-altdorf-boarding-ib",
   "cluster": "switzerland-boarding",
   "title": "Is Lucerne International Academy Wikon a good fit? IB, campus life and the annual budget",
-  "description": "James Liu’s Wikon visit: an IB-focused small school, renovated spaces, sports trade-offs and the CHF55,000–60,000 annual budget discussed. LEP supports applications and visit bookings without an additional service fee.",
-  "answer": "Wikon’s main curriculum direction is IB. During James Liu’s visit there were around 40 pupils, generous renovated teaching spaces and an annual budget discussed at CHF55,000–60,000. LEP assesses curriculum, boarding, sports and fees with the family, and supports applications and campus-visit bookings without an additional service fee.",
+  "description": "James Liu’s Wikon visit: an IB-focused small school, renovated spaces, sports trade-offs and the CHF55,000–60,000 annual budget discussed. Schools fund LEP’s application and visit-booking support; families pay no LEP application-service fee.",
+  "answer": "Wikon’s main curriculum direction is IB. During James Liu’s visit there were around 40 pupils, generous renovated teaching spaces and an annual budget discussed at CHF55,000–60,000. LEP assesses curriculum, boarding, sports and fees with the family, and provides school-funded application and campus-visit support, with no LEP application-service fee for families.",
   "date": "2026-10-12",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/en/insights/international-school-altdorf-boarding-ib/",
   "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
   "custom_lep_support": true,
@@ -33,7 +33,7 @@
     },
     {
       "q": "Does LEP charge an additional application or visit-booking service fee?",
-      "a": "No additional service fee is charged to students or parents for school-fit assessment, school liaison, application assistance and campus-visit booking. Contact contact@luxedupartners.lu or LEP via WhatsApp."
+      "a": "LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it. Contact contact@luxedupartners.lu or LEP via WhatsApp."
     }
   ],
   "school_article": true,
@@ -98,7 +98,7 @@ Beyond the room and meals, the family needs a workable weekend and holiday plan,
 
 Having seen the campus and spoken with the principal, LEP can bring a child’s age, curriculum, languages, independence, sports habits and budget into that discussion. School selection then becomes a plan for learning and everyday life.
 
-<section class="lep-intent-contact"><h2>Apply to Wikon and arrange a visit through LEP</h2><p>We connect the IB transition, language support, sports requirements and the annual budget discussed on our visit with the child’s actual situation. Families can also ask us to coordinate a campus visit and the questions to cover with the school.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and campus-visit booking, with no additional service fee charged to students or parents for these services.</strong></p><p>Please share the child’s age, curriculum, recent reports, English level, sports interests and intended entry date. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
+<section class="lep-intent-contact"><h2>Apply to Wikon and arrange a visit through LEP</h2><p>We connect the IB transition, language support, sports requirements and the annual budget discussed on our visit with the child’s actual situation. Families can also ask us to coordinate a campus visit and the questions to cover with the school.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.</strong></p><p>Please share the child’s age, curriculum, recent reports, English level, sports interests and intended entry date. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
 
 <section class="source-note"><p>Sources and visit evidence: University of Bern’s Marienburg architectural-history record; discussions with the principal, photographs and James Liu’s visit on 19 October, supplemented by his account on 25 October. Checked and updated on 25 October 2026. First-hand observations: James Liu’s October 2026 Swiss school visits.</p></section>
 

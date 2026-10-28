@@ -13,7 +13,7 @@
   "answer": "Lémania associe une implantation centrale à Lausanne, un environnement francophone et un parcours IB en anglais. Après un accueil courtois et la découverte de locaux regroupés, LEP évalue les études, les langues, l’autonomie et le budget de l’enfant.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "faq": [
     {
       "q": "Quel est l’environnement du campus ?",
@@ -33,7 +33,7 @@
     },
     {
       "q": "LEP facture-t-il des frais supplémentaires pour la candidature ou la réservation d’une visite ?",
-      "a": "LEP ne facture pas de frais supplémentaires aux élèves ou à leurs parents pour le choix de l’école, les échanges, l’aide à la candidature et la réservation d’une visite. Contact : contact@luxedupartners.lu ou WhatsApp."
+      "a": "LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches. Contact : contact@luxedupartners.lu ou WhatsApp."
     }
   ],
   "translated": true
@@ -95,6 +95,6 @@ Je retiendrais Lémania pour une famille intéressée par l’IB en anglais, la 
 
 Après notre visite, LEP peut transformer ces questions en une sélection ciblée, au lieu de laisser les parents devant une longue liste de noms.
 
-<section class="lep-intent-contact"><h2>Candidater à l’École Lémania et organiser une visite avec LEP</h2><p>LEP examine l’entrée en préparation ou en IB, l’âge d’internat, la chambre, les repas et le budget annuel complet. Nous pouvons réserver une visite pour découvrir les cours, les logements et les activités environnantes et juger si le campus urbain convient à votre enfant.</p><p><strong>LEP accompagne le choix de l’école, les échanges avec l’établissement, la candidature et la réservation d’une visite, sans facturer de frais de service supplémentaires aux élèves ou à leurs parents pour cet accompagnement.</strong></p><p>Indiquez son âge, sa classe, son cursus, ses résultats récents, son anglais et son français, la rentrée souhaitée et le budget annuel. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
+<section class="lep-intent-contact"><h2>Candidater à l’École Lémania et organiser une visite avec LEP</h2><p>LEP examine l’entrée en préparation ou en IB, l’âge d’internat, la chambre, les repas et le budget annuel complet. Nous pouvons réserver une visite pour découvrir les cours, les logements et les activités environnantes et juger si le campus urbain convient à votre enfant.</p><p><strong>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</strong></p><p>Indiquez son âge, sa classe, son cursus, ses résultats récents, son anglais et son français, la rentrée souhaitée et le budget annuel. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
 
 <section class="source-note"><p>Sources et visite: programme IB et internat de l’École Lémania, tableau IB Experience 2026/27 des cours et de la pension ; visite de James Liu et échanges sur les locaux et ressources urbaines. Vérification et mise à jour : 25 octobre 2026. Observations sur place : visites de James Liu en Suisse en octobre 2026.</p></section>

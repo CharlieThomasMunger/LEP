@@ -9,14 +9,15 @@ has_topic_navigation: true
 title: "Candidater à IMI en Suisse : LEP vous accompagne dans le choix du programme, les bourses et l’admission"
 date: "2026-09-25"
 reviewed: "2026-09-26"
-description: "Pour candidater à IMI, contactez directement LEP. Partenaire officiel de l’école, nous vous aidons à choisir la formation, solliciter les bourses, coordonner le dossier et faire avancer l’admission. Pour les candidatures IMI prises en charge par LEP, nos frais de service de candidature …"
+description: "LEP est un partenaire d’IMI pour l’accompagnement des candidatures en Europe. IMI rémunère cet accompagnement ; les familles ne paient pas de frais de service de candidature à LEP."
 image: "/assets/imi/imi-admissions-visit.webp"
 translated: true
+last_modified_at: "2026-10-28T06:09:08+00:00"
 ---
 
 **Par James Liu | Lux Education Partners | Vérifié le 26 septembre 2026**
 
-**Pour candidater à IMI, contactez directement LEP. Partenaire officiel de l’école, nous vous aidons à choisir la formation, solliciter les bourses, coordonner le dossier et faire avancer l’admission. Pour les candidatures IMI prises en charge par LEP, nos frais de service de candidature sont offerts de 2026 au 15 septembre 2027.** La scolarité, l’inscription auprès de l’école et les frais de tiers restent distincts.
+**Pour candidater à IMI, contactez directement LEP. Partenaire officiel de l’école, nous vous aidons à choisir la formation, solliciter les bourses, coordonner le dossier et faire avancer l’admission. IMI rémunère l’accompagnement de candidature de LEP ; les étudiants et leurs parents ne paient pas de frais de service de candidature à LEP.** La scolarité, l’inscription auprès de l’école et les frais de tiers restent distincts.
 
 Il n’est pas nécessaire d’avoir déjà constitué un dossier. Parlez-nous de votre diplôme actuel, de votre anglais, du budget, de la rentrée envisagée et de vos objectifs après les études.
 

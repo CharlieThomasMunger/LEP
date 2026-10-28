@@ -10,9 +10,9 @@
   "title": "IMI 2027 winter and summer programmes: dates, CHF 1,800 early fees and applications",
   "date": "2026-09-25",
   "reviewed": "2026-10-25",
-  "description": "Compare IMI’s January and July 2027 programmes, ages, payment deadlines and later tuition benefits. Apply through LEP without an additional service fee.",
+  "description": "Compare IMI’s January and July 2027 programmes, ages, payment deadlines and later tuition benefits. IMI funds LEP’s application support; families pay no LEP application-service fee.",
   "image": "/assets/imi/winter-2027-timetable.png",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "custom_lep_support": true,
   "answer": "IMI’s winter programme runs from 17–24 January 2027 for ages 16–24; the summer programme runs from 18–25 July for ages 16–26. Both advertise CHF 1,800 early fees with separate deadlines. LEP helps organise the application and its connection to future studies.",
   "faq": [
@@ -34,7 +34,7 @@
     },
     {
       "q": "Does LEP charge an additional application or visit-booking service fee?",
-      "a": "No additional service fee is charged to students or parents for school-fit assessment, school liaison, application assistance and campus-visit booking. Contact contact@luxedupartners.lu or LEP via WhatsApp."
+      "a": "LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it. Contact contact@luxedupartners.lu or LEP via WhatsApp."
     }
   ],
   "translated": true
@@ -99,7 +99,7 @@ The summer page also describes a one-time scholarship equivalent to the programm
 
 The choice between winter and summer should follow the student’s age, holidays, English and future study plans. For my recent observations on academic learning, accommodation and campus life, read [the October 2026 IMI visit](/en/insights/imi-campus-visit/).
 
-<section class="lep-intent-contact"><h2>Apply to IMI’s short programmes and arrange a visit through LEP</h2><p>LEP helps compare dates, communicate with the school, prepare the application and clarify payment and later tuition benefits. We can also arrange a family campus visit and connect the experience with a degree application.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and campus-visit booking, with no additional service fee charged to students or parents for these services.</strong></p><p>Tell us the student’s age, English level, preferred dates and longer-term interests. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
+<section class="lep-intent-contact"><h2>Apply to IMI’s short programmes and arrange a visit through LEP</h2><p>LEP helps compare dates, communicate with the school, prepare the application and clarify payment and later tuition benefits. We can also arrange a family campus visit and connect the experience with a degree application.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.</strong></p><p>Tell us the student’s age, English level, preferred dates and longer-term interests. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
 
 ## Explore IMI with LEP
 

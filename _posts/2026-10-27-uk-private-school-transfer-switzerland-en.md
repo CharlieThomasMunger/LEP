@@ -9,7 +9,7 @@
   "answer": "Changing countries does not by itself require repeating a school year. Curriculum and subject continuity are decisive. In my view, families seeking strong education, an international environment and a considered long-term budget should compare Switzerland seriously. Boarding school followed by a Swiss public university can change the overall cost substantially. LEP assesses grades, languages and budget against actual schools.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/en/insights/uk-private-school-transfer-switzerland/",
   "image": "/assets/swiss/cm02.jpg",
   "image_alt": "Lake views and outdoor space at Chantemerle.",
@@ -80,7 +80,7 @@
 <p>Families who also want to examine European establishment and residence planning can explore <a href="https://www.sbmg.lu/">SBMG</a>. LEP focuses on education and applications; wider arrangements are assessed against the family’s circumstances.</p>
 
 <section class="lep-intent-contact"><h2>Discuss a plan with LEP</h2>
-<p>LEP helps with school selection, school discussions, applications and family-visit bookings without an additional service fee to the student or family.</p>
+<p>LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.</p>
 <p>Tell us the student’s age, current curriculum and results, languages, intended start date, budget and the two questions that matter most to your family.</p>
 <p><a href="https://wa.me/352661221289">Contact LEP on WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

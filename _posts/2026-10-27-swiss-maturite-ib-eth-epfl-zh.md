@@ -9,7 +9,7 @@
   "answer": "如果目标很明确地指向瑞士大学，获认可的瑞士普通高中Maturité具有清晰的入学优势；如果希望同时保留多个国家的大学选择，IB值得比较。IB达到指定分数和选科，也可以免入学考试申请ETH或EPFL，不能简单理解为“IB必须再考一次”。LEP会把大学条件反推到中学、科目和语言准备。",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/zh/insights/swiss-maturite-ib-eth-epfl/",
   "image": "/assets/people/james-reading-books.jpg",
   "image_alt": "修印先生在书架前阅读资料。",
@@ -64,7 +64,7 @@
 <p>我对ENSR的校园和寄宿管理印象很好，但推荐到某个家庭时，还要看孩子的法语、数学和目标专业。对长期考虑瑞士的学生，Maturité的升学结构值得认真看；对仍在比较英美及其他国家的家庭，IB的跨国可比性更方便。Maturité也可以申请国外大学，最终仍取决于目标学校要求。</p>
 <p>两种资格各有用途。LEP帮助家长做的，是先确定想保留哪些选择，再看孩子有能力完成哪条路线，以及完整学段要投入多少。</p>
 
-<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP可协助选校评估、校方沟通、申请和家庭访校预约，不向学生或家长额外收取这些服务的服务费。</p>
+<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。</p>
 <p>请提供孩子年龄、当前课程与数学成绩、英语/法语/德语水平、目标大学和专业。LEP可对接中学，核对选科、入学阶段和寄宿预算，并安排家庭访校。</p>
 <p>微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p>
 </section><section class="source-note"><h2>资料依据</h2><p>大学入学条件核验至2026年10月27日；表内比较一般IB申请条件，课程选择按目标申请学年复核。</p>

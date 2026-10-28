@@ -16,7 +16,7 @@ faq: [{"q": "Chantemerle 是 IB 学校吗？", "a": "学校目前公开的主要
 
 school_key: "chantemerle"
 
-last_modified_at: "2026-10-13"
+last_modified_at: "2026-10-28T06:09:08+00:00"
 consultation: "swiss"
 ---
 
@@ -61,6 +61,6 @@ consultation: "swiss"
 <p>如果孩子期待人数很多的校园，或者已经非常接近毕业、却需要从头补语言，就应该认真比较其他方案，不要仅凭湖景和住宿条件做决定。</p>
 <p>我已经到校走访，与校长直接沟通，LEP也与学校保持深度合作。我们可以围绕孩子的情况，把需要的课程组合、语言支持、寄宿生活和学校资源与校方具体谈清楚，再协助家庭准备申请、衔接签证手续与到校安排。</p>
 <p>LEP以卢森堡为欧洲本土基地。对于身在中国的家长，价值在于有人在接近学校的工作时区持续跟进，也能把对学校的了解放进孩子未来在欧洲的学习规划，而不只是转发一份招生简章。</p>
-<p>按 LEP 现行安排，至2027年9月15日前，所承接的合作学校申请免学校申请服务费；学校及第三方费用、其他专项服务另计，具体适用安排在服务开始前说明。</p>
+<p>LEP 是合作学校在欧洲的申请支持方。申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。 学校学费、食宿、注册及第三方费用仍按相应项目支付。</p>
 <section class="swiss-contact"><h2 id="section-8">想比较 A Level 和瑞士大学路线？</h2><p>联系 LEP，告诉我们孩子的年龄、年级、英语与法语水平、目标国家和年度预算。我们可以先判断应该看哪条课程，再与校长和招生团队推进。</p><div class="contact"><span>微信：<strong>xiuyinxiansheng</strong></span><a href="mailto:jamesliu@luxedupartners.lu">jamesliu@luxedupartners.lu</a></div></section>
 <details class="swiss-sources"><summary>课程与费用来源 · 核验于2026年9月28日</summary><ol><li class="source-item" id="source-1"><a href="https://chantemerle.ch/en/" target="_blank" rel="noopener">Chantemerle 年龄、规模与校区</a></li><li class="source-item" id="source-2"><a href="https://chantemerle.ch/en/cambridge-international/" target="_blank" rel="noopener">Chantemerle Cambridge IGCSE 与 A Level</a></li><li class="source-item" id="source-3"><a href="https://chantemerle.ch/faq-en/" target="_blank" rel="noopener">Chantemerle 语言与升学支持</a></li><li class="source-item" id="source-4"><a href="https://chantemerle.ch/en/swiss-matura/" target="_blank" rel="noopener">Chantemerle 联邦 Matura 与 Vevey 教学点</a></li><li class="source-item" id="source-5"><a href="https://chantemerle.ch/en/boarding/" target="_blank" rel="noopener">Chantemerle 寄宿生活与房间安排</a></li><li class="source-item" id="source-6"><a href="https://chantemerle.ch/en/fees/" target="_blank" rel="noopener">Chantemerle 2026/27 收费与费用范围</a></li><li class="source-item" id="source-7"><a href="https://help.cambridgeinternational.org/hc/en-gb/articles/115004302785-Where-are-Cambridge-International-AS-A-Levels-accepted-and-recognised" target="_blank" rel="noopener">Cambridge International A Level 全球大学认可</a></li><li class="source-item" id="source-8"><a href="https://ethz.ch/en/studium/bachelor/bewerbung/auslaendische-reifezeugnisse/zulassungsvoraussetzungen.html" target="_blank" rel="noopener">ETH 本科录取要求入口</a></li><li class="source-item" id="source-9"><a href="https://www.epfl.ch/education/admission/admission-2/frequently-asked-questions/" target="_blank" rel="noopener">EPFL 本科录取常见问题</a></li></ol><p>访校观察与学校人物经历来自修印先生口述；照片为本人提供的LEP实拍。收费按相应学年说明，申请时以校方针对学生的正式文件为准。</p></details>

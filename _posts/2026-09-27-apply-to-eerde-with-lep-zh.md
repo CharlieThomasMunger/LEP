@@ -4,13 +4,14 @@ lang: "zh"
 ref: "eerde-lep-application-service"
 permalink: "/zh/insights/apply-to-eerde-with-lep/"
 cluster: "netherlands-school"
-title: "为什么通过LEP申请Eerde？欧洲本地有人对接，申请服务不额外收费"
+title: "为什么通过LEP申请Eerde？学校支付申请支持服务，家长无需另付服务费"
 date: "2026-09-27"
 reviewed: "2026-09-28"
-description: "通过LEP申请Eerde，不额外收取申请服务费"
+description: "通过 LEP 申请 Eerde，学校支付申请支持服务，家长无需向 LEP 支付申请服务费。欧洲本地团队协助评估、材料、校方沟通、签证申请准备与家庭访校预约。"
 lep_service_page: true
 image: "/assets/eerde/eerde-courtyard-buildings-lep.jpg"
 has_topic_navigation: true
+last_modified_at: "2026-10-28T06:09:08+00:00"
 ---
 
 <h2>我们了解学校，也替家庭把事情往前推进</h2>
@@ -25,7 +26,7 @@ has_topic_navigation: true
 <p>访校时，重要的不只是拍几张照片，而是看孩子将怎样学习、吃饭、住校，与谁交流。我们已经看过这些环境，可以帮助家长把注意力放在对孩子真正有影响的问题上。</p>
 <figure class="article-photo"><a href="/assets/eerde/eerde-courtyard-buildings-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-courtyard-buildings-lep.jpg" width="2275" height="1280" alt="访校时拍摄的Eerde古堡校园。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时拍摄的Eerde古堡校园。LEP实拍。</figcaption></figure>
 <figure class="article-photo portrait"><a href="/assets/eerde/eerde-fold-family-visit.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-fold-family-visit.jpg" width="1200" height="1600" alt="访校时，孩子走过Eerde古堡校园的小桥。LEP实拍。" loading="lazy" decoding="async"></a><figcaption>访校时，孩子走过Eerde古堡校园的小桥。LEP实拍。</figcaption></figure><h2>通过LEP，会不会增加一笔中介费用？</h2>
-<p>截至2027年9月15日，通过LEP申请Eerde，我们不额外收取申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校学费、寄宿费及政府等第三方收取的费用照常支付。</p>
+<p>通过 LEP 申请 Eerde，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。我们协助申请评估、校方沟通、材料整理、家庭访校预约及签证申请准备。学校学费、寄宿费及政府等第三方费用照常支付。</p>
 <p>家庭得到的是欧洲本地的申请协助，而不是多出一笔LEP申请服务费。自己联系学校，需要自行跟进材料和沟通；委托LEP，可以把约定的申请工作交给我们推进。</p>
 <h2>如果孩子以后继续在欧洲发展，我们能把前后路径一起考虑</h2>
 <p>LEP的经验来自欧洲本土：卢森堡、荷兰、瑞士的学校，我们持续实地了解并与校方交流。申请高中时，就可以一起讨论孩子未来更偏向荷兰本科、瑞士大学，还是其他欧洲方向，提前注意选课与语言准备。</p>

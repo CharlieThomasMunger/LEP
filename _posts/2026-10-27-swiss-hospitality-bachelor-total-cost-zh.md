@@ -9,7 +9,7 @@
   "answer": "按本次核对的课程与收费，IMI、HIM、凯撒里兹、SHMS、格里昂和理诺士的已列学校费用约为12.3万—23.2万瑞郎，课程长度和食宿覆盖期不同。家庭总投入还要加未列住宿、假期与个人支出，再扣奖学金和实习净收入。LEP会按孩子实际入学年级、房型和课程，把这笔账算到毕业。",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/zh/insights/swiss-hospitality-bachelor-total-cost/",
   "image": "/assets/fieldwork/him-alumni-corridor.jpg",
   "image_alt": "HIM访校实拍：校园内的公共空间与校友照片。",
@@ -32,7 +32,7 @@
     },
     {
       "q": "LEP申请协助另收费吗？",
-      "a": "这些瑞士学校的申请与访校预约协助不额外收取服务费。"
+      "a": "这些瑞士学校支付 LEP 的申请与访校预约支持服务，学生和家长无需向 LEP 额外付费。"
     }
   ],
   "education_key": "higher"
@@ -66,7 +66,7 @@
 <p>以2027起始阶段为例，格里昂已列项目与申请费约55,875瑞郎，另备1,250可退押金；理诺士按分项复算约50,450瑞郎，另备1,000可退押金。押金占用现金，但符合退还条件时不是最终消费。实习收入则发生在入学之后，二者要按时间分开准备。</p>
 <p>在相同预算下，IMI的学术安排与较低起点值得看；SEG各校要按商业、酒店、设计或厨艺方向展开；格里昂与理诺士则要看孩子是否真正需要相应的课程、校园和国际职业资源。多花的钱，应当对应孩子会使用的东西。</p>
 
-<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP可协助选校评估、校方沟通、申请和家庭访校预约，不向学生或家长额外收取这些服务的服务费。</p>
+<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。</p>
 <p>请提供孩子的学历、拟入学时间、是否接受双人房、全程预算和职业目标。LEP会按实际课程给出学校收费、额外生活费、实习收支与缴费时间的对照。</p>
 <p>微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p>
 </section><section class="source-note"><h2>资料依据</h2><p>SEG数据来自校方提供的2027 CRCS、SHMS、HIM及CAA收费表；其他收费按所链接原件核算。表中全程情景为LEP预算演算，奖学金尚未预先扣除。核验：2026年10月27日。</p>

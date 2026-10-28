@@ -9,7 +9,7 @@
   "answer": "英国私校转瑞士，不会仅因换国家就必须降级，关键在课程和科目能否衔接。我的判断是：对重视教育质量、国际环境和长期投入的家庭，瑞士值得认真比较。尤其把寄宿中学与瑞士公立大学放在一条完整路线里算，成本优势可能在大学阶段明显展开。LEP会结合成绩、语言与预算，落实到具体学校。",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/zh/insights/uk-private-school-transfer-switzerland/",
   "image": "/assets/swiss/cm02.jpg",
   "image_alt": "Chantemerle校园的湖景与户外空间。",
@@ -96,7 +96,7 @@
 <p>给具体家庭做方案时，LEP会继续问目标年级和课程的语言使用、学生组成、分组与寄宿安排，让孩子接触到的环境与家庭期待一致。英国各校也有差别，应与孩子目前所在的学校直接比较。</p>
 <p>如果家庭希望同时研究欧洲长期生活与身份安排，可以了解<a href="https://www.sbmg.lu/">SBMG的欧洲落地与长期规划咨询</a>。LEP把教育质量、课程衔接和学校申请做好，长期安排则结合家庭条件与计划工作的国家一并评估。</p>
 
-<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP可协助选校评估、校方沟通、申请和家庭访校预约，不向学生或家长额外收取这些服务的服务费。</p>
+<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。</p>
 <p>请提供英国在读年级、考试局与科目、最近成绩、希望转学时间和目前全年开支。LEP先判断课程能否接上，再比较学校与住宿。</p>
 <p>微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p>
 </section><section class="source-note"><h2>资料依据</h2><p>费用以标注学年与入学期为依据；就业收入使用OECD的2025年模型。金额演算及访校判断更新于2026年10月27日。</p>

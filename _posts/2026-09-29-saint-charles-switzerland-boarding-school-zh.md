@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-13"
+last_modified_at: "2026-10-28T06:09:08+00:00"
 layout: "node"
 ref: "sc1-swiss-school"
 cluster: "switzerland-boarding"
@@ -59,7 +59,7 @@ consultation: "swiss"
 <h2 id="section-8">找 LEP，具体能多解决什么？</h2>
 <p>我已经实地走访圣查尔斯，也能直接与校长及学校所有者沟通。LEP 与学校的深度合作，可以帮助家庭把“这所学校看起来不错”进一步变成具体问题：孩子适合哪个课程、目前的语言能否跟上、需要哪些支持、学校有哪些资源适合他。</p>
 <p>我们以卢森堡为欧洲本土基地，与瑞士学校处在接近的工作时区，能持续对接。家庭不用把课程判断、校方回复、材料准备、入学安排和签证申请协助拆成互不相连的几件事。需要访校时，也可以先由 LEP 把关注点与会面安排沟通好。录取仍由学校评估决定。</p>
-<p>按 LEP 现行安排，至2027年9月15日前，所承接的合作学校申请免学校申请服务费；学校及第三方费用、其他专项服务另计，具体适用安排在服务开始前说明。</p>
+<p>LEP 是合作学校在欧洲的申请支持方。申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。 学校学费、食宿、注册及第三方费用仍按相应项目支付。</p>
 <section class="swiss-contact"><h2 id="section-9">想判断圣查尔斯是否适合孩子？</h2><p>请发给 LEP 孩子的年龄、目前年级、英语和法语情况、目标入学时间，以及每年可持续投入的预算。我们先讨论课程与匹配，再推进申请。</p><div class="contact"><span>微信：<strong>xiuyinxiansheng</strong></span><a href="mailto:jamesliu@luxedupartners.lu">jamesliu@luxedupartners.lu</a></div></section>
 <details class="swiss-sources"><summary>课程与费用来源 · 核验于2026年9月28日</summary><ol><li class="source-item" id="source-1"><a href="https://www.saint-charles.ch/" target="_blank" rel="noopener">Saint-Charles 校址</a></li><li class="source-item" id="source-2"><a href="https://www.saint-charles.ch/ib-programme" target="_blank" rel="noopener">Saint-Charles 英文 IB 路线</a></li><li class="source-item" id="source-3"><a href="https://www.saint-charles.ch/swiss-programme" target="_blank" rel="noopener">Saint-Charles 瑞士课程与 Maturité</a></li><li class="source-item" id="source-4"><a href="https://www.saint-charles.ch/saint-charles-high-school-diploma" target="_blank" rel="noopener">Saint-Charles High School Diploma</a></li><li class="source-item" id="source-5"><a href="https://www.saint-charles.ch/admissions-process" target="_blank" rel="noopener">Saint-Charles 入学评估与滚动招生</a></li><li class="source-item" id="source-6"><a href="https://www.saint-charles.ch/accommodation" target="_blank" rel="noopener">Saint-Charles 寄宿安排</a></li><li class="source-item" id="source-7"><a href="https://saintcharles.static.amais.com/Fees_20262027__7_Days_Boarding_15_-787.pdf?version=639107519398470000" target="_blank" rel="noopener">Saint-Charles 2026/27 七天寄宿收费表</a></li><li class="source-item" id="source-8"><a href="https://ibo.org/university-admission/find-countries-and-universities-that-recognize-the-ib/" target="_blank" rel="noopener">IBO：认可IB的国家与大学</a></li><li class="source-item" id="source-9"><a href="https://www.swissuniversities.ch/en/themen/zulassung/zulassung-universitaere-hochschulen/international-baccalaureate" target="_blank" rel="noopener">swissuniversities 2026/27 IB 入学要求</a></li><li class="source-item" id="source-10"><a href="https://www.epfl.ch/education/admission/admission-2/frequently-asked-questions/" target="_blank" rel="noopener">EPFL 本科录取常见问题</a></li></ol><p>访校观察与学校人物经历来自修印先生口述；照片为本人提供的LEP实拍。收费按相应学年说明，申请时以校方针对学生的正式文件为准。</p></details>
 

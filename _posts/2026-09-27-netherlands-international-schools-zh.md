@@ -12,9 +12,10 @@ answer: "父母在荷兰与孩子独自赴荷，是两种不同的选校需求�
 image: "/assets/eerde/eerde-castle-front-lep.jpg"
 school_article: true
 has_topic_navigation: true
+last_modified_at: "2026-10-28T06:09:08+00:00"
 ---
 
-<aside class="eerde-offer"><strong>通过LEP申请Eerde，不额外收取申请服务费</strong><p>截至2027年9月15日，LEP不额外收取Eerde申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-castle-front-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-castle-front-lep.jpg" width="2275" height="1280" alt="Eerde古堡正面与庭院。LEP实拍。" loading="eager" decoding="async"></a><figcaption>Eerde古堡正面与庭院。LEP实拍。</figcaption></figure><h2>先分清两类家庭，选校才有意义</h2>
+<aside class="eerde-offer"><strong>通过 LEP 申请 Eerde，申请支持服务由学校支付</strong><p>通过 LEP 申请 Eerde，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。我们协助申请评估、校方沟通、材料整理、家庭访校预约及签证申请准备。学校学费、寄宿费及政府等第三方费用照常支付。</p><a href="#eerde-contact">联系修印先生，讨论孩子的申请与访校 →</a></aside><figure class="article-photo"><a href="/assets/eerde/eerde-castle-front-lep.jpg" target="_blank" rel="noopener"><img src="/assets/eerde/eerde-castle-front-lep.jpg" width="2275" height="1280" alt="Eerde古堡正面与庭院。LEP实拍。" loading="eager" decoding="async"></a><figcaption>Eerde古堡正面与庭院。LEP实拍。</figcaption></figure><h2>先分清两类家庭，选校才有意义</h2>
 <p>第一类，父母不在荷兰，单独送孩子过去读书。第二类，父母已经在荷兰，希望孩子接受英文国际教育。这两类家庭都可以考虑国际学校，但需要解决的问题完全不同。</p>
 <p>父母在当地，生活和接送已经有人负责，可以考虑走读。父母不去，学校除了提供课程，还要有孩子能够长期生活的寄宿安排，周末也得有着落。</p>
 <p>我们这组文章主要谈第一类。这也是LEP目前荷兰学校服务的重点：把课程、寄宿和入学安排一起落实。其他走读国际学校确实存在，但对孩子独自赴荷的家庭，列出一长串名字，意义并不大。</p>
@@ -33,5 +34,5 @@ has_topic_navigation: true
 <p>对大多数刚开始了解荷兰的家庭，先把孩子的年龄、英语、预算和寄宿需求说清楚，再看哪条路适合，比先背学校名单有效。</p>
 <h2>选择学校之后，LEP帮家庭把申请落地</h2>
 <p>LEP在卢森堡，与荷兰同一时区、距离近，已实地到访Eerde并与校方深入沟通。中国家长不必独自跨时区反复联系学校：我们在欧洲办公时间跟进，再把课程、住宿和申请安排向家庭讲清楚。每季度组织的荷兰访校，也让家庭有机会带着具体问题实地了解。</p>
-<p>截至2027年9月15日，通过LEP申请Eerde，我们不额外收取申请服务费，涵盖申请评估、校方沟通、材料整理及签证申请协助。学校学费、寄宿费及政府等第三方收取的费用照常支付。</p>
+<p>通过 LEP 申请 Eerde，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。我们协助申请评估、校方沟通、材料整理、家庭访校预约及签证申请准备。学校学费、寄宿费及政府等第三方费用照常支付。</p>
 <p>联系James Liu，说明孩子的年级、英语情况和计划入学时间。我们先判断学校是否适合，再一起推进申请。</p><section class="eerde-contact" id="eerde-contact"><h2>联系修印先生，讨论孩子的申请与访校</h2><p>告诉我们孩子的年龄、年级、英语情况和计划入学时间。</p><p><a href="mailto:jamesliu@luxedupartners.lu">直接邮件联系James Liu</a> · <span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/apply-to-eerde-with-lep/">了解LEP如何协助申请 →</a></p></section><nav class="related" aria-label="继续了解荷兰留学"><h2>继续了解荷兰留学</h2><ul><li><a href="/zh/insights/netherlands-boarding-without-parents/">父母不去荷兰，孩子能读哪些英文寄宿学校？</a></li><li><a href="/zh/insights/netherlands-international-school-english/">会英语、不会荷兰语，可以去荷兰读国际高中吗？</a></li><li><a href="/zh/insights/eerde-boarding-school-fees/">荷兰寄宿高中一年多少钱？以Eerde的学费和住宿费用为例</a></li><li><a href="/zh/insights/netherlands-boarding-school-application/">中国学生怎样申请荷兰寄宿高中？先看这几个条件</a></li><li><a href="/zh/insights/netherlands-ib-university-pathways/">在荷兰读IB高中，可以申请荷兰、瑞士、英国和美国哪些大学方向？</a></li><li><a href="/zh/insights/eerde-boarding-school-visit/">实地看过Eerde：这所荷兰国际寄宿学校，适合什么孩子？</a></li></ul></nav>

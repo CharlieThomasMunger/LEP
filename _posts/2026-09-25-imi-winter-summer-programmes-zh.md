@@ -10,11 +10,11 @@
   "title": "IMI 2027冬令营和夏令营：日期、1,800瑞郎早鸟价与申请",
   "date": "2026-09-25",
   "reviewed": "2026-10-25",
-  "description": "IMI 2027冬令营1月17—24日、夏令营7月18—25日；分别面向16—24岁、16—26岁，早鸟价均为CHF1,800。LEP协助比较课程、申请与后续学费权益，不额外收取服务费。",
+  "description": "IMI 2027冬令营1月17—24日、夏令营7月18—25日；分别面向16—24岁、16—26岁，早鸟价均为CHF1,800。LEP协助比较课程、申请与后续学费权益，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
   "image": "/assets/imi/winter-2027-timetable.png",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "custom_lep_support": true,
-  "answer": "IMI已公布2027冬令营与夏令营，各为一周体验。冬令营为1月17—24日，夏令营为7月18—25日，早鸟价均为CHF1,800，年龄及付款截止日不同。LEP帮助学生结合入学计划选择营期、对接申请及后续课程，不额外收取申请服务费。",
+  "answer": "IMI已公布2027冬令营与夏令营，各为一周体验。冬令营为1月17—24日，夏令营为7月18—25日，早鸟价均为CHF1,800，年龄及付款截止日不同。LEP帮助学生结合入学计划选择营期、对接申请及后续课程，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
   "faq": [
     {
       "q": "IMI 2027冬夏令营分别什么时候？",
@@ -34,7 +34,7 @@
     },
     {
       "q": "通过LEP申请需要额外服务费吗？",
-      "a": "LEP协助选营期、校方沟通和申请，不额外收取这些服务的服务费。微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。"
+      "a": "LEP 协助选营期、校方沟通和申请；上述申请支持服务由 IMI 支付，家长无需向 LEP 支付申请服务费。微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。"
     }
   ]
 }
@@ -110,7 +110,7 @@
 冬令营和夏令营的选择，应围绕孩子的假期、年龄、英文及长期申请计划。想先了解校园和食宿，可以同时阅读[修印先生2026年10月IMI实访](/zh/insights/imi-campus-visit/)。
 
 
-<section class="lep-intent-contact"><h2>通过LEP申请IMI冬夏令营，也为长期选校做准备</h2><p>LEP会结合孩子的年龄、英语、假期和长期入学计划，比较营期，沟通课程、付款和后续学费权益，推进营地申请。家庭希望先亲自看看学校，也可以由我们协调访校时间和参观重点。</p><p><strong>这些选校评估、校方沟通、申请协助及访校预约安排，不向学生或家长额外收取服务费。</strong>如果之后决定正式入读，我们再把课程、奖学金及实习准备继续衔接起来。</p><p>微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。请说明孩子的年龄、英语水平、希望参加的营期及未来学习方向。</p></section>
+<section class="lep-intent-contact"><h2>通过LEP申请IMI冬夏令营，也为长期选校做准备</h2><p>LEP会结合孩子的年龄、英语、假期和长期入学计划，比较营期，沟通课程、付款和后续学费权益，推进营地申请。家庭希望先亲自看看学校，也可以由我们协调访校时间和参观重点。</p><p><strong>申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。</strong>如果之后决定正式入读，我们再把课程、奖学金及实习准备继续衔接起来。</p><p>微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。请说明孩子的年龄、英语水平、希望参加的营期及未来学习方向。</p></section>
 
 
 ## 继续了解：IMI 课程、费用与申请

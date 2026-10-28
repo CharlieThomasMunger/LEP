@@ -13,7 +13,7 @@
   "answer": "ENSR impressed James Liu with its organised campus, refurbished boarding and small residential community of around 30–40 pupils as discussed on the visit. LEP brings first-hand knowledge into curriculum, language, boarding and budget decisions for international families.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "faq": [
     {
       "q": "How large is the ENSR boarding community?",
@@ -33,7 +33,7 @@
     },
     {
       "q": "Does LEP charge an additional application or visit-booking service fee?",
-      "a": "No additional service fee is charged to students or parents for school-fit assessment, school liaison, application assistance and campus-visit booking. Contact contact@luxedupartners.lu or LEP via WhatsApp."
+      "a": "LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it. Contact contact@luxedupartners.lu or LEP via WhatsApp."
     }
   ],
   "image": "/assets/fieldwork/ensr-james-campus-visit-20261023.jpg",
@@ -123,6 +123,6 @@ We also visited Lémania on this trip. For each child, I would compare curriculu
 
 ENSR deserves close attention for a family valuing its own campus and sport, a small boarding community and serious investment in language and academic transition. It felt understated and well managed. LEP can build on the head and admissions discussion to turn those impressions into an individual application plan.
 
-<section class="lep-intent-contact"><h2>Apply to ENSR and arrange a visit through LEP</h2><p>LEP compares IB and Swiss Maturité, discusses languages, transfer stage, boarding availability and annual costs, and arranges family visits. Families already in British schools can share their current course and budget for a focused comparison.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and campus-visit booking, with no additional service fee charged to students or parents for these services.</strong></p><p>Please share the child’s age, curriculum, recent results, English and French, university interests, intended start date and annual budget. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
+<section class="lep-intent-contact"><h2>Apply to ENSR and arrange a visit through LEP</h2><p>LEP compares IB and Swiss Maturité, discusses languages, transfer stage, boarding availability and annual costs, and arranges family visits. Families already in British schools can share their current course and budget for a focused comparison.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.</strong></p><p>Please share the child’s age, curriculum, recent results, English and French, university interests, intended start date and annual budget. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
 
 <section class="source-note"><p>Sources and visit evidence: ENSR curriculum, boarding information and official 2026/27 fees; EPFL admission and ETH Swiss Maturité entry rules; Lausanne Tourism, Swiss Embassy in Thailand’s 2016 newsletter, Chronique des Anciens 2023 and the official Chaplin-family biography; James Liu’s campus and boarding visit and meeting with the head and admissions team. Checked and updated on 25 October 2026. First-hand observations: James Liu’s October 2026 Swiss school visits.</p></section>

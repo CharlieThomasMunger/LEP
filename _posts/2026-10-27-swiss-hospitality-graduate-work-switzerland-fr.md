@@ -9,7 +9,7 @@
   "answer": "Un diplôme hôtelier suisse peut ouvrir des perspectives en Suisse et à l’international. Pour un diplômé sans nationalité suisse ou UE/AELE, rester en Suisse dépend du diplôme, du poste et des conditions d’admission au marché du travail. LEP rapproche l’expérience des étudiants, les échanges avec les directions et les équipes carrière, et les questions à poser aux employeurs.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/fr/insights/swiss-hospitality-graduate-work-switzerland/",
   "image": "/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg",
   "image_alt": "James Liu avec la responsable de l’équipe stages et candidatures professionnelles des Roches.",
@@ -61,7 +61,7 @@
 <p>Pour étudier l’installation et le séjour en Europe, la famille peut également consulter <a href="https://www.sbmg.lu/fr/">SBMG</a>. LEP prend en charge le choix éducatif, les échanges avec les écoles et les candidatures ; les dispositions familiales à long terme font l’objet d’une évaluation distincte.</p>
 
 <section class="lep-intent-contact"><h2>Construire le projet avec LEP</h2>
-<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale, sans frais de service supplémentaires pour l’étudiant ou sa famille.</p>
+<p>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</p>
 <p>Précisez l’âge, le cursus et les résultats, les langues, la rentrée souhaitée, le budget et les deux questions prioritaires de votre famille.</p>
 <p><a href="https://wa.me/352661221289">Contacter LEP sur WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

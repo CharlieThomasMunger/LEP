@@ -1,0 +1,26 @@
+{
+  "zh": {
+    "partner": "LEP 是合作学校在欧洲的申请支持方。申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
+    "service": "LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。",
+    "short": "申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
+    "exception_short": "卢森堡低龄留学另按本地服务方案收费。",
+    "luxembourg": "卢森堡低龄留学属于单独收费的服务，涵盖学校申请、寄宿家庭匹配和本地持续支持，具体工作与费用按家庭需求说明。",
+    "school_costs": "学校学费、食宿、注册及第三方费用仍按相应项目支付。"
+  },
+  "en": {
+    "partner": "LEP provides Europe-based application support for partner schools. The schools pay for this support, so families pay no LEP application-service fee.",
+    "service": "LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.",
+    "short": "Schools pay for LEP’s application support, so families pay no LEP application-service fee.",
+    "exception_short": "School-age study support in Luxembourg is priced separately.",
+    "luxembourg": "School applications, host-family matching and ongoing local support for children studying in Luxembourg are a separate paid service. We explain the scope and fees for each family.",
+    "school_costs": "Tuition, accommodation, meals, school registration and third-party charges remain payable."
+  },
+  "fr": {
+    "partner": "LEP accompagne en Europe les candidatures auprès de ses écoles partenaires. Les écoles rémunèrent cet accompagnement : les familles ne paient pas de frais de service de candidature à LEP.",
+    "service": "LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.",
+    "short": "Les écoles rémunèrent l’accompagnement de candidature de LEP ; les familles ne paient pas de frais de service de candidature à LEP.",
+    "exception_short": "L’accompagnement de la scolarisation des enfants au Luxembourg est facturé séparément.",
+    "luxembourg": "La scolarisation des enfants au Luxembourg, avec candidature, recherche d’une famille d’accueil et suivi local, constitue une prestation payante distincte. Le périmètre et les honoraires sont précisés pour chaque famille.",
+    "school_costs": "La scolarité, le logement, les repas, l’inscription scolaire et les frais de tiers restent à régler."
+  }
+}

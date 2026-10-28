@@ -9,7 +9,7 @@
   "answer": "For the routes compared here, listed school charges range from about CHF 122,900 to CHF 232,200. They cover different course lengths and accommodation periods. A complete family budget adds unlisted housing and living costs, then subtracts awarded scholarships and money actually retained from internships. LEP compares the student’s entry stage, room choice and course through to graduation.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/en/insights/swiss-hospitality-bachelor-total-cost/",
   "image": "/assets/fieldwork/him-alumni-corridor.jpg",
   "image_alt": "A corridor displaying alumni at HIM Business School.",
@@ -64,7 +64,7 @@
 <p>See <a href="/en/insights/glion-vs-les-roches/">Glion versus Les Roches</a> and <a href="/en/insights/swiss-hospitality-graduate-work-switzerland/">graduate employment conditions</a> to connect cost with the wider decision.</p>
 
 <section class="lep-intent-contact"><h2>Discuss a plan with LEP</h2>
-<p>LEP helps with school selection, school discussions, applications and family-visit bookings without an additional service fee to the student or family.</p>
+<p>LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.</p>
 <p>Tell us the student’s age, current curriculum and results, languages, intended start date, budget and the two questions that matter most to your family.</p>
 <p><a href="https://wa.me/352661221289">Contact LEP on WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

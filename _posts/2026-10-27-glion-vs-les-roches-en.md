@@ -9,7 +9,7 @@
   "answer": "Both schools combine practical learning with business pathways beyond hotels. Their listed 2027 Swiss bachelor charges are about CHF 232,200 at Glion and CHF 226,400 at Les Roches, before later housing and personal spending. LEP recommends comparing the intended career, complete budget and campus experience, then checking the programme, campus and transfer conditions.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/en/insights/glion-vs-les-roches/",
   "image": "/assets/fieldwork/glion-james-campus-visit-20261021.jpg",
   "image_alt": "James Liu with a member of the team hosting our Glion visit.",
@@ -59,7 +59,7 @@
 <p>LEP can check curriculum progress, eligible semester, grades, fees and scholarship continuity. The shared group offers possibilities, but the initial campus and course still deserve careful selection.</p>
 
 <section class="lep-intent-contact"><h2>Discuss a plan with LEP</h2>
-<p>LEP helps with school selection, school discussions, applications and family-visit bookings without an additional service fee to the student or family.</p>
+<p>LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.</p>
 <p>Tell us the student’s age, current curriculum and results, languages, intended start date, budget and the two questions that matter most to your family.</p>
 <p><a href="https://wa.me/352661221289">Contact LEP on WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

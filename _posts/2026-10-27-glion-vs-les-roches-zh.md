@@ -9,7 +9,7 @@
   "answer": "格里昂和理诺士都重视实践，也都提供酒店以外的商业发展方向。2027瑞士本科费表已列项目，格里昂约23.2万、理诺士约22.6万瑞郎；两校还要补后期住宿及个人开支。LEP更建议按目标方向、完整预算和真实校园偏好选择，再核对可读校区与转校条件。",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/zh/insights/glion-vs-les-roches/",
   "image": "/assets/fieldwork/glion-james-campus-visit-20261021.jpg",
   "image_alt": "修印先生在格里昂访校，与接待老师合影。",
@@ -66,7 +66,7 @@
 <p>格里昂2027条款明确提供向其他格里昂或理诺士校区永久转学的可能，条件包括接收学校的常规录取要求与名额。最后一学年就读的院校关系到学位颁发。短期交换与永久转学也有不同安排。</p>
 <p>因此，两校之间可以保留转向的机会，但入学时仍应选好起点。LEP会核对课程进度、可转学期、成绩、费用与奖学金能否延续，避免把“同集团”理解成任何时候可以任意调换。</p>
 
-<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP可协助选校评估、校方沟通、申请和家庭访校预约，不向学生或家长额外收取这些服务的服务费。</p>
+<section class="lep-intent-contact"><h2>让LEP把比较落实到孩子的方案</h2><p>LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。</p>
 <p>告诉我们孩子更想做酒店经营、品牌、金融、会展还是创业，以及全程预算和校园偏好。LEP可以先做课程比较，再协调两校的申请与家庭访校。</p>
 <p>微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p>
 </section><section class="source-note"><h2>资料依据</h2><p>课程、校区与收费核验至2026年10月27日；校园判断来自修印先生实访。</p>

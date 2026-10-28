@@ -5,7 +5,6 @@
     {% when 'zh' %}
     <h2>{% if education_category.key == 'higher' %}联系修印先生，比较课程、实习与总投入{% elsif education_category.key == 'schools' %}联系修印先生，落实学校与寄宿安排{% else %}联系修印先生，让 LEP 推进您的留学计划{% endif %}</h2>
     {% if education_category.key == 'higher' %}<p>把目前学历、英语水平、课程兴趣、希望工作的市场与总预算告诉我们。LEP协助比较课程、实习安排、逐期支出和申请起点，也可以安排家庭访校。</p>{% elsif education_category.key == 'schools' %}<p>人在中国，也可以直接沟通。请告诉我们孩子年龄与年级、语言水平、目标学校、预算与父母是否同行，LEP将课程、申请和日常生活安排一起考虑。</p>{% else %}<p>人在中国，也可以直接沟通。先告诉我们学生的学习阶段、语言水平、意向国家、入学时间与预算，我们再一起确定合适的方向。</p>{% endif %}
-    {% if education_school.country == 'switzerland' or page.education_key == 'higher' %}<p>本页瑞士学校的选校评估、校方沟通、申请协助和家庭访校预约，不向学生或家长额外收取服务费。</p>{% endif %}
     <p class="lep-contact-actions"><a href="mailto:contact@luxedupartners.lu">邮件咨询</a></p>
     <p class="lep-wechat-row">微信：<strong class="lep-wechat-id">xiuyinxiansheng</strong> <button type="button" class="lep-copy-button" data-lep-copy="wechat" hidden>复制微信号</button></p>
     <p><button type="button" class="lep-copy-button" data-lep-copy="brief" hidden>复制首次咨询提纲</button> <span class="lep-copy-status" role="status" aria-live="polite"></span></p>
@@ -19,6 +18,7 @@
     <p>Contact us in English, French or Chinese. Tell us the student’s current level of study, countries you are considering, intended start date and budget.</p>
     <p class="lep-contact-actions"><a href="mailto:contact@luxedupartners.lu">Email James Liu</a><a href="https://wa.me/352661221289" target="_blank" rel="noopener">Chat on WhatsApp</a></p>
     {% endcase %}
+    {% if page.education_key == 'higher' or page.destination_key == 'switzerland' or page.destination_key == 'netherlands' %}<p>{{ site.data.application_support[lang].short }}</p>{% elsif page.education_key == 'schools' %}<p>{{ site.data.application_support[lang].short }} {{ site.data.application_support[lang].luxembourg }}</p>{% endif %}
     <p><a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
   </div>
   {% unless lang == 'zh' %}<figure>

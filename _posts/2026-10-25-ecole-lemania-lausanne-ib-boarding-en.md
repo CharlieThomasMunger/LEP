@@ -13,7 +13,7 @@
   "answer": "Lémania combines a central Lausanne location, a French-speaking environment and English IB. James Liu found a courteous welcome and compact teaching and boarding spaces, with activities drawing on city resources. LEP assesses the child’s studies, languages, independence and budget together.",
   "date": "2026-10-25T23:38:08+00:00",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "faq": [
     {
       "q": "What is the campus environment like?",
@@ -33,7 +33,7 @@
     },
     {
       "q": "Does LEP charge an additional application or visit-booking service fee?",
-      "a": "No additional service fee is charged to students or parents for school-fit assessment, school liaison, application assistance and campus-visit booking. Contact contact@luxedupartners.lu or LEP via WhatsApp."
+      "a": "LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it. Contact contact@luxedupartners.lu or LEP via WhatsApp."
     }
   ],
   "translated": true
@@ -95,6 +95,6 @@ I would include it for families considering English IB, interested in Lausanne c
 
 LEP has visited the school and can turn those questions into a focused shortlist rather than leaving parents with a long collection of school names.
 
-<section class="lep-intent-contact"><h2>Apply to École Lémania and arrange a visit through LEP</h2><p>LEP discusses preparatory or IB entry, boarding age, room type, meal coverage and the complete annual budget. We can arrange a visit so the family can see the teaching, accommodation and nearby activities and judge whether a city campus suits the child.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and campus-visit booking, with no additional service fee charged to students or parents for these services.</strong></p><p>Please share the child’s age, school year, curriculum, recent results, English and French, intended start date and annual budget. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
+<section class="lep-intent-contact"><h2>Apply to École Lémania and arrange a visit through LEP</h2><p>LEP discusses preparatory or IB entry, boarding age, room type, meal coverage and the complete annual budget. We can arrange a visit so the family can see the teaching, accommodation and nearby activities and judge whether a city campus suits the child.</p><p><strong>LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.</strong></p><p>Please share the child’s age, school year, curriculum, recent results, English and French, intended start date and annual budget. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/en/insights/why-lep/">Meet James Liu and learn about LEP’s European local support →</a></p></section>
 
 <section class="source-note"><p>Sources and visit evidence: École Lémania IB curriculum and boarding information, IB Experience 2026/27 tuition and boarding schedule; James Liu’s rainy-day visit and discussions about space and city resources. Checked and updated on 25 October 2026. First-hand observations: James Liu’s October 2026 Swiss school visits.</p></section>

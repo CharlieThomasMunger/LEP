@@ -9,11 +9,11 @@
   "custom_lep_support": true,
   "has_topic_navigation": true,
   "title": "IMI怎么样？与校长谈学术学习、真实食宿和瑞士酒管性价比",
-  "description": "修印先生再访IMI，与校长交流学术学习和学校特色，实看山景宿舍、实尝自助餐。结合小班、课程与预算比较性价比，并关联2027冬夏令营；LEP协助申请及访校，不额外收取服务费。",
-  "answer": "这次再访IMI，修印先生的重点感受是学校强调学术学习，同时在瑞士酒店管理学校中有较突出的预算优势。校长交流后继续授课，学生带看宿舍，山景漂亮，中国学生较少。LEP把课程要求、完整费用、实习与实际食宿结合起来，协助申请或先安排访校，不额外收取服务费。",
+  "description": "修印先生再访IMI，与校长交流学术学习和学校特色，实看山景宿舍、实尝自助餐。结合小班、课程与预算比较性价比，并关联2027冬夏令营；LEP协助申请及访校，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
+  "answer": "这次再访IMI，修印先生的重点感受是学校强调学术学习，同时在瑞士酒店管理学校中有较突出的预算优势。校长交流后继续授课，学生带看宿舍，山景漂亮，中国学生较少。LEP把课程要求、完整费用、实习与实际食宿结合起来，协助申请或先安排访校，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
   "date": "2026-09-25",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "faq": [
     {
       "q": "IMI这次访校最值得关注的是什么？",
@@ -33,7 +33,7 @@
     },
     {
       "q": "找LEP申请IMI、安排访校，需要额外服务费吗？",
-      "a": "LEP提供选校评估、校方沟通、申请协助和访校预约安排，不向学生或家长额外收取这些服务的服务费。微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。"
+      "a": "LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。"
     },
     {
       "q": "实习收入能抵减多少留学成本？",
@@ -66,4 +66,4 @@
 <p>LEP可以先帮助学生判断参加哪一期，再与校方沟通申请及后续入读权益。具体日期、年龄、费用和学费抵扣说明见<a href="/zh/insights/imi-winter-summer-programmes/">IMI 2027冬夏令营：怎样先用一周体验判断是否适合</a>。</p>
 <h2>我更愿意把它介绍给什么样的学生？</h2><p>愿意认真学习学术课程、持续提高英语，也愿意在真实工作里与人协作，同时重视家庭预算的学生，可以与LEP深入讨论IMI。家里经营酒店、餐饮或其他服务业务的，也可以把未来可能承担的工作带进选课讨论。孩子的学术能力、动手能力与人际理解可以并存，关键是找到愿意长期投入的方向。</p><p>这次校长交流、学生带看和实际用餐之后，我更希望家长从一条完整路径评估学校：适合的入学起点、能学进去的课程、值得投入的实习，以及逐渐清楚的下一步。</p>
 <section class="internship-budget"><h2>实习能赚多少钱，家庭净投入怎么计算？</h2><p>IMI当前酒店商业管理本科页面明确列出<strong>保证12个月带薪实习经历</strong>，职业与实习办公室协助学生准备及匹配岗位。这是评估IMI性价比时必须算进去的一部分。LEP会与学校对应学生的入读阶段、实习月数、目的地及合同待遇。</p><h3>IMI本科：先把学费和在校食宿列出来</h3><p>按目前公开的酒店商业本科收费，三段学费及注册费合计CHF105,000。选每22周CHF3,000的标准双人房，加CHF2,950全膳，三段在校食宿合计CHF17,850，以上合计<strong>CHF122,850</strong>。单人房、实际入读阶段及已获批优惠会改变结果；未覆盖时段的生活、机票等继续单列。</p><p>对适用瑞士酒店餐饮业CCNT／L-GAV第11条的课程实习，2027年已公布的最低税前月薪为<strong>CHF2,404</strong>，按相关企业自1月1日或夏季起适用。用这个标准静态测算，6个完整领薪月的基础工资为<strong>CHF14,424</strong>，12个月为<strong>CHF28,848</strong>。将来实际实习年份再核对工资标准；欧洲其他国家或中东的岗位，按当地合同填写工资和食宿待遇。</p><p>下面是预算演示：假设工资扣款、实习住宿、餐饮、保险和交通等，合计每月CHF1,800。它是可替换的测算输入，LEP会用雇主合同与住宿方案换成真实金额。</p><div class="table-scroll"><table><thead><tr><th>累计完整领薪月数</th><th>基础税前工资</th><th>演示支出及扣款</th><th>可抵减其他教育支出的余额</th></tr></thead><tbody><tr><td>6个月</td><td>CHF14,424</td><td>CHF10,800</td><td>CHF3,624</td></tr><tr><td>12个月</td><td>CHF28,848</td><td>CHF21,600</td><td>CHF7,248</td></tr></tbody></table></div><p>若每月相关支出及扣款是CHF1,500，12个月余额为CHF10,848；若是CHF2,100，则为CHF3,648。符合条件的第十三薪按比例另计，本表先只计基础工资。工资单已扣的食宿、保险等不再在生活费中重复加一遍。</p><p><strong>家庭净投入＝学校收费＋未包含的其他支出－实习结余－已确认优惠或奖学金。</strong>实习结余已经扣过实习期成本。</p><p>采用上表每月CHF1,800支出及扣款、累计12个月领薪的演示，实习余额为CHF7,248；上面的CHF122,850减去这笔余额，得到<strong>CHF115,602＋尚未计入的其他支出－已确认优惠或奖学金</strong>。</p><p>学费与押金往往先交，实习工资随后逐月到账。因此LEP会同时给家庭列“入学前需要准备的现金”和“完成课程后的预计净投入”，帮助家庭把这条路径安排得更稳妥。</p><p>实习与工资核验：2026年10月26日。工资依据：CCNT / L-GAV Art. 11 · Art. 12 · Art. 13.</p></section>
-<section class="lep-intent-contact"><h2>通过LEP申请IMI：课程、费用与访校一起安排</h2><p>LEP会根据学生的学习背景和英语，比较酒店商业、国际商业或厨艺管理路线，沟通实际入读阶段、适用优惠及奖学金，并核算在校和实习期间的支出。想先体验学校，也可以讨论冬夏令营或家庭访校。</p><p><strong>通过LEP申请这所学校，我们提供选校评估、校方沟通、申请协助和访校预约安排，不向学生或家长额外收取这些服务的服务费。</strong>想先亲自看看学校，也可以由LEP协调访校时间和参观重点。</p><p>请提供目前学历、近期成绩、英语水平、职业兴趣、入学时间和完整预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。<a href="/zh/insights/why-lep/">了解LEP的选校申请与欧洲本地服务 →</a></p></section><nav class="related"><h2>继续了解IMI</h2><ul><li><a href="/zh/insights/imi-winter-summer-programmes/">2027冬夏令营的日期、费用与申请</a></li><li><a href="/zh/insights/imi-programmes-degrees/">本科与研究生课程怎样选择</a></li><li><a href="/zh/insights/imi-fees-scholarships/">学费、食宿与奖学金怎样核算</a></li><li><a href="/zh/insights/imi-internships-careers/">实习与职业准备怎样衔接</a></li></ul></nav><section class="source-note"><p>资料：IMI本科课程总览、Careers &amp; Industry Connections、学校首页小班规模及Student Life；修印先生本次校长采访、到访、食宿体会与合影。课程及费用核验：2026年10月25日。</p></section>
+<section class="lep-intent-contact"><h2>通过LEP申请IMI：课程、费用与访校一起安排</h2><p>LEP会根据学生的学习背景和英语，比较酒店商业、国际商业或厨艺管理路线，沟通实际入读阶段、适用优惠及奖学金，并核算在校和实习期间的支出。想先体验学校，也可以讨论冬夏令营或家庭访校。</p><p><strong>LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。</strong>想先亲自看看学校，也可以由LEP协调访校时间和参观重点。</p><p>请提供目前学历、近期成绩、英语水平、职业兴趣、入学时间和完整预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。<a href="/zh/insights/why-lep/">了解LEP的选校申请与欧洲本地服务 →</a></p></section><nav class="related"><h2>继续了解IMI</h2><ul><li><a href="/zh/insights/imi-winter-summer-programmes/">2027冬夏令营的日期、费用与申请</a></li><li><a href="/zh/insights/imi-programmes-degrees/">本科与研究生课程怎样选择</a></li><li><a href="/zh/insights/imi-fees-scholarships/">学费、食宿与奖学金怎样核算</a></li><li><a href="/zh/insights/imi-internships-careers/">实习与职业准备怎样衔接</a></li></ul></nav><section class="source-note"><p>资料：IMI本科课程总览、Careers &amp; Industry Connections、学校首页小班规模及Student Life；修印先生本次校长采访、到访、食宿体会与合影。课程及费用核验：2026年10月25日。</p></section>

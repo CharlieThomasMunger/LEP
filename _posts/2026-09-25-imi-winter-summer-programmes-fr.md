@@ -10,9 +10,9 @@
   "title": "IMI : programmes d’hiver et d’été 2027, tarif anticipé de CHF 1 800 et candidature",
   "date": "2026-09-25",
   "reviewed": "2026-10-25",
-  "description": "Dates, âges, échéances de paiement et avantages de scolarité des programmes IMI de janvier et juillet 2027. LEP accompagne la candidature sans frais de service supplémentaires.",
+  "description": "Dates, âges, échéances de paiement et avantages de scolarité des programmes IMI de janvier et juillet 2027. IMI rémunère l’accompagnement de candidature de LEP ; les familles ne paient pas de frais de service à LEP pour ces démarches.",
   "image": "/assets/imi/winter-2027-timetable.png",
-  "last_modified_at": "2026-10-26",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "custom_lep_support": true,
   "answer": "Le programme d’hiver IMI se déroule du 17 au 24 janvier 2027 pour les 16–24 ans ; celui d’été du 18 au 25 juillet pour les 16–26 ans. Les deux affichent CHF 1 800 en réservation anticipée, avec des délais différents. LEP accompagne le dossier et la réflexion sur la suite des études.",
   "faq": [
@@ -34,7 +34,7 @@
     },
     {
       "q": "LEP facture-t-il des frais supplémentaires pour la candidature ou la réservation d’une visite ?",
-      "a": "LEP ne facture pas de frais supplémentaires aux élèves ou à leurs parents pour le choix de l’école, les échanges, l’aide à la candidature et la réservation d’une visite. Contact : contact@luxedupartners.lu ou WhatsApp."
+      "a": "LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches. Contact : contact@luxedupartners.lu ou WhatsApp."
     }
   ],
   "translated": true
@@ -99,7 +99,7 @@ La page du programme d’été prévoit également une bourse unique, équivalen
 
 Le choix de la saison dépend de l’âge, des vacances, de l’anglais et du projet de l’élève. Pour découvrir mes observations récentes sur les études et la vie quotidienne, consultez [ma visite d’IMI en octobre 2026](/fr/insights/imi-campus-visit/).
 
-<section class="lep-intent-contact"><h2>Candidater à aux programmes courts d’IMI et organiser une visite avec LEP</h2><p>LEP aide à choisir la session, préparer le dossier et échanger avec l’école sur les paiements et les avantages de scolarité ultérieurs. Nous pouvons aussi réserver une visite familiale et accompagner la suite du projet d’études.</p><p><strong>LEP accompagne le choix de l’école, les échanges avec l’établissement, la candidature et la réservation d’une visite, sans facturer de frais de service supplémentaires aux élèves ou à leurs parents pour cet accompagnement.</strong></p><p>Précisez l’âge, le niveau d’anglais, les dates souhaitées et les domaines d’intérêt de l’élève. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
+<section class="lep-intent-contact"><h2>Candidater à aux programmes courts d’IMI et organiser une visite avec LEP</h2><p>LEP aide à choisir la session, préparer le dossier et échanger avec l’école sur les paiements et les avantages de scolarité ultérieurs. Nous pouvons aussi réserver une visite familiale et accompagner la suite du projet d’études.</p><p><strong>LEP accompagne le choix de l’école, les échanges, la candidature et la réservation d’une visite familiale. Les écoles rémunèrent cet accompagnement ; les élèves et leurs parents ne paient pas de frais de service à LEP pour ces démarches.</strong></p><p>Précisez l’âge, le niveau d’anglais, les dates souhaitées et les domaines d’intérêt de l’élève. <a href="https://wa.me/352661221289" target="_blank" rel="noopener">WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>. <a href="/fr/insights/why-lep/">Découvrir James Liu et l’accompagnement local de LEP en Europe →</a></p></section>
 
 ## Approfondir le choix d’IMI
 

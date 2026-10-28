@@ -5,11 +5,11 @@
   "ref": "lep-guide-international-school-altdorf-boarding-ib",
   "cluster": "switzerland-boarding",
   "title": "琉森国际学院Wikon怎么样？IB、实访校园与一年5.5万—6万瑞郎预算",
-  "description": "修印先生实访LIA Wikon：以IB为主的小规模寄宿学校，翻新校园、约40名学生、年度约CHF55,000–60,000预算及体育设施取舍。LEP协助申请、安排访校，不额外收取服务费。",
-  "answer": "琉森国际学院Wikon以IB为主要课程方向，是修印先生此次瑞士访校重点比较的性价比选择：访校时约40名学生，教学空间宽裕、设备新，年度费用沟通口径约CHF55,000–60,000。LEP结合实访与孩子的课程、语言和运动需求，沟通寄宿、费用并协助申请及访校安排，不额外收取服务费。",
+  "description": "修印先生实访LIA Wikon：以IB为主的小规模寄宿学校，翻新校园、约40名学生、年度约CHF55,000–60,000预算及体育设施取舍。LEP协助申请、安排访校，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
+  "answer": "琉森国际学院Wikon以IB为主要课程方向，是修印先生此次瑞士访校重点比较的性价比选择：访校时约40名学生，教学空间宽裕、设备新，年度费用沟通口径约CHF55,000–60,000。LEP结合实访与孩子的课程、语言和运动需求，沟通寄宿、费用并协助申请及访校安排，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
   "date": "2026-10-12",
   "reviewed": "2026-10-25",
-  "last_modified_at": "2026-10-26T00:21:08+00:00",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/zh/insights/international-school-altdorf-boarding-ib/",
   "image": "/assets/fieldwork/lia-wikon-james-principal-20261019.jpg",
   "custom_lep_support": true,
@@ -33,7 +33,7 @@
     },
     {
       "q": "找LEP申请Wikon、安排访校，需要额外服务费吗？",
-      "a": "LEP提供选校评估、校方沟通、申请协助和访校预约安排，不向学生或家长额外收取这些服务的服务费。微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。"
+      "a": "LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。微信xiuyinxiansheng，邮箱contact@luxedupartners.lu。"
     }
   ],
   "school_article": true,
@@ -75,6 +75,6 @@
 <p>除了房间和餐食，家长还应知道周末怎样安排、孩子遇到生活问题时找谁、假期住在哪里，以及学校与家长怎样沟通。对于喜欢运动的孩子，校外活动的组织和交通尤其要放进这份生活计划。</p>
 <p>我们已经到校走访，并与校长深入交流。家庭可以把孩子的年龄、课程、语言、独立生活能力、运动习惯和预算交给LEP。我们据此与校方沟通，让课程选择和寄宿生活一起落实。</p>
 
-<section class="lep-intent-contact"><h2>通过LEP申请Wikon，也可以先安排访校</h2><p>我们已与校长深入交流，并实地看过教学、寄宿和活动空间。LEP会围绕IB衔接、语言支持、运动习惯和约5.5万—6万瑞郎的预算档位，与学校沟通孩子适合的年级及具体费用。</p><p><strong>通过LEP申请这所学校，我们提供选校评估、校方沟通、申请协助和访校预约安排，不向学生或家长额外收取这些服务的服务费。</strong>想先亲自看看学校，也可以由LEP协调访校时间和参观重点。</p><p>请告诉我们孩子的年龄、现读课程、近期成绩、英语水平、运动习惯及计划入学时间。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。<a href="/zh/insights/why-lep/">了解LEP的选校申请与欧洲本地服务 →</a></p></section>
+<section class="lep-intent-contact"><h2>通过LEP申请Wikon，也可以先安排访校</h2><p>我们已与校长深入交流，并实地看过教学、寄宿和活动空间。LEP会围绕IB衔接、语言支持、运动习惯和约5.5万—6万瑞郎的预算档位，与学校沟通孩子适合的年级及具体费用。</p><p><strong>LEP 提供选校评估、校方沟通、申请协助和家庭访校预约。上述申请支持服务由学校支付，学生和家长无需向 LEP 支付服务费。</strong>想先亲自看看学校，也可以由LEP协调访校时间和参观重点。</p><p>请告诉我们孩子的年龄、现读课程、近期成绩、英语水平、运动习惯及计划入学时间。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。<a href="/zh/insights/why-lep/">了解LEP的选校申请与欧洲本地服务 →</a></p></section>
 <section class="source-note"><p>资料：伯尔尼大学Marienburg建筑历史资料；修印先生2026年10月19日实访、校长交流、现场照片及10月25日补充口述。更新：2026年10月25日。</p></section>
 <nav class="related" aria-label="继续比较瑞士寄宿"><h2>继续比较瑞士寄宿</h2><ul><li><a href="/zh/insights/china-secondary-to-swiss-ib-a-level/">国内初中、高一或高二转学瑞士，课程怎样衔接？</a></li><li><a href="/zh/insights/saint-charles-switzerland-boarding-school/">比较不同瑞士寄宿学校的校园与课程</a></li></ul></nav>

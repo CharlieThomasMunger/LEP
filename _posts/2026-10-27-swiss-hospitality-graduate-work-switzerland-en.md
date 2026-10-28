@@ -9,7 +9,7 @@
   "answer": "A Swiss hospitality degree can lead to opportunities in Switzerland and internationally. For a graduate without Swiss or EU/EFTA citizenship, staying in Switzerland depends on the qualification, the job and the applicable work-permit conditions. LEP brings together student experience, discussions with school leadership and careers teams, and employer questions to assess what a particular programme can offer.",
   "date": "2026-10-27",
   "reviewed": "2026-10-27",
-  "last_modified_at": "2026-10-27",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/en/insights/swiss-hospitality-graduate-work-switzerland/",
   "image": "/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg",
   "image_alt": "James Liu with the Les Roches team leader responsible for internships and employment applications.",
@@ -61,7 +61,7 @@
 <p>Families considering European establishment or residence planning can also explore <a href="https://www.sbmg.lu/">SBMG’s long-term planning advisory</a>. LEP handles educational choices, school discussions and applications; the family’s wider arrangements are assessed separately. This allows study destination and future plans to be considered before committing the budget.</p>
 
 <section class="lep-intent-contact"><h2>Discuss a plan with LEP</h2>
-<p>LEP helps with school selection, school discussions, applications and family-visit bookings without an additional service fee to the student or family.</p>
+<p>LEP provides school-fit assessment, school liaison, application assistance and family campus-visit bookings. Schools pay for this application support; students and parents pay no LEP service fee for it.</p>
 <p>Tell us the student’s age, current curriculum and results, languages, intended start date, budget and the two questions that matter most to your family.</p>
 <p><a href="https://wa.me/352661221289">Contact LEP on WhatsApp</a> · <a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a></p>
 

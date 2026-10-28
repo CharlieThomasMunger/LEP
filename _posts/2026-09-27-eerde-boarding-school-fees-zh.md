@@ -11,7 +11,7 @@
   "answer": "Eerde International Boarding School 2026/27学年，IGCSE及IB DP的学费加寄宿为61,600欧元，Middle Years为57,900欧元。父母不陪读的家庭，还要加入首次费用，并明确学校假期关闭宿舍时孩子在哪里生活。LEP与Eerde合作，可以把课程、寄宿和假期计划一起推进。",
   "date": "2026-09-27",
   "reviewed": "2026-10-12",
-  "last_modified_at": "2026-10-12",
+  "last_modified_at": "2026-10-28T06:09:08+00:00",
   "permalink": "/zh/insights/eerde-boarding-school-fees/",
   "image": "/assets/eerde/eerde-castle-front-lep.jpg",
   "custom_lep_support": true,
@@ -60,7 +60,7 @@
 <h2>为什么通过LEP比较与申请Eerde？</h2>
 <p>我到校看过校园，也与学校直接沟通。LEP会把课程起点、寄宿生活、假期与家庭预算放在同一方案中，再协助材料、评估和申请。</p>
 <p>家长若希望先看学校，我们会把问题与孩子的具体需要对上：课堂、宿舍、日常生活和通勤，哪些最影响你家的决定。可以先阅读<a href="https://luxedupartners.lu/zh/insights/eerde-boarding-school-visit/">Eerde访校记录</a>与<a href="https://luxedupartners.lu/zh/insights/apply-to-eerde-with-lep/">通过LEP申请</a>。</p>
-<p>按LEP现行安排，至2027年9月15日前，所承接Eerde学校申请免申请服务费；学校与其他专项服务费用分别说明。告诉我们孩子的年龄、课程、英语、入学时间与全年预算，我们先给可以推进的建议。</p>
+<p>申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。学校学费、食宿、注册及第三方费用仍按相应项目支付。告诉我们孩子的年龄、课程、英语、入学时间与全年预算，我们先给可以推进的建议。</p>
 
 <section class="lep-intent-contact"><h2>把孩子的实际情况交给LEP讨论</h2><p>请说明年龄或已有学历、现读课程、语言、入学时间和完整预算。微信：<strong>xiuyinxiansheng</strong>；邮箱：<a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a>。</p><p><a href="/zh/insights/why-lep/">了解LEP的学校申请与本地服务 →</a></p></section>
 <section class="source-note"><h2>资料与更新时间</h2><p>Eerde 2026/27学校收费资料及寄宿关闭日期说明；本次费用拆分与整理：2026年10月12日。</p></section>
