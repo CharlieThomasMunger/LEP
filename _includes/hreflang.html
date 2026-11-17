@@ -5,9 +5,6 @@
 {%- endcomment -%}
 {%- unless page.noindex -%}
 {%- assign hreflang_key = page.translation_key -%}
-{%- if page.url == '/' -%}
-  {%- assign hreflang_key = 'static-index.html' -%}
-{%- endif -%}
 {%- assign zh_href = '' -%}
 {%- assign en_href = '' -%}
 {%- assign fr_href = '' -%}

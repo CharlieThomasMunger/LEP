@@ -40,7 +40,7 @@
 {
  "@context":"https://schema.org","@graph":[
  {"@type":"WebSite","@id":"{{ '/#website' | absolute_url }}","url":{{ site.url | jsonify }},"name":{{ site.title | jsonify }},"alternateName":"LEP","inLanguage":["zh-CN","en","fr"],"publisher":{"@id":"{{ '/#organization' | absolute_url }}"}},
- {"@type":["EducationalOrganization","Organization"],"@id":"{{ '/#organization' | absolute_url }}",
+ {"@type":["Organization","ProfessionalService"],"@id":"{{ '/#organization' | absolute_url }}",
   "name":{{ site.org.brand | jsonify }},"alternateName":"LEP","email":{{ site.email | jsonify }},
   "logo":"{{ '/assets/brand/lep-logo.jpg' | absolute_url }}",
   "url":{{ site.url | jsonify }},
@@ -142,7 +142,7 @@
     </nav>
     <nav class="lang" aria-label="{% case lang %}{% when 'zh' %}语言{% when 'fr' %}Langue{% else %}Language{% endcase %}">
       {%- for l in site.languages -%}
-        {%- if page.url == '/' or page.translation_key == 'static-index.html' -%}
+        {%- if page.translation_key == 'static-index.html' -%}
           {%- if l.code == 'zh' -%}
             <a href="{{ '/' | relative_url }}"{% if lang == 'zh' %} class="on"{% endif %}>{{ l.label }}</a>
           {%- else -%}
