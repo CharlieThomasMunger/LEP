@@ -8,6 +8,7 @@ title: "卢森堡英文私立国际学校怎么选？ISL、圣乔治与 OTR 的�
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "ISL 的校园资源和活动丰富，圣乔治的英式学术管理鲜明，OTR 则小而温馨，走英法双语路线。这是我实地走访、与校方和家庭持续沟通后，对三所学校最直接的感受。孩子怎样学习、能否融入，以及父母是否在卢森堡，往往比学校名气更影响最后的选择。"
+seo_description: "ISL 的校园资源和活动丰富，圣乔治的英式学术管理鲜明，OTR 则小而温馨，走英法双语路线。"
 image: "/assets/fieldwork/isl.jpg"
 lep_service_page: false
 ---

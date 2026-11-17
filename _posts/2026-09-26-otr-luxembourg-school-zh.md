@@ -5,9 +5,11 @@ ref: "lux-guide-l3"
 permalink: "/zh/insights/otr-luxembourg-school/"
 cluster: "luxembourg-school"
 title: "OTR 国际学校：小班、英法双语，以及 IB 与 A Level 选择"
+seo_title: "OTR国际学校：小班、双语、IB与A Level"
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "OTR 国际学校给我的印象是小而温馨，老师很 nice。我参观时，法语补习班一位老师只带四五名学生，其他一些语言课堂也是个位数的小组。场地确实比另外两所小，但这种亲近感和语言辅导方式，是我认为值得家庭认真了解的优势。"
+seo_description: "OTR 国际学校给我的印象是小而温馨，老师很 nice。我参观时，法语补习班一位老师只带四五名学生，其他一些语言课堂也是个位数的小组。"
 image: "/assets/fieldwork/otr-james-visit.jpg"
 lep_service_page: false
 ---

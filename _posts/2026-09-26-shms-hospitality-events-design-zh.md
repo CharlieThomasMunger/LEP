@@ -6,6 +6,7 @@ permalink: "/zh/insights/shms-hospitality-events-design/"
 cluster: "switzerland-hotel"
 school_article: true
 title: "SHMS 瑞士酒店管理大学：两座宫殿校园，酒店、会展与设计三条本科方向"
+seo_title: "SHMS：酒店、会展与设计三条本科"
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "SHMS 瑞士酒店管理大学有哪些优势？修印先生结合实地访校，讲清酒店、会展与设计本科、硕士选择、2027费用，以及LEP的校方直接合作与奖学金申请支持。"

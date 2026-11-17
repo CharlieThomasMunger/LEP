@@ -6,6 +6,7 @@
   "cluster": "family-decisions",
   "title": "先体验再选校：LEP怎样把瑞士夏令营与长期寄宿规划接起来？",
   "description": "LEP 可以围绕孩子的长期选校目标，了解 Chantemerle、Saint-Charles 等学校的短期体验安排，并将营期观察接到后续访校与申请。重点是帮助家庭判断适合什么环境、需要哪些支持。",
+  "seo_description": "LEP 可以围绕孩子的长期选校目标，了解 Chantemerle、Saint-Charles 等学校的短期体验安排，并将营期观察接到后续访校与申请。",
   "answer": "LEP 可以围绕孩子的长期选校目标，了解 Chantemerle、Saint-Charles 等学校的短期体验安排，并将营期观察接到后续访校与申请。重点是帮助家庭判断适合什么环境、需要哪些支持。",
   "date": "2026-10-11",
   "reviewed": "2026-10-11",

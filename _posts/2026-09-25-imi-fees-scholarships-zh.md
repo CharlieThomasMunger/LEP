@@ -10,6 +10,7 @@ title: "IMI 留学到底花多少钱？把奖学金、食宿和实习工资算�
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "我认为 IMI 的性价比值得认真看。原因很具体：课程有实际内容，通过合作渠道可以申请优惠和奖学金，带薪实习还会带来收入。 家庭最终要承担多少，得把这几笔放在一起算。"
+seo_description: "我认为 IMI 的性价比值得认真看。原因很具体：课程有实际内容，通过合作渠道可以申请优惠和奖学金，带薪实习还会带来收入。"
 image: "/assets/imi/accommodation-fees.png"
 consultation: "imi"
 last_modified_at: "2026-10-07"

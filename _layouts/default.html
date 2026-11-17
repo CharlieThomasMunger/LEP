@@ -1,42 +1,32 @@
 <!DOCTYPE html>
 {%- assign lang = page.lang | default: site.default_lang -%}
+{%- assign html_lang = lang -%}
+{%- if lang == 'zh' -%}{%- assign html_lang = 'zh-CN' -%}{%- endif -%}
+{%- assign home_href = '/' | append: lang | append: '/' -%}
+{%- if lang == 'zh' -%}{%- assign home_href = '/' -%}{%- endif -%}
 {%- assign t = site.data.ui[lang] -%}
+{%- assign doc_title = page.seo_title | default: page.title -%}
+{%- assign meta_desc = page.seo_description | default: page.description | default: site.description | strip_html | strip_newlines -%}
 {% include education-context.html %}
-<html lang="{{ lang }}">
+<html lang="{{ html_lang }}">
 <head>
 <meta charset="utf-8">
 <meta name="baidu-site-verification" content="codeva-BCtGwOFdC6" />
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{% if page.title %}{{ page.seo_title | default: page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title }}{% endif %}</title>
-<meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines | truncate: 300 | escape }}">
-<link rel="canonical" href="{{ page.url | absolute_url }}">
-<meta name="robots" content="index, follow, max-image-preview:large">
-
-{%- comment -%} ---- hreflang：同 ref 的各语言版本自动互相声明 ---- {%- endcomment -%}
-{%- if page.translation_key -%}
-  {%- assign translations = site.pages | where: "translation_key", page.translation_key -%}
-  {%- for translated in translations %}
-<link rel="alternate" hreflang="{{ translated.lang }}" href="{{ translated.url | absolute_url }}">
-  {%- endfor -%}
-  {%- assign xd = translations | where: "lang", "en" | first -%}
-  {%- if xd %}<link rel="alternate" hreflang="x-default" href="{{ xd.url | absolute_url }}">{% endif %}
-{%- elsif page.ref -%}
-  {%- assign sibs = site.posts | where: "ref", page.ref -%}
-  {%- for s in sibs %}
-<link rel="alternate" hreflang="{{ s.lang }}" href="{{ s.url | absolute_url }}">
-  {%- endfor -%}
-  {%- assign xd = sibs | where: "lang", "en" | first -%}
-  {%- if xd %}
-<link rel="alternate" hreflang="x-default" href="{{ xd.url | absolute_url }}">
-  {%- endif -%}
+<title>{% if lang == 'zh' %}{% if doc_title %}{{ doc_title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% elsif doc_title %}{{ doc_title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+<meta name="description" content="{{ meta_desc | escape }}">
+<link rel="canonical" href="{% if page.canonical %}{{ page.canonical | absolute_url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
+{%- if page.noindex -%}
+<meta name="robots" content="noindex, follow">
 {%- else -%}
-<link rel="alternate" hreflang="{{ lang }}" href="{{ page.url | absolute_url }}">
+<meta name="robots" content="index, follow, max-image-preview:large">
 {%- endif %}
+{% include hreflang.html %}
 
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-<meta property="og:description" content="{{ page.description | default: site.description | strip_html | strip_newlines | truncate: 300 | escape }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:description" content="{{ meta_desc | escape }}">
+<meta property="og:url" content="{% if page.canonical %}{{ page.canonical | absolute_url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
 <meta property="og:image" content="{{ page.image | default: '/assets/brand/lep-logo.jpg' | absolute_url }}">
 <meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
 <meta property="og:type" content="{% if page.ref %}article{% else %}website{% endif %}">
@@ -49,26 +39,32 @@
 <script type="application/ld+json">
 {
  "@context":"https://schema.org","@graph":[
- {"@type":"WebSite","@id":"{{ '/#website' | absolute_url }}","url":{{ site.url | jsonify }},"name":{{ site.title | jsonify }},"alternateName":"LEP","inLanguage":["zh","en","fr"],"publisher":{"@id":"{{ '/#organization' | absolute_url }}"}},
- {"@type":"Organization","@id":"{{ '/#organization' | absolute_url }}",
-  "name":"{{ site.org.brand }}","alternateName":"LEP","email":{{ site.email | jsonify }},
+ {"@type":"WebSite","@id":"{{ '/#website' | absolute_url }}","url":{{ site.url | jsonify }},"name":{{ site.title | jsonify }},"alternateName":"LEP","inLanguage":["zh-CN","en","fr"],"publisher":{"@id":"{{ '/#organization' | absolute_url }}"}},
+ {"@type":["Organization","ProfessionalService"],"@id":"{{ '/#organization' | absolute_url }}",
+  "name":{{ site.org.brand | jsonify }},"alternateName":"LEP","email":{{ site.email | jsonify }},
   "logo":"{{ '/assets/brand/lep-logo.jpg' | absolute_url }}",
-  "url":"{{ site.url }}",
-  "address":{"@type":"PostalAddress","addressLocality":"{{ site.org.locality }}","addressCountry":"{{ site.org.country }}"},
+  "url":{{ site.url | jsonify }},
+  "address":{"@type":"PostalAddress","addressLocality":{{ site.org.locality | jsonify }},"addressCountry":{{ site.org.country | jsonify }}},
+  "areaServed":[{"@type":"Country","name":"Luxembourg"},{"@type":"Country","name":"Switzerland"},{"@type":"Country","name":"Netherlands"}],
+  "contactPoint":[
+    {"@type":"ContactPoint","contactType":"customer service","email":{{ site.email | jsonify }},"availableLanguage":["zh-CN","en","fr"],"areaServed":["LU","CH","NL"]},
+    {"@type":"ContactPoint","contactType":"customer service","name":"WhatsApp","telephone":{{ site.org.telephone | jsonify }},"url":{{ site.org.whatsapp | jsonify }},"availableLanguage":["zh-CN","en","fr"]},
+    {"@type":"ContactPoint","contactType":"customer service","name":"WeChat","identifier":{{ site.org.wechat | jsonify }},"availableLanguage":["zh-CN"]}
+  ],
   "description":{{ identity.org | jsonify }},
   "founder":{"@id":"{{ '/#james' | absolute_url }}"}},
  {"@type":"Person","@id":"{{ '/#james' | absolute_url }}",
   "name":"{{ site.author.name }}","alternateName":"{{ site.author.alt_name }}",
   "jobTitle":"{{ site.author.job_title }}","url":"{{ site.author.url | absolute_url }}",
   "description":{{ identity.summary | jsonify }},
-  "sameAs":["https://www.youtube.com/channel/UCS_sDG3qfrovEc_JdqVJx8g","https://space.bilibili.com/1159665750/","{{ '/authors/james-liu/' | absolute_url }}","{{ '/zh/authors/james-liu/' | absolute_url }}","{{ '/fr/authors/james-liu/' | absolute_url }}"],
+  "sameAs":["https://space.bilibili.com/1159665750/","https://www.youtube.com/channel/UCS_sDG3qfrovEc_JdqVJx8g","{{ '/authors/james-liu/' | absolute_url }}","{{ '/zh/authors/james-liu/' | absolute_url }}","{{ '/fr/authors/james-liu/' | absolute_url }}"],
   "worksFor":{"@id":"{{ '/#organization' | absolute_url }}"},
   "address":{"@type":"PostalAddress","addressCountry":"LU"}}
  ]}
 </script>
 
 
-{% if page.profile_page %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"ProfilePage","@id":"{{ page.url | absolute_url }}#profile","url":"{{ page.url | absolute_url }}","inLanguage":{{ lang | jsonify }},"name":{{ page.title | jsonify }},"mainEntity":{"@id":"{{ '/#james' | absolute_url }}"}}</script>{% endif %}
+{% if page.profile_page %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"ProfilePage","@id":"{{ page.url | absolute_url }}#profile","url":"{{ page.url | absolute_url }}","inLanguage":{{ html_lang | jsonify }},"name":{{ page.title | jsonify }},"mainEntity":{"@id":"{{ '/#james' | absolute_url }}"}}</script>{% endif %}
 {% if page.service_page %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","@id":"{{ page.url | absolute_url }}#service","name":{{ page.service_name | default: identity.scope | jsonify }},"description":{{ page.service_description | default: identity.service | jsonify }},"provider":{"@id":"{{ '/#organization' | absolute_url }}"},"url":"{{ page.url | absolute_url }}","areaServed":[{% if page.service_countries %}{% for country in page.service_countries %}{"@type":"Country","name":{{ country | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}{% else %}{"@type":"Country","name":"Luxembourg"},{"@type":"Country","name":"Netherlands"},{"@type":"Country","name":"Switzerland"}{% endif %}]}</script>{% endif %}
 {% if page.school_key %}{% assign school = site.data.school_names[page.school_key] %}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"EducationalOrganization","@id":"{{ '/en/school-guides/#' | append: page.school_key | absolute_url }}","name":{{ school.name | jsonify }},"alternateName":{{ school.aliases | jsonify }},"address":{"@type":"PostalAddress","addressCountry":{{ school.country | jsonify }}}}</script>{% endif %}
@@ -88,7 +84,7 @@
   "headline":{{ page.title | jsonify }},
   {% if page.image %}"image":{{ page.image | absolute_url | jsonify }},{% endif %}
   "description":{{ page.description | default: page.answer | jsonify }},
-  "inLanguage":"{{ lang }}",
+  "inLanguage":"{{ html_lang }}",
   {% if education_category %}"articleSection":{{ education_category.name[lang] | jsonify }},{% endif %}
   "datePublished":"{{ page.date | date_to_xmlschema }}",
   "dateModified":"{{ page.last_modified_at | default: page.reviewed | default: page.date | date_to_xmlschema }}",
@@ -104,24 +100,31 @@
  ]}
  {%- endif -%}
  {%- include breadcrumb-path.html -%}
-{%- assign cl = site.clusters[page.cluster] %}{% if cl %},
+{%- assign crumb_name = breadcrumb_label | default: t.nav_insights -%},
  {"@type":"BreadcrumbList","itemListElement":[
-  {"@type":"ListItem","position":1,"name":"{{ site.title }}","item":"{{ '/' | append: lang | append: '/' | absolute_url }}"},
-  {"@type":"ListItem","position":2,"name":{{ breadcrumb_label | default: cl[lang] | jsonify }},"item":"{{ breadcrumb_path | absolute_url }}"},
+  {"@type":"ListItem","position":1,"name":{% if lang == 'zh' %}"首页"{% elsif lang == 'fr' %}"Accueil"{% else %}"Home"{% endif %},"item":"{{ home_href | absolute_url }}"},
+  {"@type":"ListItem","position":2,"name":{{ crumb_name | jsonify }},"item":"{{ breadcrumb_path | absolute_url }}"},
   {"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}]}
- {%- endif -%}
  ]}
 </script>
 {%- endif %}
 
 <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/assets/editorial.css?v=20261013-visit-video' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/editorial.css?v=20261117-video-defer' | relative_url }}">
 <script src="{{ '/assets/editorial.js?v=20261026-context' | relative_url }}" defer></script>
 {% if page.home_refresh %}<link rel="stylesheet" href="{{ '/assets/homepage.css?v=20261027-family-support' | relative_url }}">
 <script src="{{ '/assets/homepage.js?v=20260929-1' | relative_url }}" defer></script>{% endif %}
 {% if page.layout == 'destination' or page.home_refresh %}<link rel="stylesheet" href="{{ '/assets/destinations.css?v=20261027-public-visits' | relative_url }}">{% endif %}
 <link rel="stylesheet" href="{{ '/assets/education.css?v=20261026-covers2' | relative_url }}">
 <script src="{{ '/assets/education.js?v=20261026-education1' | relative_url }}" defer></script>
+{%- unless page.ref or page.noindex or page.url == '/' or page.url == '/zh/' or page.url == '/en/' or page.url == '/fr/' -%}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+{"@type":"ListItem","position":1,"name":{% if lang == 'zh' %}"首页"{% elsif lang == 'fr' %}"Accueil"{% else %}"Home"{% endif %},"item":"{{ home_href | absolute_url }}"},
+{"@type":"ListItem","position":2,"name":{{ page.heading | default: page.title | jsonify }},"item":"{{ page.url | absolute_url }}"}
+]}
+</script>
+{%- endunless -%}
 {%- feed_meta -%}
 </head>
 <body{% if page.home_refresh %} class="lep-home"{% endif %}>
@@ -129,7 +132,7 @@
 
 <header class="site">
   <div class="wrap bar">
-    <a class="brand" href="{{ '/' | append: lang | append: '/' | relative_url }}" aria-label="Lux Education Partners"><span class="brand-logo"><img src="{{ '/assets/brand/lep-logo.jpg' | relative_url }}" alt="Lux Education Partners" width="1100" height="750"></span></a>
+    <a class="brand" href="{{ home_href | relative_url }}" aria-label="Lux Education Partners"><span class="brand-logo"><img src="{{ '/assets/brand/lep-logo.jpg' | relative_url }}" alt="Lux Education Partners" width="1100" height="750"></span></a>
     <nav class="main" id="main-navigation" aria-label="{% case lang %}{% when 'zh' %}主导航{% when 'fr' %}Navigation principale{% else %}Main navigation{% endcase %}">
       {% for category in site.data.education.categories %}<a href="/{{ lang }}/education/{{ category.slug }}/"{% if page.education_key == category.key %} aria-current="page"{% endif %}>{{ category.nav[lang] }}</a>{% endfor %}
       <details class="nav-country-menu"><summary>{{ site.data.education.ui.country[lang] }}</summary><div>{% for destination in site.data.destinations[lang].items %}<a href="/{{ lang }}/destinations/{{ destination.slug }}/">{{ destination.name }}</a>{% endfor %}</div></details>
@@ -137,15 +140,27 @@
       <a href="{{ '/' | append: lang | append: '/fieldwork/' | relative_url }}">{{ t.nav_method }}</a>
       <a href="{{ '/' | append: lang | append: '/insights/why-lep/' | relative_url }}">{{ t.nav_why }}</a>
     </nav>
-    <nav class="lang">
+    <nav class="lang" aria-label="{% case lang %}{% when 'zh' %}语言{% when 'fr' %}Langue{% else %}Language{% endcase %}">
       {%- for l in site.languages -%}
-        {%- if page.translation_key -%}
+        {%- if page.translation_key == 'static-index.html' -%}
+          {%- if l.code == 'zh' -%}
+            <a href="{{ '/' | relative_url }}"{% if lang == 'zh' %} class="on"{% endif %}>{{ l.label }}</a>
+          {%- else -%}
+            {%- assign translated = site.pages | where: "translation_key", "static-index.html" | where: "lang", l.code | first -%}
+            {%- if translated %}<a href="{{ translated.url | relative_url }}"{% if l.code == lang %} class="on"{% endif %}>{{ l.label }}</a>{% endif -%}
+          {%- endif -%}
+        {%- elsif page.translation_key -%}
           {%- assign translated = site.pages | where: "translation_key", page.translation_key | where: "lang", l.code | first -%}
           {% if translated %}<a href="{{ translated.url | relative_url }}"{% if l.code == lang %} class="on"{% endif %}>{{ l.label }}</a>{% endif %}
         {%- elsif page.ref -%}
           {%- assign sib = site.posts | where: "ref", page.ref | where: "lang", l.code | first -%}
           {%- if sib %}<a href="{{ sib.url | relative_url }}"{% if l.code == lang %} class="on"{% endif %}>{{ l.label }}</a>{% endif -%}
-        {%- else %}<a href="{{ '/' | append: l.code | append: '/' | relative_url }}"{% if l.code == lang %} class="on"{% endif %}>{{ l.label }}</a>
+        {%- else -%}
+          {%- if l.code == 'zh' -%}
+            <a href="{{ '/' | relative_url }}"{% if lang == 'zh' %} class="on"{% endif %}>{{ l.label }}</a>
+          {%- else -%}
+            <a href="{{ '/' | append: l.code | append: '/' | relative_url }}"{% if l.code == lang %} class="on"{% endif %}>{{ l.label }}</a>
+          {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
     </nav>
@@ -160,7 +175,7 @@
 <footer class="site">
   <div class="wrap">
     <div class="footer-brand">
-      <a href="{{ '/' | append: lang | append: '/' | relative_url }}" aria-label="Lux Education Partners"><span class="brand-logo"><img src="{{ '/assets/brand/lep-logo.jpg' | relative_url }}" alt="Lux Education Partners" width="1100" height="750" loading="lazy"></span></a>
+      <a href="{{ home_href | relative_url }}" aria-label="Lux Education Partners"><span class="brand-logo"><img src="{{ '/assets/brand/lep-logo.jpg' | relative_url }}" alt="Lux Education Partners" width="1100" height="750" loading="lazy"></span></a>
       <p>{% case lang %}{% when 'zh' %}扎根卢森堡，连接欧洲教育与未来。{% when 'fr' %}Ancrés au Luxembourg.<br>Votre avenir en Europe.{% else %}Rooted in Luxembourg.<br>Your future in Europe.{% endcase %}</p>
     </div>
     {% unless page.home_refresh %}{% unless content contains 'id="contact-lep"' %}{% include lep-contact.html %}{% endunless %}{% endunless %}

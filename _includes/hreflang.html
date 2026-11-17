@@ -1,0 +1,49 @@
+{%- comment -%}
+  Reciprocal hreflang for pages that have translations.
+  zh-CN and zh point at the same Chinese URL. The Chinese homepage URL is /.
+  x-default is the Chinese URL when one exists, because Chinese is the primary audience.
+{%- endcomment -%}
+{%- unless page.noindex -%}
+{%- assign hreflang_key = page.translation_key -%}
+{%- assign zh_href = '' -%}
+{%- assign en_href = '' -%}
+{%- assign fr_href = '' -%}
+{%- if hreflang_key -%}
+  {%- assign translations = site.pages | where: "translation_key", hreflang_key -%}
+  {%- for translated in translations -%}
+    {%- assign href = translated.url -%}
+    {%- if hreflang_key == 'static-index.html' and translated.lang == 'zh' -%}
+      {%- assign href = '/' -%}
+    {%- endif -%}
+    {%- if translated.lang == 'zh' -%}{%- assign zh_href = href -%}
+    {%- elsif translated.lang == 'en' -%}{%- assign en_href = href -%}
+    {%- elsif translated.lang == 'fr' -%}{%- assign fr_href = href -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- elsif page.ref -%}
+  {%- assign sibs = site.posts | where: "ref", page.ref -%}
+  {%- for translated in sibs -%}
+    {%- if translated.lang == 'zh' -%}{%- assign zh_href = translated.url -%}
+    {%- elsif translated.lang == 'en' -%}{%- assign en_href = translated.url -%}
+    {%- elsif translated.lang == 'fr' -%}{%- assign fr_href = translated.url -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- if zh_href != '' or en_href != '' or fr_href != '' -%}
+{%- if zh_href != '' -%}
+<link rel="alternate" hreflang="zh-CN" href="{{ zh_href | absolute_url }}">
+<link rel="alternate" hreflang="zh" href="{{ zh_href | absolute_url }}">
+{%- endif -%}
+{%- if en_href != '' -%}
+<link rel="alternate" hreflang="en" href="{{ en_href | absolute_url }}">
+{%- endif -%}
+{%- if fr_href != '' -%}
+<link rel="alternate" hreflang="fr" href="{{ fr_href | absolute_url }}">
+{%- endif -%}
+{%- if zh_href != '' -%}{%- assign xd_href = zh_href -%}
+{%- elsif en_href != '' -%}{%- assign xd_href = en_href -%}
+{%- else -%}{%- assign xd_href = fr_href -%}
+{%- endif -%}
+<link rel="alternate" hreflang="x-default" href="{{ xd_href | absolute_url }}">
+{%- endif -%}
+{%- endunless -%}

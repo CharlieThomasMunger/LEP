@@ -6,9 +6,11 @@ permalink: "/zh/insights/him-business-ai-customer-experience/"
 cluster: "switzerland-hotel"
 school_article: true
 title: "HIM 瑞士蒙特勒工商管理大学：三次实习的商科，和一条 AI 客户体验硕士"
+seo_title: "HIM：三次实习商科与AI客户体验硕士"
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "HIM Business School（瑞士蒙特勒工商管理大学，原 Hotel Institute Montreux）的本科是三年商业管理路线，设金融、市场营销、管理学和款待业管理四个方向，安排三段带薪实习。 对希望读商科，又愿意通过实际工作学习的学生，HIM 值得放进比较名单。"
+seo_description: "HIM（瑞士蒙特勒工商管理大学）本科为三年商业管理，设金融、市场营销等方向，并安排三段带薪实习。"
 image: "/assets/fieldwork/him-james-campus-visit.jpg"
 
 school_key: "him"

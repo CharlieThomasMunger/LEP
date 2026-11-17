@@ -5,9 +5,11 @@ ref: "lux-guide-l5"
 permalink: "/zh/insights/st-georges-rapid-school-placement/"
 cluster: "luxembourg-school"
 title: "9 天，把学校、试读和寄宿家庭安排接起来：LEP 在卢森堡完成的一次特殊插班"
+seo_title: "9天完成卢森堡学校、试读与寄宿安排"
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "9 月 7 日，家长支付启动费，我们正式受托推进。9 月 16 日，孩子按校方安排开始上课。从付费启动到开课，相隔 9 天。这期间，我们把校长沟通、年级安排、到校试读、正式录取，以及寄宿家庭与学校之间的责任分工一并落实。"
+seo_description: "9 月 7 日，家长支付启动费，我们正式受托推进。9 月 16 日，孩子按校方安排开始上课。"
 image: "/assets/fieldwork/st-georges-principal-portrait.jpg"
 lep_service_page: false
 ---

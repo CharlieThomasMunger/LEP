@@ -8,6 +8,7 @@
   "cluster": "netherlands-school",
   "title": "荷兰Eerde寄宿一年多少钱？学费、首次费用与假期怎样安排",
   "description": "Eerde International Boarding School 2026/27学年，IGCSE及IB DP的学费加寄宿为61,600欧元，Middle Years为57,900欧元。父母不陪读的家庭，还要加入首次费用，并明确学校假期关闭宿舍时孩子在哪里生活。LEP与Eerde合作，可以把课程、寄宿和假期计划一起推进。",
+  "seo_description": "Eerde 2026/27学年，IGCSE及IB DP学费加寄宿为61,600欧元，Middle Years为57,900欧元。",
   "answer": "Eerde International Boarding School 2026/27学年，IGCSE及IB DP的学费加寄宿为61,600欧元，Middle Years为57,900欧元。父母不陪读的家庭，还要加入首次费用，并明确学校假期关闭宿舍时孩子在哪里生活。LEP与Eerde合作，可以把课程、寄宿和假期计划一起推进。",
   "date": "2026-09-27",
   "reviewed": "2026-10-12",

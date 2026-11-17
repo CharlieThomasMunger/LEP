@@ -4,6 +4,7 @@ lang: zh
 ref: equestrian-3
 cluster: equestrian-school
 title: 瑞士Saint-Charles圣查尔斯：读IB的同时，怎样继续练马术？
+seo_title: "圣查尔斯：读IB的同时怎样继续马术？"
 description: 结合修印先生Saint-Charles访校实拍，说明英文IB、瑞士课程、七天寄宿与马术需求怎样衔接，以及有比赛经验的家庭应先确认什么。
 answer: Saint-Charles适合把瑞士中学教育、寄宿生活和马术兴趣一起考虑的家庭。学校现行活动介绍包含骑马，我访校时也参观过室内马术场。若孩子已经持续训练或参赛，应进一步落实教练、频次、马匹与接送，不能把课外活动名录直接当作竞技训练方案。
 date: '2026-10-06'

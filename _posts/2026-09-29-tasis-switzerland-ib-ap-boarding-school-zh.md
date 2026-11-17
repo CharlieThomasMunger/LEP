@@ -7,6 +7,7 @@ image: "/assets/swiss/tasis-visit-admissions.jpg"
 lang: "zh"
 permalink: "/zh/insights/tasis-switzerland-ib-ap-boarding-school/"
 title: "TASIS瑞士美国学校适合什么孩子？IB、AP、寄宿年级与2026/27费用"
+seo_title: "TASIS适合什么孩子？IB、AP与寄宿"
 description: "修印先生到访TASIS瑞士美国学校后，梳理IB与AP、英语支持、父母不陪读的寄宿安排和2026/27真实费用，帮助家庭联系LEP比较路线。"
 date: "2026-09-29"
 school_article: true

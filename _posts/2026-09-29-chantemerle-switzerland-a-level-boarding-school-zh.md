@@ -7,6 +7,7 @@ image: "/assets/swiss/cm02.jpg"
 lang: "zh"
 permalink: "/zh/insights/chantemerle-switzerland-a-level-boarding-school/"
 title: "瑞士 Chantemerle 圣特美勒适合什么孩子？A Level、寄宿生活与一年费用"
+seo_title: "Chantemerle圣特美勒适合什么孩子？"
 description: "了解Chantemerle圣特美勒英文A Level、法语Maturité、2026/27七天寄宿费用，以及修印先生对小规模校园和生活环境的访校观察。"
 date: "2026-09-29"
 school_article: true

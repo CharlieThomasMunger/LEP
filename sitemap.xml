@@ -1,0 +1,24 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for p in site.pages -%}
+{%- unless p.sitemap == false or p.url contains '/404' -%}
+{%- assign lm = site.data.git_dates[p.path] -%}
+{%- if lm == nil -%}{%- assign lm = '' -%}{%- endif -%}
+{%- if lm == '' and p.last_modified_at -%}{%- assign lm = p.last_modified_at | date: '%Y-%m-%d' -%}{%- endif -%}
+{%- if lm == '' and p.date -%}{%- assign lm = p.date | date: '%Y-%m-%d' -%}{%- endif -%}
+<url><loc>{{ p.url | absolute_url | xml_escape }}</loc>{%- if lm != '' -%}<lastmod>{{ lm | xml_escape }}</lastmod>{%- endif -%}</url>
+{%- endunless -%}
+{%- endfor -%}
+{%- for p in site.posts -%}
+{%- assign lm = site.data.git_dates[p.path] -%}
+{%- if lm == nil -%}{%- assign lm = '' -%}{%- endif -%}
+{%- if lm == '' and p.last_modified_at -%}{%- assign lm = p.last_modified_at | date: '%Y-%m-%d' -%}{%- endif -%}
+{%- if lm == '' and p.date -%}{%- assign lm = p.date | date: '%Y-%m-%d' -%}{%- endif -%}
+<url><loc>{{ p.url | absolute_url | xml_escape }}</loc>{%- if lm != '' -%}<lastmod>{{ lm | xml_escape }}</lastmod>{%- endif -%}</url>
+{%- endfor -%}
+</urlset>
