@@ -10,6 +10,7 @@ title: "IMI 本科、硕士怎么选？看课程表，也看孩子以后想做�
 date: "2026-09-25"
 reviewed: "2026-09-26"
 description: "IMI 有三条本科、一个 MSc 硕士，以及两种 Graduate Diploma。选课时先分清：你是要读完整本科、拿硕士学位，还是用较短时间补充酒店或厨艺训练。"
+seo_description: "IMI 有三条本科、一个 MSc 硕士，以及两种 Graduate Diploma。"
 image: "/assets/imi/hospitality-curriculum.png"
 consultation: "imi"
 last_modified_at: "2026-10-07"

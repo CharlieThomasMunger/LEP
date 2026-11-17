@@ -6,6 +6,7 @@
   "cluster": "switzerland-hotel",
   "title": "本科不是酒店管理，能申请瑞士IMI硕士吗？转专业、实习与费用",
   "description": "已有非酒店管理专业的学士学位，可以评估瑞士IMI的MSc International Hospitality Business Management。现行课程资料接受任意专业学士，英语参考IELTS 6.0或等效水平。想取得硕士学位、同时转向酒店商业的人，可以通过LEP讨论这条路线。",
+  "seo_description": "已有非酒店管理专业的学士学位，可以评估瑞士IMI的MSc International Hospitality Business Management。",
   "answer": "已有非酒店管理专业的学士学位，可以评估瑞士IMI的MSc International Hospitality Business Management。现行课程资料接受任意专业学士，英语参考IELTS 6.0或等效水平。想取得硕士学位、同时转向酒店商业的人，可以通过LEP讨论这条路线。",
   "date": "2026-10-12",
   "reviewed": "2026-10-12",

@@ -7,7 +7,6 @@ markdown: kramdown
 permalink: /:categories/:title/
 
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
 
 exclude:
@@ -31,7 +30,7 @@ languages:
     name: Français
     locale: fr_LU
 
-default_lang: en
+default_lang: zh
 
 # ---- 主题分组 ----
 clusters:
@@ -73,6 +72,9 @@ org:
   brand: Lux Education Partners
   country: LU
   locality: Luxembourg
+  wechat: xiuyinxiansheng
+  telephone: "+352661221289"
+  whatsapp: https://wa.me/352661221289
 
 author:
   name: James Liu

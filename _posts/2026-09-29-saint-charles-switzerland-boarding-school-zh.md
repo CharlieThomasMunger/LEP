@@ -8,6 +8,7 @@ image: "/assets/swiss/sc16.jpg"
 lang: "zh"
 permalink: "/zh/insights/saint-charles-switzerland-boarding-school/"
 title: "圣查尔斯 Saint-Charles 适合中国孩子吗？英文 IB、寄宿费用与瑞士升学路线"
+seo_title: "圣查尔斯适合中国孩子吗？IB与寄宿"
 description: "比较圣查尔斯英文IB与瑞士Maturité、2026/27寄宿费用和入学语言要求，结合修印先生实地访校见闻，判断孩子是否适合。"
 date: "2026-09-29"
 school_article: true

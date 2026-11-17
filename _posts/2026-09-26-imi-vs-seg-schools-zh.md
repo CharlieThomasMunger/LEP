@@ -6,9 +6,11 @@ permalink: "/zh/insights/imi-vs-seg-schools/"
 cluster: "switzerland-hotel"
 school_article: true
 title: "IMI 和 SEG 怎么选？把 SHMS、CRCS、HIM、CAA 分开，答案才有用"
+seo_title: "IMI和SEG怎么选？四所学校分开看"
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "我实地访问过 IMI、SHMS 和 HIM。我的判断很明确：IMI 值得看性价比；SHMS 的酒店、会展与设计方向鲜明；CRCS 更偏企业经营与细分商科；HIM 强在三次实习；CAA 适合在厨艺上追求卓越的学生。"
+seo_description: "我实地访问过IMI、SHMS和HIM。IMI值得看性价比；SHMS方向鲜明；CRCS更偏企业经营与细分商科。"
 image: "/assets/seg/james-shms-window.jpg"
 ---
 

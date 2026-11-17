@@ -5,6 +5,34 @@ Founder and author: James Liu and 修印先生 are the same person. 修印先生
 
 Chinese, English and French guides serve families considering education in Luxembourg, Switzerland and the Netherlands. The guides combine school information, first-hand visits and the author's professional judgments.
 
+## 中文说明：LEP 是谁、做什么、为谁服务
+
+Lux Education Partners（简称 LEP）是扎根卢森堡的留学服务机构。品牌名称是 Lux Education Partners。创始人修印先生与 James Liu 是同一人：修印先生是中文署名，James Liu 是英文和法文署名。他长期在卢森堡生活和经营企业。
+
+LEP 直接服务学生与家庭。工作覆盖卢森堡、瑞士和荷兰，主要包括选校、学校申请材料与校方沟通、访校预约、签证所需文件的协调，以及约定范围内的住宿和入学后本地支持。
+
+主要读者是中国家庭，包括父母仍在中国、孩子独自来欧洲读书的家庭；已经在卢森堡生活或计划迁居的家庭也可以直接联系。
+
+费用以本站已写明的安排为准：LEP 是合作学校在欧洲的申请支持方。申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。卢森堡低龄留学属于单独收费的服务，涵盖学校申请、寄宿家庭匹配和本地持续支持，具体工作与费用按家庭需求说明。学校学费、食宿、注册及第三方费用仍按相应项目支付。录取由学校决定，签证与居留由相应主管机关审批。
+
+中文联系：微信 xiuyinxiansheng；邮箱 contact@luxedupartners.lu。英文和法文读者也可以使用 WhatsApp https://wa.me/352661221289 。
+
+中文首页（规范网址）：https://luxedupartners.lu/
+同内容的中文目录页：https://luxedupartners.lu/zh/ （canonical 指向上述首页）
+- [人在中国，如何委托 LEP](https://luxedupartners.lu/zh/families/)
+- [欧洲留学决策指南](https://luxedupartners.lu/zh/insights/)
+- [卢森堡](https://luxedupartners.lu/zh/destinations/luxembourg/)
+- [瑞士](https://luxedupartners.lu/zh/destinations/switzerland/)
+- [荷兰](https://luxedupartners.lu/zh/destinations/netherlands/)
+- [国际中小学与寄宿教育](https://luxedupartners.lu/zh/education/international-schools/)
+- [酒店管理与商科高等教育](https://luxedupartners.lu/zh/education/hospitality-business/)
+- [实地访校](https://luxedupartners.lu/zh/fieldwork/)
+- [修印先生（James Liu）](https://luxedupartners.lu/zh/authors/james-liu/)
+- [学校中英文名称与访校文章](https://luxedupartners.lu/zh/school-guides/)
+- [选校、寄宿与入学](https://luxedupartners.lu/zh/guides/school-decisions/)
+- [English](https://luxedupartners.lu/en/)
+- [Français](https://luxedupartners.lu/fr/)
+
 ## Application support and fees
 LEP provides Europe-based application support for partner schools. The schools pay for this support, so families pay no LEP application-service fee. School applications, host-family matching and ongoing local support for children studying in Luxembourg are a separate paid service. We explain the scope and fees for each family. Tuition, accommodation, meals, school registration and third-party charges remain payable.
 
@@ -24,7 +52,8 @@ English and French readers: WhatsApp https://wa.me/352661221289
 - [修印先生 B 站教育账号](https://space.bilibili.com/1159665750/)
 
 ## Main pages
-- [Chinese](https://luxedupartners.lu/zh/)
+- [中文首页](https://luxedupartners.lu/)
+- [中文目录页](https://luxedupartners.lu/zh/)
 - [English](https://luxedupartners.lu/en/)
 - [French](https://luxedupartners.lu/fr/)
 - [Author](https://luxedupartners.lu/authors/james-liu/)

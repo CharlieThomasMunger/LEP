@@ -8,16 +8,38 @@
   <h2 id="lep-visit-video-title">{{ copy.heading | escape }}</h2>
   <p>{{ copy.intro | escape }}</p>
   <figure>
-    <div class="lep-visit-video-frame"><iframe src="{{ embed_url | escape }}" title="{{ copy.heading | escape }}" width="800" height="450" loading="lazy" allow="encrypted-media; fullscreen; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    <div class="lep-visit-video-frame">
+      <button type="button" class="lep-visit-video-play" data-embed-url="{{ embed_url | escape }}" data-title="{{ copy.heading | escape }}">
+        <span class="lep-visit-video-play-label">{{ labels.play | escape }}</span>
+      </button>
+    </div>
     <figcaption>{{ labels.excerpt | escape }} · {{ visit.range }} · YouTube</figcaption>
   </figure>
+  <p class="lep-visit-video-note">{{ labels.defer_note | escape }}</p>
   <p class="lep-visit-video-label">{{ labels.points | escape }}</p>
   <ul>{% for point in copy.points %}<li>{{ point | escape }}</li>{% endfor %}</ul>
   <p>{{ copy.value | escape }}</p>
   <p class="lep-visit-video-contact"><a href="mailto:contact@luxedupartners.lu">{{ labels.cta | escape }}</a>{% if page.lang == 'zh' %} · 微信：<strong>xiuyinxiansheng</strong>{% endif %}</p>
   <p class="lep-visit-video-source">{{ labels.original | escape }}：<a href="{{ video.watch_url | escape }}" target="_blank" rel="noopener">{{ video.title | escape }}</a> · {{ labels.published | escape }} {{ video.published_display }}</p>
 </section>
+<script>
+document.addEventListener('click', function (event) {
+  var button = event.target.closest ? event.target.closest('.lep-visit-video-play') : null;
+  if (!button) return;
+  var url = button.getAttribute('data-embed-url');
+  if (!url) return;
+  var iframe = document.createElement('iframe');
+  iframe.src = url;
+  iframe.title = button.getAttribute('data-title') || 'YouTube';
+  iframe.setAttribute('width', '800');
+  iframe.setAttribute('height', '450');
+  iframe.setAttribute('allow', 'encrypted-media; fullscreen; picture-in-picture');
+  iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
+  iframe.setAttribute('allowfullscreen', '');
+  button.parentNode.replaceChild(iframe, button);
+});
+</script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"VideoObject","@id":"{{ page.url | absolute_url }}#visit-video-object","name":{{ video.title | jsonify }},"description":{{ video.description | jsonify }},"thumbnailUrl":{{ video.thumbnail | jsonify }},"uploadDate":{{ video.upload_date | jsonify }},"duration":{{ video.duration | jsonify }},"embedUrl":{{ embed_url | jsonify }},"url":{{ video.watch_url | jsonify }},"creator":{"@id":"{{ '/#james' | absolute_url }}"},"isPartOf":{"@id":"{{ page.url | absolute_url }}#article"},"about":{"@id":"{{ '/en/school-guides/#' | append: page.school_key | absolute_url }}"},"hasPart":{"@type":"Clip","name":{{ copy.heading | jsonify }},"startOffset":{{ visit.start }},"endOffset":{{ visit.end }},"url":"{{ video.watch_url }}&t={{ visit.start }}s"}}
+{"@context":"https://schema.org","@type":"VideoObject","@id":"{{ page.url | absolute_url }}#visit-video-object","name":{{ video.title | jsonify }},"description":{{ video.description | jsonify }},"uploadDate":{{ video.upload_date | jsonify }},"duration":{{ video.duration | jsonify }},"embedUrl":{{ embed_url | jsonify }},"url":{{ video.watch_url | jsonify }},"creator":{"@id":"{{ '/#james' | absolute_url }}"},"isPartOf":{"@id":"{{ page.url | absolute_url }}#article"},"about":{"@id":"{{ '/en/school-guides/#' | append: page.school_key | absolute_url }}"},"hasPart":{"@type":"Clip","name":{{ copy.heading | jsonify }},"startOffset":{{ visit.start }},"endOffset":{{ visit.end }},"url":"{{ video.watch_url }}&t={{ visit.start }}s"}}
 </script>
 {% endif %}

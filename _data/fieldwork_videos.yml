@@ -16,21 +16,27 @@
       "points": "片段要点",
       "published": "原视频发布",
       "original": "原视频",
-      "cta": "与 LEP 讨论孩子的情况"
+      "cta": "与 LEP 讨论孩子的情况",
+      "play": "播放访校片段",
+      "defer_note": "这段视频放在 YouTube。页面不会自动加载它，以免在中国大陆请求可能无法打开的网站；需要观看时再点击。下面是这段访校的文字要点。"
     },
     "en": {
       "excerpt": "Visit excerpt",
       "points": "Key observations",
       "published": "Original video published",
       "original": "Original video",
-      "cta": "Discuss your child’s plans with LEP"
+      "cta": "Discuss your child’s plans with LEP",
+      "play": "Play the visit excerpt",
+      "defer_note": "This excerpt is hosted on YouTube and is not loaded until you press play. The observations are written out below."
     },
     "fr": {
       "excerpt": "Extrait de visite",
       "points": "Points clés",
       "published": "Publication de la vidéo",
       "original": "Vidéo originale",
-      "cta": "Parler du projet de votre enfant avec LEP"
+      "cta": "Parler du projet de votre enfant avec LEP",
+      "play": "Lire l’extrait de la visite",
+      "defer_note": "Cet extrait est hébergé sur YouTube et ne se charge que si vous lancez la lecture. Les observations sont aussi écrites ci-dessous."
     }
   },
   "schools": {

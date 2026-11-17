@@ -6,6 +6,7 @@ permalink: "/zh/insights/seg-schools-comparison/"
 cluster: "switzerland-hotel"
 school_article: true
 title: "SEG 四所学校怎么选？酒店看 SHMS，商科看 CRCS 和 HIM，厨艺看 CAA"
+seo_title: "SEG四校怎么选？酒店、商科与厨艺"
 date: "2026-09-26"
 reviewed: "2026-09-26"
 description: "SEG 旗下四所学校，适合的是不同兴趣、不同发展目标的学生。 我们与四校直接合作，推荐哪一所，先看孩子想学什么、以后希望做什么，再看家庭预算。"

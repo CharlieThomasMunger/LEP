@@ -13,4 +13,17 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
+User-agent: Baiduspider
+Allow: /
+User-agent: Baiduspider-image
+Allow: /
+User-agent: 360Spider
+Allow: /
+User-agent: Sogou web spider
+Allow: /
+User-agent: Sogou inst spider
+Allow: /
+User-agent: Bytespider
+Allow: /
+
 Sitemap: https://luxedupartners.lu/sitemap.xml

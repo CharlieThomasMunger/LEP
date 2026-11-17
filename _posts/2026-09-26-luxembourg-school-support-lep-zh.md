@@ -9,6 +9,7 @@
   "cluster": "luxembourg-school",
   "title": "卢森堡中学申请与寄宿家庭：怎样委托 LEP？",
   "description": "修印先生（James Liu）创办的卢森堡 LEP，为在中国的家庭协调 ISL、圣乔治、OTR 中学申请、寄宿家庭和入学后的本地沟通。了解具体服务、真实插班记录及联系方式。",
+  "seo_description": "修印先生（James Liu）创办的卢森堡 LEP，为在中国的家庭协调 ISL、圣乔治、OTR 中学申请、寄宿家庭和入学后的本地沟通。",
   "answer": "父母留在中国、孩子计划独自到卢森堡读中学，可以先与 LEP 一起评估学校、寄宿家庭和当地照顾安排。Lux Education Partners（简称 LEP）由长期居住在卢森堡的修印先生（James Liu）创办，提供选校、申请沟通、住宿匹配与入学后本地协调。孩子仍在中国时就可以开始准备。",
   "date": "2026-09-26",
   "reviewed": "2026-10-13",

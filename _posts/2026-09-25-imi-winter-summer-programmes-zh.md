@@ -11,6 +11,7 @@
   "date": "2026-09-25",
   "reviewed": "2026-10-25",
   "description": "IMI 2027冬令营1月17—24日、夏令营7月18—25日；分别面向16—24岁、16—26岁，早鸟价均为CHF1,800。LEP协助比较课程、申请与后续学费权益，申请支持服务由学校支付，家长无需向 LEP 支付申请服务费。",
+  "seo_description": "IMI 2027冬令营1月17—24日、夏令营7月18—25日；分别面向16—24岁、16—26岁，早鸟价均为CHF1,800。",
   "image": "/assets/imi/winter-2027-timetable.png",
   "last_modified_at": "2026-10-28T06:09:08+00:00",
   "custom_lep_support": true,

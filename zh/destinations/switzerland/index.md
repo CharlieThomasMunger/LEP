@@ -8,6 +8,7 @@
   "title": "瑞士留学：国际寄宿中小学与酒店管理商科分开选",
   "heading": "瑞士寄宿学校与酒店管理留学",
   "description": "修印先生实地走访瑞士学校，与校长、老师和学生交流。比较Wikon、ENSR、Lémania及IMI、CRCS、Les Roches、Glion的课程、寄宿、费用与实习收支，LEP协助申请及访校。",
+  "seo_description": "修印先生实地走访瑞士学校，与校长、老师和学生交流，并比较课程、寄宿、费用与实习。LEP协助申请及访校。",
   "standfirst": "从低龄、小学、初高中私立国际学校与寄宿教育，到酒店管理本科及研究生，结合家庭预算与长期发展规划瑞士留学。",
   "destination_key": "switzerland",
   "image": "/assets/fieldwork/glion-james-students-teacher-20261021.jpg"

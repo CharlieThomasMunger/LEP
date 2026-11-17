@@ -6,6 +6,7 @@
   "cluster": "family-decisions",
   "title": "孩子内向、自理一般，LEP怎样匹配欧洲寄宿学校？",
   "description": "LEP 不凭“内向”或“独立”一个标签选校，而是把孩子的语言、学习习惯、生活照顾和同伴需要，带入与 Chantemerle、Saint-Charles、Eerde 及卢森堡学校的具体沟通，筛出能接住孩子的学习与住宿安排。",
+  "seo_description": "LEP不凭“内向”或“独立”选校，而是结合语言、学习习惯、生活照顾和同伴需要，与学校具体沟通。",
   "answer": "LEP 不凭“内向”或“独立”一个标签选校，而是把孩子的语言、学习习惯、生活照顾和同伴需要，带入与 Chantemerle、Saint-Charles、Eerde 及卢森堡学校的具体沟通，筛出能接住孩子的学习与住宿安排。",
   "date": "2026-10-11",
   "reviewed": "2026-10-11",
