@@ -32,4 +32,4 @@ last_modified_at: "2026-10-28T06:09:08+00:00"
 <h2>如果孩子以后继续在欧洲发展，我们能把前后路径一起考虑</h2>
 <p>LEP的经验来自欧洲本土：卢森堡、荷兰、瑞士的学校，我们持续实地了解并与校方交流。申请高中时，就可以一起讨论孩子未来更偏向荷兰本科、瑞士大学，还是其他欧洲方向，提前注意选课与语言准备。</p>
 <p>家长不必现在就决定孩子几年后的一切，但有人理解欧洲不同学校与教育路径，可以帮助当前的选择更有方向。</p>
-<p>请联系James Liu，说明孩子的年龄、年级、英语水平和计划入学时间，我们一起评估Eerde是否适合，并讨论申请与访校安排。</p><section class="eerde-contact" id="eerde-contact"><h2>联系修印先生，讨论孩子的申请与访校</h2><p>告诉我们孩子的年龄、年级、英语情况和计划入学时间。</p><p><a href="mailto:jamesliu@luxedupartners.lu">直接邮件联系James Liu</a> · <span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/apply-to-eerde-with-lep/">了解LEP如何协助申请 →</a></p></section>
+<p>请联系James Liu，说明孩子的年龄、年级、英语水平和计划入学时间，我们一起评估Eerde是否适合，并讨论申请与访校安排。</p><section class="eerde-contact" id="eerde-contact"><h2>联系修印先生，讨论孩子的申请与访校</h2><p>告诉我们孩子的年龄、年级、英语情况和计划入学时间。</p><p><a href="mailto:contact@luxedupartners.lu">直接邮件联系James Liu</a> · <span>微信：<strong>xiuyinxiansheng</strong></span></p><p><a href="/zh/insights/apply-to-eerde-with-lep/">了解LEP如何协助申请 →</a></p></section>
