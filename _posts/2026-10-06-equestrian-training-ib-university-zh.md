@@ -41,7 +41,7 @@ faq:
 <h2 id="section-6">从孩子现状开始，与LEP讨论两校选择</h2>
 <p>我们熟悉合作学校，并有实地走访经验，可以把课程、语言、寄宿与马术目标放在一起筛选。学校负责学业与录取评估，训练方负责骑乘匹配；LEP帮助家庭厘清信息与下一步安排。</p><p>发给我们孩子的年龄、年级、近期成绩、语言情况、训练频次与比赛经历，以及未来可能考虑的大学方向。不必等到孩子确定走职业路线，才开始讨论一条兼顾兴趣与教育的路径。</p>
 
-<section class="eerde-contact" id="equestrian-contact"><h2>联系LEP，讨论孩子的学校与马术安排</h2><p>请说明孩子的年龄、年级、语言、训练经历、是否自带马和全年预算。LEP先协助判断学校与课程匹配，再与校方核对具体安排。</p><p><a href="mailto:jamesliu@luxedupartners.lu">jamesliu@luxedupartners.lu</a> · <span>微信：<strong>xiuyinxiansheng</strong></span></p></section>
+<section class="eerde-contact" id="equestrian-contact"><h2>联系LEP，讨论孩子的学校与马术安排</h2><p>请说明孩子的年龄、年级、语言、训练经历、是否自带马和全年预算。LEP先协助判断学校与课程匹配，再与校方核对具体安排。</p><p><a href="mailto:contact@luxedupartners.lu">contact@luxedupartners.lu</a> · <span>微信：<strong>xiuyinxiansheng</strong></span></p></section>
 
 <nav class="related" aria-label="马术与中学教育专题"><h2>马术与中学教育专题</h2><ul><li><a href="/zh/insights/equestrian-boarding-schools-europe/">孩子学马术，去荷兰还是瑞士读寄宿中学？先看这三种需求</a></li><li><a href="/zh/insights/eerde-equestrian-ib-boarding/">荷兰Eerde马术留学：怎样兼顾英文IB、寄宿与持续训练？</a></li><li><a href="/zh/insights/saint-charles-horse-riding-boarding/">瑞士Saint-Charles圣查尔斯：读IB的同时，怎样继续练马术？</a></li><li><a href="/zh/insights/equestrian-boarding-school-costs/">欧洲马术寄宿留学一年多少钱？Eerde与圣查尔斯的预算怎样算</a></li></ul></nav>
 
