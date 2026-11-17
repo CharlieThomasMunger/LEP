@@ -43,6 +43,8 @@ LEP 可以围绕孩子的长期选校目标，了解 Chantemerle、Saint-Charles
 
 [查看学校申请与当地服务](/zh/families/)
 
+[该找国内中介、欧洲本地顾问，还是自己申请？](/zh/guides/choose-advisor/)
+
 
 <!-- lep-materials-20261012 -->
 ## 继续比较与安排申请
