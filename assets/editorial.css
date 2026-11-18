@@ -106,6 +106,19 @@ article.node .article-photo{margin:34px 0 38px}
 article.node .article-photo img{border-radius:0;height:auto;max-height:740px;object-fit:contain;background:#f5f6f6}
 article.node .article-photo.portrait{max-width:490px;margin-left:auto;margin-right:auto}
 article.node .article-photo figcaption{font-size:12px;line-height:1.75;color:#62717b;padding:10px 0 0;margin:0;border-bottom:1px solid var(--line);padding-bottom:12px}
+/* Real school visits near the opening of high-intent scholarship guides. */
+article.node.node-with-lead-visit .article-masthead{padding-bottom:26px;margin-bottom:22px}
+article.node .lead-visit-opening{display:flex;flex-direction:column;gap:0;margin:0 0 26px}
+article.node .lead-visit-opening .answer{margin:0 0 20px;padding:20px 24px}
+article.node .lead-visit-opening .article-photo--lead{margin:0}
+article.node .lead-visit-opening .article-photo--lead img{display:block;width:100%;height:auto;max-height:425px;object-fit:contain;background:#f5f6f6}
+article.node .lead-visit-opening .article-photo--lead figcaption{font-size:12px;padding-top:8px;padding-bottom:10px}
+@media(max-width:650px){
+ article.node.node-with-lead-visit .article-masthead{padding-bottom:22px;margin-bottom:16px}
+ article.node .lead-visit-opening .article-photo--lead{order:-1;margin-bottom:15px}
+ article.node .lead-visit-opening .article-photo--lead img{max-height:330px}
+ article.node .lead-visit-opening .answer{margin:0;padding:17px 18px}
+}
 .field-shot img{height:auto}
 .article-toc{align-self:start;position:sticky;top:28px;border-top:2px solid var(--accent);padding-top:18px;font-size:12px;line-height:1.7}
 .article-toc[hidden]{display:none}

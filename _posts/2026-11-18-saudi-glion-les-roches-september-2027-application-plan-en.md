@@ -13,6 +13,9 @@ answer: "For Saudi students targeting a September 2027 start at Glion or Les Roc
 date: 2026-11-18T10:25:00+01:00
 reviewed: '2026-11-18'
 image: /assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg
+lead_visit_photo: true
+lead_photo_alt: "James Liu meeting a Les Roches careers and internship team member during his October 2026 visit to the Swiss campus"
+lead_photo_caption: "James Liu meeting the Les Roches careers and internship team during his October 2026 Swiss visit."
 faq:
   - q: "When should I start a September 2027 Glion application?"
     a: "Start document assessment now, especially if you need Saudi scholarship funding and an unconditional offer. LEP can build a schedule around your records."
@@ -89,8 +92,6 @@ It is often something small enough to address early, yet significant enough to d
 LEP can help turn these into a manageable action list and communicate with the admissions team. If you already have an offer, you can start immediately with our [guide to progressing an unconditional Glion or Les Roches offer](/en/insights/unconditional-glion-les-roches-offer-saudi-scholarship/).
 
 ## What our campus visits add to the process
-
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" alt="James Liu meeting the Les Roches careers and internship team in Switzerland in October 2026" loading="lazy" decoding="async"></a><figcaption>James Liu meeting the Les Roches careers and internship team during his October 2026 Swiss school visit.</figcaption></figure>
 
 I visited both Glion and Les Roches in Switzerland in October 2026. Seeing how the schools organise their programmes, student support and practical learning gives LEP a better foundation for coordinating applications with families who cannot visit immediately.
 

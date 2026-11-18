@@ -13,6 +13,9 @@ answer: "Saudi nationals considering hospitality management in Switzerland can e
 date: 2026-11-18T10:00:00+01:00
 reviewed: '2026-11-18'
 image: /assets/fieldwork/glion-james-students-teacher-20261021.jpg
+lead_visit_photo: true
+lead_photo_alt: "James Liu at Glion Switzerland with students and school hosts during his October 2026 campus visit"
+lead_photo_caption: "James Liu at Glion, Switzerland, in October 2026, meeting students and school hosts."
 faq:
   - q: "Can a Saudi high-school student apply to Glion or Les Roches?"
     a: "Yes. LEP can review your diploma route, grades, English evidence and intended intake with the relevant admissions team."
@@ -74,8 +77,6 @@ This is a practical reason to involve LEP early. Rather than sending identical e
 If you have a conditional offer already, our next step is to identify the outstanding conditions and establish a sensible sequence for meeting them. See our [guide to pursuing an unconditional offer for a Saudi scholarship](/en/insights/unconditional-glion-les-roches-offer-saudi-scholarship/).
 
 ## A campus visit is part of the value we bring
-
-<figure class="article-photo"><a href="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" alt="LEP founder James Liu with students and school hosts during his October 2026 visit to Glion in Switzerland" loading="lazy" decoding="async"></a><figcaption>James Liu at Glion's Swiss campus in October 2026, meeting students and school hosts.</figcaption></figure>
 
 I visited **Glion and Les Roches in Switzerland** in October 2026 and spent time discussing their courses, practical training, campus life and student support. Seeing the institutions first-hand helps me ask better questions on behalf of applicants—particularly those choosing a school from overseas while trying to satisfy a separate government funding process.
 

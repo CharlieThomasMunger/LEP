@@ -8,7 +8,7 @@ layout: default
 {%- include education-context.html -%}
 {%- include breadcrumb-path.html -%}
 
-<article class="node">
+<article class="node{% if page.lead_visit_photo %} node-with-lead-visit{% endif %}">
   <header class="article-masthead">
     <div class="wrap">
       <p class="crumb"><a href="{{ '/' | append: lang | append: '/' | relative_url }}">LEP</a>{% if cl %} / <a href="{{ breadcrumb_path | relative_url }}">{{ breadcrumb_label | default: cl[lang] }}</a>{% endif %}</p>
@@ -18,6 +18,9 @@ layout: default
   </header>
   <div class="wrap article-layout">
   <div class="article-main">
+    {%- if page.lead_visit_photo and page.image %}
+    <div class="lead-visit-opening">
+    {%- endif %}
     {%- if page.answer %}
     <div class="answer">
       <span class="lab">{{ t.answer_label }}</span>
@@ -25,6 +28,13 @@ layout: default
       {%- if page.evidence %}
       <p class="evidence">{% assign evidence_key = "evidence_" | append: page.evidence %}{{ t[evidence_key] }}</p>
       {%- endif %}
+    </div>
+    {%- endif %}
+    {%- if page.lead_visit_photo and page.image %}
+    <figure class="article-photo article-photo--lead">
+      <a href="{{ page.image | relative_url }}" target="_blank" rel="noopener"><img src="{{ page.image | relative_url }}" alt="{{ page.lead_photo_alt | default: page.title | escape }}" loading="eager" fetchpriority="high" decoding="async"></a>
+      <figcaption>{{ page.lead_photo_caption | escape }}</figcaption>
+    </figure>
     </div>
     {%- endif %}
 

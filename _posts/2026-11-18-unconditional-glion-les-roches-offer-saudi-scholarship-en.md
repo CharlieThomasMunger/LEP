@@ -13,6 +13,9 @@ answer: "The Saudi Excellence Track requires a direct, unconditional admission o
 date: 2026-11-18T10:10:00+01:00
 reviewed: '2026-11-18'
 image: /assets/fieldwork/glion-james-campus-visit-20261021.jpg
+lead_visit_photo: true
+lead_photo_alt: "James Liu with school hosts at Glion's Swiss campus during his October 2026 visit"
+lead_photo_caption: "James Liu meeting school hosts at Glion in Switzerland, October 2026."
 faq:
   - q: "I already have a conditional Glion or Les Roches offer. Can LEP help?"
     a: "Yes. Send the offer and the remaining conditions. We can review the next steps and discuss the appropriate follow-up with the school."
@@ -67,8 +70,6 @@ LEP can help manage this progression. Rather than focusing on the label *offer*,
 **5. Prepare the offer for the scholarship stage.** Once the appropriate formal letter is available, we help check that the school, programme, campus and start-date details are clearly recorded for the next part of the process.
 
 These are not abstract consulting activities. They are the actual emails, documents, decisions and follow-ups that keep an application moving.
-
-<figure class="article-photo"><a href="/assets/fieldwork/glion-james-campus-visit-20261021.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/glion-james-campus-visit-20261021.jpg" alt="James Liu meeting school hosts during his October 2026 visit to Glion's Swiss campus" loading="lazy" decoding="async"></a><figcaption>James Liu on his October 2026 visit to Glion in Switzerland. LEP combines first-hand campus knowledge with application liaison.</figcaption></figure>
 
 ## What if your IELTS score is 5.5?
 

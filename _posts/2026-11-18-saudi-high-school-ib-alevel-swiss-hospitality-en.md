@@ -13,6 +13,9 @@ answer: "Saudi secondary-school graduates, IB students and A-level students can 
 date: 2026-11-18T10:05:00+01:00
 reviewed: '2026-11-18'
 image: /assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg
+lead_visit_photo: true
+lead_photo_alt: "James Liu of LEP with a member of the Les Roches careers and internship team during a 2026 Swiss campus visit"
+lead_photo_caption: "James Liu with the Les Roches careers and internship team in Switzerland, October 2026."
 faq:
   - q: "Can I start an application before my final IB or A-level results?"
     a: "You can prepare documents and ask the school to assess your current or predicted results. LEP plans the next steps around your final-results date."
@@ -83,8 +86,6 @@ For students planning to apply for Saudi Excellence Track funding, this is espec
 LEP helps track the outstanding items with the school, while building in enough time for the scholarship application. Our [step-by-step article on pursuing an unconditional offer](/en/insights/unconditional-glion-les-roches-offer-saudi-scholarship/) explains the process.
 
 ## We have visited the schools we discuss with you
-
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-career-team-lead-20261020.jpg" alt="James Liu of LEP with the Les Roches careers and internship team during his Swiss campus visit" loading="lazy" decoding="async"></a><figcaption>James Liu speaking with members of the Les Roches careers and internship team during his October 2026 Swiss visit.</figcaption></figure>
 
 I visited Les Roches in Switzerland and met members of the school team to discuss practical learning and career support. I also visited Glion. For me, a worthwhile application starts with the person behind the grades: what kind of work excites you, how do you learn and where could this degree take you?
 

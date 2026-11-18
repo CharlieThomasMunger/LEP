@@ -13,6 +13,9 @@ answer: "For Saudi Excellence Track applicants, the campus is part of the fundin
 date: 2026-11-18T10:20:00+01:00
 reviewed: '2026-11-18'
 image: /assets/fieldwork/glion-james-students-teacher-20261021.jpg
+lead_visit_photo: true
+lead_photo_alt: "James Liu at Glion Switzerland with students and school hosts, October 2026"
+lead_photo_caption: "James Liu with students and hosts at Glion's Swiss campus, October 2026."
 faq:
   - q: "Does it matter whether I apply to Glion in Switzerland or London?"
     a: "Yes, for scholarship planning. LEP checks the actual degree and teaching locations against the Saudi funding criteria."
@@ -77,8 +80,6 @@ For example, an applicant might need to ask:
 These questions should be resolved **while the student still has flexibility to choose the best route**. LEP helps gather the programme information and structure the discussion with the school.
 
 ## We have inspected the Swiss campuses in person
-
-<figure class="article-photo"><a href="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/glion-james-students-teacher-20261021.jpg" alt="James Liu at Glion Switzerland with students and hosts during his October 2026 school visit" loading="lazy" decoding="async"></a><figcaption>James Liu visiting Glion in Switzerland and discussing the student experience with hosts and students.</figcaption></figure>
 
 <figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" alt="James Liu visiting Les Roches Crans-Montana campus in Switzerland" loading="lazy" decoding="async"></a><figcaption>James Liu on site at Les Roches, Crans-Montana, Switzerland.</figcaption></figure>
 

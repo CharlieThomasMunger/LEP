@@ -13,6 +13,9 @@ answer: "Saudi students currently studying in the UK can explore an application 
 date: 2026-11-18T10:15:00+01:00
 reviewed: '2026-11-18'
 image: /assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg
+lead_visit_photo: true
+lead_photo_alt: "James Liu visiting the Les Roches campus in Crans-Montana Switzerland in October 2026"
+lead_photo_caption: "James Liu on site at Les Roches, Crans-Montana, Switzerland, October 2026."
 faq:
   - q: "Can a Saudi student at a UK university apply to Glion or Les Roches?"
     a: "Yes. LEP can arrange a school-specific discussion of your current university record and possible entry route."
@@ -75,8 +78,6 @@ If you already receive funding for your current UK studies, include that informa
 Our separate [Swiss-campus and Saudi scholarship guide](/en/insights/saudi-scholarship-glion-les-roches-swiss-campus/) explains why the study location deserves special attention.
 
 ## Why talk to an adviser who has actually visited the schools?
-
-<figure class="article-photo"><a href="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" target="_blank" rel="noopener"><img src="/assets/fieldwork/les-roches-james-swiss-campus-20261020.jpg" alt="LEP founder James Liu visiting the Les Roches campus in Crans-Montana Switzerland in October 2026" loading="lazy" decoding="async"></a><figcaption>James Liu visiting Les Roches in Crans-Montana, Switzerland, in October 2026.</figcaption></figure>
 
 I have visited both **Les Roches and Glion** in Switzerland, met school teams and looked closely at the experience students have beyond the brochure. For someone moving from the UK, I would consider not only the academic route but also the change in learning style, accommodation, practical training and future career direction.
 
