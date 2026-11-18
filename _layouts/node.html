@@ -7,8 +7,46 @@ layout: default
 {%- assign cl = site.clusters[page.cluster] -%}
 {%- include education-context.html -%}
 {%- include breadcrumb-path.html -%}
+{%- comment -%}
+Only move existing, trust-building portraits of James Liu with a school
+principal, owner, admissions officer, teacher or official school host.
+The curated path list is in _data/article_trust_photos.yml. Leave campus-only
+photos, author portraits, charts and articles without a matching photograph
+in their original reading order. The six explicitly approved scholarship
+articles already have their own lead photograph in front matter.
+{%- endcomment -%}
+{%- assign lead_photo_html = '' -%}
+{%- assign article_body_html = content -%}
+{%- if page.lead_visit_photo and page.image -%}
+  {%- capture lead_photo_html -%}
+    <figure class="article-photo article-photo--lead">
+      <a href="{{ page.image | relative_url }}" target="_blank" rel="noopener"><img src="{{ page.image | relative_url }}" alt="{{ page.lead_photo_alt | default: page.title | escape }}" loading="eager" fetchpriority="high" decoding="async"></a>
+      {%- if page.lead_photo_caption %}<figcaption>{{ page.lead_photo_caption | escape }}</figcaption>{% endif -%}
+    </figure>
+  {%- endcapture -%}
+{%- elsif page.trust_photo_disabled != true -%}
+  {%- assign photo_marker = '<figure class="article-photo' -%}
+  {%- assign photo_sections = content | split: photo_marker -%}
+  {%- for photo_section in photo_sections -%}
+    {%- if forloop.first == false and lead_photo_html == '' -%}
+      {%- assign photo_tail = photo_section | split: '</figure>' | first -%}
+      {%- assign original_figure = photo_marker | append: photo_tail | append: '</figure>' -%}
+      {%- assign photo_src_parts = original_figure | split: 'src="' -%}
+      {%- if photo_src_parts.size > 1 -%}
+        {%- assign original_photo_src = photo_src_parts[1] | split: '"' | first -%}
+        {%- if site.data.article_trust_photos contains original_photo_src -%}
+          {%- assign lead_photo_html = original_figure | replace: 'loading="lazy"', 'loading="eager"' -%}
+          {%- unless lead_photo_html contains 'fetchpriority=' -%}
+            {%- assign lead_photo_html = lead_photo_html | replace: 'loading="eager"', 'loading="eager" fetchpriority="high"' -%}
+          {%- endunless -%}
+          {%- assign article_body_html = content | remove_first: original_figure -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
 
-<article class="node{% if page.lead_visit_photo %} node-with-lead-visit{% endif %}">
+<article class="node{% if lead_photo_html != '' %} node-with-lead-photo{% endif %}">
   <header class="article-masthead">
     <div class="wrap">
       <p class="crumb"><a href="{{ '/' | append: lang | append: '/' | relative_url }}">LEP</a>{% if cl %} / <a href="{{ breadcrumb_path | relative_url }}">{{ breadcrumb_label | default: cl[lang] }}</a>{% endif %}</p>
@@ -18,7 +56,7 @@ layout: default
   </header>
   <div class="wrap article-layout">
   <div class="article-main">
-    {%- if page.lead_visit_photo and page.image %}
+    {%- if lead_photo_html != '' %}
     <div class="lead-visit-opening">
     {%- endif %}
     {%- if page.answer %}
@@ -30,18 +68,15 @@ layout: default
       {%- endif %}
     </div>
     {%- endif %}
-    {%- if page.lead_visit_photo and page.image %}
-    <figure class="article-photo article-photo--lead">
-      <a href="{{ page.image | relative_url }}" target="_blank" rel="noopener"><img src="{{ page.image | relative_url }}" alt="{{ page.lead_photo_alt | default: page.title | escape }}" loading="eager" fetchpriority="high" decoding="async"></a>
-      <figcaption>{{ page.lead_photo_caption | escape }}</figcaption>
-    </figure>
+    {%- if lead_photo_html != '' %}
+    {{ lead_photo_html }}
     </div>
     {%- endif %}
 
     {% include school-overview.html %}
     {% include school-name-card.html %}
     <div class="article-body">
-    {{ content }}
+    {{ article_body_html }}
     </div>
 
     {%- if page.variables %}
